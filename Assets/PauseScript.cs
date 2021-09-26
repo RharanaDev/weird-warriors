@@ -19,6 +19,7 @@ public class PauseScript : MonoBehaviour
     }
     public void PauseInput()
     {
+
         if (pauseCanBeMade)
         {
             if (!pause)
