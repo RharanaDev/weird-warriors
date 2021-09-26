@@ -1,0 +1,6106 @@
+fileFormatVersion: 2
+guid: bec6972303b9f534cb4157a0d345ee9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7472639107755089746
+    second: KeyAndControlsBasic_0
+  - first:
+      213: -5969229600128855454
+    second: KeyAndControlsBasic_1
+  - first:
+      213: -1560256137536091055
+    second: KeyAndControlsBasic_2
+  - first:
+      213: -4536519628263614352
+    second: KeyAndControlsBasic_3
+  - first:
+      213: -4032828871808575935
+    second: KeyAndControlsBasic_4
+  - first:
+      213: -4067151568679153364
+    second: KeyAndControlsBasic_5
+  - first:
+      213: 6167342379554738230
+    second: KeyAndControlsBasic_6
+  - first:
+      213: 1703127119889479926
+    second: KeyAndControlsBasic_7
+  - first:
+      213: -2419169511302305954
+    second: KeyAndControlsBasic_8
+  - first:
+      213: 4983307717062403579
+    second: KeyAndControlsBasic_9
+  - first:
+      213: -6309675646113484029
+    second: KeyAndControlsBasic_10
+  - first:
+      213: -8510063330936735767
+    second: KeyAndControlsBasic_11
+  - first:
+      213: 4665734487646364244
+    second: KeyAndControlsBasic_12
+  - first:
+      213: -6948552332587717310
+    second: KeyAndControlsBasic_13
+  - first:
+      213: -4689762496985121290
+    second: KeyAndControlsBasic_14
+  - first:
+      213: 2083586356075515257
+    second: KeyAndControlsBasic_15
+  - first:
+      213: -2942700947719102172
+    second: KeyAndControlsBasic_16
+  - first:
+      213: 489778382518898233
+    second: KeyAndControlsBasic_17
+  - first:
+      213: 4181298695592857741
+    second: KeyAndControlsBasic_18
+  - first:
+      213: -1081022503781897603
+    second: KeyAndControlsBasic_19
+  - first:
+      213: -7485864094219125311
+    second: KeyAndControlsBasic_20
+  - first:
+      213: -549287567524338455
+    second: KeyAndControlsBasic_21
+  - first:
+      213: -7640947331441717770
+    second: KeyAndControlsBasic_22
+  - first:
+      213: 7692094576681732550
+    second: KeyAndControlsBasic_23
+  - first:
+      213: -150839661732940598
+    second: KeyAndControlsBasic_24
+  - first:
+      213: -4989654007937224898
+    second: KeyAndControlsBasic_25
+  - first:
+      213: 1580833300638207064
+    second: KeyAndControlsBasic_26
+  - first:
+      213: 8923587098519870713
+    second: KeyAndControlsBasic_27
+  - first:
+      213: 4249693277589388431
+    second: KeyAndControlsBasic_28
+  - first:
+      213: -8362873974104534789
+    second: KeyAndControlsBasic_29
+  - first:
+      213: 5828973867832727455
+    second: KeyAndControlsBasic_30
+  - first:
+      213: -5618263855672667616
+    second: KeyAndControlsBasic_31
+  - first:
+      213: 9071948282383890079
+    second: KeyAndControlsBasic_32
+  - first:
+      213: -8178456684980571011
+    second: KeyAndControlsBasic_33
+  - first:
+      213: -6342793661058782499
+    second: KeyAndControlsBasic_34
+  - first:
+      213: -2458364805880129051
+    second: KeyAndControlsBasic_35
+  - first:
+      213: 7648470302853524662
+    second: KeyAndControlsBasic_36
+  - first:
+      213: 5345110166994565311
+    second: KeyAndControlsBasic_37
+  - first:
+      213: 897939995148090155
+    second: KeyAndControlsBasic_38
+  - first:
+      213: 2926932494511387461
+    second: KeyAndControlsBasic_39
+  - first:
+      213: 2043381570806999029
+    second: KeyAndControlsBasic_40
+  - first:
+      213: 1163750514746972563
+    second: KeyAndControlsBasic_41
+  - first:
+      213: 9153216873992598705
+    second: KeyAndControlsBasic_42
+  - first:
+      213: 7341873505346939362
+    second: KeyAndControlsBasic_43
+  - first:
+      213: -6884389342761586072
+    second: KeyAndControlsBasic_44
+  - first:
+      213: -4727816067875643182
+    second: KeyAndControlsBasic_45
+  - first:
+      213: -8369614268347187021
+    second: KeyAndControlsBasic_46
+  - first:
+      213: 2177708825702471877
+    second: KeyAndControlsBasic_47
+  - first:
+      213: -3929858091018378543
+    second: KeyAndControlsBasic_48
+  - first:
+      213: 6630390674806366239
+    second: KeyAndControlsBasic_49
+  - first:
+      213: -7933507053282920980
+    second: KeyAndControlsBasic_50
+  - first:
+      213: 8540128763494831430
+    second: KeyAndControlsBasic_51
+  - first:
+      213: -2911775620704388894
+    second: KeyAndControlsBasic_52
+  - first:
+      213: -872035284068527832
+    second: KeyAndControlsBasic_53
+  - first:
+      213: -6541117877210123471
+    second: KeyAndControlsBasic_54
+  - first:
+      213: 2976261543257326714
+    second: KeyAndControlsBasic_55
+  - first:
+      213: -8307187889126326894
+    second: KeyAndControlsBasic_56
+  - first:
+      213: -5926938132068751894
+    second: KeyAndControlsBasic_57
+  - first:
+      213: 2891568126125477361
+    second: KeyAndControlsBasic_58
+  - first:
+      213: -6099071152648008223
+    second: KeyAndControlsBasic_59
+  - first:
+      213: -1196231992185584365
+    second: KeyAndControlsBasic_60
+  - first:
+      213: -3717234469250104568
+    second: KeyAndControlsBasic_61
+  - first:
+      213: 2141812328233960624
+    second: KeyAndControlsBasic_62
+  - first:
+      213: -4690837685840278393
+    second: KeyAndControlsBasic_63
+  - first:
+      213: 2075586376600241025
+    second: KeyAndControlsBasic_64
+  - first:
+      213: 4688694900621231509
+    second: KeyAndControlsBasic_65
+  - first:
+      213: -1036289817583479384
+    second: KeyAndControlsBasic_66
+  - first:
+      213: -9115982018763569934
+    second: KeyAndControlsBasic_67
+  - first:
+      213: 3556525359238028683
+    second: KeyAndControlsBasic_68
+  - first:
+      213: 8659133012253165750
+    second: KeyAndControlsBasic_69
+  - first:
+      213: 7806750789126600560
+    second: KeyAndControlsBasic_70
+  - first:
+      213: -1675974432811843624
+    second: KeyAndControlsBasic_71
+  - first:
+      213: 1097948135003258635
+    second: KeyAndControlsBasic_72
+  - first:
+      213: 5988640251140894999
+    second: KeyAndControlsBasic_73
+  - first:
+      213: -1961795053840408363
+    second: KeyAndControlsBasic_74
+  - first:
+      213: -6371521619305466042
+    second: KeyAndControlsBasic_75
+  - first:
+      213: -4373779750096505656
+    second: KeyAndControlsBasic_76
+  - first:
+      213: 414946779244452189
+    second: KeyAndControlsBasic_77
+  - first:
+      213: -7570665337837010680
+    second: KeyAndControlsBasic_78
+  - first:
+      213: 3844028305590826358
+    second: KeyAndControlsBasic_79
+  - first:
+      213: -6408224818241158053
+    second: KeyAndControlsBasic_80
+  - first:
+      213: -4288380277323547673
+    second: KeyAndControlsBasic_81
+  - first:
+      213: -4942823877610360980
+    second: KeyAndControlsBasic_82
+  - first:
+      213: -8928819987110649064
+    second: KeyAndControlsBasic_83
+  - first:
+      213: -3387708837325950042
+    second: KeyAndControlsBasic_84
+  - first:
+      213: -166995597639517162
+    second: KeyAndControlsBasic_85
+  - first:
+      213: -3467678625271653261
+    second: KeyAndControlsBasic_86
+  - first:
+      213: -8814458723993706913
+    second: KeyAndControlsBasic_87
+  - first:
+      213: 7374405129180892759
+    second: KeyAndControlsBasic_88
+  - first:
+      213: 1149388489668095711
+    second: KeyAndControlsBasic_89
+  - first:
+      213: 1884907112461483231
+    second: KeyAndControlsBasic_90
+  - first:
+      213: 237320317659932230
+    second: KeyAndControlsBasic_91
+  - first:
+      213: -1424535758700109990
+    second: KeyAndControlsBasic_92
+  - first:
+      213: -7193479564596824485
+    second: KeyAndControlsBasic_93
+  - first:
+      213: -3667625949988583115
+    second: KeyAndControlsBasic_94
+  - first:
+      213: 8640901740185381062
+    second: KeyAndControlsBasic_95
+  - first:
+      213: -4876165044038017168
+    second: KeyAndControlsBasic_96
+  - first:
+      213: -1489491872316561665
+    second: KeyAndControlsBasic_97
+  - first:
+      213: 6769568085639461100
+    second: KeyAndControlsBasic_98
+  - first:
+      213: -1193454332451526239
+    second: KeyAndControlsBasic_99
+  - first:
+      213: 6239870069051828596
+    second: KeyAndControlsBasic_100
+  - first:
+      213: -6278768915624281625
+    second: KeyAndControlsBasic_101
+  - first:
+      213: 2990360596854022210
+    second: KeyAndControlsBasic_102
+  - first:
+      213: 2279970904570966210
+    second: KeyAndControlsBasic_103
+  - first:
+      213: -4027257229276565546
+    second: KeyAndControlsBasic_104
+  - first:
+      213: 5987468864931579179
+    second: KeyAndControlsBasic_105
+  - first:
+      213: 8669914580814618572
+    second: KeyAndControlsBasic_106
+  - first:
+      213: -9159211537399320994
+    second: KeyAndControlsBasic_107
+  - first:
+      213: -1617160822798803398
+    second: KeyAndControlsBasic_108
+  - first:
+      213: -8963522124734903650
+    second: KeyAndControlsBasic_109
+  - first:
+      213: -8063050457579739400
+    second: KeyAndControlsBasic_110
+  - first:
+      213: 7265932355345250838
+    second: KeyAndControlsBasic_111
+  - first:
+      213: -7605608090060968622
+    second: KeyAndControlsBasic_112
+  - first:
+      213: -7902183444778538845
+    second: KeyAndControlsBasic_113
+  - first:
+      213: 7357615890527838185
+    second: KeyAndControlsBasic_114
+  - first:
+      213: 3777615419087858079
+    second: KeyAndControlsBasic_115
+  - first:
+      213: 4951151751737058010
+    second: KeyAndControlsBasic_116
+  - first:
+      213: -112638372034543546
+    second: KeyAndControlsBasic_117
+  - first:
+      213: 627817833652098596
+    second: KeyAndControlsBasic_118
+  - first:
+      213: -6232876693229832652
+    second: KeyAndControlsBasic_119
+  - first:
+      213: -3494496533538792296
+    second: KeyAndControlsBasic_120
+  - first:
+      213: 7977760707396364852
+    second: KeyAndControlsBasic_121
+  - first:
+      213: 3632903378989743234
+    second: KeyAndControlsBasic_122
+  - first:
+      213: -2445078179290493429
+    second: KeyAndControlsBasic_123
+  - first:
+      213: 4214656174563664323
+    second: KeyAndControlsBasic_124
+  - first:
+      213: -2265588828052888872
+    second: KeyAndControlsBasic_125
+  - first:
+      213: -8481768963222649914
+    second: KeyAndControlsBasic_126
+  - first:
+      213: 6643935303493994755
+    second: KeyAndControlsBasic_127
+  - first:
+      213: -3636209438806977670
+    second: KeyAndControlsBasic_128
+  - first:
+      213: -7666664013244915289
+    second: KeyAndControlsBasic_129
+  - first:
+      213: 2194864098635684733
+    second: KeyAndControlsBasic_130
+  - first:
+      213: 253703684334871130
+    second: KeyAndControlsBasic_131
+  - first:
+      213: 7562670519761519587
+    second: KeyAndControlsBasic_132
+  - first:
+      213: -8074878467924284517
+    second: KeyAndControlsBasic_133
+  - first:
+      213: 5842325232086992118
+    second: KeyAndControlsBasic_134
+  - first:
+      213: -7177262302493088731
+    second: KeyAndControlsBasic_135
+  - first:
+      213: -3324582608136179332
+    second: KeyAndControlsBasic_136
+  - first:
+      213: -8814482626008656177
+    second: KeyAndControlsBasic_137
+  - first:
+      213: -2626286229120107878
+    second: KeyAndControlsBasic_138
+  - first:
+      213: -906229013140248097
+    second: KeyAndControlsBasic_139
+  - first:
+      213: 7927341652809715781
+    second: KeyAndControlsBasic_140
+  - first:
+      213: -6337592914065110752
+    second: KeyAndControlsBasic_141
+  - first:
+      213: -3354503204241511257
+    second: KeyAndControlsBasic_142
+  - first:
+      213: 1111888387711339342
+    second: KeyAndControlsBasic_143
+  - first:
+      213: 2041331092096396657
+    second: KeyAndControlsBasic_144
+  - first:
+      213: 2266726245842886624
+    second: KeyAndControlsBasic_145
+  - first:
+      213: 2796695361292004531
+    second: KeyAndControlsBasic_146
+  - first:
+      213: -1045867760961330719
+    second: KeyAndControlsBasic_147
+  - first:
+      213: -8460348426539660777
+    second: KeyAndControlsBasic_148
+  - first:
+      213: 5966215214638610266
+    second: KeyAndControlsBasic_149
+  - first:
+      213: 8126652399318755369
+    second: KeyAndControlsBasic_150
+  - first:
+      213: -7805462694726792455
+    second: KeyAndControlsBasic_151
+  - first:
+      213: 322822776564174720
+    second: KeyAndControlsBasic_152
+  - first:
+      213: 8062837676508170556
+    second: KeyAndControlsBasic_153
+  - first:
+      213: -1789474821882337170
+    second: KeyAndControlsBasic_154
+  - first:
+      213: -8455782242816402033
+    second: KeyAndControlsBasic_155
+  - first:
+      213: -5155177629522213124
+    second: KeyAndControlsBasic_156
+  - first:
+      213: -1420474238102974507
+    second: KeyAndControlsBasic_157
+  - first:
+      213: 451510567640601528
+    second: KeyAndControlsBasic_158
+  - first:
+      213: 2366828993025836731
+    second: KeyAndControlsBasic_159
+  - first:
+      213: -5203600262037417106
+    second: KeyAndControlsBasic_160
+  - first:
+      213: -2032209044901936970
+    second: KeyAndControlsBasic_161
+  - first:
+      213: 1728727759199185915
+    second: KeyAndControlsBasic_162
+  - first:
+      213: 1635660251784062490
+    second: KeyAndControlsBasic_163
+  - first:
+      213: -112201789719240527
+    second: KeyAndControlsBasic_164
+  - first:
+      213: -1338158356237853755
+    second: KeyAndControlsBasic_165
+  - first:
+      213: 1571277925793271891
+    second: KeyAndControlsBasic_166
+  - first:
+      213: 5229967216726080839
+    second: KeyAndControlsBasic_167
+  - first:
+      213: -1391458859290818924
+    second: KeyAndControlsBasic_168
+  - first:
+      213: 418317999406127418
+    second: KeyAndControlsBasic_169
+  - first:
+      213: 4759543087213005586
+    second: KeyAndControlsBasic_170
+  - first:
+      213: -558321660475453931
+    second: KeyAndControlsBasic_171
+  - first:
+      213: 5043639361983421666
+    second: KeyAndControlsBasic_172
+  - first:
+      213: 8860902149527066620
+    second: KeyAndControlsBasic_173
+  - first:
+      213: -3562983838605603627
+    second: KeyAndControlsBasic_174
+  - first:
+      213: -2402868515697382858
+    second: KeyAndControlsBasic_175
+  - first:
+      213: -2860150386899663855
+    second: KeyAndControlsBasic_176
+  - first:
+      213: -2382647973145560432
+    second: KeyAndControlsBasic_177
+  - first:
+      213: 4940032107830114406
+    second: KeyAndControlsBasic_178
+  - first:
+      213: 4401377017982043369
+    second: KeyAndControlsBasic_179
+  - first:
+      213: -768475870208110450
+    second: KeyAndControlsBasic_180
+  - first:
+      213: -8715747034565535599
+    second: KeyAndControlsBasic_181
+  - first:
+      213: 6605808467417600323
+    second: KeyAndControlsBasic_182
+  - first:
+      213: -1530944454229186103
+    second: KeyAndControlsBasic_183
+  - first:
+      213: 6896240699533586508
+    second: KeyAndControlsBasic_184
+  - first:
+      213: -4477898175405538625
+    second: KeyAndControlsBasic_185
+  - first:
+      213: 2958086610471304039
+    second: KeyAndControlsBasic_186
+  - first:
+      213: 2359056493690342931
+    second: KeyAndControlsBasic_187
+  - first:
+      213: -7834851588150113232
+    second: KeyAndControlsBasic_188
+  - first:
+      213: 2195182742847891004
+    second: KeyAndControlsBasic_189
+  - first:
+      213: 8422295147768370179
+    second: KeyAndControlsBasic_190
+  - first:
+      213: 907897071122820937
+    second: KeyAndControlsBasic_191
+  - first:
+      213: -1178084981667365903
+    second: KeyAndControlsBasic_192
+  - first:
+      213: -2405991558915175598
+    second: KeyAndControlsBasic_193
+  - first:
+      213: 823835147961316586
+    second: KeyAndControlsBasic_194
+  - first:
+      213: 2603735549231735977
+    second: KeyAndControlsBasic_195
+  - first:
+      213: -6355217831414810503
+    second: KeyAndControlsBasic_196
+  - first:
+      213: 7492902858677473899
+    second: KeyAndControlsBasic_197
+  - first:
+      213: -5899445926438811324
+    second: KeyAndControlsBasic_198
+  - first:
+      213: 4866280748159959779
+    second: KeyAndControlsBasic_199
+  - first:
+      213: -2463682654055494591
+    second: KeyAndControlsBasic_200
+  - first:
+      213: -5399602466412350268
+    second: KeyAndControlsBasic_201
+  - first:
+      213: 7269750137543066624
+    second: KeyAndControlsBasic_202
+  - first:
+      213: -5311165220089637963
+    second: KeyAndControlsBasic_203
+  - first:
+      213: 5744745086957605965
+    second: KeyAndControlsBasic_204
+  - first:
+      213: 8953577428743336957
+    second: KeyAndControlsBasic_205
+  - first:
+      213: 664243148286092051
+    second: KeyAndControlsBasic_206
+  - first:
+      213: 2775628967948156084
+    second: KeyAndControlsBasic_207
+  - first:
+      213: 5752368867294239566
+    second: KeyAndControlsBasic_208
+  - first:
+      213: 7907131183063151899
+    second: KeyAndControlsBasic_209
+  - first:
+      213: -439051458041279404
+    second: KeyAndControlsBasic_210
+  - first:
+      213: -6211109175285848875
+    second: KeyAndControlsBasic_211
+  - first:
+      213: -3272614128301198031
+    second: KeyAndControlsBasic_212
+  - first:
+      213: -6551828882560409909
+    second: KeyAndControlsBasic_213
+  - first:
+      213: -1913067148669093756
+    second: KeyAndControlsBasic_214
+  - first:
+      213: 6816269587110658853
+    second: KeyAndControlsBasic_215
+  - first:
+      213: 7409860707670006278
+    second: KeyAndControlsBasic_216
+  - first:
+      213: -231524514955813560
+    second: KeyAndControlsBasic_217
+  - first:
+      213: -2153881173070259634
+    second: KeyAndControlsBasic_218
+  - first:
+      213: -3554483575585312375
+    second: KeyAndControlsBasic_219
+  - first:
+      213: 1004354902682179414
+    second: KeyAndControlsBasic_220
+  - first:
+      213: -8720780509368613420
+    second: KeyAndControlsBasic_221
+  - first:
+      213: -5850201146707991132
+    second: KeyAndControlsBasic_222
+  - first:
+      213: -8062821338281515039
+    second: KeyAndControlsBasic_223
+  - first:
+      213: -8318477731212561641
+    second: KeyAndControlsBasic_224
+  - first:
+      213: -4490700949253818591
+    second: KeyAndControlsBasic_225
+  - first:
+      213: -6049122384218249791
+    second: KeyAndControlsBasic_226
+  - first:
+      213: -6985046388522781590
+    second: KeyAndControlsBasic_227
+  - first:
+      213: 418299010702432424
+    second: KeyAndControlsBasic_228
+  - first:
+      213: -5014518705998567763
+    second: KeyAndControlsBasic_229
+  - first:
+      213: -1387529171209411805
+    second: KeyAndControlsBasic_230
+  - first:
+      213: 8347764991354623066
+    second: KeyAndControlsBasic_231
+  - first:
+      213: -700828175880618116
+    second: KeyAndControlsBasic_232
+  - first:
+      213: -2039741287841943210
+    second: KeyAndControlsBasic_233
+  - first:
+      213: 831572003796336818
+    second: KeyAndControlsBasic_234
+  - first:
+      213: 4241023232279888094
+    second: KeyAndControlsBasic_235
+  - first:
+      213: -4187143408198250678
+    second: KeyAndControlsBasic_236
+  - first:
+      213: -2793069849005449460
+    second: KeyAndControlsBasic_237
+  - first:
+      213: -8289945841866426722
+    second: KeyAndControlsBasic_238
+  - first:
+      213: 5328261015900834630
+    second: KeyAndControlsBasic_239
+  - first:
+      213: 6803984625616735961
+    second: KeyAndControlsBasic_240
+  - first:
+      213: -5605901411807625481
+    second: KeyAndControlsBasic_241
+  - first:
+      213: 7281132086334853921
+    second: KeyAndControlsBasic_242
+  - first:
+      213: -7403593631851765960
+    second: KeyAndControlsBasic_243
+  - first:
+      213: 1664350979089813127
+    second: KeyAndControlsBasic_244
+  - first:
+      213: -8279467579815011607
+    second: KeyAndControlsBasic_245
+  - first:
+      213: 7151671215719569671
+    second: KeyAndControlsBasic_246
+  - first:
+      213: 253340356563688784
+    second: KeyAndControlsBasic_247
+  - first:
+      213: 4920016122050133609
+    second: KeyAndControlsBasic_248
+  - first:
+      213: -8298267549922764058
+    second: KeyAndControlsBasic_249
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1f604da524b760800000000000000
+      internalID: 7472639107755089746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26292951e49092da0800000000000000
+      internalID: -5969229600128855454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc98b3f4bd85ae0800000000000000
+      internalID: -1560256137536091055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07892c00f6b0b01c0800000000000000
+      internalID: -4536519628263614352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14619e702838808c0800000000000000
+      internalID: -4032828871808575935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 144
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d43d62339e87c0800000000000000
+      internalID: -4067151568679153364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 144
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630929dd73dc69550800000000000000
+      internalID: 6167342379554738230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 144
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8b85c8719b2a710800000000000000
+      internalID: 1703127119889479926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 144
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ee5395226d6ed0800000000000000
+      internalID: -2419169511302305954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a7f947f3482540800000000000000
+      internalID: 4983307717062403579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 144
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f8711e678f68a0800000000000000
+      internalID: -6309675646113484029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7307f1d7e26e980800000000000000
+      internalID: -8510063330936735767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4526370ebc400c040800000000000000
+      internalID: 4665734487646364244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da5e0f778c19f90800000000000000
+      internalID: -6948552332587717310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb04e3bdd9aeeb0800000000000000
+      internalID: -4689762496985121290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4bb460c26aec10800000000000000
+      internalID: 2083586356075515257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216ff2441d6927d0800000000000000
+      internalID: -2942700947719102172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 136
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e44bc08da0cc600800000000000000
+      internalID: 489778382518898233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_18
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 136
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80dd9a9205f60a30800000000000000
+      internalID: 4181298695592857741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 136
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a60e3a2cf6ff0f0800000000000000
+      internalID: -1081022503781897603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 136
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb733a44edc1890800000000000000
+      internalID: -7485864094219125311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46c2a1ed98068f0800000000000000
+      internalID: -549287567524338455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd82f1b2e6e5f590800000000000000
+      internalID: -7640947331441717770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c2d5534fcfba60800000000000000
+      internalID: 7692094576681732550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43e58702c18edf0800000000000000
+      internalID: -150839661732940598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2cc8bd1031cab0800000000000000
+      internalID: -4989654007937224898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c06a5e28f30f510800000000000000
+      internalID: 1580833300638207064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1989df23f6db70800000000000000
+      internalID: 8923587098519870713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb4172581f9fa30800000000000000
+      internalID: 4249693277589388431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0d320dd6a11fb80800000000000000
+      internalID: -8362873974104534789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97543d79dca4e050800000000000000
+      internalID: 5828973867832727455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022d6344acae702b0800000000000000
+      internalID: -5618263855672667616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f438c5e806ed70800000000000000
+      internalID: 9071948282383890079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7470d0f9f8408e80800000000000000
+      internalID: -8178456684980571011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaedf455ced9f7a0800000000000000
+      internalID: -6342793661058782499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95139eb3222edd0800000000000000
+      internalID: -2458364805880129051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc65b49733d42a60800000000000000
+      internalID: 7648470302853524662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83a059065ad2a40800000000000000
+      internalID: 5345110166994565311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bfa680baf167c00800000000000000
+      internalID: 897939995148090155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 126
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54336e0a89d8e9820800000000000000
+      internalID: 2926932494511387461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 126
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7e78c56bc8b5c10800000000000000
+      internalID: 2043381570806999029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_41
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 129
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399dba66de8762010800000000000000
+      internalID: 1163750514746972563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_42
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 129
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b0764042c60f70800000000000000
+      internalID: 9153216873992598705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_43
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 127
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96e00ed0393e560800000000000000
+      internalID: 7341873505346939362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 127
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f5392e5cb570a0800000000000000
+      internalID: -6884389342761586072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d063e6d55c636eb0800000000000000
+      internalID: -4727816067875643182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 129
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b00024ca2829db80800000000000000
+      internalID: -8369614268347187021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89a3493a6c83e10800000000000000
+      internalID: 2177708825702471877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2a72333e65679c0800000000000000
+      internalID: -3929858091018378543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1065ed7031e30c50800000000000000
+      internalID: 6630390674806366239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_50
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5f30a5e5586e190800000000000000
+      internalID: -7933507053282920980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_51
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 123
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459434ecd1a48670800000000000000
+      internalID: 8540128763494831430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_52
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 123
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8b54e008b4797d0800000000000000
+      internalID: -2911775620704388894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 123
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211d758788e5e3f0800000000000000
+      internalID: -872035284068527832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_54
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 123
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133feee62f74935a0800000000000000
+      internalID: -6541117877210123471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74428cca1ecd4920800000000000000
+      internalID: 2976261543257326714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db232d0a0f6bc80800000000000000
+      internalID: -8307187889126326894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52350db294fbda0800000000000000
+      internalID: -5926938132068751894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_58
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0d89f3e9e02820800000000000000
+      internalID: 2891568126125477361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4596d91fbb5ba0800000000000000
+      internalID: -6099071152648008223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31502dc4751266fe0800000000000000
+      internalID: -1196231992185584365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_61
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8038289e1fab96cc0800000000000000
+      internalID: -3717234469250104568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b400f7f6fe39bd10800000000000000
+      internalID: 2141812328233960624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c89745afbc6eeb0800000000000000
+      internalID: -4690837685840278393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183c5e500d6fdcc10800000000000000
+      internalID: 2075586376600241025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 110
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c6bb9b27911140800000000000000
+      internalID: 4688694900621231509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51592c6eb5e91f0800000000000000
+      internalID: -1036289817583479384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4cfb807a68d7180800000000000000
+      internalID: -9115982018763569934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d1d0098f05b5130800000000000000
+      internalID: 3556525359238028683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_69
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8453ab89b6b2870800000000000000
+      internalID: 8659133012253165750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07734e31b76275c60800000000000000
+      internalID: 7806750789126600560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_71
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dffc9f022ebdb8e0800000000000000
+      internalID: -1675974432811843624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 109
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffba8f202bc3f00800000000000000
+      internalID: 1097948135003258635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_73
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 109
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711fbd8449ceb1350800000000000000
+      internalID: 5988640251140894999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_74
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d069b5eacd46c4e0800000000000000
+      internalID: -1961795053840408363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_75
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647739258dec397a0800000000000000
+      internalID: -6371521619305466042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 112
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c473b59d763d43c0800000000000000
+      internalID: -4373779750096505656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_77
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 112
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59de81b5ef22c500800000000000000
+      internalID: 414946779244452189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 93
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ccd08cf79fe690800000000000000
+      internalID: -7570665337837010680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_79
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 93
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b94d906bb85530800000000000000
+      internalID: 3844028305590826358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_80
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54c4e3ea796117a0800000000000000
+      internalID: -6408224818241158053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb65ccbdc9c74c0800000000000000
+      internalID: -4288380277323547673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_82
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f27bb1fdf876bb0800000000000000
+      internalID: -4942823877610360980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_83
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813acd45785761480800000000000000
+      internalID: -8928819987110649064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_84
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33cb4e2c07cf0d0800000000000000
+      internalID: -3387708837325950042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c74a38366beadf0800000000000000
+      internalID: -166995597639517162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd771b9a450efc0800000000000000
+      internalID: -3467678625271653261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e1305dd70cca580800000000000000
+      internalID: -8814458723993706913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e45aac466275660800000000000000
+      internalID: 7374405129180892759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_89
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee69bddb273ff00800000000000000
+      internalID: 1149388489668095711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_90
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcbfd83809882a10800000000000000
+      internalID: 1884907112461483231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_91
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466a1052912b4300800000000000000
+      internalID: 237320317659932230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_92
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f96d466480b3ce0800000000000000
+      internalID: -1424535758700109990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_93
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56bc2dd270ab2c90800000000000000
+      internalID: -7193479564596824485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_94
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 93
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5390de161a9f91dc0800000000000000
+      internalID: -3667625949988583115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_95
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 92
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8edcae956aae770800000000000000
+      internalID: 8640901740185381062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_96
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdfeb3ab1645cb0800000000000000
+      internalID: -4876165044038017168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_97
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 95
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff66db6a803445be0800000000000000
+      internalID: -1489491872316561665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_98
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 95
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce87c53ae4652fd50800000000000000
+      internalID: 6769568085639461100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_99
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 95
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9639a9b9fff6fe0800000000000000
+      internalID: -1193454332451526239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_100
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 95
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792d6e74c8789650800000000000000
+      internalID: 6239870069051828596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_101
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 100
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9337500f45dd8a0800000000000000
+      internalID: -6278768915624281625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2402fc58e15ef7920800000000000000
+      internalID: 2990360596854022210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_103
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0bd29357514af10800000000000000
+      internalID: 2279970904570966210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_104
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa8d523ee4c18c0800000000000000
+      internalID: -4027257229276565546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2545fda533c71350800000000000000
+      internalID: 5987468864931579179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_106
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5f664069b15870800000000000000
+      internalID: 8669914580814618572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_107
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 93
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e67a262a1f3e080800000000000000
+      internalID: -9159211537399320994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e166cbcc0be89e0800000000000000
+      internalID: -1617160822798803398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_109
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 76
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a42da4e1c2b9380800000000000000
+      internalID: -8963522124734903650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_110
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6a8e5245a4a1090800000000000000
+      internalID: -8063050457579739400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_111
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61afe5a0bf6c5d460800000000000000
+      internalID: 7265932355345250838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_112
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d24130db3737690800000000000000
+      internalID: -7605608090060968622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_113
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a008460ec55290800000000000000
+      internalID: -7902183444778538845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_114
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef5eac8ba08b1660800000000000000
+      internalID: 7357615890527838185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_115
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9925c08539cc6430800000000000000
+      internalID: 3777615419087858079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2275f294606b440800000000000000
+      internalID: 4951151751737058010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6408dc65ff3df6ef0800000000000000
+      internalID: -112638372034543546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_118
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4261d7e4ef476b800800000000000000
+      internalID: 627817833652098596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 76
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367933bbaf5089a0800000000000000
+      internalID: -6232876693229832652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_120
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c1699daed018fc0800000000000000
+      internalID: -3494496533538792296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_121
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aed6b6813b6be60800000000000000
+      internalID: 7977760707396364852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_122
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cffff006aaa6230800000000000000
+      internalID: 3632903378989743234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_123
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec45bb956511ed0800000000000000
+      internalID: -2445078179290493429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c12647e5777d7a30800000000000000
+      internalID: 4214656174563664323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_125
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d260d8e6f20f80e0800000000000000
+      internalID: -2265588828052888872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_126
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34e28f014ba4a80800000000000000
+      internalID: -8481768963222649914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_127
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 75
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309cf6b15fff33c50800000000000000
+      internalID: 6643935303493994755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_128
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 75
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73dcf6e7c6998dc0800000000000000
+      internalID: -3636209438806977670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_129
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1244e13b98a9590800000000000000
+      internalID: -7666664013244915289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_130
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1071d449b57e10800000000000000
+      internalID: 2194864098635684733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_131
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 78
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ecfe1826558300800000000000000
+      internalID: 253703684334871130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_132
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 78
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e344bbd4c004f860800000000000000
+      internalID: 7562670519761519587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_133
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 76
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b2ce2e0d440ff80800000000000000
+      internalID: -8074878467924284517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c8d838db141150800000000000000
+      internalID: 5842325232086992118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_135
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 59
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e81076fd356c90800000000000000
+      internalID: -7177262302493088731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f9977bb5bcd1d0800000000000000
+      internalID: -3324582608136179332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_137
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 59
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6d6e5b0caaca580800000000000000
+      internalID: -8814482626008656177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_138
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 59
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9abbcad69e8d8bd0800000000000000
+      internalID: -2626286229120107878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_139
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 59
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd96f92938d6c63f0800000000000000
+      internalID: -906229013140248097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_140
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54091ec7b33930e60800000000000000
+      internalID: 7927341652809715781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_141
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029cd1a92d85c08a0800000000000000
+      internalID: -6337592914065110752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_142
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac6641db196271d0800000000000000
+      internalID: -3354503204241511257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_143
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8a6bf8983e6f00800000000000000
+      internalID: 1111888387711339342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_144
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dad5510d3445c10800000000000000
+      internalID: 2041331092096396657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_145
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef158ec287057f10800000000000000
+      internalID: 2266726245842886624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bceac21d9bdfc620800000000000000
+      internalID: 2796695361292004531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_147
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 59
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1edd900d45c71f0800000000000000
+      internalID: -1045867760961330719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_148
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a81105eedc69a80800000000000000
+      internalID: -8460348426539660777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b01a90214cc250800000000000000
+      internalID: 5966215214638610266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_150
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 58
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9286872ec4ba7c070800000000000000
+      internalID: 8126652399318755369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_151
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 58
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0f35c80d6da390800000000000000
+      internalID: -7805462694726792455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_152
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 60
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f438ada95ea7400800000000000000
+      internalID: 322822776564174720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_153
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 60
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39c7e5e524f4ef60800000000000000
+      internalID: 8062837676508170556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_154
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 60
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a23b61228a27e0800000000000000
+      internalID: -1789474821882337170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 60
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5fdec9d607aa80800000000000000
+      internalID: -8455782242816402033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_156
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 61
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c94e52412578b0800000000000000
+      internalID: -5155177629522213124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_157
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 61
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4749d436794ce0800000000000000
+      internalID: -1420474238102974507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_158
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 59
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39d841876144600800000000000000
+      internalID: 451510567640601528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_159
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 59
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6866ddd6aa8d020800000000000000
+      internalID: 2366828993025836731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_160
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 59
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63512ca12919c7b0800000000000000
+      internalID: -5203600262037417106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_161
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 59
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c84904a42cc3e0800000000000000
+      internalID: -2032209044901936970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_162
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 58
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbac60ecbcadf710800000000000000
+      internalID: 1728727759199185915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_163
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 58
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a0d8355803b610800000000000000
+      internalID: 1635660251784062490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_164
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 60
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b02f941111617ef0800000000000000
+      internalID: -112201789719240527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_165
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 60
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd83b9018ed6de0800000000000000
+      internalID: -1338158356237853755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_166
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 58
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3501252d2fc4ec510800000000000000
+      internalID: 1571277925793271891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_167
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 58
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d75eb5973949840800000000000000
+      internalID: 5229967216726080839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_168
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 60
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496866c2a8b80bce0800000000000000
+      internalID: -1391458859290818924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_169
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 60
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3911cd010a2ec500800000000000000
+      internalID: 418317999406127418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_170
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b4f7e783b4d0240800000000000000
+      internalID: 4759543087213005586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_171
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e44fc68617048f0800000000000000
+      internalID: -558321660475453931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_172
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec1332074b9ef540800000000000000
+      internalID: 5043639361983421666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_173
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75e04de8f38fa70800000000000000
+      internalID: 8860902149527066620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_174
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8477831dbd8ec0800000000000000
+      internalID: -3562983838605603627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_175
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a23efd0db47aed0800000000000000
+      internalID: -2402868515697382858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_176
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11446a87064be48d0800000000000000
+      internalID: -2860150386899663855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_177
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09abadfca422feed0800000000000000
+      internalID: -2382647973145560432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_178
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fc3657058e8440800000000000000
+      internalID: 4940032107830114406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4436f0415d41d30800000000000000
+      internalID: 4401377017982043369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_180
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8059c18443d555f0800000000000000
+      internalID: -768475870208110450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_181
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1989e8400427b0780800000000000000
+      internalID: -8715747034565535599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_182
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34191b25dcb8cab50800000000000000
+      internalID: 6605808467417600323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_183
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9a0d2512ef0cae0800000000000000
+      internalID: -1530944454229186103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_184
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407a4dd06e54bf50800000000000000
+      internalID: 6896240699533586508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_185
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2459a955f4bd1c0800000000000000
+      internalID: -4477898175405538625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_186
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b3bff791c3d0920800000000000000
+      internalID: 2958086610471304039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_187
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ecd77d16d0db020800000000000000
+      internalID: 2359056493690342931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_188
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c486ccdf3054390800000000000000
+      internalID: -7834851588150113232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_189
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362484f21bd67e10800000000000000
+      internalID: 2195182742847891004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_190
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304da3c40d002e470800000000000000
+      internalID: 8422295147768370179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_191
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa4e0739f799c00800000000000000
+      internalID: 907897071122820937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_192
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7e7073f996afe0800000000000000
+      internalID: -1178084981667365903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_193
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc546bc633c9ed0800000000000000
+      internalID: -2405991558915175598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_194
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae437b3c3b9de6b00800000000000000
+      internalID: 823835147961316586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_195
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a305dfa3522420800000000000000
+      internalID: 2603735549231735977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_196
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 41
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ba40cd0bbdc7a0800000000000000
+      internalID: -6355217831414810503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_197
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 41
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62dafb63732cf760800000000000000
+      internalID: 7492902858677473899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_198
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494dfebf25f02ea0800000000000000
+      internalID: -5899445926438811324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_199
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2856bce80888340800000000000000
+      internalID: 4866280748159959779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_200
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 43
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0bb5edad3fcdd0800000000000000
+      internalID: -2463682654055494591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_201
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 43
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c43b254a22c015b0800000000000000
+      internalID: -5399602466412350268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_202
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0040a1abb3753e460800000000000000
+      internalID: 7269750137543066624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_203
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d5214f53fa46b0800000000000000
+      internalID: -5311165220089637963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_204
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445749383f69bf40800000000000000
+      internalID: 5744745086957605965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_205
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b33dbb3f714c70800000000000000
+      internalID: 8953577428743336957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_206
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136412cf9dd73900800000000000000
+      internalID: 664243148286092051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_207
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc75d627d3058620800000000000000
+      internalID: 2775628967948156084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_208
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 23
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd618e10584df40800000000000000
+      internalID: 5752368867294239566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_209
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 23
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b4eecae5cbbd60800000000000000
+      internalID: 7907131183063151899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_210
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 23
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c055d660d28e9f0800000000000000
+      internalID: -439051458041279404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 21
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4eae9ec15bdc9a0800000000000000
+      internalID: -6211109175285848875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_212
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 21
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135bea31ac65592d0800000000000000
+      internalID: -3272614128301198031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_213
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce97d9285a3315a0800000000000000
+      internalID: -6551828882560409909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_214
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488fb1c609b6375e0800000000000000
+      internalID: -1913067148669093756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_215
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52387094311489e50800000000000000
+      internalID: 6816269587110658853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_216
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9bc3fd0d15d660800000000000000
+      internalID: 7409860707670006278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_217
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 20
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d93492ea579ccf0800000000000000
+      internalID: -231524514955813560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_218
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 20
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4adebe1c70eb12e0800000000000000
+      internalID: -2153881173070259634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_219
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 22
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f64d3500fbaec0800000000000000
+      internalID: -3554483575585312375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_220
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 22
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571bc2767f20fd00800000000000000
+      internalID: 1004354902682179414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_221
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 22
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d50fe6d45099f680800000000000000
+      internalID: -8720780509368613420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_222
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 22
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a523e18d09efcea0800000000000000
+      internalID: -5850201146707991132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_223
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 23
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76a4426ba1b1090800000000000000
+      internalID: -8062821338281515039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_224
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 23
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f31f9394de8c80800000000000000
+      internalID: -8318477731212561641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_225
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12777378743dda1c0800000000000000
+      internalID: -4490700949253818591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_226
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5aecdbd333d0ca0800000000000000
+      internalID: -6049122384218249791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_227
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6479786151201f90800000000000000
+      internalID: -6985046388522781590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_228
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d0d6ebb81ec500800000000000000
+      internalID: 418299010702432424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_229
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da667611ec9d86ab0800000000000000
+      internalID: -5014518705998567763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_230
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323229af1918ebce0800000000000000
+      internalID: -1387529171209411805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_231
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545222080839d370800000000000000
+      internalID: 8347764991354623066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_232
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ffc08bc782646f0800000000000000
+      internalID: -700828175880618116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_233
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bb701b1261b3e0800000000000000
+      internalID: -2039741287841943210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_234
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c073e4565a8b00800000000000000
+      internalID: 831572003796336818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_235
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0c83ce8242bda30800000000000000
+      internalID: 4241023232279888094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_236
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f89b2314744e5c0800000000000000
+      internalID: -4187143408198250678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_237
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1d2945c50d39d0800000000000000
+      internalID: -2793069849005449460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_238
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e963358cd2234fc80800000000000000
+      internalID: -8289945841866426722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_239
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc453e929c1f940800000000000000
+      internalID: 5328261015900834630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_240
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deca1bc7fb9c6e50800000000000000
+      internalID: 6803984625616735961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_241
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe78570e56d332b0800000000000000
+      internalID: -5605901411807625481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_242
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 4
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12310b03e07cb0560800000000000000
+      internalID: 7281132086334853921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_243
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f912851d6214990800000000000000
+      internalID: -7403593631851765960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_244
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec83ab566f81710800000000000000
+      internalID: 1664350979089813127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_245
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea53c74a1c691d80800000000000000
+      internalID: -8279467579815011607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_246
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d95b5417df3360800000000000000
+      internalID: 7151671215719569671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_247
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ddf3846bb048300800000000000000
+      internalID: 253340356563688784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_248
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 5
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e3efb7898674440800000000000000
+      internalID: 4920016122050133609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyAndControlsBasic_249
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ead3b321a1a6dc80800000000000000
+      internalID: -8298267549922764058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

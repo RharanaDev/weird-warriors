@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: a8873903285054e4890fb73ce40ebea3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2346019814634473070
+    second: SkylineDevSprites_0
+  - first:
+      213: 1517338618967893392
+    second: SkylineDevSprites_1
+  - first:
+      213: -2885413819655740357
+    second: SkylineDevSprites_2
+  - first:
+      213: 6118884122859760910
+    second: SkylineDevSprites_3
+  - first:
+      213: 8920261566690922860
+    second: SkylineDevSprites_4
+  - first:
+      213: 7737240405327344337
+    second: SkylineDevSprites_5
+  - first:
+      213: 3464901910661158105
+    second: SkylineDevSprites_6
+  - first:
+      213: 2545005048212177743
+    second: SkylineDevSprites_7
+  - first:
+      213: -578884415589572545
+    second: SkylineDevSprites_8
+  - first:
+      213: 4295593964190649181
+    second: SkylineDevSprites_9
+  - first:
+      213: -4547432925683844185
+    second: SkylineDevSprites_10
+  - first:
+      213: 4170259401385786736
+    second: SkylineDevSprites_11
+  - first:
+      213: 2495720164111558319
+    second: SkylineDevSprites_12
+  - first:
+      213: -8392028721211485434
+    second: SkylineDevSprites_13
+  - first:
+      213: 7032868038300481968
+    second: SkylineDevSprites_14
+  - first:
+      213: -5832307668156446172
+    second: SkylineDevSprites_15
+  - first:
+      213: -4391830179872241896
+    second: SkylineDevSprites_16
+  - first:
+      213: 681486174286506424
+    second: SkylineDevSprites_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkylineDevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 771
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c057779cbe8020800000000000000
+      internalID: 2346019814634473070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 216
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095209b4f6bae0510800000000000000
+      internalID: 1517338618967893392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1908
+        width: 694
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34aa692b63f4f7d0800000000000000
+      internalID: -2885413819655740357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_3
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1823
+        width: 694
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d65d4c0b4aae450800000000000000
+      internalID: 6118884122859760910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619e2222a22bcb70800000000000000
+      internalID: 8920261566690922860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 770
+        width: 771
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f55da723306b60800000000000000
+      internalID: 7737240405327344337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 403
+        width: 771
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d78e0eedc51030800000000000000
+      internalID: 3464901910661158105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 785
+        width: 771
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43434a7b9ca15320800000000000000
+      internalID: 2545005048212177743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1213
+        width: 762
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3026cae0b367f7f0800000000000000
+      internalID: -578884415589572545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1165
+        width: 762
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b45ee83f30d9b30800000000000000
+      internalID: 4295593964190649181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1650
+        width: 36
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47222224, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abf2b0f8d544e0c0800000000000000
+      internalID: -4547432925683844185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1650
+        width: 36
+        height: 19
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d35d0a4dcbfd930800000000000000
+      internalID: 4170259401385786736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1650
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa626a0344492a220800000000000000
+      internalID: 2495720164111558319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1650
+        width: 37
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60350574756898b80800000000000000
+      internalID: -8392028721211485434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1650
+        width: 36
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b939171834c99160800000000000000
+      internalID: 7032868038300481968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1651
+        width: 33
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5151515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8fb2a31b7f0fa0800000000000000
+      internalID: -5832307668156446172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1651
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.516129, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81700e668b51d03c0800000000000000
+      internalID: -4391830179872241896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkylineDevSprites_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1651
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9efa99010257900800000000000000
+      internalID: 681486174286506424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

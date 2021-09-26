@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adcaa44eead4d8243aea5ff5b4894262, type: 3}
+  m_Name: UniversalSprites
+  m_EditorClassIdentifier: 
+  graph_keys: []
+  graph_keys2: []
+  graph_playStation: []
+  graph_xbox:
+  - {fileID: 2177708825702471877, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 3534995687329625950, guid: bf6cfb044a66db44cb8874376b96a2c8, type: 3}
+  - {fileID: -3929858091018378543, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 5777331548439405935, guid: bf6cfb044a66db44cb8874376b96a2c8, type: 3}
+  - {fileID: 6630390674806366239, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 4564879962555541816, guid: bf6cfb044a66db44cb8874376b96a2c8, type: 3}
+  - {fileID: -7933507053282920980, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 7403909016638192543, guid: bf6cfb044a66db44cb8874376b96a2c8, type: 3}
+  - {fileID: 7806750789126600560, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 3556525359238028683, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 8659133012253165750, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -1675974432811843624, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 7341873505346939362, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -6884389342761586072, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  graph_nintendo: []
+  ZM_Attacks:
+  - 02030408
+  - 000411
+  - 000410
+  - 1304
+  - 02030409
+  - 02030411
+  UH_Attacks:
+  - 02030408
+  - 000011
+  - 000010
+  - 1304
+  - 04030208
+  - 000410
+  WT_Attacks:
+  - 000009
+  - 000411
+  - 000410
+  - 1304
+  - 1304
+  - 02030408
+  GT_Attacks:
+  - 040308
+  - 000011
+  - 000010
+  - 1304
+  - 02030411
+  - 000410
+  LH_Attacks:
+  - 02030408
+  - 02030408
+  - 02030408
+  - 02030408
+  - 02030408
+  - 02030408
+  HG_Attacks:
+  - 02030408
+  - 000411
+  - 000410
+  - 1304
+  - 000408
+  - 02030409
+  ZM_Names:
+  - BAJIO BUBBLE
+  - MIDNIGHT MOONLIGHT
+  - AWAY
+  - BIRLIBIRLOQUE
+  - "MORRI\xD1A TWIST"
+  - SUPER BAJIO BUBBLE
+  UH_Names:
+  - SIGMA SIGN
+  - RHO STAR
+  - DELTA RUSH
+  - OMEGA GLITCH
+  - NU METEOR
+  - OMICRON BOMB
+  WT_Names:
+  - HELLHORNS
+  - TOTEM PUNCH
+  - WARM WAVE
+  - FLAME WINGS
+  - SUPER FLAME WINGS
+  - SKULL TOMAHAWK
+  GT_Names:
+  - GO AWAY PERVERT
+  - OHAYO SENSEI
+  - ARMWHIP
+  - MOSHI MOSHI
+  - EYESTORM
+  - MUTANT MADNESS
+  LH_Names: []
+  HG_Names:
+  - BLOOD WAVE
+  - REAPER AXE
+  - RO PO POM POM
+  - VLAD STAKES
+  - AGHHH PUH
+  - RED CURSE
+  ZM_Mana: 000000000000000000000000020000000200000004000000
+  UH_Mana: 000000000000000000000000020000000200000004000000
+  WT_Mana: 000000000000000000000000020000000400000004000000
+  GT_Mana: 000000000000000000000000020000000300000004000000
+  LH_Mana: 
+  HG_Mana: 000000000000000000000000020000000200000004000000
+  manaNeeds:
+  - {fileID: 5028662544209566131, guid: 71b1ef642964b9a4faa196b49fff71e4, type: 3}
+  - {fileID: -6904548287444208433, guid: 71b1ef642964b9a4faa196b49fff71e4, type: 3}
+  - {fileID: 7223431823928611313, guid: 71b1ef642964b9a4faa196b49fff71e4, type: 3}
+  - {fileID: -8319225557065735004, guid: 71b1ef642964b9a4faa196b49fff71e4, type: 3}

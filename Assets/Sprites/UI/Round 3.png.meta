@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 085a0dda03097c743807ebd82f4582e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5333455226883944381
+    second: Round 3_0
+  - first:
+      213: 7232324984331750129
+    second: Round 3_1
+  - first:
+      213: 615055145046953405
+    second: Round 3_2
+  - first:
+      213: 6166286190074699605
+    second: Round 3_3
+  - first:
+      213: 7285485058805911154
+    second: Round 3_4
+  - first:
+      213: 2784515836416592707
+    second: Round 3_5
+  - first:
+      213: -6467116604850290921
+    second: Round 3_6
+  - first:
+      213: 6409109672048953039
+    second: Round 3_7
+  - first:
+      213: -5360207287175401058
+    second: Round 3_8
+  - first:
+      213: 4887495799461895713
+    second: Round 3_9
+  - first:
+      213: -3984111926984461629
+    second: Round 3_10
+  - first:
+      213: 6699874641205660559
+    second: Round 3_11
+  - first:
+      213: 4291772223475005671
+    second: Round 3_12
+  - first:
+      213: -2163421378134002886
+    second: Round 3_13
+  - first:
+      213: 4231381856815204362
+    second: Round 3_14
+  - first:
+      213: 4387622671669850807
+    second: Round 3_15
+  - first:
+      213: -7856428097628703428
+    second: Round 3_16
+  - first:
+      213: 2964178059186346864
+    second: Round 3_17
+  - first:
+      213: -2128323868870670620
+    second: Round 3_18
+  - first:
+      213: -5731252340025212342
+    second: Round 3_19
+  - first:
+      213: 2698827036492689761
+    second: Round 3_20
+  - first:
+      213: 915077591497392845
+    second: Round 3_21
+  - first:
+      213: -2919249384577003224
+    second: Round 3_22
+  - first:
+      213: -537666959162965754
+    second: Round 3_23
+  - first:
+      213: 8551031440879211811
+    second: Round 3_24
+  - first:
+      213: 1005347444641935504
+    second: Round 3_25
+  - first:
+      213: 1699446545073964225
+    second: Round 3_26
+  - first:
+      213: -5030797299598288254
+    second: Round 3_27
+  - first:
+      213: -3441735536251588818
+    second: Round 3_28
+  - first:
+      213: 2893058148116730083
+    second: Round 3_29
+  - first:
+      213: 7939415413047054606
+    second: Round 3_30
+  - first:
+      213: -8861283041533003915
+    second: Round 3_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Round 3_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 425
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d120aab2cbf5b0800000000000000
+      internalID: -5333455226883944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 418
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fac64731416e5460800000000000000
+      internalID: 7232324984331750129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 413
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdcccd456d198800800000000000000
+      internalID: 615055145046953405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 418
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9cc69e9c039550800000000000000
+      internalID: 6166286190074699605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 419
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eca829f0e3b1560800000000000000
+      internalID: 7285485058805911154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 124
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8f05766694a620800000000000000
+      internalID: 2784515836416592707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 360
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3ede46bf2046a0800000000000000
+      internalID: -6467116604850290921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 300
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68ff03a4bb1f850800000000000000
+      internalID: 6409109672048953039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 239
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9133753fd7bc95b0800000000000000
+      internalID: -5360207287175401058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 175
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed328d88fd3d340800000000000000
+      internalID: 4887495799461895713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 170
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b1b6af4795b8c0800000000000000
+      internalID: -3984111926984461629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 175
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b06bc1d7cbafc50800000000000000
+      internalID: 6699874641205660559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 176
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bd1539107f8b30800000000000000
+      internalID: 4291772223475005671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 240
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3336d808bbf9f1e0800000000000000
+      internalID: -2163421378134002886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 239
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c0844163e8ba30800000000000000
+      internalID: 4231381856815204362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 234
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f451c297f3ec30800000000000000
+      internalID: 4387622671669850807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 295
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357175354c58f290800000000000000
+      internalID: -7856428097628703428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 300
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1fcc6d30e22920800000000000000
+      internalID: 2964178059186346864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 301
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68af4b7bca672e0800000000000000
+      internalID: -2128323868870670620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 361
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42cbaabc508670b0800000000000000
+      internalID: -5731252340025212342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 360
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161fd5404e8247520800000000000000
+      internalID: 2698827036492689761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 355
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc24f1f983203bc00800000000000000
+      internalID: 915077591497392845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 127
+        width: 8
+        height: 19
+      alignment: 9
+      pivot: {x: 0.75, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821928dc62ebc77d0800000000000000
+      internalID: -2919249384577003224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 130
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60180a3dfb2d988f0800000000000000
+      internalID: -537666959162965754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 129
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255dc84acd5ba670800000000000000
+      internalID: 8551031440879211811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 126
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.625, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090bab1ac26b3fd00800000000000000
+      internalID: 1005347444641935504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 131
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c406e1f0a5a59710800000000000000
+      internalID: 1699446545073964225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 130
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1374a2840f2ab0800000000000000
+      internalID: -5030797299598288254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 126
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa2eec3cf7c30d0800000000000000
+      internalID: -3441735536251588818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 130
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01c01ce05362820800000000000000
+      internalID: 2893058148116730083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_30
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 130
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015eead0487e2e60800000000000000
+      internalID: 7939415413047054606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Round 3_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5777b37d506660580800000000000000
+      internalID: -8861283041533003915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 0e88fa315506ca3438f45ac298c00a3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1381397068231629530
+    second: NewSpritesWakanTanka_0
+  - first:
+      213: -3358343018405883588
+    second: NewSpritesWakanTanka_1
+  - first:
+      213: -8508063588282402973
+    second: NewSpritesWakanTanka_2
+  - first:
+      213: 2690490492786263627
+    second: NewSpritesWakanTanka_3
+  - first:
+      213: -7756297314296438222
+    second: NewSpritesWakanTanka_4
+  - first:
+      213: -7476435811408606214
+    second: NewSpritesWakanTanka_5
+  - first:
+      213: -413418727853013154
+    second: NewSpritesWakanTanka_6
+  - first:
+      213: -6134135168798825503
+    second: NewSpritesWakanTanka_7
+  - first:
+      213: -7018949788009711492
+    second: NewSpritesWakanTanka_8
+  - first:
+      213: 3808751404604248193
+    second: NewSpritesWakanTanka_9
+  - first:
+      213: -2212385385170512730
+    second: NewSpritesWakanTanka_10
+  - first:
+      213: -8018321602771977615
+    second: NewSpritesWakanTanka_11
+  - first:
+      213: 2537437803066646126
+    second: NewSpritesWakanTanka_12
+  - first:
+      213: 7621132945386196871
+    second: NewSpritesWakanTanka_13
+  - first:
+      213: -7303158088489527606
+    second: NewSpritesWakanTanka_14
+  - first:
+      213: 1484366094202172982
+    second: NewSpritesWakanTanka_15
+  - first:
+      213: -3778944190164834852
+    second: NewSpritesWakanTanka_16
+  - first:
+      213: -2521017455840655947
+    second: NewSpritesWakanTanka_17
+  - first:
+      213: 1801232967840431129
+    second: NewSpritesWakanTanka_18
+  - first:
+      213: 926028408766160698
+    second: NewSpritesWakanTanka_19
+  - first:
+      213: 7955810552052533031
+    second: NewSpritesWakanTanka_20
+  - first:
+      213: 8571266358791156844
+    second: NewSpritesWakanTanka_21
+  - first:
+      213: -2097390591807426535
+    second: NewSpritesWakanTanka_22
+  - first:
+      213: 5788138127461258399
+    second: NewSpritesWakanTanka_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 578
+        width: 89
+        height: 131
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.13740458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada56b98055bb2310800000000000000
+      internalID: 1381397068231629530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 577
+        width: 135
+        height: 133
+      alignment: 9
+      pivot: {x: 0.32592592, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31110a61d4c461d0800000000000000
+      internalID: -3358343018405883588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 580
+        width: 116
+        height: 130
+      alignment: 9
+      pivot: {x: 0.20689654, y: 0.092307694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46471e29da865520800000000000000
+      internalID: 2690490492786263627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 420
+        width: 112
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0bfacd3d5e3890800000000000000
+      internalID: -7476435811408606214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 421
+        width: 130
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c3de7bdd334af0800000000000000
+      internalID: -413418727853013154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 422
+        width: 130
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3e383609c2fdaa0800000000000000
+      internalID: -6134135168798825503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 228
+        width: 315
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48253968, y: 0.054545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b0651b5ea79e90800000000000000
+      internalID: -7018949788009711492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 219
+        width: 169
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f45cb0904b3c960800000000000000
+      internalID: 7621132945386196871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 218
+        width: 140
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636fd812917899410800000000000000
+      internalID: 1484366094202172982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 62
+        width: 162
+        height: 155
+      alignment: 9
+      pivot: {x: 0.37037036, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b50f081bfb830dd0800000000000000
+      internalID: -2521017455840655947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 162
+        height: 151
+      alignment: 9
+      pivot: {x: 0.3703704, y: -0.013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5d647ee9e9dc00800000000000000
+      internalID: 926028408766160698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewSpritesWakanTanka_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 64
+        width: 162
+        height: 151
+      alignment: 9
+      pivot: {x: 0.3703704, y: -0.013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b00f375143f670800000000000000
+      internalID: 8571266358791156844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

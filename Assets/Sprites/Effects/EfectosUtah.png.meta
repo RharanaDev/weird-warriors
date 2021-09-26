@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 09f6755f81cafc6428642390d2b788eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5578958940535594844
+    second: EfectosUtah_0
+  - first:
+      213: -990045835064620827
+    second: EfectosUtah_1
+  - first:
+      213: 9098457039920779015
+    second: EfectosUtah_2
+  - first:
+      213: 6025236748551209944
+    second: EfectosUtah_3
+  - first:
+      213: 6308121905149272190
+    second: EfectosUtah_4
+  - first:
+      213: 8284456288975305634
+    second: EfectosUtah_5
+  - first:
+      213: 3735156952609268532
+    second: EfectosUtah_6
+  - first:
+      213: 4849015061060724100
+    second: EfectosUtah_7
+  - first:
+      213: -4227312932158730481
+    second: EfectosUtah_8
+  - first:
+      213: 921673146003612515
+    second: EfectosUtah_9
+  - first:
+      213: -130559289794391174
+    second: EfectosUtah_10
+  - first:
+      213: -7477569922831452079
+    second: EfectosUtah_11
+  - first:
+      213: 4445461867271584592
+    second: EfectosUtah_12
+  - first:
+      213: 8952307639514413925
+    second: EfectosUtah_13
+  - first:
+      213: 6368249828034965186
+    second: EfectosUtah_14
+  - first:
+      213: -5309874036233880857
+    second: EfectosUtah_15
+  - first:
+      213: 870029324289082150
+    second: EfectosUtah_16
+  - first:
+      213: -7165837545733061192
+    second: EfectosUtah_17
+  - first:
+      213: -2399349786812213114
+    second: EfectosUtah_18
+  - first:
+      213: 6411502956687605232
+    second: EfectosUtah_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EfectosUtah_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 534
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1d1b09917c6d40800000000000000
+      internalID: 5578958940535594844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 530
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5405406, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e84e99fe86a242f0800000000000000
+      internalID: -990045835064620827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 527
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f41acd876344e70800000000000000
+      internalID: 9098457039920779015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 524
+        width: 47
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3460556e0fd9350800000000000000
+      internalID: 6025236748551209944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 522
+        width: 49
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70684c6373fa8750800000000000000
+      internalID: 6308121905149272190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 467
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abbf951a1d48f270800000000000000
+      internalID: 8284456288975305634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 463
+        width: 43
+        height: 44
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4332b9c6571f5d330800000000000000
+      internalID: 3735156952609268532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 459
+        width: 51
+        height: 51
+      alignment: 9
+      pivot: {x: 0.54901963, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852b01c1892b4340800000000000000
+      internalID: 4849015061060724100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 457
+        width: 54
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.5272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f834419419555c0800000000000000
+      internalID: -4227312932158730481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 455
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5084746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ef82d7d07acc00800000000000000
+      internalID: 921673146003612515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 454
+        width: 52
+        height: 61
+      alignment: 9
+      pivot: {x: 0.40384617, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739da58409203ef0800000000000000
+      internalID: -130559289794391174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 463
+        width: 58
+        height: 53
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.4339623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1587c76e5c55a3890800000000000000
+      internalID: -7477569922831452079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7445e30471bd30800000000000000
+      internalID: 4445461867271584592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb545ed5cfc3c70800000000000000
+      internalID: 8952307639514413925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce67f86a71906850800000000000000
+      internalID: 6368249828034965186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 12
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab53c62b98f46b0800000000000000
+      internalID: -5309874036233880857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 16
+        width: 8
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238c629f07f21c00800000000000000
+      internalID: 870029324289082150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 10
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58c68e7b4dd8c90800000000000000
+      internalID: -7165837545733061192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 10
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6881629c41cc3bed0800000000000000
+      internalID: -2399349786812213114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EfectosUtah_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 11
+        height: 94
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3bb138fb3af850800000000000000
+      internalID: 6411502956687605232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

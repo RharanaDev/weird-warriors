@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb13f96e5bf3b0a4e9235b0b3ed22cce, type: 3}
+  m_Name: WakanP2
+  m_EditorClassIdentifier: 
+  alias: W.TANKA
+  ID: 1
+  attackPart: AttackPart
+  slider: Slider2
+  manaSlider: ManaSlider2
+  blockBar: BlockBar2
+  blockBarSkin: CurrentLife2
+  comboPart: ComboPart
+  speed: 12
+  direction: 0
+  jumpForce: 3000
+  pushModule: 3
+  currentLife: 32
+  life: 100
+  damage: 5
+  playerNumber: 2
+  lookDirection: 1
+  resistance: 3
+  effect: 0100000002000000010000000200000002000000
+  originalRes: 3
+  crouchHitBoxSize: {x: 2.11, y: 3.507587}
+  crouchHitBoxOffSet: {x: -0.27, y: 1.75}
+  backDustOffset: {x: 1.6, y: 0, z: 0}
+  frontDustOffset: {x: 1.6, y: 0, z: 0}
+  possibleCombo1: 
+  possibleCombo2: 
+  possibleCombo3: 
+  isGrounded: 1
+  isBlock: 0
+  isCrouch: 0
+  isAlive: 1
+  isWalking: 0
+  isCombo: 0
+  isInvincible: 0
+  isPhysical: 1
+  isStunned: 0
+  isForwardJumping: 0
+  isInEnd: 0
+  isAirAttacking: 0
+  isInverted: 0
+  isDoingCombo2: 0
+  canRotate: 1
+  canAirHit: 1
+  canAttack: 1
+  canOverJump: 0
+  canBeRepeled: 1
+  canWaitForCombo: 0
+  canWaitForDodgeCombo: 0
+  canRebound: 0
+  canMove: 1
+  canAIttack: 1
+  beenUnblocked: 0
+  customRotate: 1
+  isBig: 1
+  onActiveFrame: 0

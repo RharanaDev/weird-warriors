@@ -1,0 +1,6394 @@
+fileFormatVersion: 2
+guid: 6da7e183275c7194aad051f6ce137837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1137888685973528290
+    second: Leo_DevSprites_0
+  - first:
+      213: 6123978725819050266
+    second: Leo_DevSprites_1
+  - first:
+      213: -1689426375435867660
+    second: Leo_DevSprites_2
+  - first:
+      213: -7383968061923011573
+    second: Leo_DevSprites_3
+  - first:
+      213: -5611297975976198003
+    second: Leo_DevSprites_4
+  - first:
+      213: 2417387986634701765
+    second: Leo_DevSprites_5
+  - first:
+      213: -3030864507501609090
+    second: Leo_DevSprites_6
+  - first:
+      213: -2900304750755590300
+    second: Leo_DevSprites_7
+  - first:
+      213: -4278678774899387238
+    second: Leo_DevSprites_8
+  - first:
+      213: 8447763573959934960
+    second: Leo_DevSprites_9
+  - first:
+      213: 7426470681950453574
+    second: Leo_DevSprites_10
+  - first:
+      213: 4230864727131458624
+    second: Leo_DevSprites_11
+  - first:
+      213: -8019007041438828156
+    second: Leo_DevSprites_12
+  - first:
+      213: 7609199410336752672
+    second: Leo_DevSprites_13
+  - first:
+      213: -2751553082993511495
+    second: Leo_DevSprites_14
+  - first:
+      213: -2723738717267737802
+    second: Leo_DevSprites_15
+  - first:
+      213: 2789654890240033421
+    second: Leo_DevSprites_16
+  - first:
+      213: 2196324418926661230
+    second: Leo_DevSprites_17
+  - first:
+      213: -6482955666406775656
+    second: Leo_DevSprites_18
+  - first:
+      213: -2614053599049209270
+    second: Leo_DevSprites_19
+  - first:
+      213: 5316010429856633690
+    second: Leo_DevSprites_20
+  - first:
+      213: -7382401287851318356
+    second: Leo_DevSprites_21
+  - first:
+      213: 1648644976546521513
+    second: Leo_DevSprites_22
+  - first:
+      213: 4233108164549019653
+    second: Leo_DevSprites_23
+  - first:
+      213: -1872883532290233955
+    second: Leo_DevSprites_24
+  - first:
+      213: 8703579670316186850
+    second: Leo_DevSprites_25
+  - first:
+      213: 3307093107851734646
+    second: Leo_DevSprites_26
+  - first:
+      213: 1516360055289267365
+    second: Leo_DevSprites_27
+  - first:
+      213: 7233593510421769241
+    second: Leo_DevSprites_28
+  - first:
+      213: 5545009510178603774
+    second: Leo_DevSprites_29
+  - first:
+      213: 3557457379269757705
+    second: Leo_DevSprites_30
+  - first:
+      213: -3438355460915266745
+    second: Leo_DevSprites_31
+  - first:
+      213: 5351817658070910558
+    second: Leo_DevSprites_32
+  - first:
+      213: -616517533743270469
+    second: Leo_DevSprites_33
+  - first:
+      213: 4321059946261749777
+    second: Leo_DevSprites_34
+  - first:
+      213: -5760365602849413703
+    second: Leo_DevSprites_35
+  - first:
+      213: -8695297438195233846
+    second: Leo_DevSprites_36
+  - first:
+      213: 1228092007698726797
+    second: Leo_DevSprites_37
+  - first:
+      213: 1538019523544536279
+    second: Leo_DevSprites_38
+  - first:
+      213: -7898834655416978225
+    second: Leo_DevSprites_39
+  - first:
+      213: -2429666032058000354
+    second: Leo_DevSprites_40
+  - first:
+      213: -5408873274111702435
+    second: Leo_DevSprites_41
+  - first:
+      213: 3900019669624288955
+    second: Leo_DevSprites_42
+  - first:
+      213: 3574192426005720732
+    second: Leo_DevSprites_43
+  - first:
+      213: -3578695119113125250
+    second: Leo_DevSprites_44
+  - first:
+      213: -7840234704620026708
+    second: Leo_DevSprites_45
+  - first:
+      213: 3071721954406772407
+    second: Leo_DevSprites_46
+  - first:
+      213: 2788065083659220607
+    second: Leo_DevSprites_47
+  - first:
+      213: 4282666548335251019
+    second: Leo_DevSprites_48
+  - first:
+      213: 4952847848220326307
+    second: Leo_DevSprites_49
+  - first:
+      213: 5971051438695221759
+    second: Leo_DevSprites_50
+  - first:
+      213: 3890045648673036269
+    second: Leo_DevSprites_51
+  - first:
+      213: -6963861373869174925
+    second: Leo_DevSprites_52
+  - first:
+      213: 7032645881162256270
+    second: Leo_DevSprites_53
+  - first:
+      213: 8662601456375996976
+    second: Leo_DevSprites_54
+  - first:
+      213: 4212970275749441702
+    second: Leo_DevSprites_55
+  - first:
+      213: -5991270594694655445
+    second: Leo_DevSprites_56
+  - first:
+      213: -2162289714352796483
+    second: Leo_DevSprites_57
+  - first:
+      213: -6289578011001820062
+    second: Leo_DevSprites_58
+  - first:
+      213: 1287729539930696120
+    second: Leo_DevSprites_59
+  - first:
+      213: 8244954878419322218
+    second: Leo_DevSprites_60
+  - first:
+      213: 5477239542309493761
+    second: Leo_DevSprites_61
+  - first:
+      213: -1790147231097108792
+    second: Leo_DevSprites_62
+  - first:
+      213: 8214520951625687144
+    second: Leo_DevSprites_63
+  - first:
+      213: 7799162042043290698
+    second: Leo_DevSprites_64
+  - first:
+      213: 8030874385696094560
+    second: Leo_DevSprites_65
+  - first:
+      213: -2940250865312267873
+    second: Leo_DevSprites_66
+  - first:
+      213: -2724661200300694347
+    second: Leo_DevSprites_67
+  - first:
+      213: 2714308745127541933
+    second: Leo_DevSprites_68
+  - first:
+      213: 5229379981298059100
+    second: Leo_DevSprites_69
+  - first:
+      213: -4385434066938817019
+    second: Leo_DevSprites_70
+  - first:
+      213: -207986779607822723
+    second: Leo_DevSprites_71
+  - first:
+      213: 3368436045323975988
+    second: Leo_DevSprites_72
+  - first:
+      213: 3425231174501925108
+    second: Leo_DevSprites_73
+  - first:
+      213: 8217062011740703628
+    second: Leo_DevSprites_74
+  - first:
+      213: 2959179501470197874
+    second: Leo_DevSprites_75
+  - first:
+      213: -1810724926615193597
+    second: Leo_DevSprites_76
+  - first:
+      213: -5210480730771263242
+    second: Leo_DevSprites_77
+  - first:
+      213: 4069980611986516515
+    second: Leo_DevSprites_78
+  - first:
+      213: -30253547009375615
+    second: Leo_DevSprites_79
+  - first:
+      213: -7837890185621109654
+    second: Leo_DevSprites_80
+  - first:
+      213: 4358803595097984417
+    second: Leo_DevSprites_81
+  - first:
+      213: -5877042342522880237
+    second: Leo_DevSprites_82
+  - first:
+      213: -8025446670506486279
+    second: Leo_DevSprites_83
+  - first:
+      213: 7344748586097507319
+    second: Leo_DevSprites_84
+  - first:
+      213: -1025881034225701150
+    second: Leo_DevSprites_85
+  - first:
+      213: 2501216620221846278
+    second: Leo_DevSprites_86
+  - first:
+      213: 6604648497190263909
+    second: Leo_DevSprites_87
+  - first:
+      213: -4756815319476972148
+    second: Leo_DevSprites_88
+  - first:
+      213: -7006818671258338417
+    second: Leo_DevSprites_89
+  - first:
+      213: 8235215789450952913
+    second: Leo_DevSprites_90
+  - first:
+      213: -3821911592042519254
+    second: Leo_DevSprites_91
+  - first:
+      213: 2632265894667412061
+    second: Leo_DevSprites_92
+  - first:
+      213: -5641278468439091511
+    second: Leo_DevSprites_93
+  - first:
+      213: 3087113717638158206
+    second: Leo_DevSprites_94
+  - first:
+      213: -6634862093177152489
+    second: Leo_DevSprites_95
+  - first:
+      213: -4902411954371147659
+    second: Leo_DevSprites_96
+  - first:
+      213: 9142031544181249277
+    second: Leo_DevSprites_97
+  - first:
+      213: 8701721230096832890
+    second: Leo_DevSprites_98
+  - first:
+      213: -2475552455737628805
+    second: Leo_DevSprites_99
+  - first:
+      213: 5369133605639891509
+    second: Leo_DevSprites_100
+  - first:
+      213: 4688623335795749736
+    second: Leo_DevSprites_101
+  - first:
+      213: -6024519573470326784
+    second: Leo_DevSprites_102
+  - first:
+      213: -2474263181866025898
+    second: Leo_DevSprites_103
+  - first:
+      213: 9056258238360132442
+    second: Leo_DevSprites_104
+  - first:
+      213: 4359828056385878204
+    second: Leo_DevSprites_105
+  - first:
+      213: -4953865898542392055
+    second: Leo_DevSprites_106
+  - first:
+      213: -7013722511424543912
+    second: Leo_DevSprites_107
+  - first:
+      213: 9198314194345927389
+    second: Leo_DevSprites_108
+  - first:
+      213: 2989674199282839932
+    second: Leo_DevSprites_109
+  - first:
+      213: -3137264834125976165
+    second: Leo_DevSprites_110
+  - first:
+      213: 6335206122443795115
+    second: Leo_DevSprites_111
+  - first:
+      213: -9148926644432361881
+    second: Leo_DevSprites_112
+  - first:
+      213: 7771916056826680591
+    second: Leo_DevSprites_113
+  - first:
+      213: -2514037943304803896
+    second: Leo_DevSprites_114
+  - first:
+      213: -1329787109247579075
+    second: Leo_DevSprites_115
+  - first:
+      213: -1396145413104051450
+    second: Leo_DevSprites_116
+  - first:
+      213: -4780323082462748026
+    second: Leo_DevSprites_117
+  - first:
+      213: -904908474701144909
+    second: Leo_DevSprites_118
+  - first:
+      213: -6364513401879004142
+    second: Leo_DevSprites_119
+  - first:
+      213: -342309046851946540
+    second: Leo_DevSprites_120
+  - first:
+      213: 2924594304954290793
+    second: Leo_DevSprites_121
+  - first:
+      213: 6194171891262128512
+    second: Leo_DevSprites_122
+  - first:
+      213: 6547997492194165058
+    second: Leo_DevSprites_123
+  - first:
+      213: -9074485172698442241
+    second: Leo_DevSprites_124
+  - first:
+      213: -3072220387136503995
+    second: Leo_DevSprites_125
+  - first:
+      213: 3858885172298685746
+    second: Leo_DevSprites_126
+  - first:
+      213: -7539718328683159047
+    second: Leo_DevSprites_127
+  - first:
+      213: 3628256206342647480
+    second: Leo_DevSprites_128
+  - first:
+      213: 8087859192409285610
+    second: Leo_DevSprites_129
+  - first:
+      213: -872622795784085298
+    second: Leo_DevSprites_130
+  - first:
+      213: 6949507419804706701
+    second: Leo_DevSprites_131
+  - first:
+      213: -7237904993107411179
+    second: Leo_DevSprites_132
+  - first:
+      213: -3794487338790408080
+    second: Leo_DevSprites_133
+  - first:
+      213: 1349241951801407465
+    second: Leo_DevSprites_134
+  - first:
+      213: 4384568641693379999
+    second: Leo_DevSprites_135
+  - first:
+      213: -1451352017638902937
+    second: Leo_DevSprites_136
+  - first:
+      213: 1107861637591467275
+    second: Leo_DevSprites_137
+  - first:
+      213: -3535336815435281515
+    second: Leo_DevSprites_138
+  - first:
+      213: 5836604697874767116
+    second: Leo_DevSprites_139
+  - first:
+      213: -6011650276633135376
+    second: Leo_DevSprites_140
+  - first:
+      213: 1161379167694793812
+    second: Leo_DevSprites_141
+  - first:
+      213: -3876206570668035083
+    second: Leo_DevSprites_142
+  - first:
+      213: 4547420547143638387
+    second: Leo_DevSprites_143
+  - first:
+      213: -2359678648742172890
+    second: Leo_DevSprites_144
+  - first:
+      213: -907950893530482244
+    second: Leo_DevSprites_145
+  - first:
+      213: -8171361945222739114
+    second: Leo_DevSprites_146
+  - first:
+      213: 5754987251192470619
+    second: Leo_DevSprites_147
+  - first:
+      213: -1063608242385973142
+    second: Leo_DevSprites_148
+  - first:
+      213: 4832716724757321623
+    second: Leo_DevSprites_149
+  - first:
+      213: -8113691778829200562
+    second: Leo_DevSprites_150
+  - first:
+      213: 6662479455625169765
+    second: Leo_DevSprites_151
+  - first:
+      213: -8661362909525796363
+    second: Leo_DevSprites_152
+  - first:
+      213: 8636368745254913277
+    second: Leo_DevSprites_153
+  - first:
+      213: -8661169347746303168
+    second: Leo_DevSprites_154
+  - first:
+      213: 8816498124947036779
+    second: Leo_DevSprites_155
+  - first:
+      213: -8929777752059148483
+    second: Leo_DevSprites_156
+  - first:
+      213: -4129617882870249259
+    second: Leo_DevSprites_157
+  - first:
+      213: 3551812936013056323
+    second: Leo_DevSprites_158
+  - first:
+      213: 4895855207612487374
+    second: Leo_DevSprites_159
+  - first:
+      213: 3334169582272281975
+    second: Leo_DevSprites_160
+  - first:
+      213: 6105741257846118660
+    second: Leo_DevSprites_161
+  - first:
+      213: 1435847584251313236
+    second: Leo_DevSprites_162
+  - first:
+      213: 2317338782858521382
+    second: Leo_DevSprites_163
+  - first:
+      213: 1870095248936955
+    second: Leo_DevSprites_164
+  - first:
+      213: 3992453157658784923
+    second: Leo_DevSprites_165
+  - first:
+      213: 6433351781612119705
+    second: Leo_DevSprites_166
+  - first:
+      213: 6680354220830707933
+    second: Leo_DevSprites_167
+  - first:
+      213: -8765461298924556592
+    second: Leo_DevSprites_168
+  - first:
+      213: -1058443918078698332
+    second: Leo_DevSprites_169
+  - first:
+      213: -4071840725011496027
+    second: Leo_DevSprites_170
+  - first:
+      213: 3215052712526670887
+    second: Leo_DevSprites_171
+  - first:
+      213: 2948682737555470982
+    second: Leo_DevSprites_172
+  - first:
+      213: -7807179341395550714
+    second: Leo_DevSprites_173
+  - first:
+      213: 2564670816532362064
+    second: Leo_DevSprites_174
+  - first:
+      213: 100362578904344439
+    second: Leo_DevSprites_175
+  - first:
+      213: 9163435437139541040
+    second: Leo_DevSprites_176
+  - first:
+      213: 3032791954278310545
+    second: Leo_DevSprites_177
+  - first:
+      213: 6884520014393931808
+    second: Leo_DevSprites_178
+  - first:
+      213: 3719069681192108971
+    second: Leo_DevSprites_179
+  - first:
+      213: -3369002139731174435
+    second: Leo_DevSprites_180
+  - first:
+      213: 2172481215588410552
+    second: Leo_DevSprites_181
+  - first:
+      213: 2014120778382263013
+    second: Leo_DevSprites_182
+  - first:
+      213: 2940513586759511279
+    second: Leo_DevSprites_183
+  - first:
+      213: 5973997071786193045
+    second: Leo_DevSprites_184
+  - first:
+      213: -6482928736527173213
+    second: Leo_DevSprites_185
+  - first:
+      213: -8004804607584687186
+    second: Leo_DevSprites_186
+  - first:
+      213: -2756228717355040768
+    second: Leo_DevSprites_187
+  - first:
+      213: -6904506106054507515
+    second: Leo_DevSprites_188
+  - first:
+      213: -7119636463607387828
+    second: Leo_DevSprites_189
+  - first:
+      213: 5723364489079354181
+    second: Leo_DevSprites_190
+  - first:
+      213: 8354102122766851657
+    second: Leo_DevSprites_191
+  - first:
+      213: 759365010467484864
+    second: Leo_DevSprites_192
+  - first:
+      213: 1348443371798999414
+    second: Leo_DevSprites_193
+  - first:
+      213: -4003345911366875933
+    second: Leo_DevSprites_194
+  - first:
+      213: 4359539597208800092
+    second: Leo_DevSprites_195
+  - first:
+      213: 194804286472738708
+    second: Leo_DevSprites_196
+  - first:
+      213: -6582309193458903399
+    second: Leo_DevSprites_197
+  - first:
+      213: -2109344706758568850
+    second: Leo_DevSprites_198
+  - first:
+      213: -4291952017455867455
+    second: Leo_DevSprites_199
+  - first:
+      213: -4215938336533967722
+    second: Leo_DevSprites_200
+  - first:
+      213: -1203270201644827122
+    second: Leo_DevSprites_201
+  - first:
+      213: 3773651901247464643
+    second: Leo_DevSprites_202
+  - first:
+      213: -888552234145681316
+    second: Leo_DevSprites_203
+  - first:
+      213: -6379664739644885265
+    second: Leo_DevSprites_204
+  - first:
+      213: 8956042887409588997
+    second: Leo_DevSprites_205
+  - first:
+      213: -1875061924880894323
+    second: Leo_DevSprites_206
+  - first:
+      213: 1484696205416942987
+    second: Leo_DevSprites_207
+  - first:
+      213: -6166934695967655026
+    second: Leo_DevSprites_208
+  - first:
+      213: -989965974758450090
+    second: Leo_DevSprites_209
+  - first:
+      213: 5761457246176710880
+    second: Leo_DevSprites_210
+  - first:
+      213: -4938507415958877589
+    second: Leo_DevSprites_211
+  - first:
+      213: 695394220447063051
+    second: Leo_DevSprites_212
+  - first:
+      213: -6769828494756975150
+    second: Leo_DevSprites_213
+  - first:
+      213: -3224054784925495925
+    second: Leo_DevSprites_214
+  - first:
+      213: 8929674054560648513
+    second: Leo_DevSprites_215
+  - first:
+      213: 9106739410530359773
+    second: Leo_DevSprites_216
+  - first:
+      213: 7509817972850480434
+    second: Leo_DevSprites_217
+  - first:
+      213: 2239940465806524618
+    second: Leo_DevSprites_218
+  - first:
+      213: 498793244203504360
+    second: Leo_DevSprites_219
+  - first:
+      213: -1154660179762194544
+    second: Leo_DevSprites_220
+  - first:
+      213: -6597824647353596741
+    second: Leo_DevSprites_221
+  - first:
+      213: 5631054949064230652
+    second: Leo_DevSprites_222
+  - first:
+      213: 8769490660851224299
+    second: Leo_DevSprites_223
+  - first:
+      213: 2002247496011299555
+    second: Leo_DevSprites_224
+  - first:
+      213: -2175469120980909968
+    second: Leo_DevSprites_225
+  - first:
+      213: -7155780390199547959
+    second: Leo_DevSprites_226
+  - first:
+      213: 2965629751768407933
+    second: Leo_DevSprites_227
+  - first:
+      213: -1312049705225231669
+    second: Leo_DevSprites_228
+  - first:
+      213: -4162173447584704282
+    second: Leo_DevSprites_229
+  - first:
+      213: -4855314559008033935
+    second: Leo_DevSprites_230
+  - first:
+      213: -9090178228175653354
+    second: Leo_DevSprites_231
+  - first:
+      213: -7241130641326476911
+    second: Leo_DevSprites_232
+  - first:
+      213: -1226776237323940817
+    second: Leo_DevSprites_233
+  - first:
+      213: -3770510459217335926
+    second: Leo_DevSprites_234
+  - first:
+      213: 6952574171422545306
+    second: Leo_DevSprites_235
+  - first:
+      213: 4066924907843073523
+    second: Leo_DevSprites_236
+  - first:
+      213: -8745431192025206906
+    second: Leo_DevSprites_237
+  - first:
+      213: -1071188048658648468
+    second: Leo_DevSprites_238
+  - first:
+      213: -436479015518038629
+    second: Leo_DevSprites_239
+  - first:
+      213: -4747251416129863785
+    second: Leo_DevSprites_240
+  - first:
+      213: -8722741300620951160
+    second: Leo_DevSprites_241
+  - first:
+      213: 6478777973149285233
+    second: Leo_DevSprites_242
+  - first:
+      213: -8607519410554768357
+    second: Leo_DevSprites_243
+  - first:
+      213: 3959021094239993361
+    second: Leo_DevSprites_244
+  - first:
+      213: -3871685091958432492
+    second: Leo_DevSprites_245
+  - first:
+      213: -4212328316021171368
+    second: Leo_DevSprites_246
+  - first:
+      213: 195031529867242433
+    second: Leo_DevSprites_247
+  - first:
+      213: -6760677612079108233
+    second: Leo_DevSprites_248
+  - first:
+      213: 4391280478212226263
+    second: Leo_DevSprites_249
+  - first:
+      213: 3093988905433212232
+    second: Leo_DevSprites_250
+  - first:
+      213: -2554949459714385433
+    second: Leo_DevSprites_251
+  - first:
+      213: 7700817496911879339
+    second: Leo_DevSprites_252
+  - first:
+      213: -5843159123160856334
+    second: Leo_DevSprites_253
+  - first:
+      213: -1039610161202469142
+    second: Leo_DevSprites_254
+  - first:
+      213: -8331890808946170539
+    second: Leo_DevSprites_255
+  - first:
+      213: -6227733632489545481
+    second: Leo_DevSprites_256
+  - first:
+      213: -1773233362624288472
+    second: Leo_DevSprites_257
+  - first:
+      213: -5469077322382636385
+    second: Leo_DevSprites_258
+  - first:
+      213: -6475459587891383556
+    second: Leo_DevSprites_259
+  - first:
+      213: -6722198057541123177
+    second: Leo_DevSprites_260
+  - first:
+      213: 1110735256839320578
+    second: Leo_DevSprites_261
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leo_DevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3405
+        width: 62
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee53692bb79acf00800000000000000
+      internalID: 1137888685973528290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3405
+        width: 61
+        height: 100
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196e74743ebcf450800000000000000
+      internalID: 6123978725819050266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3405
+        width: 66
+        height: 101
+      alignment: 9
+      pivot: {x: 0.40909094, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f928f999a3fd88e0800000000000000
+      internalID: -1689426375435867660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3405
+        width: 61
+        height: 101
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04df3c6b20e68990800000000000000
+      internalID: -7383968061923011573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3267
+        width: 62
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800215883aa022b0800000000000000
+      internalID: -5611297975976198003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3267
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb78a3e0994c8120800000000000000
+      internalID: 2417387986634701765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3267
+        width: 56
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ff604e9c430f5d0800000000000000
+      internalID: -3030864507501609090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3261
+        width: 48
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc5d6123c00c7d0800000000000000
+      internalID: -2900304750755590300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3261
+        width: 47
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a945e1ad2541f94c0800000000000000
+      internalID: -4278678774899387238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3261
+        width: 54
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3cd5c563c7c3570800000000000000
+      internalID: 8447763573959934960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3261
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7284fcbf101760800000000000000
+      internalID: 7426470681950453574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3260
+        width: 54
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8661ad0d07ba30800000000000000
+      internalID: 4230864727131458624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3260
+        width: 45
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bea31593c6b090800000000000000
+      internalID: -8019007041438828156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3106
+        width: 49
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5102041, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024eb366c8e499960800000000000000
+      internalID: 7609199410336752672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3109
+        width: 48
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5208333, y: -0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b37a83ac0580d9d0800000000000000
+      internalID: -2751553082993511495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3106
+        width: 49
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5102041, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63347405116533ad0800000000000000
+      internalID: -2723738717267737802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3106
+        width: 59
+        height: 93
+      alignment: 9
+      pivot: {x: 0.42372882, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8240baa758d6b620800000000000000
+      internalID: 2789654890240033421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3109
+        width: 73
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4520548, y: -0.036585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ec3a12c69ea7e10800000000000000
+      internalID: 2196324418926661230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3106
+        width: 77
+        height: 85
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e7396b2ae706a0800000000000000
+      internalID: -6482955666406775656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3106
+        width: 73
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4520548, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a27dcf91409bbd0800000000000000
+      internalID: -2614053599049209270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3107
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5350ed025346c940800000000000000
+      internalID: 5316010429856633690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_21
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3110
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36c3074217c8990800000000000000
+      internalID: -7382401287851318356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_22
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3110
+        width: 48
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a9cb0fd921e610800000000000000
+      internalID: 1648644976546521513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_23
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3109
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50800cb92750fba30800000000000000
+      internalID: 4233108164549019653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_24
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3109
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996920b95e2206e0800000000000000
+      internalID: -1872883532290233955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2936
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf18bb89359c870800000000000000
+      internalID: 8703579670316186850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2936
+        width: 54
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e25ace8a725ed20800000000000000
+      internalID: 3307093107851734646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2935
+        width: 47
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4cb1faf613b0510800000000000000
+      internalID: 1516360055289267365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2933
+        width: 74
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca246f8f2e26460800000000000000
+      internalID: 7233593510421769241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2933
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2cb5255c4d3fc40800000000000000
+      internalID: 5545009510178603774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2934
+        width: 54
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b47f263a0ae5130800000000000000
+      internalID: 3557457379269757705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_31
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2934
+        width: 69
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bfe9cece18840d0800000000000000
+      internalID: -3438355460915266745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_32
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2934
+        width: 73
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56cafb0ec9754a40800000000000000
+      internalID: 5351817658070910558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_33
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2934
+        width: 73
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5be6bc190b177f0800000000000000
+      internalID: -616517533743270469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2764
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a91e802d77fb30800000000000000
+      internalID: 4321059946261749777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2764
+        width: 58
+        height: 107
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b528c101021f00b0800000000000000
+      internalID: -5760365602849413703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2764
+        width: 96
+        height: 104
+      alignment: 9
+      pivot: {x: 0.2604167, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb4204bc09145780800000000000000
+      internalID: -8695297438195233846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2764
+        width: 95
+        height: 103
+      alignment: 9
+      pivot: {x: 0.2526316, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff06e9c2f0b0110800000000000000
+      internalID: 1228092007698726797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2764
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4dc7e9b94285510800000000000000
+      internalID: 1538019523544536279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_39
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2766
+        width: 56
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4107143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc473501bb3b16290800000000000000
+      internalID: -7898834655416978225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_40
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2766
+        width: 48
+        height: 102
+      alignment: 9
+      pivot: {x: 0.3125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c9954ed97184ed0800000000000000
+      internalID: -2429666032058000354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_41
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2765
+        width: 56
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4464286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ac7752a62dfe4b0800000000000000
+      internalID: -5408873274111702435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_42
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2765
+        width: 83
+        height: 96
+      alignment: 9
+      pivot: {x: 0.33734939, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6fdf0f937af1630800000000000000
+      internalID: 3900019669624288955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_43
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2765
+        width: 81
+        height: 96
+      alignment: 9
+      pivot: {x: 0.28395063, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e66f613151a9130800000000000000
+      internalID: 3574192426005720732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_44
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2765
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4423077, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7286d9ffbbe55ec0800000000000000
+      internalID: -3578695119113125250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2764
+        width: 59
+        height: 100
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca40f635314e13390800000000000000
+      internalID: -7840234704620026708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2597
+        width: 58
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2f25c7d2f0aa20800000000000000
+      internalID: 3071721954406772407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2597
+        width: 76
+        height: 104
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f767d2afb6231b620800000000000000
+      internalID: 2788065083659220607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2626
+        width: 74
+        height: 71
+      alignment: 9
+      pivot: {x: 0.2837838, y: -0.4084507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e88f009861f6b30800000000000000
+      internalID: 4282666548335251019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2626
+        width: 116
+        height: 71
+      alignment: 9
+      pivot: {x: 0.21551724, y: -0.4084507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9fabb60ec0cb440800000000000000
+      internalID: 4952847848220326307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2626
+        width: 116
+        height: 67
+      alignment: 9
+      pivot: {x: 0.25862068, y: -0.453125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98303c5af6dd250800000000000000
+      internalID: 5971051438695221759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_51
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2626
+        width: 110
+        height: 69
+      alignment: 9
+      pivot: {x: 0.27272725, y: -0.42028984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d53938e73cf530800000000000000
+      internalID: 3890045648673036269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2422
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc6710af46b5f90800000000000000
+      internalID: -6963861373869174925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2422
+        width: 58
+        height: 107
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4ac91b2af89160800000000000000
+      internalID: 7032645881162256270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2422
+        width: 90
+        height: 111
+      alignment: 9
+      pivot: {x: 0.26666668, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a21ec02eb73870800000000000000
+      internalID: 8662601456375996976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_55
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2422
+        width: 58
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0335ff42a777a30800000000000000
+      internalID: 4212970275749441702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2422
+        width: 100
+        height: 103
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225bf1232bbadca0800000000000000
+      internalID: -5991270594694655445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_57
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2422
+        width: 58
+        height: 107
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc458a06f00ef1e0800000000000000
+      internalID: -2162289714352796483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_58
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2422
+        width: 92
+        height: 103
+      alignment: 9
+      pivot: {x: 0.26086956, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce0236f1ee6b8a0800000000000000
+      internalID: -6289578011001820062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_59
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2422
+        width: 64
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a852a13feed110800000000000000
+      internalID: 1287729539930696120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2421
+        width: 50
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ce4d37c6fb6270800000000000000
+      internalID: 8244954878419322218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_61
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2421
+        width: 53
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c94151850130c40800000000000000
+      internalID: 5477239542309493761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_62
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2421
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6cec2f39e1827e0800000000000000
+      internalID: -1790147231097108792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_63
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2419
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86027a97847dff170800000000000000
+      internalID: 8214520951625687144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_64
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2421
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4453b53e803c3c60800000000000000
+      internalID: 7799162042043290698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_65
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2419
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f23354b5637f60800000000000000
+      internalID: 8030874385696094560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_66
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2417
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9107868a612237d0800000000000000
+      internalID: -2940250865312267873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_67
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2419
+        width: 80
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a9cef21f003ad0800000000000000
+      internalID: -2724661200300694347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_68
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2417
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac30143c692ba520800000000000000
+      internalID: 2714308745127541933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_69
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2419
+        width: 80
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574fc4f26d729840800000000000000
+      internalID: 5229379981298059100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_70
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2417
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506173e73fec323c0800000000000000
+      internalID: -4385434066938817019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_71
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2419
+        width: 80
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8f7b30251d1df0800000000000000
+      internalID: -207986779607822723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_72
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2417
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d382a8cb61fbe20800000000000000
+      internalID: 3368436045323975988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_73
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2418
+        width: 54
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f008c50b9dd88f20800000000000000
+      internalID: 3425231174501925108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_74
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2418
+        width: 69
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b49232d5ed80270800000000000000
+      internalID: 8217062011740703628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_75
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2418
+        width: 73
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278afb3041e111920800000000000000
+      internalID: 2959179501470197874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_76
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2418
+        width: 73
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f72bd5430fd6e0800000000000000
+      internalID: -1810724926615193597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2285
+        width: 72
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f07c55b167a0b7b0800000000000000
+      internalID: -5210480730771263242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2285
+        width: 97
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aee2c8dc97b7830800000000000000
+      internalID: 4069980611986516515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2285
+        width: 125
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1828f4d2f84849ff0800000000000000
+      internalID: -30253547009375615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2285
+        width: 65
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64888137683a3390800000000000000
+      internalID: -7837890185621109654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_81
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2291
+        width: 106
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc28b96c49d7c30800000000000000
+      internalID: 4358803595097984417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_82
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2291
+        width: 106
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7efb902d807ea0800000000000000
+      internalID: -5877042342522880237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_83
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2291
+        width: 106
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59e9816c2ef9090800000000000000
+      internalID: -8025446670506486279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_84
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2291
+        width: 85
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbf4e6cce9cde560800000000000000
+      internalID: 7344748586097507319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_85
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2288
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeaa2d72a653c1f0800000000000000
+      internalID: -1025881034225701150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_86
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2291
+        width: 52
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60350aa934b16b220800000000000000
+      internalID: 2501216620221846278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_87
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2291
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cd755b0dc68ab50800000000000000
+      internalID: 6604648497190263909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_88
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2300
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85507c6ba56cfdb0800000000000000
+      internalID: -4756815319476972148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_89
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2291
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b721eca87c2ce90800000000000000
+      internalID: -7006818671258338417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2063
+        width: 57
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d089e2e02d594270800000000000000
+      internalID: 8235215789450952913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2063
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ab5908a7d5fac0800000000000000
+      internalID: -3821911592042519254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2063
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e60682efa78420800000000000000
+      internalID: 2632265894667412061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_93
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2063
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d0a92f1726b1b0800000000000000
+      internalID: -5641278468439091511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_94
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2063
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77de09e191a7da20800000000000000
+      internalID: 3087113717638158206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_95
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2063
+        width: 47
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c987a441c3ce3a0800000000000000
+      internalID: -6634862093177152489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_96
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2063
+        width: 51
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57844153d4227fbb0800000000000000
+      internalID: -4902411954371147659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_97
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1916
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4d65cb0450fde70800000000000000
+      internalID: 9142031544181249277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1965
+        width: 63
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a799566ea59b2c870800000000000000
+      internalID: 8701721230096832890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_99
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1921
+        width: 45
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77a9e4582215add0800000000000000
+      internalID: -2475552455737628805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1788
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a27c3419ef28a40800000000000000
+      internalID: 5369133605639891509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1787
+        width: 53
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86376bf1516511140800000000000000
+      internalID: 4688623335795749736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1854
+        width: 54
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d9e00e5b946ca0800000000000000
+      internalID: -6024519573470326784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_103
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1865
+        width: 63
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3c0cceb6a9add0800000000000000
+      internalID: -2474263181866025898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_104
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1788
+        width: 40
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b19abb2ea4ead70800000000000000
+      internalID: 9056258238360132442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_105
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1784
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb879a69488318c30800000000000000
+      internalID: 4359828056385878204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_106
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1784
+        width: 54
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d95744635504bb0800000000000000
+      internalID: -4953865898542392055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_107
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1784
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853216149804aae90800000000000000
+      internalID: -7013722511424543912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_108
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1813
+        width: 58
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd22c66660af6af70800000000000000
+      internalID: 9198314194345927389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_109
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1813
+        width: 58
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71776228d47d7920800000000000000
+      internalID: 2989674199282839932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_110
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1784
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da89b51423674d0800000000000000
+      internalID: -3137264834125976165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_111
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1784
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa642b276c2be750800000000000000
+      internalID: 6335206122443795115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_112
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1784
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a082a0bb780180800000000000000
+      internalID: -9148926644432361881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_113
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1784
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f051f4fe9746bdb60800000000000000
+      internalID: 7771916056826680591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_114
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1592
+        width: 45
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a67d7fc75c1dd0800000000000000
+      internalID: -2514037943304803896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_115
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1626
+        width: 77
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c876e6ba5ab8de0800000000000000
+      internalID: -1329787109247579075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_116
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1632
+        width: 46
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b5425d425ef9ce0800000000000000
+      internalID: -1396145413104051450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_117
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1616
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822536db71e8adb0800000000000000
+      internalID: -4780323082462748026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_118
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1613
+        width: 46
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9233698e1173f0800000000000000
+      internalID: -904908474701144909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_119
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1580
+        width: 63
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cf9c818c4bca7a0800000000000000
+      internalID: -6364513401879004142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_120
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1503
+        width: 40
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7bcfa4cbfdf3bf0800000000000000
+      internalID: -342309046851946540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_121
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1541
+        width: 74
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625ee2760f369820800000000000000
+      internalID: 2924594304954290793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_122
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1541
+        width: 116
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818368548e16f550800000000000000
+      internalID: 6194171891262128512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_123
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1544
+        width: 116
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c160c6092fda50800000000000000
+      internalID: 6547997492194165058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_124
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1544
+        width: 110
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff592c960d3f01280800000000000000
+      internalID: -9074485172698442241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_125
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1523
+        width: 74
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff301d5d74d55d0800000000000000
+      internalID: -3072220387136503995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_126
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1499
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d92e37e938d8530800000000000000
+      internalID: 3858885172298685746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1335
+        width: 51
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1a650902a8d5790800000000000000
+      internalID: -7539718328683159047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_128
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1335
+        width: 51
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee82ddbc72a5230800000000000000
+      internalID: 3628256206342647480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_129
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1336
+        width: 51
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3eeec8519dd3070800000000000000
+      internalID: 8087859192409285610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_130
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1335
+        width: 51
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a16ac032d3e3f0800000000000000
+      internalID: -872622795784085298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_131
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1336
+        width: 51
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a661ad2c917060800000000000000
+      internalID: 6949507419804706701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_132
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1335
+        width: 51
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7ecfb1cbcd8b90800000000000000
+      internalID: -7237904993107411179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_133
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1335
+        width: 51
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0703ea29ed5475bc0800000000000000
+      internalID: -3794487338790408080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_134
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1336
+        width: 51
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77d25186879b210800000000000000
+      internalID: 1349241951801407465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_135
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1335
+        width: 51
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d637df2fd19dc30800000000000000
+      internalID: 4384568641693379999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_136
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1336
+        width: 51
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76336909703cbdbe0800000000000000
+      internalID: -1451352017638902937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_137
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1196
+        width: 48
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050ce82a4aef5f00800000000000000
+      internalID: 1107861637591467275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_138
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1160
+        width: 39
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8e9ab5e5ffeec0800000000000000
+      internalID: -3535336815435281515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_139
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1161
+        width: 156
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d933f8c09cff050800000000000000
+      internalID: 5836604697874767116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_140
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1292
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6376bace3529ca0800000000000000
+      internalID: -6011650276633135376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_141
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1295
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cacf3233c0e1010800000000000000
+      internalID: 1161379167694793812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_142
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1159
+        width: 52
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3fb4739a2f43ac0800000000000000
+      internalID: -3876206570668035083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_143
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1281
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d1fc4f4eeab1f30800000000000000
+      internalID: 4547420547143638387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_144
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1284
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62726a565ccb04fd0800000000000000
+      internalID: -2359678648742172890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_145
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1268
+        width: 39
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fd9d097f4663f0800000000000000
+      internalID: -907950893530482244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_146
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1238
+        width: 33
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8ad3ca9d799e80800000000000000
+      internalID: -8171361945222739114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_147
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1189
+        width: 69
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c9a3ae962dddf40800000000000000
+      internalID: 5754987251192470619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_148
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1258
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60186450fd4d31f0800000000000000
+      internalID: -1063608242385973142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_149
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1227
+        width: 46
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797df3f9142411340800000000000000
+      internalID: 4832716724757321623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_150
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1140
+        width: 46
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d0e9b050666f80800000000000000
+      internalID: -8113691778829200562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_151
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1199
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b40ebf3c1e57c50800000000000000
+      internalID: 6662479455625169765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_152
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1245
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f998fad258acc780800000000000000
+      internalID: -8661362909525796363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_153
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1204
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4843acd9b8ad770800000000000000
+      internalID: 8636368745254913277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_154
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1206
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0437418fd585dc780800000000000000
+      internalID: -8661169347746303168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_155
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1202
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a9d54355e7a5a70800000000000000
+      internalID: 8816498124947036779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_156
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1186
+        width: 88
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37045d427e031480800000000000000
+      internalID: -8929777752059148483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_157
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1233
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d80b694a66a0b6c0800000000000000
+      internalID: -4129617882870249259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_158
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1233
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34902b70c039a4130800000000000000
+      internalID: 3551812936013056323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_159
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1227
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec61d793f5291f340800000000000000
+      internalID: 4895855207612487374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_160
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1221
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7044e199554e20800000000000000
+      internalID: 3334169582272281975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_161
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1221
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095d5c0353fbb450800000000000000
+      internalID: 6105741257846118660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_162
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1185
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf6ea35c72de310800000000000000
+      internalID: 1435847584251313236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_163
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1207
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba4806857d82020800000000000000
+      internalID: 2317338782858521382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_164
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1161
+        width: 65
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff420b77d4a60000800000000000000
+      internalID: 1870095248936955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_165
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1204
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9473a47efa086730800000000000000
+      internalID: 3992453157658784923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_166
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1186
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ed1a2c5bd74950800000000000000
+      internalID: 6433351781612119705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_167
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1202
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0556215c265bc50800000000000000
+      internalID: 6680354220830707933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_168
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1187
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deea29d363da5680800000000000000
+      internalID: -8765461298924556592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_169
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1035
+        width: 51
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac1f384dd6af41f0800000000000000
+      internalID: -1058443918078698332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_170
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1076
+        width: 44
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a388b32f6aed77c0800000000000000
+      internalID: -4071840725011496027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_171
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1154
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cee4078692e9c20800000000000000
+      internalID: 3215052712526670887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_172
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1157
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af157b353dbe820800000000000000
+      internalID: 2948682737555470982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_173
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1147
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e9952d0c357a390800000000000000
+      internalID: -7807179341395550714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_174
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1150
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053f839f48a879320800000000000000
+      internalID: 2564670816532362064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_175
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1157
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e558db3f846100800000000000000
+      internalID: 100362578904344439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_176
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1160
+        width: 39
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cbde8eaff0b2f70800000000000000
+      internalID: 9163435437139541040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_177
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1150
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192eb68c634a61a20800000000000000
+      internalID: 3032791954278310545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_178
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 975
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02874033a7aba8f50800000000000000
+      internalID: 6884520014393931808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_179
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 974
+        width: 44
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3816aab2acc9330800000000000000
+      internalID: 3719069681192108971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_180
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 998
+        width: 52
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbdac55766ee31d0800000000000000
+      internalID: -3369002139731174435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_181
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 970
+        width: 44
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42b50c724362e10800000000000000
+      internalID: 2172481215588410552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_182
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 969
+        width: 43
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2453a3d2893fb10800000000000000
+      internalID: 2014120778382263013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_183
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 969
+        width: 45
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca204178dcec820800000000000000
+      internalID: 2940513586759511279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_184
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 978
+        width: 154
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903a096fa6e7e250800000000000000
+      internalID: 5973997071786193045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_185
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 972
+        width: 176
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9302389a20806a0800000000000000
+      internalID: -6482928736527173213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_186
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 975
+        width: 94
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab2184ee9839e090800000000000000
+      internalID: -8004804607584687186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_187
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 977
+        width: 94
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000825ea598efb9d0800000000000000
+      internalID: -2756228717355040768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_188
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 978
+        width: 42
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5040b1737444e20a0800000000000000
+      internalID: -6904506106054507515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_189
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 978
+        width: 48
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4963c89b58f13d90800000000000000
+      internalID: -7119636463607387828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_190
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 783
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f8abdda97d6f40800000000000000
+      internalID: 5723364489079354181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_191
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 785
+        width: 48
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94edad46e9bbfe370800000000000000
+      internalID: 8354102122766851657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_192
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 785
+        width: 48
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c476c7247ec98a00800000000000000
+      internalID: 759365010467484864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_193
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 785
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6713fcf2a12a6b210800000000000000
+      internalID: 1348443371798999414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_194
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 785
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e407ffaa124178c0800000000000000
+      internalID: -4003345911366875933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_195
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 785
+        width: 49
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b41e37a22308c30800000000000000
+      internalID: 4359539597208800092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_196
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 785
+        width: 48
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975ee7677514b200800000000000000
+      internalID: 194804286472738708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_197
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 785
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961812c9a0f6a4a0800000000000000
+      internalID: -6582309193458903399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_198
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 785
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641ecc3a2a1ab2e0800000000000000
+      internalID: -2109344706758568850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_199
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 863
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9958e316cef64c0800000000000000
+      internalID: -4291952017455867455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_200
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 785
+        width: 66
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c01ff7b6afd75c0800000000000000
+      internalID: -4215938336533967722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_201
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 785
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb52670202d4fe0800000000000000
+      internalID: -1203270201644827122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_202
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 787
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c425d71964be5430800000000000000
+      internalID: 3773651901247464643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_203
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 786
+        width: 54
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50fd57637a3ba3f0800000000000000
+      internalID: -888552234145681316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_204
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 787
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b16f58b0e677a0800000000000000
+      internalID: -6379664739644885265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_205
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 784
+        width: 48
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b56311e814a4c70800000000000000
+      internalID: 8956042887409588997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_206
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 787
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d863d932d117af5e0800000000000000
+      internalID: -1875061924880894323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_207
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 784
+        width: 48
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d4f332553ba9410800000000000000
+      internalID: 1484696205416942987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_208
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 783
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bf0dd5195aa6aa0800000000000000
+      internalID: -6166934695967655026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_209
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 785
+        width: 80
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9cc6e03fe242f0800000000000000
+      internalID: -989965974758450090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_210
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 783
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e096f207dec4ff40800000000000000
+      internalID: 5761457246176710880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_211
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 785
+        width: 80
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8327aba5e67bb0800000000000000
+      internalID: -4938507415958877589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_212
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 783
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5b90fb5986a900800000000000000
+      internalID: 695394220447063051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_213
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 785
+        width: 80
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd61b32adcbc02a0800000000000000
+      internalID: -6769828494756975150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_214
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 783
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0e10414bd143d0800000000000000
+      internalID: -3224054784925495925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_215
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 595
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0c1ebd339ceb70800000000000000
+      internalID: 8929674054560648513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_216
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 595
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd956ba8e33a16e70800000000000000
+      internalID: 9106739410530359773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_217
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 595
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d89758ab383860800000000000000
+      internalID: 7509817972850480434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_218
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 595
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0cb666cfdd51f10800000000000000
+      internalID: 2239940465806524618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_219
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 595
+        width: 67
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25d1910d11ce600800000000000000
+      internalID: 498793244203504360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_220
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 595
+        width: 67
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975cf42fa2d9ffe0800000000000000
+      internalID: -1154660179762194544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_221
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 595
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40c24a071df64a0800000000000000
+      internalID: -6597824647353596741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_222
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 595
+        width: 67
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6cdad34a6852e40800000000000000
+      internalID: 5631054949064230652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_223
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 588
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee84251b4d73b970800000000000000
+      internalID: 8769490660851224299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_224
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 588
+        width: 69
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3b204d7969cb10800000000000000
+      internalID: 2002247496011299555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_225
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 588
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700a105c5e2fc1e0800000000000000
+      internalID: -2175469120980909968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_226
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 588
+        width: 69
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c72377e5af81bc90800000000000000
+      internalID: -7155780390199547959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_227
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 588
+        width: 76
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f5c71fb88082920800000000000000
+      internalID: 2965629751768407933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_228
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 588
+        width: 69
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e460aeb9aacde0800000000000000
+      internalID: -1312049705225231669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_229
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 596
+        width: 70
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e896233d4dfc36c0800000000000000
+      internalID: -4162173447584704282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_230
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 596
+        width: 69
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1733b8512257e9cb0800000000000000
+      internalID: -4855314559008033935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 441
+        width: 64
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b994301339d180800000000000000
+      internalID: -9090178228175653354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_232
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 440
+        width: 49
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191f98ffb06528b90800000000000000
+      internalID: -7241130641326476911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_233
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 441
+        width: 44
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8a6b038d99fee0800000000000000
+      internalID: -1226776237323940817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_234
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 441
+        width: 64
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a470e6b47cabc0800000000000000
+      internalID: -3770510459217335926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_235
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 440
+        width: 48
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9552326f518c7060800000000000000
+      internalID: 6952574171422545306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_236
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 447
+        width: 45
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bc2cf7ae907830800000000000000
+      internalID: 4066924907843073523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_237
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 447
+        width: 45
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f67b78aacf1a680800000000000000
+      internalID: -8745431192025206906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_238
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 447
+        width: 46
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62be0825206221f0800000000000000
+      internalID: -1071188048658648468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_239
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 444
+        width: 49
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959220e5a051f9f0800000000000000
+      internalID: -436479015518038629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_240
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 441
+        width: 65
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ffb123dff5e1eb0800000000000000
+      internalID: -4747251416129863785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_241
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 450
+        width: 48
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8810cdc800992f680800000000000000
+      internalID: -8722741300620951160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_242
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 450
+        width: 42
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b30349d3e39e950800000000000000
+      internalID: 6478777973149285233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_243
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 449
+        width: 44
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b147a9063b2fb8880800000000000000
+      internalID: -8607519410554768357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_244
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 359
+        width: 111
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef37c95b441f630800000000000000
+      internalID: 3959021094239993361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_245
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 278
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d54a30ce2054ac0800000000000000
+      internalID: -3871685091958432492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_246
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 124
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1d36e6bdca85c0800000000000000
+      internalID: -4212328316021171368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_247
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 269
+        width: 107
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbecb1a424e4b200800000000000000
+      internalID: 195031529867242433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_248
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 311
+        width: 111
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fa61b088f3d22a0800000000000000
+      internalID: -6760677612079108233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_249
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 183
+        width: 111
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc72f43456f0fc30800000000000000
+      internalID: 4391280478212226263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_250
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 109
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845a85f448e00fa20800000000000000
+      internalID: 3093988905433212232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_251
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 108
+        width: 54
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d5aac00ffa8cd0800000000000000
+      internalID: -2554949459714385433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_252
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 108
+        width: 45
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac9b8776bcceda60800000000000000
+      internalID: 7700817496911879339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_253
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 108
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80ae16cbde8eea0800000000000000
+      internalID: -5843159123160856334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_254
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 108
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e3a401109291f0800000000000000
+      internalID: -1039610161202469142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_255
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 108
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555eb69147d2f5c80800000000000000
+      internalID: -8331890808946170539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_256
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 108
+        width: 40
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f025b7d145a299a0800000000000000
+      internalID: -6227733632489545481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_257
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 92
+        width: 101
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82968e4d6a53467e0800000000000000
+      internalID: -1773233362624288472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_258
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 95
+        width: 124
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0d36d62fe914b0800000000000000
+      internalID: -5469077322382636385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_259
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 93
+        width: 107
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2365230db8226a0800000000000000
+      internalID: -6475459587891383556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_260
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 135
+        width: 111
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c07e7b74f5b2a0800000000000000
+      internalID: -6722198057541123177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_DevSprites_261
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 110
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f867c4df1a6f00800000000000000
+      internalID: 1110735256839320578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

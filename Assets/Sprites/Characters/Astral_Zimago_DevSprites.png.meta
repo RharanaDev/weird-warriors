@@ -1,0 +1,5218 @@
+fileFormatVersion: 2
+guid: b0c483cd8b38c4146b79929a6dd00a3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7248196294113245721
+    second: Astral_Zimago_DevSprites_0
+  - first:
+      213: -4852299860537191255
+    second: Astral_Zimago_DevSprites_1
+  - first:
+      213: 3895254306077621103
+    second: Astral_Zimago_DevSprites_2
+  - first:
+      213: -1273198354964647662
+    second: Astral_Zimago_DevSprites_3
+  - first:
+      213: -4543812856735010459
+    second: Astral_Zimago_DevSprites_4
+  - first:
+      213: 1494262950516159852
+    second: Astral_Zimago_DevSprites_5
+  - first:
+      213: 2696509400718370086
+    second: Astral_Zimago_DevSprites_6
+  - first:
+      213: -1854407843166854431
+    second: Astral_Zimago_DevSprites_7
+  - first:
+      213: -1945889327064777019
+    second: Astral_Zimago_DevSprites_8
+  - first:
+      213: 348909813260564519
+    second: Astral_Zimago_DevSprites_9
+  - first:
+      213: -4487342573562737969
+    second: Astral_Zimago_DevSprites_10
+  - first:
+      213: -6618501624290931752
+    second: Astral_Zimago_DevSprites_11
+  - first:
+      213: -4109441348351753089
+    second: Astral_Zimago_DevSprites_12
+  - first:
+      213: -3899694411342085388
+    second: Astral_Zimago_DevSprites_13
+  - first:
+      213: 939663444351205799
+    second: Astral_Zimago_DevSprites_14
+  - first:
+      213: 1053602129680703837
+    second: Astral_Zimago_DevSprites_15
+  - first:
+      213: 2357079674627268740
+    second: Astral_Zimago_DevSprites_16
+  - first:
+      213: 2135012582608838086
+    second: Astral_Zimago_DevSprites_17
+  - first:
+      213: -3434509444209704866
+    second: Astral_Zimago_DevSprites_18
+  - first:
+      213: 7611750984594177674
+    second: Astral_Zimago_DevSprites_19
+  - first:
+      213: -5268390052743179413
+    second: Astral_Zimago_DevSprites_20
+  - first:
+      213: -123536203910919967
+    second: Astral_Zimago_DevSprites_21
+  - first:
+      213: 3234688475671447254
+    second: Astral_Zimago_DevSprites_22
+  - first:
+      213: 5266817881983377972
+    second: Astral_Zimago_DevSprites_23
+  - first:
+      213: 4349544247799996101
+    second: Astral_Zimago_DevSprites_24
+  - first:
+      213: 4008994921475903776
+    second: Astral_Zimago_DevSprites_25
+  - first:
+      213: 9175589569905714099
+    second: Astral_Zimago_DevSprites_26
+  - first:
+      213: 6674536071298570418
+    second: Astral_Zimago_DevSprites_27
+  - first:
+      213: 387317440033500950
+    second: Astral_Zimago_DevSprites_28
+  - first:
+      213: 3089061483418711932
+    second: Astral_Zimago_DevSprites_29
+  - first:
+      213: -716534912067659701
+    second: Astral_Zimago_DevSprites_30
+  - first:
+      213: 6677525829787183251
+    second: Astral_Zimago_DevSprites_31
+  - first:
+      213: -1585580615953290310
+    second: Astral_Zimago_DevSprites_32
+  - first:
+      213: 9037629230611751809
+    second: Astral_Zimago_DevSprites_33
+  - first:
+      213: 5957131881626433583
+    second: Astral_Zimago_DevSprites_34
+  - first:
+      213: -4564272394330860682
+    second: Astral_Zimago_DevSprites_35
+  - first:
+      213: -5702596765565764673
+    second: Astral_Zimago_DevSprites_36
+  - first:
+      213: 9006810868421969392
+    second: Astral_Zimago_DevSprites_37
+  - first:
+      213: -292291779887601684
+    second: Astral_Zimago_DevSprites_38
+  - first:
+      213: -4049967747671455398
+    second: Astral_Zimago_DevSprites_39
+  - first:
+      213: 6131794030211724793
+    second: Astral_Zimago_DevSprites_40
+  - first:
+      213: 8892849209450687474
+    second: Astral_Zimago_DevSprites_41
+  - first:
+      213: -7467460523350189533
+    second: Astral_Zimago_DevSprites_42
+  - first:
+      213: 8446737111344460748
+    second: Astral_Zimago_DevSprites_43
+  - first:
+      213: -4514070216203678351
+    second: Astral_Zimago_DevSprites_44
+  - first:
+      213: 7005929987863725430
+    second: Astral_Zimago_DevSprites_45
+  - first:
+      213: 2402236719734048232
+    second: Astral_Zimago_DevSprites_46
+  - first:
+      213: 1299250506053846854
+    second: Astral_Zimago_DevSprites_47
+  - first:
+      213: -4991935342877597849
+    second: Astral_Zimago_DevSprites_48
+  - first:
+      213: -6184292998688091683
+    second: Astral_Zimago_DevSprites_49
+  - first:
+      213: 6110777401749555324
+    second: Astral_Zimago_DevSprites_50
+  - first:
+      213: -3804294053465949000
+    second: Astral_Zimago_DevSprites_51
+  - first:
+      213: 124416468542449897
+    second: Astral_Zimago_DevSprites_52
+  - first:
+      213: -3634662245932160425
+    second: Astral_Zimago_DevSprites_53
+  - first:
+      213: 3123720292783573099
+    second: Astral_Zimago_DevSprites_54
+  - first:
+      213: 7932414434612251931
+    second: Astral_Zimago_DevSprites_55
+  - first:
+      213: 21969811136348164
+    second: Astral_Zimago_DevSprites_56
+  - first:
+      213: 7042779574499008324
+    second: Astral_Zimago_DevSprites_57
+  - first:
+      213: 1966445805738863912
+    second: Astral_Zimago_DevSprites_58
+  - first:
+      213: -6794179325984517435
+    second: Astral_Zimago_DevSprites_59
+  - first:
+      213: 4302560379617401561
+    second: Astral_Zimago_DevSprites_60
+  - first:
+      213: -5872892599150933623
+    second: Astral_Zimago_DevSprites_61
+  - first:
+      213: 6412595477850469609
+    second: Astral_Zimago_DevSprites_62
+  - first:
+      213: 930131575426084824
+    second: Astral_Zimago_DevSprites_63
+  - first:
+      213: 2893762813846574841
+    second: Astral_Zimago_DevSprites_64
+  - first:
+      213: -514894529050854422
+    second: Astral_Zimago_DevSprites_65
+  - first:
+      213: -5431056095129829516
+    second: Astral_Zimago_DevSprites_66
+  - first:
+      213: 7205120453784115206
+    second: Astral_Zimago_DevSprites_67
+  - first:
+      213: -5237208731651158725
+    second: Astral_Zimago_DevSprites_68
+  - first:
+      213: -3134841562378587713
+    second: Astral_Zimago_DevSprites_69
+  - first:
+      213: 4184615346389180227
+    second: Astral_Zimago_DevSprites_70
+  - first:
+      213: -7814057885776971135
+    second: Astral_Zimago_DevSprites_71
+  - first:
+      213: -1939546786039795529
+    second: Astral_Zimago_DevSprites_72
+  - first:
+      213: -2066900225505110053
+    second: Astral_Zimago_DevSprites_73
+  - first:
+      213: 6613418721192082109
+    second: Astral_Zimago_DevSprites_74
+  - first:
+      213: 8992638001385076048
+    second: Astral_Zimago_DevSprites_75
+  - first:
+      213: 7169710787602668089
+    second: Astral_Zimago_DevSprites_76
+  - first:
+      213: 4586332367853757496
+    second: Astral_Zimago_DevSprites_77
+  - first:
+      213: -7448841116784696727
+    second: Astral_Zimago_DevSprites_78
+  - first:
+      213: -2688328725357192906
+    second: Astral_Zimago_DevSprites_79
+  - first:
+      213: 2100663721336222013
+    second: Astral_Zimago_DevSprites_80
+  - first:
+      213: -7502295337624348622
+    second: Astral_Zimago_DevSprites_81
+  - first:
+      213: 5275371011367685124
+    second: Astral_Zimago_DevSprites_82
+  - first:
+      213: -7982132522658753652
+    second: Astral_Zimago_DevSprites_83
+  - first:
+      213: -424019176105428747
+    second: Astral_Zimago_DevSprites_84
+  - first:
+      213: -7750904980447506724
+    second: Astral_Zimago_DevSprites_85
+  - first:
+      213: -6135784973010670423
+    second: Astral_Zimago_DevSprites_86
+  - first:
+      213: -4633684665698617996
+    second: Astral_Zimago_DevSprites_87
+  - first:
+      213: -4267143267415139420
+    second: Astral_Zimago_DevSprites_88
+  - first:
+      213: 4167212247589560625
+    second: Astral_Zimago_DevSprites_89
+  - first:
+      213: -1824884242640944139
+    second: Astral_Zimago_DevSprites_90
+  - first:
+      213: -6719770612595961233
+    second: Astral_Zimago_DevSprites_91
+  - first:
+      213: -6626489736697825615
+    second: Astral_Zimago_DevSprites_92
+  - first:
+      213: -643813906798927751
+    second: Astral_Zimago_DevSprites_93
+  - first:
+      213: 6386965683620337380
+    second: Astral_Zimago_DevSprites_94
+  - first:
+      213: -8847822515737104169
+    second: Astral_Zimago_DevSprites_95
+  - first:
+      213: -6299427332490690680
+    second: Astral_Zimago_DevSprites_96
+  - first:
+      213: -3865162773311583477
+    second: Astral_Zimago_DevSprites_97
+  - first:
+      213: -2617272863721455940
+    second: Astral_Zimago_DevSprites_98
+  - first:
+      213: 2237191806903428298
+    second: Astral_Zimago_DevSprites_99
+  - first:
+      213: 1219967153237543593
+    second: Astral_Zimago_DevSprites_100
+  - first:
+      213: -2009092667796474021
+    second: Astral_Zimago_DevSprites_101
+  - first:
+      213: 2154778456645870567
+    second: Astral_Zimago_DevSprites_102
+  - first:
+      213: 3491336771550581715
+    second: Astral_Zimago_DevSprites_103
+  - first:
+      213: 9085845347825473705
+    second: Astral_Zimago_DevSprites_104
+  - first:
+      213: -5505941728634680305
+    second: Astral_Zimago_DevSprites_105
+  - first:
+      213: -1649161222569172359
+    second: Astral_Zimago_DevSprites_106
+  - first:
+      213: 3912475875527643489
+    second: Astral_Zimago_DevSprites_107
+  - first:
+      213: 3917238565419782386
+    second: Astral_Zimago_DevSprites_108
+  - first:
+      213: -7789280966808016369
+    second: Astral_Zimago_DevSprites_109
+  - first:
+      213: 2901141034534955569
+    second: Astral_Zimago_DevSprites_110
+  - first:
+      213: -1640297455218857157
+    second: Astral_Zimago_DevSprites_111
+  - first:
+      213: 329480822211598563
+    second: Astral_Zimago_DevSprites_112
+  - first:
+      213: -1585812465304729280
+    second: Astral_Zimago_DevSprites_113
+  - first:
+      213: 1626585390976961629
+    second: Astral_Zimago_DevSprites_114
+  - first:
+      213: 5757986027023837400
+    second: Astral_Zimago_DevSprites_115
+  - first:
+      213: 4010280664226015197
+    second: Astral_Zimago_DevSprites_116
+  - first:
+      213: -1528400914049917448
+    second: Astral_Zimago_DevSprites_117
+  - first:
+      213: 7683713437573061935
+    second: Astral_Zimago_DevSprites_118
+  - first:
+      213: 6987392009162191573
+    second: Astral_Zimago_DevSprites_119
+  - first:
+      213: -2376978760598467512
+    second: Astral_Zimago_DevSprites_120
+  - first:
+      213: 603603935472154581
+    second: Astral_Zimago_DevSprites_121
+  - first:
+      213: -2438245388783117929
+    second: Astral_Zimago_DevSprites_122
+  - first:
+      213: -9062792144597381772
+    second: Astral_Zimago_DevSprites_123
+  - first:
+      213: -4327280217741167291
+    second: Astral_Zimago_DevSprites_124
+  - first:
+      213: -6743708623987398406
+    second: Astral_Zimago_DevSprites_125
+  - first:
+      213: -5282736931305395061
+    second: Astral_Zimago_DevSprites_126
+  - first:
+      213: 5987588872044184938
+    second: Astral_Zimago_DevSprites_127
+  - first:
+      213: 4595040736438449972
+    second: Astral_Zimago_DevSprites_128
+  - first:
+      213: 2298173497775860448
+    second: Astral_Zimago_DevSprites_129
+  - first:
+      213: -6305622138496786086
+    second: Astral_Zimago_DevSprites_130
+  - first:
+      213: 8574041203104360590
+    second: Astral_Zimago_DevSprites_131
+  - first:
+      213: -3450936271857912535
+    second: Astral_Zimago_DevSprites_132
+  - first:
+      213: -7320694281759874556
+    second: Astral_Zimago_DevSprites_133
+  - first:
+      213: -1222359791991051735
+    second: Astral_Zimago_DevSprites_134
+  - first:
+      213: -7928318832883326226
+    second: Astral_Zimago_DevSprites_135
+  - first:
+      213: -6117617480499329077
+    second: Astral_Zimago_DevSprites_136
+  - first:
+      213: 3335789651471562874
+    second: Astral_Zimago_DevSprites_137
+  - first:
+      213: -4940293204724652835
+    second: Astral_Zimago_DevSprites_138
+  - first:
+      213: -4187731019658923197
+    second: Astral_Zimago_DevSprites_139
+  - first:
+      213: 2305455761836799797
+    second: Astral_Zimago_DevSprites_140
+  - first:
+      213: 8440206518481740934
+    second: Astral_Zimago_DevSprites_141
+  - first:
+      213: -5986226306662365874
+    second: Astral_Zimago_DevSprites_142
+  - first:
+      213: 6492648685970240431
+    second: Astral_Zimago_DevSprites_143
+  - first:
+      213: -2723218185078486547
+    second: Astral_Zimago_DevSprites_144
+  - first:
+      213: -4214245246227536920
+    second: Astral_Zimago_DevSprites_145
+  - first:
+      213: -5866586068993632194
+    second: Astral_Zimago_DevSprites_146
+  - first:
+      213: 5800299254141607885
+    second: Astral_Zimago_DevSprites_147
+  - first:
+      213: -7000799179987481970
+    second: Astral_Zimago_DevSprites_148
+  - first:
+      213: -8750562286795089465
+    second: Astral_Zimago_DevSprites_149
+  - first:
+      213: -96434901041828530
+    second: Astral_Zimago_DevSprites_150
+  - first:
+      213: 4959167201134109275
+    second: Astral_Zimago_DevSprites_151
+  - first:
+      213: 420240158471719760
+    second: Astral_Zimago_DevSprites_152
+  - first:
+      213: 7788589266923695490
+    second: Astral_Zimago_DevSprites_153
+  - first:
+      213: -3680180716719000590
+    second: Astral_Zimago_DevSprites_154
+  - first:
+      213: -2038267102596319436
+    second: Astral_Zimago_DevSprites_155
+  - first:
+      213: 859064496496270649
+    second: Astral_Zimago_DevSprites_156
+  - first:
+      213: 603272449001050502
+    second: Astral_Zimago_DevSprites_157
+  - first:
+      213: -1362288976132375192
+    second: Astral_Zimago_DevSprites_158
+  - first:
+      213: -7614139173195790164
+    second: Astral_Zimago_DevSprites_159
+  - first:
+      213: -6268713737872953722
+    second: Astral_Zimago_DevSprites_160
+  - first:
+      213: -75442669618486104
+    second: Astral_Zimago_DevSprites_161
+  - first:
+      213: 7815638834548339349
+    second: Astral_Zimago_DevSprites_162
+  - first:
+      213: -4290487078109975126
+    second: Astral_Zimago_DevSprites_163
+  - first:
+      213: -3818929975561593316
+    second: Astral_Zimago_DevSprites_164
+  - first:
+      213: -2975388150511158140
+    second: Astral_Zimago_DevSprites_165
+  - first:
+      213: -1520835028002440796
+    second: Astral_Zimago_DevSprites_166
+  - first:
+      213: 2813669402629781872
+    second: Astral_Zimago_DevSprites_167
+  - first:
+      213: -6219696280359549707
+    second: Astral_Zimago_DevSprites_168
+  - first:
+      213: -3308377424807312922
+    second: Astral_Zimago_DevSprites_169
+  - first:
+      213: 2862453285147026501
+    second: Astral_Zimago_DevSprites_170
+  - first:
+      213: -460732683727017338
+    second: Astral_Zimago_DevSprites_171
+  - first:
+      213: 2321256223563311644
+    second: Astral_Zimago_DevSprites_172
+  - first:
+      213: 9150492389288104986
+    second: Astral_Zimago_DevSprites_173
+  - first:
+      213: 7135274282475471307
+    second: Astral_Zimago_DevSprites_174
+  - first:
+      213: -4900991248004411342
+    second: Astral_Zimago_DevSprites_175
+  - first:
+      213: -4043101065497775784
+    second: Astral_Zimago_DevSprites_176
+  - first:
+      213: 7507465889177130888
+    second: Astral_Zimago_DevSprites_177
+  - first:
+      213: 810478830496984467
+    second: Astral_Zimago_DevSprites_178
+  - first:
+      213: 1760435152975853895
+    second: Astral_Zimago_DevSprites_179
+  - first:
+      213: -6549830498723007540
+    second: Astral_Zimago_DevSprites_180
+  - first:
+      213: -4933581079252098343
+    second: Astral_Zimago_DevSprites_181
+  - first:
+      213: -2629485107074572439
+    second: Astral_Zimago_DevSprites_182
+  - first:
+      213: -5540113753565204600
+    second: Astral_Zimago_DevSprites_183
+  - first:
+      213: 5532445898140650229
+    second: Astral_Zimago_DevSprites_184
+  - first:
+      213: 9009201794618841064
+    second: Astral_Zimago_DevSprites_185
+  - first:
+      213: -7998784810368203678
+    second: Astral_Zimago_DevSprites_186
+  - first:
+      213: -3698852081589232052
+    second: Astral_Zimago_DevSprites_187
+  - first:
+      213: 1442504335243207361
+    second: Astral_Zimago_DevSprites_188
+  - first:
+      213: 6923308574553455165
+    second: Astral_Zimago_DevSprites_189
+  - first:
+      213: -6015924334573098368
+    second: Astral_Zimago_DevSprites_190
+  - first:
+      213: 870881858162576635
+    second: Astral_Zimago_DevSprites_191
+  - first:
+      213: 3848887845318162728
+    second: Astral_Zimago_DevSprites_192
+  - first:
+      213: -2660531695812552641
+    second: Astral_Zimago_DevSprites_193
+  - first:
+      213: 7831035519683911175
+    second: Astral_Zimago_DevSprites_194
+  - first:
+      213: -8670684896046011305
+    second: Astral_Zimago_DevSprites_195
+  - first:
+      213: -2900483604230407854
+    second: Astral_Zimago_DevSprites_196
+  - first:
+      213: 8432817015190259804
+    second: Astral_Zimago_DevSprites_197
+  - first:
+      213: 9133023042293086763
+    second: Astral_Zimago_DevSprites_198
+  - first:
+      213: 567386604710457533
+    second: Astral_Zimago_DevSprites_199
+  - first:
+      213: 4649101466263226786
+    second: Astral_Zimago_DevSprites_200
+  - first:
+      213: -2440885174015774982
+    second: Astral_Zimago_DevSprites_201
+  - first:
+      213: -2573589457602353849
+    second: Astral_Zimago_DevSprites_202
+  - first:
+      213: 2096063567803045957
+    second: Astral_Zimago_DevSprites_203
+  - first:
+      213: 3529030897240877047
+    second: Astral_Zimago_DevSprites_204
+  - first:
+      213: 7424577711568406494
+    second: Astral_Zimago_DevSprites_205
+  - first:
+      213: 1198967273672423011
+    second: Astral_Zimago_DevSprites_206
+  - first:
+      213: -7701364605838649149
+    second: Astral_Zimago_DevSprites_207
+  - first:
+      213: -9067737538243512853
+    second: Astral_Zimago_DevSprites_208
+  - first:
+      213: -1932577538927315798
+    second: Astral_Zimago_DevSprites_209
+  - first:
+      213: -6910635620177565354
+    second: Astral_Zimago_DevSprites_210
+  - first:
+      213: -3058019201653588897
+    second: Astral_Zimago_DevSprites_211
+  - first:
+      213: -8430331023314171647
+    second: Astral_Zimago_DevSprites_212
+  - first:
+      213: -2225688256079110806
+    second: Astral_Zimago_DevSprites_213
+  - first:
+      213: -3248897088843903609
+    second: Astral_Zimago_DevSprites_214
+  - first:
+      213: -7273659804667706885
+    second: Astral_Zimago_DevSprites_215
+  - first:
+      213: 5557822781418123342
+    second: Astral_Zimago_DevSprites_216
+  - first:
+      213: 3227438445413531664
+    second: Astral_Zimago_DevSprites_217
+  - first:
+      213: 367095944843162000
+    second: Astral_Zimago_DevSprites_218
+  - first:
+      213: -778137544428259051
+    second: Astral_Zimago_DevSprites_219
+  - first:
+      213: 8447068734422954218
+    second: Astral_Zimago_DevSprites_220
+  - first:
+      213: 9186337213630939535
+    second: Astral_Zimago_DevSprites_221
+  - first:
+      213: 7415124133806406074
+    second: Astral_Zimago_DevSprites_222
+  - first:
+      213: -6464783629058771303
+    second: Astral_Zimago_DevSprites_223
+  - first:
+      213: -5333530326196581887
+    second: Astral_Zimago_DevSprites_224
+  - first:
+      213: 2955258348991936470
+    second: Astral_Zimago_DevSprites_225
+  - first:
+      213: -7973025902417749050
+    second: Astral_Zimago_DevSprites_226
+  - first:
+      213: 6809556392509384063
+    second: Astral_Zimago_DevSprites_227
+  - first:
+      213: 350215113750023890
+    second: Astral_Zimago_DevSprites_228
+  - first:
+      213: 6624605035557230000
+    second: Astral_Zimago_DevSprites_229
+  - first:
+      213: -6290599240696299450
+    second: Astral_Zimago_DevSprites_230
+  - first:
+      213: -9193599534924565621
+    second: Astral_Zimago_DevSprites_231
+  - first:
+      213: 2727747788035929386
+    second: Astral_Zimago_DevSprites_232
+  - first:
+      213: -2063458966798151705
+    second: Astral_Zimago_DevSprites_233
+  - first:
+      213: -5767641390570138895
+    second: Astral_Zimago_DevSprites_234
+  - first:
+      213: -6350844407094754882
+    second: Astral_Zimago_DevSprites_235
+  - first:
+      213: 8454553788030991422
+    second: Astral_Zimago_DevSprites_236
+  - first:
+      213: 4484005095684063999
+    second: Astral_Zimago_DevSprites_237
+  - first:
+      213: -4847394443796194545
+    second: Astral_Zimago_DevSprites_238
+  - first:
+      213: 578744888015298730
+    second: Astral_Zimago_DevSprites_239
+  - first:
+      213: 4966551816135042076
+    second: Astral_Zimago_DevSprites_240
+  - first:
+      213: -8499615320253748237
+    second: Astral_Zimago_DevSprites_241
+  - first:
+      213: 3178689983892564706
+    second: Astral_Zimago_DevSprites_242
+  - first:
+      213: -257334822394081529
+    second: Astral_Zimago_DevSprites_243
+  - first:
+      213: 3957054677756813623
+    second: Astral_Zimago_DevSprites_244
+  - first:
+      213: -1692148952983014285
+    second: Astral_Zimago_DevSprites_245
+  - first:
+      213: -2713259897235308634
+    second: Astral_Zimago_DevSprites_246
+  - first:
+      213: -8779147069706374869
+    second: Astral_Zimago_DevSprites_247
+  - first:
+      213: -5354615147361161954
+    second: Astral_Zimago_DevSprites_248
+  - first:
+      213: 8927529186321321513
+    second: Astral_Zimago_DevSprites_249
+  - first:
+      213: 5088382375229387833
+    second: Astral_Zimago_DevSprites_250
+  - first:
+      213: -4883492515260947475
+    second: Astral_Zimago_DevSprites_251
+  - first:
+      213: -8253292357951967378
+    second: Astral_Zimago_DevSprites_252
+  - first:
+      213: 6695028993826221235
+    second: Astral_Zimago_DevSprites_253
+  - first:
+      213: 200397331642868859
+    second: Astral_Zimago_DevSprites_254
+  - first:
+      213: 4410928730929062444
+    second: Astral_Zimago_DevSprites_255
+  - first:
+      213: -1809346487819689568
+    second: Astral_Zimago_DevSprites_256
+  - first:
+      213: 8982467398646934785
+    second: Astral_Zimago_DevSprites_257
+  - first:
+      213: 8337480255357504635
+    second: Astral_Zimago_DevSprites_258
+  - first:
+      213: 3437380064466086849
+    second: Astral_Zimago_DevSprites_259
+  - first:
+      213: -9173500825583704117
+    second: Astral_Zimago_DevSprites_260
+  - first:
+      213: 1225007702385575169
+    second: Astral_Zimago_DevSprites_261
+  - first:
+      213: 147151485173477282
+    second: Astral_Zimago_DevSprites_262
+  - first:
+      213: -3210181429683871266
+    second: Astral_Zimago_DevSprites_263
+  - first:
+      213: -6670107277588327810
+    second: Astral_Zimago_DevSprites_264
+  - first:
+      213: -1100494410525918534
+    second: Astral_Zimago_DevSprites_265
+  - first:
+      213: -6768494459657279571
+    second: Astral_Zimago_DevSprites_266
+  - first:
+      213: -6139439507408966155
+    second: Astral_Zimago_DevSprites_267
+  - first:
+      213: 6590765008425684953
+    second: Astral_Zimago_DevSprites_268
+  - first:
+      213: -6883763058046681303
+    second: Astral_Zimago_DevSprites_269
+  - first:
+      213: 154898323748207110
+    second: Astral_Zimago_DevSprites_270
+  - first:
+      213: 875155272839970933
+    second: Astral_Zimago_DevSprites_271
+  - first:
+      213: 5594713480049612173
+    second: Astral_Zimago_DevSprites_272
+  - first:
+      213: 4319168081396370319
+    second: Astral_Zimago_DevSprites_273
+  - first:
+      213: -6220688426043596427
+    second: Astral_Zimago_DevSprites_274
+  - first:
+      213: 1337383026222056584
+    second: Astral_Zimago_DevSprites_275
+  - first:
+      213: -7503760629611149718
+    second: Astral_Zimago_DevSprites_276
+  - first:
+      213: -5453647099886556369
+    second: Astral_Zimago_DevSprites_277
+  - first:
+      213: 455804201957035301
+    second: Astral_Zimago_DevSprites_278
+  - first:
+      213: 5318462318317388456
+    second: Astral_Zimago_DevSprites_279
+  - first:
+      213: 3261386120851211731
+    second: Astral_Zimago_DevSprites_280
+  - first:
+      213: -5953734424318517551
+    second: Astral_Zimago_DevSprites_281
+  - first:
+      213: 7231561002090129240
+    second: Astral_Zimago_DevSprites_282
+  - first:
+      213: -8046816463855338181
+    second: Astral_Zimago_DevSprites_283
+  - first:
+      213: -226398952435321085
+    second: Astral_Zimago_DevSprites_284
+  - first:
+      213: 825091315735722028
+    second: Astral_Zimago_DevSprites_285
+  - first:
+      213: -2188200033992140328
+    second: Astral_Zimago_DevSprites_286
+  - first:
+      213: 3196108653482169009
+    second: Astral_Zimago_DevSprites_287
+  - first:
+      213: -8798312435614381881
+    second: Astral_Zimago_DevSprites_288
+  - first:
+      213: 6390684011838561610
+    second: Astral_Zimago_DevSprites_289
+  - first:
+      213: -2605257316131168548
+    second: Astral_Zimago_DevSprites_290
+  - first:
+      213: 6602573592636654062
+    second: Astral_Zimago_DevSprites_291
+  - first:
+      213: 5649640246876396784
+    second: Astral_Zimago_DevSprites_292
+  - first:
+      213: 3342292753362881027
+    second: Astral_Zimago_DevSprites_293
+  - first:
+      213: 4518245552814617949
+    second: Astral_Zimago_DevSprites_294
+  - first:
+      213: 5932084239672946236
+    second: Astral_Zimago_DevSprites_295
+  - first:
+      213: 8366902151105451891
+    second: Astral_Zimago_DevSprites_296
+  - first:
+      213: -4369765237971752147
+    second: Astral_Zimago_DevSprites_297
+  - first:
+      213: 2499001810000896827
+    second: Astral_Zimago_DevSprites_298
+  - first:
+      213: 2664003430599705025
+    second: Astral_Zimago_DevSprites_299
+  - first:
+      213: 6310497446923088945
+    second: Astral_Zimago_DevSprites_300
+  - first:
+      213: -1013219954869699351
+    second: Astral_Zimago_DevSprites_301
+  - first:
+      213: -4326245112330598226
+    second: Astral_Zimago_DevSprites_302
+  - first:
+      213: -2173175723670680192
+    second: Astral_Zimago_DevSprites_303
+  - first:
+      213: -3165247898177906635
+    second: Astral_Zimago_DevSprites_304
+  - first:
+      213: -8698883903108955314
+    second: Astral_Zimago_DevSprites_305
+  - first:
+      213: 7624744520661270646
+    second: Astral_Zimago_DevSprites_306
+  - first:
+      213: -6319111345089423683
+    second: Astral_Zimago_DevSprites_307
+  - first:
+      213: -6165805865295554131
+    second: Astral_Zimago_DevSprites_308
+  - first:
+      213: 3081885297161173177
+    second: Astral_Zimago_DevSprites_309
+  - first:
+      213: -14193741191850074
+    second: Astral_Zimago_DevSprites_310
+  - first:
+      213: -8209982805338925388
+    second: Astral_Zimago_DevSprites_311
+  - first:
+      213: 6159465508606632671
+    second: Astral_Zimago_DevSprites_312
+  - first:
+      213: -7807168450328538260
+    second: Astral_Zimago_DevSprites_313
+  - first:
+      213: -6179862643217495195
+    second: Astral_Zimago_DevSprites_314
+  - first:
+      213: 1809078562022848821
+    second: Astral_Zimago_DevSprites_315
+  - first:
+      213: 38944026501850647
+    second: Astral_Zimago_DevSprites_316
+  - first:
+      213: -7341201914827342215
+    second: Astral_Zimago_DevSprites_317
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3864
+        width: 48
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a3cec7024c69460800000000000000
+      internalID: 7248196294113245721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3864
+        width: 48
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4d0054cfa29acb0800000000000000
+      internalID: -4852299860537191255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3864
+        width: 65
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21178b387d0b45ee0800000000000000
+      internalID: -1273198354964647662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3864
+        width: 53
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fa8e8c30bcb410800000000000000
+      internalID: 1494262950516159852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 3864
+        width: 48
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e153630deb6520800000000000000
+      internalID: 2696509400718370086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3864
+        width: 51
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2675744e1d346e0800000000000000
+      internalID: -1854407843166854431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3866
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce741087ffcef4e0800000000000000
+      internalID: -1945889327064777019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3866
+        width: 75
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7283b0660a397d400800000000000000
+      internalID: 348909813260564519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3714
+        width: 116
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca4e4d44b1c9b1c0800000000000000
+      internalID: -4487342573562737969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3716
+        width: 122
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db0bcac6db5624a0800000000000000
+      internalID: -6618501624290931752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3717
+        width: 106
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74013ecdd458f6c0800000000000000
+      internalID: -4109441348351753089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3717
+        width: 98
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a149f09cea5a0d00800000000000000
+      internalID: 939663444351205799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3561
+        width: 65
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51a6320e852f9e00800000000000000
+      internalID: 1053602129680703837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3562
+        width: 90
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480a379c97706b020800000000000000
+      internalID: 2357079674627268740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3562
+        width: 88
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9361d1a611ad10800000000000000
+      internalID: 2135012582608838086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_18
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3563
+        width: 97
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5008287bdb2650d0800000000000000
+      internalID: -3434509444209704866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_19
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3563
+        width: 105
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3773113f52a960800000000000000
+      internalID: 7611750984594177674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3562
+        width: 114
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639a00092be2e6b0800000000000000
+      internalID: -5268390052743179413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_22
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 3562
+        width: 114
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6427fc70ce3ec20800000000000000
+      internalID: 3234688475671447254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_23
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3563
+        width: 144
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4326b4875fe771940800000000000000
+      internalID: 5266817881983377972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_24
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3560
+        width: 125
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce56f0d27fac5c30800000000000000
+      internalID: 4349544247799996101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3370
+        width: 75
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fa28cd827006500800000000000000
+      internalID: 387317440033500950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3370
+        width: 82
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7773887d0d8eda20800000000000000
+      internalID: 3089061483418711932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3370
+        width: 63
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b489a093b4b5e06f0800000000000000
+      internalID: -716534912067659701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_31
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3368
+        width: 71
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e5f6fc565bac50800000000000000
+      internalID: 6677525829787183251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3370
+        width: 110
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbeb5f94d2eef9e0800000000000000
+      internalID: -1585580615953290310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_33
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3370
+        width: 97
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183ec4ed6eb1c6d70800000000000000
+      internalID: 9037629230611751809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_35
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3368
+        width: 72
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67399cd907278a0c0800000000000000
+      internalID: -4564272394330860682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_36
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3365
+        width: 73
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3923947e4cd0b0800000000000000
+      internalID: -5702596765565764673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_37
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 3370
+        width: 107
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54b63c3ce9efc70800000000000000
+      internalID: 9006810868421969392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_38
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3373
+        width: 153
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76801cc2291fbf0800000000000000
+      internalID: -292291779887601684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_39
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3372
+        width: 131
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5901488acf9bc7c0800000000000000
+      internalID: -4049967747671455398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3216
+        width: 71
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbeb6a5d3fb96b70800000000000000
+      internalID: 8892849209450687474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3216
+        width: 102
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9573e7304e5890800000000000000
+      internalID: -7467460523350189533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_43
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3219
+        width: 130
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3bbc866a6d83570800000000000000
+      internalID: 8446737111344460748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_44
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3219
+        width: 166
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d42001e0dca51c0800000000000000
+      internalID: -4514070216203678351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_46
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3219
+        width: 175
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5c52aa195765120800000000000000
+      internalID: 2402236719734048232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_47
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3218
+        width: 97
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470697937dd70210800000000000000
+      internalID: 1299250506053846854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3220
+        width: 133
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f101a014519bab0800000000000000
+      internalID: -4991935342877597849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_49
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3221
+        width: 128
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d242984afc2aa0800000000000000
+      internalID: -6184292998688091683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_50
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3273
+        width: 52
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7844ccaba7ddc450800000000000000
+      internalID: 6110777401749555324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_51
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 3220
+        width: 129
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf702e6be643bc0800000000000000
+      internalID: -3804294053465949000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3267
+        width: 52
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e86ea37e140ab100800000000000000
+      internalID: 124416468542449897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3054
+        width: 105
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b684b0d5e0fa95b20800000000000000
+      internalID: 3123720292783573099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3055
+        width: 156
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8e3a86e8951e60800000000000000
+      internalID: 7932414434612251931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_56
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3056
+        width: 157
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40080944d6d0e4000800000000000000
+      internalID: 21969811136348164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_57
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3056
+        width: 195
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fd36175bafcb160800000000000000
+      internalID: 7042779574499008324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_59
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 3056
+        width: 187
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d36e66e936b1a0800000000000000
+      internalID: -6794179325984517435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_60
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 3056
+        width: 205
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dad3cb8ed3c5bb30800000000000000
+      internalID: 4302560379617401561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_62
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3055
+        width: 219
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4bd899c9d1ef850800000000000000
+      internalID: 6412595477850469609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2895
+        width: 139
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65f8782f5b82820800000000000000
+      internalID: 2893762813846574841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2894
+        width: 105
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb123672abad8f0800000000000000
+      internalID: -514894529050854422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_66
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2895
+        width: 171
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ff096a14301a4b0800000000000000
+      internalID: -5431056095129829516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2897
+        width: 166
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60814bbd0eabdf360800000000000000
+      internalID: 7205120453784115206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_68
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2896
+        width: 126
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dcb5f0862b157b0800000000000000
+      internalID: -5237208731651158725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_71
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2884
+        width: 123
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7ce7e0c3ee8390800000000000000
+      internalID: -7814057885776971135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_73
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2884
+        width: 120
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d7902235e053e0800000000000000
+      internalID: -2066900225505110053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_75
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2884
+        width: 123
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557c320e944ccc70800000000000000
+      internalID: 8992638001385076048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_77
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2884
+        width: 81
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834acc73dfce5af30800000000000000
+      internalID: 4586332367853757496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_78
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2729
+        width: 65
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96269bd487660a890800000000000000
+      internalID: -7448841116784696727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2732
+        width: 63
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391b95844321bad0800000000000000
+      internalID: -2688328725357192906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_80
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2732
+        width: 69
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31bbc6568e072d10800000000000000
+      internalID: 2100663721336222013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_81
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2732
+        width: 74
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238d4d8a32e72e790800000000000000
+      internalID: -7502295337624348622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2746
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cc6f61cf1e53940800000000000000
+      internalID: 5275371011367685124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2732
+        width: 80
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8315d403c4c93190800000000000000
+      internalID: -7982132522658753652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_84
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2732
+        width: 63
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8384e4ec49d1af0800000000000000
+      internalID: -424019176105428747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_85
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2732
+        width: 63
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdece908cf04f6490800000000000000
+      internalID: -7750904980447506724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_86
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2732
+        width: 125
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace489631059daa0800000000000000
+      internalID: -6135784973010670423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_87
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2732
+        width: 122
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475fbdbc858d1bfb0800000000000000
+      internalID: -4633684665698617996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_88
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2732
+        width: 142
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab550c7ecf08c4c0800000000000000
+      internalID: -4267143267415139420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2577
+        width: 111
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ab39d579e4d930800000000000000
+      internalID: 4167212247589560625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2581
+        width: 76
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3cd213375bca6e0800000000000000
+      internalID: -1824884242640944139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_91
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2588
+        width: 75
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62db101b349eb2a0800000000000000
+      internalID: -6719770612595961233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_92
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2614
+        width: 88
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6ba5071baf904a0800000000000000
+      internalID: -6626489736697825615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2625
+        width: 55
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9702bcfa9a6b017f0800000000000000
+      internalID: -643813906798927751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_94
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2611
+        width: 95
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6dccc137f03a850800000000000000
+      internalID: 6386965683620337380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_95
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2581
+        width: 86
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d079c9bc48363580800000000000000
+      internalID: -8847822515737104169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_96
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2576
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f71868730f398a0800000000000000
+      internalID: -6299427332490690680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_97
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2433
+        width: 111
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b03b9afee2c5ac0800000000000000
+      internalID: -3865162773311583477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2437
+        width: 112
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbefc9582349dabd0800000000000000
+      internalID: -2617272863721455940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_99
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2427
+        width: 74
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a4e0681a1c0f10800000000000000
+      internalID: 2237191806903428298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_100
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2428
+        width: 78
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4e5689a13ee010800000000000000
+      internalID: 1219967153237543593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_101
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2437
+        width: 112
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57362ffcd44e14e0800000000000000
+      internalID: -2009092667796474021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_102
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2435
+        width: 116
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3aa0ef69f47ed10800000000000000
+      internalID: 2154778456645870567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_103
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2427
+        width: 74
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3188bbb48b37030800000000000000
+      internalID: 3491336771550581715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_104
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2433
+        width: 111
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d5497438671e70800000000000000
+      internalID: 9085845347825473705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_105
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2299
+        width: 81
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ccab66b27f693b0800000000000000
+      internalID: -5505941728634680305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_106
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2295
+        width: 79
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9726a6f0b900d19e0800000000000000
+      internalID: -1649161222569172359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2297
+        width: 92
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615c116418eb4630800000000000000
+      internalID: 3912475875527643489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_108
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2302
+        width: 113
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09e4888b3dc5630800000000000000
+      internalID: 3917238565419782386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_109
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2302
+        width: 128
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a62b5ea3ae6e390800000000000000
+      internalID: -7789280966808016369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_110
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2302
+        width: 131
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae3c6666ce24820800000000000000
+      internalID: 2901141034534955569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_111
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2304
+        width: 67
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be3b7b72e7c39e0800000000000000
+      internalID: -1640297455218857157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_112
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2295
+        width: 95
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d938ef0d829400800000000000000
+      internalID: 329480822211598563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_113
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2295
+        width: 87
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049002df6ff0ef9e0800000000000000
+      internalID: -1585812465304729280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_114
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2114
+        width: 92
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c850a8bcac29610800000000000000
+      internalID: 1626585390976961629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_115
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2114
+        width: 83
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d82b62d8c978ef40800000000000000
+      internalID: 5757986027023837400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2114
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd72fc8440167a730800000000000000
+      internalID: 4010280664226015197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_117
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2115
+        width: 73
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1cab67770acae0800000000000000
+      internalID: -1528400914049917448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_118
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2114
+        width: 65
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d107259a802aa60800000000000000
+      internalID: 7683713437573061935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_119
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2114
+        width: 65
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f384f20438f060800000000000000
+      internalID: 6987392009162191573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_120
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1945
+        width: 195
+        height: 194
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c41e73966430fd0800000000000000
+      internalID: -2376978760598467512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_121
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2136
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d778dec49e606800800000000000000
+      internalID: 603603935472154581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_124
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1971
+        width: 146
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54576f1a19962f3c0800000000000000
+      internalID: -4327280217741167291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_127
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1935
+        width: 69
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6586430b50381350800000000000000
+      internalID: 5987588872044184938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_128
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1935
+        width: 92
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437fcd7443dd4cf30800000000000000
+      internalID: 4595040736438449972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_129
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2062
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaa527be90c4ef10800000000000000
+      internalID: 2298173497775860448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_130
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2061
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516f0bd21eed78a0800000000000000
+      internalID: -6305622138496786086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_131
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1935
+        width: 103
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8829980c0d1df670800000000000000
+      internalID: 8574041203104360590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_132
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1934
+        width: 75
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925f56d9ebfcb10d0800000000000000
+      internalID: -3450936271857912535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_133
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1936
+        width: 140
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022872665ba76a90800000000000000
+      internalID: -7320694281759874556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_134
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2007
+        width: 71
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a27aade3e490fe0800000000000000
+      internalID: -1222359791991051735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_135
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2005
+        width: 80
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee223fb0704f8f190800000000000000
+      internalID: -7928318832883326226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_136
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2000
+        width: 71
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70e13605bd91ba0800000000000000
+      internalID: -6117617480499329077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_148
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1936
+        width: 102
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a0005dc3a28de90800000000000000
+      internalID: -7000799179987481970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_149
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1936
+        width: 107
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c916ae66f1cf8680800000000000000
+      internalID: -8750562286795089465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_163
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1737
+        width: 43
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade9d30cb02574c0800000000000000
+      internalID: -4290487078109975126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_164
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1734
+        width: 85
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5f88bb6f600bc0800000000000000
+      internalID: -3818929975561593316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_165
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1730
+        width: 68
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c30ebcd3c45b6d0800000000000000
+      internalID: -2975388150511158140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_166
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1730
+        width: 52
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a971f98998e4eae0800000000000000
+      internalID: -1520835028002440796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_167
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1730
+        width: 52
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079322b0a692c0720800000000000000
+      internalID: 2813669402629781872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1730
+        width: 52
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c956bf233fa9a0800000000000000
+      internalID: -6219696280359549707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_169
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1730
+        width: 49
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1407bb2484612d0800000000000000
+      internalID: -3308377424807312922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_170
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1729
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a65fc81a79b720800000000000000
+      internalID: 2862453285147026501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_171
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1731
+        width: 55
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae902b0162b99f0800000000000000
+      internalID: -460732683727017338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_172
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1731
+        width: 55
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae72e9c32c63020800000000000000
+      internalID: 2321256223563311644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_173
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1729
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14de6fb8541dfe70800000000000000
+      internalID: 9150492389288104986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_174
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1730
+        width: 49
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14ee5d726950360800000000000000
+      internalID: 7135274282475471307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_175
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1730
+        width: 52
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230166f2d6e2cfbb0800000000000000
+      internalID: -4900991248004411342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_176
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1730
+        width: 52
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8517000900504e7c0800000000000000
+      internalID: -4043101065497775784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_177
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1730
+        width: 52
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d3cf2370ef2860800000000000000
+      internalID: 7507465889177130888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_178
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1730
+        width: 68
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2fb5c3366f3b00800000000000000
+      internalID: 810478830496984467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_179
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1734
+        width: 85
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497c37c1725e6810800000000000000
+      internalID: 1760435152975853895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_180
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1737
+        width: 43
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc378982dd35a15a0800000000000000
+      internalID: -6549830498723007540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_181
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1473
+        width: 111
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2279cc526688bb0800000000000000
+      internalID: -4933581079252098343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_182
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1477
+        width: 76
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd3aa0a31328bd0800000000000000
+      internalID: -2629485107074572439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_183
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1476
+        width: 124
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f6d77d4ef8d13b0800000000000000
+      internalID: -5540113753565204600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_184
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1483
+        width: 125
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8db17b3237cc40800000000000000
+      internalID: 5532445898140650229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_185
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1516
+        width: 155
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75116ac4d170d70800000000000000
+      internalID: 9009201794618841064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_186
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1510
+        width: 88
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2648637289b9ef090800000000000000
+      internalID: -7998784810368203678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_187
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1521
+        width: 55
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed82011a90bacc0800000000000000
+      internalID: -3698852081589232052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_188
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1504
+        width: 95
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2e129dc0ec40410800000000000000
+      internalID: 1442504335243207361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_189
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1477
+        width: 86
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abca0a778841060800000000000000
+      internalID: 6923308574553455165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_190
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1475
+        width: 76
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a642201b4238ca0800000000000000
+      internalID: -6015924334573098368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_191
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1472
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccc159f6ef51c00800000000000000
+      internalID: 870881858162576635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1291
+        width: 114
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f1806a1ff96530800000000000000
+      internalID: 3848887845318162728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_193
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1291
+        width: 115
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38dc6dc484e31bd0800000000000000
+      internalID: -2660531695812552641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_195
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1291
+        width: 73
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c25dbb60a8ba780800000000000000
+      internalID: -8670684896046011305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_196
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1290
+        width: 88
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259700587896fb7d0800000000000000
+      internalID: -2900483604230407854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_197
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1290
+        width: 89
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5809467562670570800000000000000
+      internalID: 8432817015190259804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_198
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1290
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a365171140fbe70800000000000000
+      internalID: 9133023042293086763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_199
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1290
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f4106c13cfd700800000000000000
+      internalID: 567386604710457533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_200
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1292
+        width: 124
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a90e5dc62de48040800000000000000
+      internalID: 4649101466263226786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_201
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1299
+        width: 125
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afea549dddb302ed0800000000000000
+      internalID: -2440885174015774982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_202
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1332
+        width: 155
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ebe51606c84cd0800000000000000
+      internalID: -2573589457602353849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_203
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1326
+        width: 88
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548d981a5b6b61d10800000000000000
+      internalID: 2096063567803045957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_204
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1337
+        width: 55
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ab6747e2a9f030800000000000000
+      internalID: 3529030897240877047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_205
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1320
+        width: 95
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed741517716690760800000000000000
+      internalID: 7424577711568406494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_206
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1293
+        width: 86
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366309c026693a010800000000000000
+      internalID: 1198967273672423011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_207
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1291
+        width: 76
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8983fc1b14f1590800000000000000
+      internalID: -7701364605838649149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_208
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1288
+        width: 77
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5358c70cce82280800000000000000
+      internalID: -9067737538243512853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_209
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1059
+        width: 62
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b653b7fa1e25e0800000000000000
+      internalID: -1932577538927315798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_210
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1059
+        width: 62
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a72f748d7810a0800000000000000
+      internalID: -6910635620177565354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_211
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1059
+        width: 62
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c3d19fcbbbf85d0800000000000000
+      internalID: -3058019201653588897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_212
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1059
+        width: 62
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1094760a992710b80800000000000000
+      internalID: -8430331023314171647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_213
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1058
+        width: 79
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d55a3c254cc11e0800000000000000
+      internalID: -2225688256079110806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_214
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1058
+        width: 79
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d88a3af4999e2d0800000000000000
+      internalID: -3248897088843903609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_215
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1058
+        width: 79
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf18eb5f1f4ce0b90800000000000000
+      internalID: -7273659804667706885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_216
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1062
+        width: 79
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4030038f5a512d40800000000000000
+      internalID: 5557822781418123342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_217
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 899
+        width: 78
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01000599a2a2acc20800000000000000
+      internalID: 3227438445413531664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_223
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 900
+        width: 74
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f0309a897846a0800000000000000
+      internalID: -6464783629058771303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_224
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 900
+        width: 71
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a87443d6e7bf5b0800000000000000
+      internalID: -5333530326196581887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_227
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 898
+        width: 41
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75238dd577608e50800000000000000
+      internalID: 6809556392509384063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_230
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 899
+        width: 78
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64084f1d15d43b8a0800000000000000
+      internalID: -6290599240696299450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_231
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 899
+        width: 71
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ff99cee5c96080800000000000000
+      internalID: -9193599534924565621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_232
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 899
+        width: 71
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a253db63928ead520800000000000000
+      internalID: 2727747788035929386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_236
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 902
+        width: 66
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c350640eb945570800000000000000
+      internalID: 8454553788030991422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_237
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 900
+        width: 74
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24a4390e26a3e30800000000000000
+      internalID: 4484005095684063999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_238
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 898
+        width: 45
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b535b9f689abcb0800000000000000
+      internalID: -4847394443796194545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_239
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 898
+        width: 36
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a9b9c86d180800800000000000000
+      internalID: 578744888015298730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_240
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 898
+        width: 36
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ec47109cbce440800000000000000
+      internalID: 4966551816135042076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_241
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 989
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbaecc26ec4b0a80800000000000000
+      internalID: -8499615320253748237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_249
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 902
+        width: 69
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4d90be74f4eb70800000000000000
+      internalID: 8927529186321321513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_266
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 748
+        width: 83
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ade3662a7112a0800000000000000
+      internalID: -6768494459657279571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_267
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 753
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda3e0db445ccaa0800000000000000
+      internalID: -6139439507408966155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_268
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 766
+        width: 88
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df89451bd9177b50800000000000000
+      internalID: 6590765008425684953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_269
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 750
+        width: 84
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbb2f68f5f770a0800000000000000
+      internalID: -6883763058046681303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_270
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 737
+        width: 81
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab05b643f462200800000000000000
+      internalID: 154898323748207110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_271
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 592
+        width: 83
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570cfe8751d252c00800000000000000
+      internalID: 875155272839970933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_272
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 597
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85527e944a64ad40800000000000000
+      internalID: 5594713480049612173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_273
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 610
+        width: 88
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b06d07c74c0fb30800000000000000
+      internalID: 4319168081396370319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_281
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 594
+        width: 84
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deda77d516106da0800000000000000
+      internalID: -5953734424318517551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_288
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 581
+        width: 81
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c88d4c847d16e580800000000000000
+      internalID: -8798312435614381881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_289
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 581
+        width: 81
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd76ddf3540b850800000000000000
+      internalID: 6390684011838561610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_122
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1973
+        width: 166
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799195ebcbc992ed0800000000000000
+      internalID: -2438245388783117929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_123
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1989
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d821caf8e7a3280800000000000000
+      internalID: -9062792144597381772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 899
+        width: 75
+        height: 128
+      alignment: 9
+      pivot: {x: 0.50666666, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b31974729be0630800000000000000
+      internalID: 3895254306077621103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astral_Zimago_DevSprites_4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 899
+        width: 66
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f47ce74221f0c0800000000000000
+      internalID: -4543812856735010459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

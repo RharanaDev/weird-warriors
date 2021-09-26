@@ -1,0 +1,4582 @@
+fileFormatVersion: 2
+guid: 214c4f55b60428c4cae70f755f08967f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 527034395503562722
+    second: WakanTanka_DevSprites_0
+  - first:
+      213: -6427617698178196556
+    second: WakanTanka_DevSprites_1
+  - first:
+      213: -360130361325756110
+    second: WakanTanka_DevSprites_2
+  - first:
+      213: -6368434755225566596
+    second: WakanTanka_DevSprites_3
+  - first:
+      213: -2424561206155569706
+    second: WakanTanka_DevSprites_4
+  - first:
+      213: -1449079207238985903
+    second: WakanTanka_DevSprites_5
+  - first:
+      213: -2576512808557151383
+    second: WakanTanka_DevSprites_6
+  - first:
+      213: -4719245264807179984
+    second: WakanTanka_DevSprites_7
+  - first:
+      213: 3047318873160169198
+    second: WakanTanka_DevSprites_8
+  - first:
+      213: 1085719614152304730
+    second: WakanTanka_DevSprites_9
+  - first:
+      213: -2986116964574352198
+    second: WakanTanka_DevSprites_10
+  - first:
+      213: 6383872789647713357
+    second: WakanTanka_DevSprites_11
+  - first:
+      213: -4195674841381130331
+    second: WakanTanka_DevSprites_12
+  - first:
+      213: -2936031627580653276
+    second: WakanTanka_DevSprites_13
+  - first:
+      213: -6695194667826258767
+    second: WakanTanka_DevSprites_14
+  - first:
+      213: 1037918958500059373
+    second: WakanTanka_DevSprites_15
+  - first:
+      213: -4678003166962042483
+    second: WakanTanka_DevSprites_16
+  - first:
+      213: -2539348571500720214
+    second: WakanTanka_DevSprites_17
+  - first:
+      213: -8374491038497589941
+    second: WakanTanka_DevSprites_18
+  - first:
+      213: -4669870035044536971
+    second: WakanTanka_DevSprites_19
+  - first:
+      213: 8001953677814228773
+    second: WakanTanka_DevSprites_20
+  - first:
+      213: 3790921859840309255
+    second: WakanTanka_DevSprites_21
+  - first:
+      213: -8198189982313336488
+    second: WakanTanka_DevSprites_22
+  - first:
+      213: -5621016920178606689
+    second: WakanTanka_DevSprites_23
+  - first:
+      213: 2913728635353628709
+    second: WakanTanka_DevSprites_24
+  - first:
+      213: 1026585264159832787
+    second: WakanTanka_DevSprites_25
+  - first:
+      213: 5594041621456880246
+    second: WakanTanka_DevSprites_26
+  - first:
+      213: -6473183040821121119
+    second: WakanTanka_DevSprites_27
+  - first:
+      213: -2310777130648329843
+    second: WakanTanka_DevSprites_28
+  - first:
+      213: -8860410230888524221
+    second: WakanTanka_DevSprites_29
+  - first:
+      213: 3565281736875032413
+    second: WakanTanka_DevSprites_30
+  - first:
+      213: -4348005023375745421
+    second: WakanTanka_DevSprites_31
+  - first:
+      213: -1658608560754788364
+    second: WakanTanka_DevSprites_32
+  - first:
+      213: 3901705233586675842
+    second: WakanTanka_DevSprites_33
+  - first:
+      213: 500558151542414869
+    second: WakanTanka_DevSprites_34
+  - first:
+      213: -4880568137349419396
+    second: WakanTanka_DevSprites_35
+  - first:
+      213: 2425456261076556294
+    second: WakanTanka_DevSprites_36
+  - first:
+      213: -4637447487117507459
+    second: WakanTanka_DevSprites_37
+  - first:
+      213: 1253981597147132889
+    second: WakanTanka_DevSprites_38
+  - first:
+      213: 8375779585071911758
+    second: WakanTanka_DevSprites_39
+  - first:
+      213: -528356360882927653
+    second: WakanTanka_DevSprites_40
+  - first:
+      213: -3354792424929595842
+    second: WakanTanka_DevSprites_41
+  - first:
+      213: 1390510535032165043
+    second: WakanTanka_DevSprites_42
+  - first:
+      213: -2659116400259070310
+    second: WakanTanka_DevSprites_43
+  - first:
+      213: -2055555259730433687
+    second: WakanTanka_DevSprites_44
+  - first:
+      213: -5545776687638784449
+    second: WakanTanka_DevSprites_45
+  - first:
+      213: 3444654241338007081
+    second: WakanTanka_DevSprites_46
+  - first:
+      213: 998582953053773548
+    second: WakanTanka_DevSprites_47
+  - first:
+      213: -7074824264071346101
+    second: WakanTanka_DevSprites_48
+  - first:
+      213: -704385436776641876
+    second: WakanTanka_DevSprites_49
+  - first:
+      213: 2314688383727776105
+    second: WakanTanka_DevSprites_50
+  - first:
+      213: 6387591722135315461
+    second: WakanTanka_DevSprites_51
+  - first:
+      213: -1350236528943483305
+    second: WakanTanka_DevSprites_52
+  - first:
+      213: -1844670056098481590
+    second: WakanTanka_DevSprites_53
+  - first:
+      213: -4034153672199035314
+    second: WakanTanka_DevSprites_54
+  - first:
+      213: -5790157091934765715
+    second: WakanTanka_DevSprites_55
+  - first:
+      213: -309899670290131437
+    second: WakanTanka_DevSprites_56
+  - first:
+      213: 9135924749554787768
+    second: WakanTanka_DevSprites_57
+  - first:
+      213: 2576021495151878501
+    second: WakanTanka_DevSprites_58
+  - first:
+      213: 7774715190304335718
+    second: WakanTanka_DevSprites_59
+  - first:
+      213: -7687757584029329408
+    second: WakanTanka_DevSprites_60
+  - first:
+      213: -6781036594700261029
+    second: WakanTanka_DevSprites_61
+  - first:
+      213: -6710506133269185043
+    second: WakanTanka_DevSprites_62
+  - first:
+      213: 2406202227430708949
+    second: WakanTanka_DevSprites_63
+  - first:
+      213: -7278456708780062117
+    second: WakanTanka_DevSprites_64
+  - first:
+      213: 7655912533029795217
+    second: WakanTanka_DevSprites_65
+  - first:
+      213: 4135122445117393788
+    second: WakanTanka_DevSprites_66
+  - first:
+      213: -3891652349282796323
+    second: WakanTanka_DevSprites_67
+  - first:
+      213: -4089269270451757652
+    second: WakanTanka_DevSprites_68
+  - first:
+      213: -5279121295024266080
+    second: WakanTanka_DevSprites_69
+  - first:
+      213: 4078200156331172759
+    second: WakanTanka_DevSprites_70
+  - first:
+      213: -326163120580947174
+    second: WakanTanka_DevSprites_71
+  - first:
+      213: -4664639121041806196
+    second: WakanTanka_DevSprites_72
+  - first:
+      213: -7624882223872839550
+    second: WakanTanka_DevSprites_73
+  - first:
+      213: -8286027180144359917
+    second: WakanTanka_DevSprites_74
+  - first:
+      213: 4508464538141690754
+    second: WakanTanka_DevSprites_75
+  - first:
+      213: 1719114902271170513
+    second: WakanTanka_DevSprites_76
+  - first:
+      213: -1338222203712339650
+    second: WakanTanka_DevSprites_77
+  - first:
+      213: -8660430691671661814
+    second: WakanTanka_DevSprites_78
+  - first:
+      213: 6904900777745163534
+    second: WakanTanka_DevSprites_79
+  - first:
+      213: 6974688469044911890
+    second: WakanTanka_DevSprites_80
+  - first:
+      213: -4267465647605706736
+    second: WakanTanka_DevSprites_81
+  - first:
+      213: 9027618972513783546
+    second: WakanTanka_DevSprites_82
+  - first:
+      213: -5665902043535119798
+    second: WakanTanka_DevSprites_83
+  - first:
+      213: 8841130304600064881
+    second: WakanTanka_DevSprites_84
+  - first:
+      213: -667263718490445029
+    second: WakanTanka_DevSprites_85
+  - first:
+      213: -2655362473006287592
+    second: WakanTanka_DevSprites_86
+  - first:
+      213: 8814040447058849140
+    second: WakanTanka_DevSprites_87
+  - first:
+      213: 2072090386628571945
+    second: WakanTanka_DevSprites_88
+  - first:
+      213: -7691971462030578291
+    second: WakanTanka_DevSprites_89
+  - first:
+      213: 5008127909183644626
+    second: WakanTanka_DevSprites_90
+  - first:
+      213: 8574720032524046535
+    second: WakanTanka_DevSprites_91
+  - first:
+      213: 7308880824716377270
+    second: WakanTanka_DevSprites_92
+  - first:
+      213: -795616373022028992
+    second: WakanTanka_DevSprites_93
+  - first:
+      213: -8967671823574859469
+    second: WakanTanka_DevSprites_94
+  - first:
+      213: -694843460848792572
+    second: WakanTanka_DevSprites_95
+  - first:
+      213: -4008626952573958264
+    second: WakanTanka_DevSprites_96
+  - first:
+      213: 1028383032764776288
+    second: WakanTanka_DevSprites_97
+  - first:
+      213: -3329662294337387748
+    second: WakanTanka_DevSprites_98
+  - first:
+      213: 2568030402171590700
+    second: WakanTanka_DevSprites_99
+  - first:
+      213: -7932722778154346825
+    second: WakanTanka_DevSprites_100
+  - first:
+      213: -7491698771296407143
+    second: WakanTanka_DevSprites_101
+  - first:
+      213: -4882584364491902138
+    second: WakanTanka_DevSprites_102
+  - first:
+      213: 2053343811276964625
+    second: WakanTanka_DevSprites_103
+  - first:
+      213: 1836702971961013679
+    second: WakanTanka_DevSprites_104
+  - first:
+      213: -3281276606489331030
+    second: WakanTanka_DevSprites_105
+  - first:
+      213: 1672464975953641005
+    second: WakanTanka_DevSprites_106
+  - first:
+      213: -6668384234189265681
+    second: WakanTanka_DevSprites_107
+  - first:
+      213: -2013475673167510041
+    second: WakanTanka_DevSprites_108
+  - first:
+      213: -4738197608409888101
+    second: WakanTanka_DevSprites_109
+  - first:
+      213: 2536844179438963019
+    second: WakanTanka_DevSprites_110
+  - first:
+      213: 5065186183608887103
+    second: WakanTanka_DevSprites_111
+  - first:
+      213: 8441772030808950835
+    second: WakanTanka_DevSprites_112
+  - first:
+      213: -3427742676381665845
+    second: WakanTanka_DevSprites_113
+  - first:
+      213: -5318945484035183232
+    second: WakanTanka_DevSprites_114
+  - first:
+      213: 2971486538259132441
+    second: WakanTanka_DevSprites_115
+  - first:
+      213: -6607918746358961243
+    second: WakanTanka_DevSprites_116
+  - first:
+      213: 6736461818518419760
+    second: WakanTanka_DevSprites_117
+  - first:
+      213: -8065622383426845296
+    second: WakanTanka_DevSprites_118
+  - first:
+      213: -2042628602196154023
+    second: WakanTanka_DevSprites_119
+  - first:
+      213: -722241932270788263
+    second: WakanTanka_DevSprites_120
+  - first:
+      213: 5252669209489705965
+    second: WakanTanka_DevSprites_121
+  - first:
+      213: 1286511004047100150
+    second: WakanTanka_DevSprites_122
+  - first:
+      213: 6461680244949148694
+    second: WakanTanka_DevSprites_123
+  - first:
+      213: -4870388558342469300
+    second: WakanTanka_DevSprites_124
+  - first:
+      213: -2469729828550815016
+    second: WakanTanka_DevSprites_125
+  - first:
+      213: 4971204063985022481
+    second: WakanTanka_DevSprites_126
+  - first:
+      213: -3641353602604903252
+    second: WakanTanka_DevSprites_127
+  - first:
+      213: -7051045364194512301
+    second: WakanTanka_DevSprites_128
+  - first:
+      213: 338498812680659144
+    second: WakanTanka_DevSprites_129
+  - first:
+      213: -5230050052172715710
+    second: WakanTanka_DevSprites_130
+  - first:
+      213: -6496181364100362757
+    second: WakanTanka_DevSprites_131
+  - first:
+      213: 6100106329734810299
+    second: WakanTanka_DevSprites_132
+  - first:
+      213: -5425894260311160184
+    second: WakanTanka_DevSprites_133
+  - first:
+      213: 9112300293546982628
+    second: WakanTanka_DevSprites_134
+  - first:
+      213: 5064332321404815278
+    second: WakanTanka_DevSprites_135
+  - first:
+      213: 2527892570936932495
+    second: WakanTanka_DevSprites_136
+  - first:
+      213: -640832892523033373
+    second: WakanTanka_DevSprites_137
+  - first:
+      213: 664882217133527122
+    second: WakanTanka_DevSprites_138
+  - first:
+      213: -267933801901171886
+    second: WakanTanka_DevSprites_139
+  - first:
+      213: -5707544730844497908
+    second: WakanTanka_DevSprites_140
+  - first:
+      213: -7568577018789748856
+    second: WakanTanka_DevSprites_141
+  - first:
+      213: 4516201863030002699
+    second: WakanTanka_DevSprites_142
+  - first:
+      213: -287606234166523024
+    second: WakanTanka_DevSprites_143
+  - first:
+      213: -3644683940478283232
+    second: WakanTanka_DevSprites_144
+  - first:
+      213: 6622128669257860135
+    second: WakanTanka_DevSprites_145
+  - first:
+      213: -1995139909916001619
+    second: WakanTanka_DevSprites_146
+  - first:
+      213: 1219680335662653382
+    second: WakanTanka_DevSprites_147
+  - first:
+      213: -6572888389667285917
+    second: WakanTanka_DevSprites_148
+  - first:
+      213: -3615930126897991611
+    second: WakanTanka_DevSprites_149
+  - first:
+      213: 5995369190693913026
+    second: WakanTanka_DevSprites_150
+  - first:
+      213: -959884268478046696
+    second: WakanTanka_DevSprites_151
+  - first:
+      213: -3201703149351770467
+    second: WakanTanka_DevSprites_152
+  - first:
+      213: 9063687839289536289
+    second: WakanTanka_DevSprites_153
+  - first:
+      213: 1567864793915401115
+    second: WakanTanka_DevSprites_154
+  - first:
+      213: 112444287204531322
+    second: WakanTanka_DevSprites_155
+  - first:
+      213: 6711427956874363018
+    second: WakanTanka_DevSprites_156
+  - first:
+      213: 6319031362258260305
+    second: WakanTanka_DevSprites_157
+  - first:
+      213: -1559689874330746846
+    second: WakanTanka_DevSprites_158
+  - first:
+      213: 403155668196500955
+    second: WakanTanka_DevSprites_159
+  - first:
+      213: -3682383644463704550
+    second: WakanTanka_DevSprites_160
+  - first:
+      213: -3628789138362451838
+    second: WakanTanka_DevSprites_161
+  - first:
+      213: -4551252122153764523
+    second: WakanTanka_DevSprites_162
+  - first:
+      213: -6338161560818238784
+    second: WakanTanka_DevSprites_163
+  - first:
+      213: 5290076393374049977
+    second: WakanTanka_DevSprites_164
+  - first:
+      213: -6347670000978465765
+    second: WakanTanka_DevSprites_165
+  - first:
+      213: 8776196878148303821
+    second: WakanTanka_DevSprites_166
+  - first:
+      213: -3227734040764182462
+    second: WakanTanka_DevSprites_167
+  - first:
+      213: 978227203692904891
+    second: WakanTanka_DevSprites_168
+  - first:
+      213: 1583306636352564708
+    second: WakanTanka_DevSprites_169
+  - first:
+      213: -3344975418298817584
+    second: WakanTanka_DevSprites_170
+  - first:
+      213: 3537851665611250762
+    second: WakanTanka_DevSprites_171
+  - first:
+      213: -3308651297965275162
+    second: WakanTanka_DevSprites_172
+  - first:
+      213: 8202125476271688145
+    second: WakanTanka_DevSprites_173
+  - first:
+      213: 8115984950666849499
+    second: WakanTanka_DevSprites_174
+  - first:
+      213: -8137194711982500193
+    second: WakanTanka_DevSprites_175
+  - first:
+      213: 2848936041554457054
+    second: WakanTanka_DevSprites_176
+  - first:
+      213: -6052645642114162737
+    second: WakanTanka_DevSprites_177
+  - first:
+      213: -6136784398478905875
+    second: WakanTanka_DevSprites_178
+  - first:
+      213: -7917339164948673989
+    second: WakanTanka_DevSprites_179
+  - first:
+      213: -7647809943761709288
+    second: WakanTanka_DevSprites_180
+  - first:
+      213: 8578814953112648934
+    second: WakanTanka_DevSprites_181
+  - first:
+      213: -4157852365771705440
+    second: WakanTanka_DevSprites_182
+  - first:
+      213: -3863849766764437816
+    second: WakanTanka_DevSprites_183
+  - first:
+      213: -1128840270662229334
+    second: WakanTanka_DevSprites_184
+  - first:
+      213: 9199320428483196596
+    second: WakanTanka_DevSprites_185
+  - first:
+      213: -3647651145034799786
+    second: WakanTanka_DevSprites_186
+  - first:
+      213: 1078701559587863145
+    second: WakanTanka_DevSprites_187
+  - first:
+      213: 4133047094878108087
+    second: WakanTanka_DevSprites_188
+  - first:
+      213: 5445974915896949003
+    second: WakanTanka_DevSprites_189
+  - first:
+      213: -2304611487427145939
+    second: WakanTanka_DevSprites_190
+  - first:
+      213: 1952333501825804905
+    second: WakanTanka_DevSprites_191
+  - first:
+      213: 6655277915616022581
+    second: WakanTanka_DevSprites_192
+  - first:
+      213: -4257184442934599421
+    second: WakanTanka_DevSprites_193
+  - first:
+      213: 3308616267741938195
+    second: WakanTanka_DevSprites_194
+  - first:
+      213: 6144797559854189190
+    second: WakanTanka_DevSprites_195
+  - first:
+      213: -6810429106624747307
+    second: WakanTanka_DevSprites_196
+  - first:
+      213: -743601488149043473
+    second: WakanTanka_DevSprites_197
+  - first:
+      213: 1030689678530112696
+    second: WakanTanka_DevSprites_198
+  - first:
+      213: 7558521796877170292
+    second: WakanTanka_DevSprites_199
+  - first:
+      213: 160161190458049747
+    second: WakanTanka_DevSprites_200
+  - first:
+      213: 7400597254386730441
+    second: WakanTanka_DevSprites_201
+  - first:
+      213: -4930032914857154242
+    second: WakanTanka_DevSprites_202
+  - first:
+      213: -8726230576517178273
+    second: WakanTanka_DevSprites_203
+  - first:
+      213: 4975906923220854959
+    second: WakanTanka_DevSprites_204
+  - first:
+      213: 6754592509678043225
+    second: WakanTanka_DevSprites_205
+  - first:
+      213: -4184789839178279241
+    second: WakanTanka_DevSprites_206
+  - first:
+      213: -623666926129523933
+    second: WakanTanka_DevSprites_207
+  - first:
+      213: -458611727691924857
+    second: WakanTanka_DevSprites_208
+  - first:
+      213: 1033386409067000288
+    second: WakanTanka_DevSprites_209
+  - first:
+      213: 2838360493406616251
+    second: WakanTanka_DevSprites_210
+  - first:
+      213: -7658479669136490806
+    second: WakanTanka_DevSprites_211
+  - first:
+      213: -9097768656804546037
+    second: WakanTanka_DevSprites_212
+  - first:
+      213: -4744300261430405386
+    second: WakanTanka_DevSprites_213
+  - first:
+      213: 6094565627949365278
+    second: WakanTanka_DevSprites_214
+  - first:
+      213: -189890580972236661
+    second: WakanTanka_DevSprites_215
+  - first:
+      213: -3344575670586223007
+    second: WakanTanka_DevSprites_216
+  - first:
+      213: -619222789289409853
+    second: WakanTanka_DevSprites_217
+  - first:
+      213: -263827156718263354
+    second: WakanTanka_DevSprites_218
+  - first:
+      213: 6121497693969740230
+    second: WakanTanka_DevSprites_219
+  - first:
+      213: -8051415804694031878
+    second: WakanTanka_DevSprites_220
+  - first:
+      213: 885621405489883045
+    second: WakanTanka_DevSprites_221
+  - first:
+      213: -3335015480386246049
+    second: WakanTanka_DevSprites_222
+  - first:
+      213: 7241428599527516861
+    second: WakanTanka_DevSprites_223
+  - first:
+      213: 1818017544984392055
+    second: WakanTanka_DevSprites_224
+  - first:
+      213: -2026825700018680288
+    second: WakanTanka_DevSprites_225
+  - first:
+      213: -4414440424009332601
+    second: WakanTanka_DevSprites_226
+  - first:
+      213: 3712924237800048839
+    second: WakanTanka_DevSprites_227
+  - first:
+      213: -6898341532322887070
+    second: WakanTanka_DevSprites_228
+  - first:
+      213: 9051465507827536819
+    second: WakanTanka_DevSprites_229
+  - first:
+      213: 5334267931436503685
+    second: WakanTanka_DevSprites_230
+  - first:
+      213: -4776739769136411261
+    second: WakanTanka_DevSprites_231
+  - first:
+      213: -9015204884201673798
+    second: WakanTanka_DevSprites_232
+  - first:
+      213: 3883447817141318629
+    second: WakanTanka_DevSprites_233
+  - first:
+      213: 8723185218341838562
+    second: WakanTanka_DevSprites_234
+  - first:
+      213: -2422537505474392267
+    second: WakanTanka_DevSprites_235
+  - first:
+      213: -198163731600635854
+    second: WakanTanka_DevSprites_236
+  - first:
+      213: 7950509970245304758
+    second: WakanTanka_DevSprites_237
+  - first:
+      213: 810452189392403534
+    second: WakanTanka_DevSprites_238
+  - first:
+      213: -857001862289750539
+    second: WakanTanka_DevSprites_239
+  - first:
+      213: -3131660736970752309
+    second: WakanTanka_DevSprites_240
+  - first:
+      213: 8436129358265585502
+    second: WakanTanka_DevSprites_241
+  - first:
+      213: -1642748516296040362
+    second: WakanTanka_DevSprites_242
+  - first:
+      213: 6319777074717152229
+    second: WakanTanka_DevSprites_243
+  - first:
+      213: -1022220981099791447
+    second: WakanTanka_DevSprites_244
+  - first:
+      213: -3634997278740687013
+    second: WakanTanka_DevSprites_245
+  - first:
+      213: 486410370944593800
+    second: WakanTanka_DevSprites_246
+  - first:
+      213: -7051525294825844053
+    second: WakanTanka_DevSprites_247
+  - first:
+      213: -1204514145562557336
+    second: WakanTanka_DevSprites_248
+  - first:
+      213: 5256181239819924201
+    second: WakanTanka_DevSprites_249
+  - first:
+      213: -3710105131835817093
+    second: WakanTanka_DevSprites_250
+  - first:
+      213: 4478487714853843493
+    second: WakanTanka_DevSprites_251
+  - first:
+      213: -7006789428951268138
+    second: WakanTanka_DevSprites_252
+  - first:
+      213: -104812864854074925
+    second: WakanTanka_DevSprites_253
+  - first:
+      213: -9184639205496362316
+    second: WakanTanka_DevSprites_254
+  - first:
+      213: -5765932661109868783
+    second: WakanTanka_DevSprites_255
+  - first:
+      213: -4846824611070179647
+    second: WakanTanka_DevSprites_256
+  - first:
+      213: 4920777786175747075
+    second: WakanTanka_DevSprites_257
+  - first:
+      213: 6922951128574097902
+    second: WakanTanka_DevSprites_258
+  - first:
+      213: 1192356652775489719
+    second: WakanTanka_DevSprites_259
+  - first:
+      213: -2153131149883064605
+    second: WakanTanka_DevSprites_260
+  - first:
+      213: -4471719898910088252
+    second: WakanTanka_DevSprites_261
+  - first:
+      213: 6647010352760194236
+    second: WakanTanka_DevSprites_262
+  - first:
+      213: -569269727115163334
+    second: WakanTanka_DevSprites_263
+  - first:
+      213: 4708436769083633344
+    second: WakanTanka_DevSprites_264
+  - first:
+      213: 8986742568328879643
+    second: WakanTanka_DevSprites_265
+  - first:
+      213: 4341998894045528767
+    second: WakanTanka_DevSprites_266
+  - first:
+      213: -7272885775095060937
+    second: WakanTanka_DevSprites_267
+  - first:
+      213: 8119914870898341663
+    second: WakanTanka_DevSprites_268
+  - first:
+      213: 6555712169822444092
+    second: WakanTanka_DevSprites_269
+  - first:
+      213: -7646619653004233896
+    second: WakanTanka_DevSprites_270
+  - first:
+      213: -6061797813431638550
+    second: WakanTanka_DevSprites_271
+  - first:
+      213: -5693877883718124660
+    second: WakanTanka_DevSprites_272
+  - first:
+      213: 8219462494975828151
+    second: WakanTanka_DevSprites_273
+  - first:
+      213: 6965179104616125329
+    second: WakanTanka_DevSprites_274
+  - first:
+      213: 8111591568819242494
+    second: WakanTanka_DevSprites_275
+  - first:
+      213: -6348007135204421528
+    second: WakanTanka_DevSprites_276
+  - first:
+      213: -5343352090045322903
+    second: WakanTanka_DevSprites_277
+  - first:
+      213: 6374045372765463543
+    second: WakanTanka_DevSprites_278
+  - first:
+      213: -4768808749273999688
+    second: WakanTanka_DevSprites_279
+  - first:
+      213: -7215466941768315167
+    second: WakanTanka_DevSprites_280
+  - first:
+      213: -8846887269334242221
+    second: WakanTanka_DevSprites_281
+  - first:
+      213: 5810828390347614892
+    second: WakanTanka_DevSprites_282
+  - first:
+      213: -1567276648823844491
+    second: WakanTanka_DevSprites_283
+  - first:
+      213: -735921778471200028
+    second: WakanTanka_DevSprites_284
+  - first:
+      213: -2101000621910663298
+    second: WakanTanka_DevSprites_285
+  - first:
+      213: -7389199313629497418
+    second: WakanTanka_DevSprites_286
+  - first:
+      213: 6478945421518935219
+    second: WakanTanka_DevSprites_287
+  - first:
+      213: -8733248409795659247
+    second: WakanTanka_DevSprites_288
+  - first:
+      213: -6989431496299684664
+    second: WakanTanka_DevSprites_289
+  - first:
+      213: -1999943379582645631
+    second: WakanTanka_DevSprites_290
+  - first:
+      213: -4740269558263573285
+    second: WakanTanka_DevSprites_291
+  - first:
+      213: -5642543172478619920
+    second: WakanTanka_DevSprites_292
+  - first:
+      213: 4541038203398298072
+    second: WakanTanka_DevSprites_293
+  - first:
+      213: 7025861370030442004
+    second: WakanTanka_DevSprites_294
+  - first:
+      213: 4799299341392940407
+    second: WakanTanka_DevSprites_295
+  - first:
+      213: 3697357122238236996
+    second: WakanTanka_DevSprites_296
+  - first:
+      213: -2920417584764498946
+    second: WakanTanka_DevSprites_297
+  - first:
+      213: 537450206993874
+    second: WakanTanka_DevSprites_298
+  - first:
+      213: -1365979414933972862
+    second: WakanTanka_DevSprites_299
+  - first:
+      213: 8688506195970894778
+    second: WakanTanka_DevSprites_300
+  - first:
+      213: -1424622308927117336
+    second: WakanTanka_DevSprites_301
+  - first:
+      213: 465702502038354193
+    second: WakanTanka_DevSprites_302
+  - first:
+      213: 150150699508904540
+    second: WakanTanka_DevSprites_303
+  - first:
+      213: 3734030723679546293
+    second: WakanTanka_DevSprites_304
+  - first:
+      213: 6552300562685543701
+    second: WakanTanka_DevSprites_305
+  - first:
+      213: -2391204617365779991
+    second: WakanTanka_DevSprites_306
+  - first:
+      213: -1475251930642528302
+    second: WakanTanka_DevSprites_307
+  - first:
+      213: -1355911250558434481
+    second: WakanTanka_DevSprites_308
+  - first:
+      213: 8434910791136880405
+    second: WakanTanka_DevSprites_309
+  - first:
+      213: 7703619031883019236
+    second: WakanTanka_DevSprites_310
+  - first:
+      213: -8421132503092788360
+    second: WakanTanka_DevSprites_311
+  - first:
+      213: 1104817067266718575
+    second: WakanTanka_DevSprites_312
+  - first:
+      213: 8833611709987565911
+    second: WakanTanka_DevSprites_313
+  - first:
+      213: 7553081972268894358
+    second: WakanTanka_DevSprites_314
+  - first:
+      213: -429976189380098488
+    second: WakanTanka_DevSprites_315
+  - first:
+      213: -224469767863851911
+    second: WakanTanka_DevSprites_316
+  - first:
+      213: 784045784320544812
+    second: WakanTanka_DevSprites_317
+  - first:
+      213: 3426006500752555814
+    second: WakanTanka_DevSprites_318
+  - first:
+      213: -6711127568682921871
+    second: WakanTanka_DevSprites_319
+  - first:
+      213: 2816480381267528315
+    second: WakanTanka_DevSprites_320
+  - first:
+      213: -5547784930406907611
+    second: WakanTanka_DevSprites_321
+  - first:
+      213: -1586151388657515096
+    second: WakanTanka_DevSprites_322
+  - first:
+      213: 8626700270864418046
+    second: WakanTanka_DevSprites_323
+  - first:
+      213: 8494856924642816449
+    second: WakanTanka_DevSprites_324
+  - first:
+      213: 7438906134754233771
+    second: WakanTanka_DevSprites_325
+  - first:
+      213: -1239869604043435539
+    second: WakanTanka_DevSprites_326
+  - first:
+      213: 3616759299224148089
+    second: WakanTanka_DevSprites_327
+  - first:
+      213: 4493781901427633423
+    second: WakanTanka_DevSprites_328
+  - first:
+      213: 2765131786962727665
+    second: WakanTanka_DevSprites_329
+  - first:
+      213: 3726731655669372233
+    second: WakanTanka_DevSprites_330
+  - first:
+      213: -7895302071799243177
+    second: WakanTanka_DevSprites_331
+  - first:
+      213: -6687965432026091289
+    second: WakanTanka_DevSprites_332
+  - first:
+      213: 4988354653556768042
+    second: WakanTanka_DevSprites_333
+  - first:
+      213: -5945485945648416660
+    second: WakanTanka_DevSprites_334
+  - first:
+      213: 3401628032795228602
+    second: WakanTanka_DevSprites_335
+  - first:
+      213: -6081000141873106215
+    second: WakanTanka_DevSprites_336
+  - first:
+      213: 3693743883853256463
+    second: WakanTanka_DevSprites_337
+  - first:
+      213: -512489297029323520
+    second: WakanTanka_DevSprites_338
+  - first:
+      213: 6050524864083111311
+    second: WakanTanka_DevSprites_339
+  - first:
+      213: 1732987602360279404
+    second: WakanTanka_DevSprites_340
+  - first:
+      213: -4852733643834895503
+    second: WakanTanka_DevSprites_341
+  - first:
+      213: -454369267145293238
+    second: WakanTanka_DevSprites_342
+  - first:
+      213: 5761281708517050609
+    second: WakanTanka_DevSprites_343
+  - first:
+      213: -3727240159395778777
+    second: WakanTanka_DevSprites_344
+  - first:
+      213: 2521392057757215489
+    second: WakanTanka_DevSprites_345
+  - first:
+      213: -7536545142706724289
+    second: WakanTanka_DevSprites_346
+  - first:
+      213: -3691304966310798957
+    second: WakanTanka_DevSprites_347
+  - first:
+      213: 5151134539425426180
+    second: WakanTanka_DevSprites_348
+  - first:
+      213: 6570326178701394086
+    second: WakanTanka_DevSprites_349
+  - first:
+      213: 4803443970158005297
+    second: WakanTanka_DevSprites_350
+  - first:
+      213: 1554371747608902365
+    second: WakanTanka_DevSprites_351
+  - first:
+      213: -994303476272456606
+    second: WakanTanka_DevSprites_352
+  - first:
+      213: 8013904532705851099
+    second: WakanTanka_DevSprites_353
+  - first:
+      213: -8723658589513097504
+    second: WakanTanka_DevSprites_354
+  - first:
+      213: 4268968320654039857
+    second: WakanTanka_DevSprites_355
+  - first:
+      213: -3849412002503076736
+    second: WakanTanka_DevSprites_356
+  - first:
+      213: 2220000998750428404
+    second: WakanTanka_DevSprites_357
+  - first:
+      213: 3230363263152673074
+    second: WakanTanka_DevSprites_358
+  - first:
+      213: -6991037646576346412
+    second: WakanTanka_DevSprites_359
+  - first:
+      213: 3796417501256261658
+    second: WakanTanka_DevSprites_360
+  - first:
+      213: -7240291661205352855
+    second: WakanTanka_DevSprites_361
+  - first:
+      213: 1509425463505401932
+    second: WakanTanka_DevSprites_362
+  - first:
+      213: -8732622504502490172
+    second: WakanTanka_DevSprites_363
+  - first:
+      213: -5984152252098197859
+    second: WakanTanka_DevSprites_364
+  - first:
+      213: 5197869670119056761
+    second: WakanTanka_DevSprites_365
+  - first:
+      213: -7129018740157391541
+    second: WakanTanka_DevSprites_366
+  - first:
+      213: 7915883857539616400
+    second: WakanTanka_DevSprites_367
+  - first:
+      213: -8907442281290749925
+    second: WakanTanka_DevSprites_368
+  - first:
+      213: 3181795434519213065
+    second: WakanTanka_DevSprites_369
+  - first:
+      213: -3150168624909431876
+    second: WakanTanka_DevSprites_370
+  - first:
+      213: 1371949131224954318
+    second: WakanTanka_DevSprites_371
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3872
+        width: 99
+        height: 152
+      alignment: 9
+      pivot: {x: 0.47474748, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb131c22c38cc6a0800000000000000
+      internalID: -6427617698178196556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3872
+        width: 99
+        height: 152
+      alignment: 9
+      pivot: {x: 0.47474748, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bf4b660436e3cd0800000000000000
+      internalID: -2576512808557151383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_8
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 3870
+        width: 71
+        height: 163
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.030674845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63e08ae504a4a20800000000000000
+      internalID: 3047318873160169198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3871
+        width: 91
+        height: 156
+      alignment: 9
+      pivot: {x: 0.47252747, y: 0.032051284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc27cc117e2f86d0800000000000000
+      internalID: -2986116964574352198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_12
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 3869
+        width: 78
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03012048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2f6e16f7f5c5c0800000000000000
+      internalID: -4195674841381130331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3871
+        width: 91
+        height: 160
+      alignment: 9
+      pivot: {x: 0.37362638, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc502a1ce3e513a0800000000000000
+      internalID: -6695194667826258767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3872
+        width: 97
+        height: 146
+      alignment: 9
+      pivot: {x: 0.48453608, y: 0.01369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89331f97e4641fb0800000000000000
+      internalID: -4678003166962042483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3872
+        width: 92
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.013071896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafcdc2adeb62ccd0800000000000000
+      internalID: -2539348571500720214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3872
+        width: 92
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.015384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b8ab35c4d7cb80800000000000000
+      internalID: -8374491038497589941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3872
+        width: 92
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.013071896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dede5f1f9413fb0800000000000000
+      internalID: -4669870035044536971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3673
+        width: 84
+        height: 151
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276f3b4976ac0f60800000000000000
+      internalID: 8001953677814228773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3673
+        width: 86
+        height: 148
+      alignment: 9
+      pivot: {x: 0.6395349, y: 0.013513514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8513c0f95ad2a3e80800000000000000
+      internalID: -8198189982313336488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3673
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.37241378, y: 0.013793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520032a91c4af6820800000000000000
+      internalID: 2913728635353628709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_26
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3673
+        width: 98
+        height: 148
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.013513514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67200b9573702ad40800000000000000
+      internalID: 5594041621456880246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 3671
+        width: 94
+        height: 147
+      alignment: 9
+      pivot: {x: 0.47872338, y: 0.020408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812c9451787eefd0800000000000000
+      internalID: -2310777130648329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_30
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 3672
+        width: 164
+        height: 149
+      alignment: 9
+      pivot: {x: 0.41463414, y: 0.013422819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fbf9a99dc6a7130800000000000000
+      internalID: 3565281736875032413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_31
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3673
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.33103448, y: 0.013793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e131cc778c8a3c0800000000000000
+      internalID: -4348005023375745421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_32
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3674
+        width: 177
+        height: 121
+      alignment: 9
+      pivot: {x: 0.38418078, y: 0.016528925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f9ca3d407bf8e0800000000000000
+      internalID: -1658608560754788364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3468
+        width: 130
+        height: 151
+      alignment: 9
+      pivot: {x: 0.66923076, y: 0.013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806732ec34a52630800000000000000
+      internalID: 3901705233586675842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3467
+        width: 108
+        height: 148
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea23f232db44cb0800000000000000
+      internalID: -4880568137349419396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_38
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3469
+        width: 153
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5620915, y: 0.026143791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3f4d46e99076110800000000000000
+      internalID: 1253981597147132889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_41
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3468
+        width: 193
+        height: 150
+      alignment: 9
+      pivot: {x: 0.39896372, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e66e060126171d0800000000000000
+      internalID: -3354792424929595842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_46
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 3468
+        width: 188
+        height: 138
+      alignment: 9
+      pivot: {x: 0.19148935, y: 0.028985508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e9efc28ceddcf20800000000000000
+      internalID: 3444654241338007081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_47
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 3468
+        width: 204
+        height: 134
+      alignment: 9
+      pivot: {x: 0.1764706, y: 0.02238806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed783b7edabdd00800000000000000
+      internalID: 998582953053773548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_49
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3265
+        width: 136
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5514706, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa48ff5d258936f0800000000000000
+      internalID: -704385436776641876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3265
+        width: 141
+        height: 190
+      alignment: 9
+      pivot: {x: 0.53900707, y: 0.010526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7563191e70ff24de0800000000000000
+      internalID: -1350236528943483305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3264
+        width: 98
+        height: 148
+      alignment: 9
+      pivot: {x: 0.45918366, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df48d6dca35afa0800000000000000
+      internalID: -5790157091934765715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3267
+        width: 142
+        height: 145
+      alignment: 9
+      pivot: {x: 0.28873238, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a9efc72359ce70800000000000000
+      internalID: 9135924749554787768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_58
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3267
+        width: 235
+        height: 163
+      alignment: 9
+      pivot: {x: 0.2468085, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5616c48c6eddfb320800000000000000
+      internalID: 2576021495151878501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3267
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.28275862, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676cebf54655eb60800000000000000
+      internalID: 7774715190304335718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_60
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3265
+        width: 196
+        height: 184
+      alignment: 9
+      pivot: {x: 0.26020408, y: 0.010869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008dd9475399f4590800000000000000
+      internalID: -7687757584029329408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_63
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 3261
+        width: 158
+        height: 165
+      alignment: 9
+      pivot: {x: 0.25316456, y: 0.04242424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6d2cf5d2c846120800000000000000
+      internalID: 2406202227430708949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_72
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3266
+        width: 87
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.01369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca9e80f6fd34fb0800000000000000
+      internalID: -4664639121041806196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3066
+        width: 98
+        height: 148
+      alignment: 9
+      pivot: {x: 0.3265306, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318f25fefdad6de0800000000000000
+      internalID: -1338222203712339650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_79
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3069
+        width: 110
+        height: 145
+      alignment: 9
+      pivot: {x: 0.22727272, y: 0.013793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a1d27ca223df50800000000000000
+      internalID: 6904900777745163534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3069
+        width: 162
+        height: 163
+      alignment: 9
+      pivot: {x: 0.25308642, y: 0.012269938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5f6885321bc060800000000000000
+      internalID: 6974688469044911890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3064
+        width: 198
+        height: 152
+      alignment: 9
+      pivot: {x: 0.41414142, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010974f7a9ae6c4c0800000000000000
+      internalID: -4267465647605706736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_84
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 3064
+        width: 211
+        height: 139
+      alignment: 9
+      pivot: {x: 0.17061612, y: 0.02877698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c0a27b2102ba70800000000000000
+      internalID: 8841130304600064881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_85
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 3064
+        width: 170
+        height: 135
+      alignment: 9
+      pivot: {x: 0.27058825, y: 0.02962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1beedfee276db6f0800000000000000
+      internalID: -667263718490445029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_86
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 3139
+        width: 147
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815be8646e1462bd0800000000000000
+      internalID: -2655362473006287592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_87
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 3139
+        width: 147
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d2eda7613c15a70800000000000000
+      internalID: 8814040447058849140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_88
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2833
+        width: 86
+        height: 148
+      alignment: 9
+      pivot: {x: 0.74418604, y: 0.040540542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237f7d6a3b81cc10800000000000000
+      internalID: 2072090386628571945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2833
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.43448275, y: 0.06896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d36c989cc1708540800000000000000
+      internalID: 5008127909183644626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_92
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2833
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.40689656, y: 0.08275862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc32eec26c5e6560800000000000000
+      internalID: 7308880824716377270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_93
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2833
+        width: 94
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b8984cf1765f4f0800000000000000
+      internalID: -795616373022028992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_95
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2834
+        width: 165
+        height: 149
+      alignment: 9
+      pivot: {x: 0.46666664, y: 0.053691275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cca95cd8b6b56f0800000000000000
+      internalID: -694843460848792572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_96
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2833
+        width: 86
+        height: 148
+      alignment: 9
+      pivot: {x: 0.6744186, y: 0.074324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c5c6760f7e58c0800000000000000
+      internalID: -4008626952573958264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_98
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2833
+        width: 145
+        height: 145
+      alignment: 9
+      pivot: {x: 0.39310345, y: 0.08275862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13020cd8c9aac1d0800000000000000
+      internalID: -3329662294337387748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_100
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2833
+        width: 99
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.078431375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d572a9ae49e190800000000000000
+      internalID: -7932722778154346825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_102
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2831
+        width: 165
+        height: 150
+      alignment: 9
+      pivot: {x: 0.30303028, y: 0.086666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437598b3639d3cb0800000000000000
+      internalID: -4882584364491902138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2833
+        width: 144
+        height: 145
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.10344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa7764bf409672d0800000000000000
+      internalID: -3281276606489331030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_106
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2836
+        width: 177
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4180791, y: 0.057851236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ebff6d80ac53710800000000000000
+      internalID: 1672464975953641005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_107
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2833
+        width: 144
+        height: 145
+      alignment: 9
+      pivot: {x: 0.3611111, y: 0.11724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4655f9ed32573a0800000000000000
+      internalID: -6668384234189265681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_108
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 2832
+        width: 160
+        height: 138
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.0942029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c5f80b82be04e0800000000000000
+      internalID: -2013475673167510041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_109
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2832
+        width: 170
+        height: 134
+      alignment: 9
+      pivot: {x: 0.3647059, y: 0.10447761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8f13116a8e3eb0800000000000000
+      internalID: -4738197608409888101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_110
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2660
+        width: 89
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490af5275ea43320800000000000000
+      internalID: 2536844179438963019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_112
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2660
+        width: 90
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33802338fe2372570800000000000000
+      internalID: 8441772030808950835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_114
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2660
+        width: 93
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5268817, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d2a64634f4f26b0800000000000000
+      internalID: -5318945484035183232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_116
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2660
+        width: 118
+        height: 124
+      alignment: 9
+      pivot: {x: 0.41525424, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab21a219e4fb44a0800000000000000
+      internalID: -6607918746358961243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_118
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2660
+        width: 120
+        height: 116
+      alignment: 9
+      pivot: {x: 0.425, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095476ffc27211090800000000000000
+      internalID: -8065622383426845296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_120
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2660
+        width: 101
+        height: 114
+      alignment: 9
+      pivot: {x: 0.6138614, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ab190ac41af5f0800000000000000
+      internalID: -722241932270788263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_122
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2660
+        width: 138
+        height: 115
+      alignment: 9
+      pivot: {x: 0.46376812, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8cbd321fa9ad110800000000000000
+      internalID: 1286511004047100150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_124
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2660
+        width: 132
+        height: 114
+      alignment: 9
+      pivot: {x: 0.3939394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49cedd1967e86cb0800000000000000
+      internalID: -4870388558342469300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2485
+        width: 83
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163ec3f1c34df440800000000000000
+      internalID: 4971204063985022481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_127
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2485
+        width: 89
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5168539, y: 0.18320611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4552fe030577dc0800000000000000
+      internalID: -3641353602604903252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_128
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2537
+        width: 120
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4916667, y: 0.18072289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352750c6997a52e90800000000000000
+      internalID: -7051045364194512301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_129
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2527
+        width: 88
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22608694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0e8be60e692b400800000000000000
+      internalID: 338498812680659144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_131
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 2517
+        width: 129
+        height: 90
+      alignment: 9
+      pivot: {x: 0.49612403, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0944b77de8d5a0800000000000000
+      internalID: -6496181364100362757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2430
+        width: 75
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba84fb136ee7a450800000000000000
+      internalID: 6100106329734810299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_134
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2436
+        width: 83
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3e8386d4657e70800000000000000
+      internalID: 9112300293546982628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_136
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2436
+        width: 83
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49397588, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887b0166e0e41320800000000000000
+      internalID: 2527892570936932495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_138
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2430
+        width: 75
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d7b19ad22a3900800000000000000
+      internalID: 664882217133527122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_143
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2430
+        width: 89
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b015167a7320cf0800000000000000
+      internalID: -287606234166523024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_146
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2442
+        width: 83
+        height: 146
+      alignment: 9
+      pivot: {x: 0.45783132, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa704892d6df44e0800000000000000
+      internalID: -1995139909916001619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_148
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2424
+        width: 85
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5411765, y: 0.012903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364979195d868c4a0800000000000000
+      internalID: -6572888389667285917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_149
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2424
+        width: 85
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.019354839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540bc9525b2a1ddc0800000000000000
+      internalID: -3615930126897991611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_151
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2424
+        width: 85
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.012903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e51efe75ecda2f0800000000000000
+      internalID: -959884268478046696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_152
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2173
+        width: 83
+        height: 146
+      alignment: 9
+      pivot: {x: 0.39759034, y: 0.034246575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9663a2f2f34193d0800000000000000
+      internalID: -3201703149351770467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_153
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2175
+        width: 89
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5168539, y: 0.27333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f61ef7110b8cd70800000000000000
+      internalID: 9063687839289536289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_156
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2178
+        width: 89
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6741573, y: 0.052980132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804f190b28c32d50800000000000000
+      internalID: 6711427956874363018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_158
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2178
+        width: 124
+        height: 162
+      alignment: 9
+      pivot: {x: 0.49193546, y: 0.043209877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2200eb8a25eda5ae0800000000000000
+      internalID: -1559689874330746846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_160
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2178
+        width: 124
+        height: 166
+      alignment: 9
+      pivot: {x: 0.49193546, y: 0.036144577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165801e59b85ecc0800000000000000
+      internalID: -3682383644463704550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_162
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2173
+        width: 95
+        height: 135
+      alignment: 9
+      pivot: {x: 0.34736845, y: 0.04444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55938c7fe44b6d0c0800000000000000
+      internalID: -4551252122153764523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2173
+        width: 111
+        height: 137
+      alignment: 9
+      pivot: {x: 0.3063063, y: 0.02919708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66db5a3702a6940800000000000000
+      internalID: 5290076393374049977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_166
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2175
+        width: 114
+        height: 153
+      alignment: 9
+      pivot: {x: 0.40350878, y: 0.26797387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbfbe8ff805bc970800000000000000
+      internalID: 8776196878148303821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_167
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2175
+        width: 141
+        height: 150
+      alignment: 9
+      pivot: {x: 0.32624114, y: 0.27333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24090debdf8c433d0800000000000000
+      internalID: -3227734040764182462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_168
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1993
+        width: 107
+        height: 151
+      alignment: 9
+      pivot: {x: 0.44859812, y: 0.0066225166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14db9757c539d00800000000000000
+      internalID: 978227203692904891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_175
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1993
+        width: 114
+        height: 142
+      alignment: 9
+      pivot: {x: 0.48245615, y: 0.0070422534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96981ca580e21f80800000000000000
+      internalID: -8137194711982500193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_177
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2113
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf18765bdea00ca0800000000000000
+      internalID: -6052645642114162737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_178
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1993
+        width: 118
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.006289308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded61898a13c5daa0800000000000000
+      internalID: -6136784398478905875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_180
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1993
+        width: 118
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.006666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817126040658dd590800000000000000
+      internalID: -7647809943761709288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_182
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1798
+        width: 89
+        height: 148
+      alignment: 9
+      pivot: {x: 0.61797756, y: 0.040540542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f8a57d475c46c0800000000000000
+      internalID: -4157852365771705440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1799
+        width: 92
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.0397351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a50331cd8550f0800000000000000
+      internalID: -1128840270662229334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_186
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1799
+        width: 92
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65567a31c90f06dc0800000000000000
+      internalID: -3647651145034799786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1799
+        width: 92
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97b2a5f688b5930800000000000000
+      internalID: 4133047094878108087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_189
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1799
+        width: 92
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.04477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09b9bdf45df39b40800000000000000
+      internalID: 5445974915896949003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_190
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1799
+        width: 92
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.04477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fce9200106400e0800000000000000
+      internalID: -2304611487427145939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_191
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1794
+        width: 92
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5978261, y: 0.07913669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aeb6bd9f4181b10800000000000000
+      internalID: 1952333501825804905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_192
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1795
+        width: 148
+        height: 138
+      alignment: 9
+      pivot: {x: 0.41891894, y: 0.072463766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5309bc9c00c4c5c50800000000000000
+      internalID: 6655277915616022581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_194
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1795
+        width: 176
+        height: 115
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.07826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31246d837f09aed20800000000000000
+      internalID: 3308616267741938195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_195
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1794
+        width: 166
+        height: 109
+      alignment: 9
+      pivot: {x: 0.3253012, y: 0.10091743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68acbcbf2d4b64550800000000000000
+      internalID: 6144797559854189190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_196
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1867
+        width: 44
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8a6ab8fce7c71a0800000000000000
+      internalID: -6810429106624747307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_197
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1867
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6ac64e2623ea5f0800000000000000
+      internalID: -743601488149043473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_198
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1866
+        width: 44
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce2724dcebd4e00800000000000000
+      internalID: 1030689678530112696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_199
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1867
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47639e9078345e860800000000000000
+      internalID: 7558521796877170292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_207
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1603
+        width: 98
+        height: 148
+      alignment: 9
+      pivot: {x: 0.45918366, y: 0.020270271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d3e92c3a4857f0800000000000000
+      internalID: -623666926129523933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_208
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1607
+        width: 149
+        height: 155
+      alignment: 9
+      pivot: {x: 0.31543624, y: -0.006451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a3811401fa2a9f0800000000000000
+      internalID: -458611727691924857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_210
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1609
+        width: 159
+        height: 151
+      alignment: 9
+      pivot: {x: 0.35849056, y: -0.013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaf00a94d1e36720800000000000000
+      internalID: 2838360493406616251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_211
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1607
+        width: 160
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2875, y: 0.006535948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7199315d97b590800000000000000
+      internalID: -7658479669136490806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_213
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1602
+        width: 140
+        height: 160
+      alignment: 9
+      pivot: {x: 0.22857143, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d5a17c0cd82eb0800000000000000
+      internalID: -4744300261430405386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_215
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1382
+        width: 76
+        height: 164
+      alignment: 9
+      pivot: {x: 0.6447368, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8015fec58f5d5df0800000000000000
+      internalID: -189890580972236661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_216
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1382
+        width: 76
+        height: 158
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.050632913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665b4ed52ea591d0800000000000000
+      internalID: -3344575670586223007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_217
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1382
+        width: 75
+        height: 153
+      alignment: 9
+      pivot: {x: 0.64, y: 0.052287582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2049767241867f0800000000000000
+      internalID: -619222789289409853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_219
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1382
+        width: 74
+        height: 147
+      alignment: 9
+      pivot: {x: 0.6486487, y: 0.047619045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1707638bde3f450800000000000000
+      internalID: 6121497693969740230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_221
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1382
+        width: 75
+        height: 147
+      alignment: 9
+      pivot: {x: 0.68, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e4bfd9fb5a4c00800000000000000
+      internalID: 885621405489883045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_223
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1382
+        width: 105
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba213dc1f8be7460800000000000000
+      internalID: 7241428599527516861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_229
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1381
+        width: 174
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4597701, y: 0.0729927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d2c23ce34d9d70800000000000000
+      internalID: 9051465507827536819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_230
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1380
+        width: 251
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5099602, y: 0.07971015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d706eb60270a40800000000000000
+      internalID: 5334267931436503685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_231
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1380
+        width: 260
+        height: 158
+      alignment: 9
+      pivot: {x: 0.49615386, y: 0.06329114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d842cfc7c95bdb0800000000000000
+      internalID: -4776739769136411261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_233
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1381
+        width: 250
+        height: 137
+      alignment: 9
+      pivot: {x: 0.512, y: 0.0729927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3797cd637c4e530800000000000000
+      internalID: 3883447817141318629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_235
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1380
+        width: 104
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5096154, y: 0.06962025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f432359fa616ed0800000000000000
+      internalID: -2422537505474392267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_239
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1167
+        width: 76
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f50f5ac8515b14f0800000000000000
+      internalID: -857001862289750539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_240
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1167
+        width: 76
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef1d7e62b1a84d0800000000000000
+      internalID: -3131660736970752309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_241
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1167
+        width: 75
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f0aae64f6231570800000000000000
+      internalID: 8436129358265585502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_243
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1167
+        width: 75
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35c2e04cb54b750800000000000000
+      internalID: 6319777074717152229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_244
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 970
+        width: 92
+        height: 145
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.0068965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab78930f6750d1f0800000000000000
+      internalID: -1022220981099791447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_246
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 970
+        width: 83
+        height: 140
+      alignment: 9
+      pivot: {x: 0.45783132, y: 0.007142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe73fb7a310c600800000000000000
+      internalID: 486410370944593800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_248
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 972
+        width: 85
+        height: 142
+      alignment: 9
+      pivot: {x: 0.45882353, y: 0.0070422534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648fc234c4b84fe0800000000000000
+      internalID: -1204514145562557336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_250
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 966
+        width: 80
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7382912a0f038cc0800000000000000
+      internalID: -3710105131835817093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_252
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 966
+        width: 71
+        height: 114
+      alignment: 9
+      pivot: {x: 0.52112675, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4c56f4322e2ce90800000000000000
+      internalID: -7006789428951268138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_254
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 966
+        width: 76
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5394737, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba634e0e4b998080800000000000000
+      internalID: -9184639205496362316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_256
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 809
+        width: 126
+        height: 138
+      alignment: 9
+      pivot: {x: 0.484127, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68a8022be9cbcb0800000000000000
+      internalID: -4846824611070179647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_257
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 809
+        width: 89
+        height: 132
+      alignment: 9
+      pivot: {x: 0.4269663, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30473ab335d1a4440800000000000000
+      internalID: 4920777786175747075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_258
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 808
+        width: 90
+        height: 147
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.020408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97c004f53431060800000000000000
+      internalID: 6922951128574097902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_259
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 803
+        width: 130
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5923077, y: 0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c14eee0a1c8010800000000000000
+      internalID: 1192356652775489719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_260
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 805
+        width: 126
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5634921, y: 0.06542056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee346080aa8e12e0800000000000000
+      internalID: -2153131149883064605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_261
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 805
+        width: 79
+        height: 138
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c32b62b17241f1c0800000000000000
+      internalID: -4471719898910088252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_262
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 805
+        width: 79
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5316456, y: 0.014814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48d9ec2bcee3c50800000000000000
+      internalID: 6647010352760194236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_263
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 804
+        width: 79
+        height: 138
+      alignment: 9
+      pivot: {x: 0.556962, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39cae5033c8918f0800000000000000
+      internalID: -569269727115163334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_264
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 810
+        width: 135
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2e9c8b4ab75140800000000000000
+      internalID: 4708436769083633344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_265
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 802
+        width: 131
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edf1980c257bc70800000000000000
+      internalID: 8986742568328879643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_266
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 650
+        width: 79
+        height: 138
+      alignment: 9
+      pivot: {x: 0.556962, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb209be3df0e14c30800000000000000
+      internalID: 4341998894045528767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_267
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 650
+        width: 79
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5316456, y: 0.04444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a773cbe4811b90800000000000000
+      internalID: -7272885775095060937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_268
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 649
+        width: 79
+        height: 138
+      alignment: 9
+      pivot: {x: 0.54430383, y: 0.04347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17be4ecd8bbfa070800000000000000
+      internalID: 8119914870898341663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_269
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 454
+        width: 126
+        height: 140
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad8fb1c719afa50800000000000000
+      internalID: 6555712169822444092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_270
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 455
+        width: 119
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5294118, y: -0.047619045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853792a60ffb1e590800000000000000
+      internalID: -7646619653004233896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_278
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 455
+        width: 164
+        height: 119
+      alignment: 9
+      pivot: {x: 0.6890244, y: -0.067226894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f368e1de78257850800000000000000
+      internalID: 6374045372765463543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_281
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 432
+        width: 79
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c286fb6ea893580800000000000000
+      internalID: -8846887269334242221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_283
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 432
+        width: 87
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711712113aef3ae0800000000000000
+      internalID: -1567276648823844491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_284
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 432
+        width: 87
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea10c3aa0b79c5f0800000000000000
+      internalID: -735921778471200028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_285
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 432
+        width: 87
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd322e01fb7d2e0800000000000000
+      internalID: -2101000621910663298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_293
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 433
+        width: 97
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d99801cf22050f30800000000000000
+      internalID: 4541038203398298072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_322
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 431
+        width: 91
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5831f37bbdcf9e0800000000000000
+      internalID: -1586151388657515096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_335
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 432
+        width: 87
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab935c85ca2053f20800000000000000
+      internalID: 3401628032795228602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_341
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 431
+        width: 83
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17352a93670a7acb0800000000000000
+      internalID: -4852733643834895503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_344
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 433
+        width: 80
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe4a2a2de264cc0800000000000000
+      internalID: -3727240159395778777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_349
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 432
+        width: 85
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a042f339dc7e2b50800000000000000
+      internalID: 6570326178701394086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_350
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 431
+        width: 88
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c82c357d249a240800000000000000
+      internalID: 4803443970158005297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_361
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 429
+        width: 90
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ec1a74811558b90800000000000000
+      internalID: -7240291661205352855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WakanTanka_DevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 3101
+        width: 164
+        height: 117
+      alignment: 9
+      pivot: {x: 0.49390242, y: 0.35042736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231685c285f800bf0800000000000000
+      internalID: -360130361325756110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

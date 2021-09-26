@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 6ca6a9881796f0841a9276847999a5a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7644998302332457134
+    second: HemogoblinRetouchDevsprites_0
+  - first:
+      213: -4254392917043265313
+    second: HemogoblinRetouchDevsprites_1
+  - first:
+      213: -2489800231986902822
+    second: HemogoblinRetouchDevsprites_2
+  - first:
+      213: -4732179209250232727
+    second: HemogoblinRetouchDevsprites_3
+  - first:
+      213: 6281185444074124836
+    second: HemogoblinRetouchDevsprites_4
+  - first:
+      213: -2367898828338746537
+    second: HemogoblinRetouchDevsprites_5
+  - first:
+      213: 7442222200263574490
+    second: HemogoblinRetouchDevsprites_6
+  - first:
+      213: -8918455378867474819
+    second: HemogoblinRetouchDevsprites_7
+  - first:
+      213: 4551591287933727270
+    second: HemogoblinRetouchDevsprites_8
+  - first:
+      213: 6996772946619816872
+    second: HemogoblinRetouchDevsprites_9
+  - first:
+      213: -6770762529382552405
+    second: HemogoblinRetouchDevsprites_10
+  - first:
+      213: -2236085437947355054
+    second: HemogoblinRetouchDevsprites_11
+  - first:
+      213: -3166583617499052173
+    second: HemogoblinRetouchDevsprites_12
+  - first:
+      213: 723521481179572208
+    second: HemogoblinRetouchDevsprites_13
+  - first:
+      213: -6378369615750494301
+    second: HemogoblinRetouchDevsprites_14
+  - first:
+      213: 7016553365020250981
+    second: HemogoblinRetouchDevsprites_15
+  - first:
+      213: 1026947248141985278
+    second: HemogoblinRetouchDevsprites_16
+  - first:
+      213: -66018251760363514
+    second: HemogoblinRetouchDevsprites_17
+  - first:
+      213: 8473614727000202731
+    second: HemogoblinRetouchDevsprites_18
+  - first:
+      213: 8229762637121353699
+    second: HemogoblinRetouchDevsprites_19
+  - first:
+      213: -1115505449183987549
+    second: HemogoblinRetouchDevsprites_20
+  - first:
+      213: 2199252470519446499
+    second: HemogoblinRetouchDevsprites_21
+  - first:
+      213: 3138833501608654650
+    second: HemogoblinRetouchDevsprites_22
+  - first:
+      213: -8140787051238444309
+    second: HemogoblinRetouchDevsprites_23
+  - first:
+      213: 7466582486424323110
+    second: HemogoblinRetouchDevsprites_24
+  - first:
+      213: -3272916757800979801
+    second: HemogoblinRetouchDevsprites_25
+  - first:
+      213: -7583423617805512564
+    second: HemogoblinRetouchDevsprites_26
+  - first:
+      213: 8059810259225934885
+    second: HemogoblinRetouchDevsprites_27
+  - first:
+      213: -4350746612674653437
+    second: HemogoblinRetouchDevsprites_28
+  - first:
+      213: 6057115217390702253
+    second: HemogoblinRetouchDevsprites_29
+  - first:
+      213: -3878440812138997111
+    second: HemogoblinRetouchDevsprites_30
+  - first:
+      213: 8557775154852867267
+    second: HemogoblinRetouchDevsprites_31
+  - first:
+      213: 7132614499578505732
+    second: HemogoblinRetouchDevsprites_32
+  - first:
+      213: 8508824984071250849
+    second: HemogoblinRetouchDevsprites_33
+  - first:
+      213: 3369561965545515184
+    second: HemogoblinRetouchDevsprites_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 980
+        width: 132
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3409091, y: -0.0076923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09df6737d781a60800000000000000
+      internalID: 7644998302332457134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 977
+        width: 135
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.022900764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0c2b4ce2c55f4c0800000000000000
+      internalID: -4254392917043265313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 979
+        width: 130
+        height: 131
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.007633588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84cba61e3727dd0800000000000000
+      internalID: -2489800231986902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 980
+        width: 120
+        height: 143
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966a623d41ce35eb0800000000000000
+      internalID: -4732179209250232727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 976
+        width: 131
+        height: 131
+      alignment: 9
+      pivot: {x: 0.48854962, y: 0.030534351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426746ad1e04b2750800000000000000
+      internalID: 6281185444074124836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 980
+        width: 139
+        height: 120
+      alignment: 9
+      pivot: {x: 0.43884894, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b2ec0bf88832fd0800000000000000
+      internalID: -2367898828338746537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_6
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 976
+        width: 123
+        height: 131
+      alignment: 9
+      pivot: {x: 0.45528454, y: 0.030534351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38c3a19a5184760800000000000000
+      internalID: 7442222200263574490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_7
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 980
+        width: 149
+        height: 143
+      alignment: 9
+      pivot: {x: 0.46308726, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eae6db5184b3480800000000000000
+      internalID: -8918455378867474819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_8
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 979
+        width: 124
+        height: 131
+      alignment: 9
+      pivot: {x: 0.3548387, y: 0.007633588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227d0839208a2f30800000000000000
+      internalID: 4551591287933727270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_9
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 977
+        width: 145
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5103448, y: 0.022900764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab5659ace7891160800000000000000
+      internalID: 6996772946619816872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_10
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 980
+        width: 141
+        height: 130
+      alignment: 9
+      pivot: {x: 0.31205672, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca0a14a5b6902a0800000000000000
+      internalID: -6770762529382552405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 771
+        width: 123
+        height: 128
+      alignment: 9
+      pivot: {x: 0.53658533, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25069b73424d7f0e0800000000000000
+      internalID: -2236085437947355054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 771
+        width: 167
+        height: 128
+      alignment: 9
+      pivot: {x: 0.6646707, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c5672af80e04d0800000000000000
+      internalID: -3166583617499052173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 771
+        width: 182
+        height: 128
+      alignment: 9
+      pivot: {x: 0.6868132, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a21924f67a0a00800000000000000
+      internalID: 723521481179572208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 770
+        width: 208
+        height: 128
+      alignment: 9
+      pivot: {x: 0.47115386, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a70c07e0aa7b77a0800000000000000
+      internalID: -6378369615750494301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_15
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 770
+        width: 163
+        height: 131
+      alignment: 9
+      pivot: {x: 0.38650307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5639a953c1ecf5160800000000000000
+      internalID: 7016553365020250981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_16
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 770
+        width: 149
+        height: 135
+      alignment: 9
+      pivot: {x: 0.42281878, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56198c413704e00800000000000000
+      internalID: 1026947248141985278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_17
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 770
+        width: 159
+        height: 131
+      alignment: 9
+      pivot: {x: 0.3962264, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089123ffb4751ff0800000000000000
+      internalID: -66018251760363514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 770
+        width: 190
+        height: 127
+      alignment: 9
+      pivot: {x: 0.33157897, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7766be38df53270800000000000000
+      internalID: 8229762637121353699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 519
+        width: 129
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8306444bde480f0800000000000000
+      internalID: -1115505449183987549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 519
+        width: 129
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb36b44870558e10800000000000000
+      internalID: 2199252470519446499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 519
+        width: 129
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be235d20f4d160f80800000000000000
+      internalID: -8140787051238444309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_24
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 519
+        width: 129
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62489753631ae9760800000000000000
+      internalID: 7466582486424323110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_25
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 519
+        width: 129
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a279d7ac834492d0800000000000000
+      internalID: -3272916757800979801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_26
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 519
+        width: 129
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801567f56442c690800000000000000
+      internalID: -7583423617805512564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 275
+        width: 133
+        height: 134
+      alignment: 9
+      pivot: {x: 0.63909775, y: -0.0074626864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf5326ab23adf60800000000000000
+      internalID: 8059810259225934885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 273
+        width: 173
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4739884, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3031bcbc10b0f93c0800000000000000
+      internalID: -4350746612674653437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_29
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 273
+        width: 226
+        height: 133
+      alignment: 9
+      pivot: {x: 0.32300884, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8f20c2323f0450800000000000000
+      internalID: 6057115217390702253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_30
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 273
+        width: 225
+        height: 120
+      alignment: 9
+      pivot: {x: 0.32444444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ad31651a20d2ac0800000000000000
+      internalID: -3878440812138997111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 95
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4526316, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2bac892353c670800000000000000
+      internalID: 8557775154852867267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 70
+        width: 90
+        height: 100
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6d2fd8132cf260800000000000000
+      internalID: 7132614499578505732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 70
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.2932331, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32987cd3b651670800000000000000
+      internalID: 8508824984071250849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HemogoblinRetouchDevsprites_34
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 70
+        width: 164
+        height: 100
+      alignment: 9
+      pivot: {x: 0.23780487, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8e10541c613ce20800000000000000
+      internalID: 3369561965545515184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

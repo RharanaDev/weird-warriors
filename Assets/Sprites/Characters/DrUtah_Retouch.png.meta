@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 4fcb4700b4fe3f543a7c0f8d7d1fccea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5950490433112898688
+    second: DrUtah_Retouch_0
+  - first:
+      213: 543909544957245392
+    second: DrUtah_Retouch_1
+  - first:
+      213: -3944313548095919776
+    second: DrUtah_Retouch_2
+  - first:
+      213: 4849130291282745445
+    second: DrUtah_Retouch_3
+  - first:
+      213: 6134474666156330184
+    second: DrUtah_Retouch_4
+  - first:
+      213: -2336542390730670379
+    second: DrUtah_Retouch_5
+  - first:
+      213: -2427023077111544264
+    second: DrUtah_Retouch_6
+  - first:
+      213: 8918870323472761654
+    second: DrUtah_Retouch_7
+  - first:
+      213: -6886701762582081809
+    second: DrUtah_Retouch_8
+  - first:
+      213: -1039607437421111400
+    second: DrUtah_Retouch_9
+  - first:
+      213: -319045818158864381
+    second: DrUtah_Retouch_10
+  - first:
+      213: -332498538854838262
+    second: DrUtah_Retouch_11
+  - first:
+      213: -7708522865167382310
+    second: DrUtah_Retouch_12
+  - first:
+      213: -942487901307574855
+    second: DrUtah_Retouch_13
+  - first:
+      213: -3843179331832621244
+    second: DrUtah_Retouch_14
+  - first:
+      213: -6193021253468336783
+    second: DrUtah_Retouch_15
+  - first:
+      213: -2069278181867274105
+    second: DrUtah_Retouch_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DrUtah_Retouch_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08302f66a7c9b6da0800000000000000
+      internalID: -5950490433112898688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 28
+        width: 63
+        height: 129
+      alignment: 9
+      pivot: {x: 0.49206352, y: -0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fe1179da5c8700800000000000000
+      internalID: 543909544957245392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 28
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696bf2d9bbf249c0800000000000000
+      internalID: -3944313548095919776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 28
+        width: 48
+        height: 129
+      alignment: 9
+      pivot: {x: 0.625, y: -0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5689e71ee429b4340800000000000000
+      internalID: 4849130291282745445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 25
+        width: 70
+        height: 107
+      alignment: 9
+      pivot: {x: 0.27142859, y: -0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc81eff438022550800000000000000
+      internalID: 6134474666156330184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 25
+        width: 70
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27142859, y: -0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de3bdd331fe29fd0800000000000000
+      internalID: -2336542390730670379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 25
+        width: 68
+        height: 106
+      alignment: 9
+      pivot: {x: 0.2647059, y: -0.028301887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836471bce5b715ed0800000000000000
+      internalID: -2427023077111544264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 25
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4042553, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330e541e4136cb70800000000000000
+      internalID: 8918870323472761654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_Retouch_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 28
+        width: 74
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0d37fb358d60a0800000000000000
+      internalID: -6886701762582081809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 883d31ca44d81f346ae964c59e581580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5533303045762130072
+    second: ManaLightningDevSprites_0
+  - first:
+      213: -1574850107122531672
+    second: ManaLightningDevSprites_1
+  - first:
+      213: 4566370533038515977
+    second: ManaLightningDevSprites_2
+  - first:
+      213: -7912703125884487271
+    second: ManaLightningDevSprites_3
+  - first:
+      213: 8232033587902182193
+    second: ManaLightningDevSprites_4
+  - first:
+      213: -5537631503673807980
+    second: ManaLightningDevSprites_5
+  - first:
+      213: -9084475665609178860
+    second: ManaLightningDevSprites_6
+  - first:
+      213: 3689340580485567163
+    second: ManaLightningDevSprites_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 204
+        width: 89
+        height: 21
+      alignment: 9
+      pivot: {x: 1, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fd2c25232c533b0800000000000000
+      internalID: -5533303045762130072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 200
+        width: 80
+        height: 27
+      alignment: 9
+      pivot: {x: 1, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2c976eb22052ae0800000000000000
+      internalID: -1574850107122531672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 170
+        width: 89
+        height: 28
+      alignment: 9
+      pivot: {x: 1, y: 0.5357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907629e5ec10f5f30800000000000000
+      internalID: 4566370533038515977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 170
+        width: 87
+        height: 22
+      alignment: 9
+      pivot: {x: 0.99999994, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99938882e6e603290800000000000000
+      internalID: -7912703125884487271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 92
+        height: 22
+      alignment: 9
+      pivot: {x: 0.99999994, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1337ef9deee0e3270800000000000000
+      internalID: 8232033587902182193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 92
+        height: 19
+      alignment: 9
+      pivot: {x: 1, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba28eac716623b0800000000000000
+      internalID: -5537631503673807980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 68
+        width: 94
+        height: 21
+      alignment: 9
+      pivot: {x: 0.98936164, y: 0.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114fa483857de180800000000000000
+      internalID: -9084475665609178860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaLightningDevSprites_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 82
+        height: 20
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2964306bb233330800000000000000
+      internalID: 3689340580485567163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

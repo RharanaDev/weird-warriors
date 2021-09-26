@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: 4f5cb0da7b2f0054c8ec285cd3652b44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4982234910127133524
+    second: Zimago_DevSprites_0
+  - first:
+      213: 3116902379300998252
+    second: Zimago_DevSprites_1
+  - first:
+      213: 4530317292715442257
+    second: Zimago_DevSprites_2
+  - first:
+      213: 2384038259115807932
+    second: Zimago_DevSprites_3
+  - first:
+      213: 7164840711045082387
+    second: Zimago_DevSprites_4
+  - first:
+      213: 5013487702979134924
+    second: Zimago_DevSprites_5
+  - first:
+      213: 7768094211302993469
+    second: Zimago_DevSprites_6
+  - first:
+      213: -586104419350812148
+    second: Zimago_DevSprites_7
+  - first:
+      213: -3598909421410539178
+    second: Zimago_DevSprites_8
+  - first:
+      213: -6992768740003777976
+    second: Zimago_DevSprites_9
+  - first:
+      213: 7770817963438422598
+    second: Zimago_DevSprites_10
+  - first:
+      213: 6919599723632412229
+    second: Zimago_DevSprites_11
+  - first:
+      213: -591835602624063635
+    second: Zimago_DevSprites_12
+  - first:
+      213: 3394475568770999045
+    second: Zimago_DevSprites_13
+  - first:
+      213: 2770535969747806377
+    second: Zimago_DevSprites_14
+  - first:
+      213: 8885342088422282029
+    second: Zimago_DevSprites_15
+  - first:
+      213: 4054426315092395200
+    second: Zimago_DevSprites_16
+  - first:
+      213: 3768083018064755207
+    second: Zimago_DevSprites_17
+  - first:
+      213: 7389839170968628935
+    second: Zimago_DevSprites_18
+  - first:
+      213: -7931967103966437308
+    second: Zimago_DevSprites_19
+  - first:
+      213: 7131052032039065183
+    second: Zimago_DevSprites_20
+  - first:
+      213: -5611044945708977640
+    second: Zimago_DevSprites_21
+  - first:
+      213: 3245420872995996668
+    second: Zimago_DevSprites_22
+  - first:
+      213: -6400704611390272234
+    second: Zimago_DevSprites_23
+  - first:
+      213: 1304626693203035432
+    second: Zimago_DevSprites_24
+  - first:
+      213: 7760647852273981699
+    second: Zimago_DevSprites_25
+  - first:
+      213: -8671064174104619220
+    second: Zimago_DevSprites_26
+  - first:
+      213: -8598892876248304780
+    second: Zimago_DevSprites_27
+  - first:
+      213: -3492773389045721583
+    second: Zimago_DevSprites_28
+  - first:
+      213: -2201424579036994203
+    second: Zimago_DevSprites_29
+  - first:
+      213: -1074099334752083513
+    second: Zimago_DevSprites_30
+  - first:
+      213: -3459718101423978627
+    second: Zimago_DevSprites_31
+  - first:
+      213: 6483453012945838666
+    second: Zimago_DevSprites_32
+  - first:
+      213: 9020154360158580464
+    second: Zimago_DevSprites_33
+  - first:
+      213: 5337661107975184536
+    second: Zimago_DevSprites_34
+  - first:
+      213: -2474332908523531230
+    second: Zimago_DevSprites_35
+  - first:
+      213: -5180370375937259334
+    second: Zimago_DevSprites_36
+  - first:
+      213: -5059691989290870931
+    second: Zimago_DevSprites_37
+  - first:
+      213: -2233303979601243945
+    second: Zimago_DevSprites_38
+  - first:
+      213: 8769701881594890845
+    second: Zimago_DevSprites_39
+  - first:
+      213: -8005624345976464897
+    second: Zimago_DevSprites_40
+  - first:
+      213: -5865174393853538351
+    second: Zimago_DevSprites_41
+  - first:
+      213: 5518845835609977186
+    second: Zimago_DevSprites_42
+  - first:
+      213: -6112563163301263250
+    second: Zimago_DevSprites_43
+  - first:
+      213: 3776147216885877313
+    second: Zimago_DevSprites_44
+  - first:
+      213: 8107863863989288200
+    second: Zimago_DevSprites_45
+  - first:
+      213: -1495694263225628410
+    second: Zimago_DevSprites_46
+  - first:
+      213: -7571018799350361809
+    second: Zimago_DevSprites_47
+  - first:
+      213: -3818390374774432987
+    second: Zimago_DevSprites_48
+  - first:
+      213: 1244068550354550566
+    second: Zimago_DevSprites_49
+  - first:
+      213: -4371979105666643745
+    second: Zimago_DevSprites_50
+  - first:
+      213: -9038022022198975336
+    second: Zimago_DevSprites_51
+  - first:
+      213: 3034261334982392760
+    second: Zimago_DevSprites_52
+  - first:
+      213: 1842007209826928653
+    second: Zimago_DevSprites_53
+  - first:
+      213: -6802396230732340802
+    second: Zimago_DevSprites_54
+  - first:
+      213: 4267018010412128587
+    second: Zimago_DevSprites_55
+  - first:
+      213: -6905475102878318243
+    second: Zimago_DevSprites_56
+  - first:
+      213: -1088038969480714440
+    second: Zimago_DevSprites_57
+  - first:
+      213: 5716195438743016813
+    second: Zimago_DevSprites_58
+  - first:
+      213: 9144010698868671708
+    second: Zimago_DevSprites_59
+  - first:
+      213: -2710234822833411832
+    second: Zimago_DevSprites_60
+  - first:
+      213: -1209028774656091453
+    second: Zimago_DevSprites_61
+  - first:
+      213: -3413486623385574759
+    second: Zimago_DevSprites_62
+  - first:
+      213: 8780375363701611161
+    second: Zimago_DevSprites_63
+  - first:
+      213: 5434875378989187060
+    second: Zimago_DevSprites_64
+  - first:
+      213: -912733358101916759
+    second: Zimago_DevSprites_65
+  - first:
+      213: 7809326851501550276
+    second: Zimago_DevSprites_66
+  - first:
+      213: 980540311904478494
+    second: Zimago_DevSprites_67
+  - first:
+      213: -43281936456237024
+    second: Zimago_DevSprites_68
+  - first:
+      213: -4599309365324931171
+    second: Zimago_DevSprites_69
+  - first:
+      213: -573476497981939016
+    second: Zimago_DevSprites_70
+  - first:
+      213: -2278736048237765088
+    second: Zimago_DevSprites_71
+  - first:
+      213: 8610379873958946945
+    second: Zimago_DevSprites_72
+  - first:
+      213: 2023508662976186813
+    second: Zimago_DevSprites_73
+  - first:
+      213: -6082030921591913899
+    second: Zimago_DevSprites_74
+  - first:
+      213: 1553784556525866598
+    second: Zimago_DevSprites_75
+  - first:
+      213: 8690511583544177449
+    second: Zimago_DevSprites_76
+  - first:
+      213: -1738552025131369354
+    second: Zimago_DevSprites_77
+  - first:
+      213: -2581732973868977214
+    second: Zimago_DevSprites_78
+  - first:
+      213: -6108330441213799236
+    second: Zimago_DevSprites_79
+  - first:
+      213: 479623451865422876
+    second: Zimago_DevSprites_80
+  - first:
+      213: -973639341592537500
+    second: Zimago_DevSprites_81
+  - first:
+      213: 3605127792837345031
+    second: Zimago_DevSprites_82
+  - first:
+      213: 4029279849011447388
+    second: Zimago_DevSprites_83
+  - first:
+      213: 8409622711716307187
+    second: Zimago_DevSprites_84
+  - first:
+      213: -1859112528270768159
+    second: Zimago_DevSprites_85
+  - first:
+      213: 8732292372505128173
+    second: Zimago_DevSprites_86
+  - first:
+      213: -4840611107737159120
+    second: Zimago_DevSprites_87
+  - first:
+      213: 8447992114208365750
+    second: Zimago_DevSprites_88
+  - first:
+      213: 7445182906737454361
+    second: Zimago_DevSprites_89
+  - first:
+      213: 2517979288714577544
+    second: Zimago_DevSprites_90
+  - first:
+      213: 1116762773491487701
+    second: Zimago_DevSprites_91
+  - first:
+      213: -2380369468993231120
+    second: Zimago_DevSprites_92
+  - first:
+      213: 9059156626516880640
+    second: Zimago_DevSprites_93
+  - first:
+      213: 1753551842232961772
+    second: Zimago_DevSprites_94
+  - first:
+      213: -4969810988957303303
+    second: Zimago_DevSprites_95
+  - first:
+      213: -2342676901391961463
+    second: Zimago_DevSprites_96
+  - first:
+      213: 1474292128838226434
+    second: Zimago_DevSprites_97
+  - first:
+      213: 2469626381944947405
+    second: Zimago_DevSprites_98
+  - first:
+      213: -8579003940862076542
+    second: Zimago_DevSprites_99
+  - first:
+      213: -2868174574090032180
+    second: Zimago_DevSprites_100
+  - first:
+      213: 80856712087801680
+    second: Zimago_DevSprites_101
+  - first:
+      213: -3472790509516716649
+    second: Zimago_DevSprites_102
+  - first:
+      213: 1074586555894367249
+    second: Zimago_DevSprites_103
+  - first:
+      213: -6893153644693511981
+    second: Zimago_DevSprites_104
+  - first:
+      213: -8964822368252867782
+    second: Zimago_DevSprites_105
+  - first:
+      213: 8244323111033688862
+    second: Zimago_DevSprites_106
+  - first:
+      213: -2839252231989616756
+    second: Zimago_DevSprites_107
+  - first:
+      213: 3491661768336295413
+    second: Zimago_DevSprites_108
+  - first:
+      213: 7556659960118095727
+    second: Zimago_DevSprites_109
+  - first:
+      213: -9015312998836690757
+    second: Zimago_DevSprites_110
+  - first:
+      213: -135340658699289591
+    second: Zimago_DevSprites_111
+  - first:
+      213: 7300297085736259290
+    second: Zimago_DevSprites_112
+  - first:
+      213: 6376733226419082737
+    second: Zimago_DevSprites_113
+  - first:
+      213: -2001876586085937124
+    second: Zimago_DevSprites_114
+  - first:
+      213: 6163968547757757980
+    second: Zimago_DevSprites_115
+  - first:
+      213: -2656176958596704072
+    second: Zimago_DevSprites_116
+  - first:
+      213: -6869608802038317887
+    second: Zimago_DevSprites_117
+  - first:
+      213: 2246170872661198333
+    second: Zimago_DevSprites_118
+  - first:
+      213: 4800101705057095236
+    second: Zimago_DevSprites_119
+  - first:
+      213: 5067004067917682050
+    second: Zimago_DevSprites_120
+  - first:
+      213: 2223506606837143956
+    second: Zimago_DevSprites_121
+  - first:
+      213: 815562967413653029
+    second: Zimago_DevSprites_122
+  - first:
+      213: -1271310258187846822
+    second: Zimago_DevSprites_123
+  - first:
+      213: 3578091151194092818
+    second: Zimago_DevSprites_124
+  - first:
+      213: -1531921313804426808
+    second: Zimago_DevSprites_125
+  - first:
+      213: -4551196512101650710
+    second: Zimago_DevSprites_126
+  - first:
+      213: -7674982340190564247
+    second: Zimago_DevSprites_127
+  - first:
+      213: -4271712499971128584
+    second: Zimago_DevSprites_128
+  - first:
+      213: 7614671591884641456
+    second: Zimago_DevSprites_129
+  - first:
+      213: 5217481299395353287
+    second: Zimago_DevSprites_130
+  - first:
+      213: -815511710292562570
+    second: Zimago_DevSprites_131
+  - first:
+      213: -7873796975826337642
+    second: Zimago_DevSprites_132
+  - first:
+      213: 1312692132124465019
+    second: Zimago_DevSprites_133
+  - first:
+      213: 27458993629279606
+    second: Zimago_DevSprites_134
+  - first:
+      213: 4221879864493532160
+    second: Zimago_DevSprites_135
+  - first:
+      213: -7014768265880602588
+    second: Zimago_DevSprites_136
+  - first:
+      213: 6767073321908656416
+    second: Zimago_DevSprites_137
+  - first:
+      213: -5131771228699945349
+    second: Zimago_DevSprites_138
+  - first:
+      213: -8122641933596059597
+    second: Zimago_DevSprites_139
+  - first:
+      213: -7357703193819227930
+    second: Zimago_DevSprites_140
+  - first:
+      213: -7988793256017132610
+    second: Zimago_DevSprites_141
+  - first:
+      213: 2349222084369084599
+    second: Zimago_DevSprites_142
+  - first:
+      213: 1459580243151991056
+    second: Zimago_DevSprites_143
+  - first:
+      213: 762383791471378695
+    second: Zimago_DevSprites_144
+  - first:
+      213: -3170837870035537346
+    second: Zimago_DevSprites_145
+  - first:
+      213: 4272059824571644089
+    second: Zimago_DevSprites_146
+  - first:
+      213: -9154716506687316795
+    second: Zimago_DevSprites_147
+  - first:
+      213: 4976114273636129822
+    second: Zimago_DevSprites_148
+  - first:
+      213: 4490801814164195302
+    second: Zimago_DevSprites_149
+  - first:
+      213: 6157887794454722432
+    second: Zimago_DevSprites_150
+  - first:
+      213: 7828225164722542113
+    second: Zimago_DevSprites_151
+  - first:
+      213: -3386298787733064415
+    second: Zimago_DevSprites_152
+  - first:
+      213: 4022370498205620829
+    second: Zimago_DevSprites_153
+  - first:
+      213: -1670458661112899583
+    second: Zimago_DevSprites_154
+  - first:
+      213: -4226946503971102879
+    second: Zimago_DevSprites_155
+  - first:
+      213: 4794725727801344271
+    second: Zimago_DevSprites_156
+  - first:
+      213: 1901163736179200434
+    second: Zimago_DevSprites_157
+  - first:
+      213: 7921437904846468369
+    second: Zimago_DevSprites_158
+  - first:
+      213: 971735545676606435
+    second: Zimago_DevSprites_159
+  - first:
+      213: -8767300000604843142
+    second: Zimago_DevSprites_160
+  - first:
+      213: 1765189207820350917
+    second: Zimago_DevSprites_161
+  - first:
+      213: -967232655578216133
+    second: Zimago_DevSprites_162
+  - first:
+      213: 1052547663613494335
+    second: Zimago_DevSprites_163
+  - first:
+      213: 7617019767862637993
+    second: Zimago_DevSprites_164
+  - first:
+      213: -8413744564003507453
+    second: Zimago_DevSprites_165
+  - first:
+      213: 6547793987011874082
+    second: Zimago_DevSprites_166
+  - first:
+      213: 5347896108194705558
+    second: Zimago_DevSprites_167
+  - first:
+      213: 3679808211311314696
+    second: Zimago_DevSprites_168
+  - first:
+      213: -7069962917622909233
+    second: Zimago_DevSprites_169
+  - first:
+      213: -393935445134141565
+    second: Zimago_DevSprites_170
+  - first:
+      213: 7856062382411203600
+    second: Zimago_DevSprites_171
+  - first:
+      213: 2555084946317366551
+    second: Zimago_DevSprites_172
+  - first:
+      213: -5414179277740052138
+    second: Zimago_DevSprites_173
+  - first:
+      213: -285771047314821509
+    second: Zimago_DevSprites_174
+  - first:
+      213: 3482729523058141300
+    second: Zimago_DevSprites_175
+  - first:
+      213: 3634302358528858702
+    second: Zimago_DevSprites_176
+  - first:
+      213: 1305982448900701963
+    second: Zimago_DevSprites_177
+  - first:
+      213: 277649201235615023
+    second: Zimago_DevSprites_178
+  - first:
+      213: -2678305994008236901
+    second: Zimago_DevSprites_179
+  - first:
+      213: -4700341649856110266
+    second: Zimago_DevSprites_180
+  - first:
+      213: -6823424209501565065
+    second: Zimago_DevSprites_181
+  - first:
+      213: 6515861387298579403
+    second: Zimago_DevSprites_182
+  - first:
+      213: 2681886919995166550
+    second: Zimago_DevSprites_183
+  - first:
+      213: 3566743379847646057
+    second: Zimago_DevSprites_184
+  - first:
+      213: 5323568595441527820
+    second: Zimago_DevSprites_185
+  - first:
+      213: -6638633191498647457
+    second: Zimago_DevSprites_186
+  - first:
+      213: 8805475488096632877
+    second: Zimago_DevSprites_187
+  - first:
+      213: -6896268476943312827
+    second: Zimago_DevSprites_188
+  - first:
+      213: -8089972514037781157
+    second: Zimago_DevSprites_189
+  - first:
+      213: 240094255354446435
+    second: Zimago_DevSprites_190
+  - first:
+      213: 8638888602028618360
+    second: Zimago_DevSprites_191
+  - first:
+      213: 4260165255781641455
+    second: Zimago_DevSprites_192
+  - first:
+      213: 6655075843304753117
+    second: Zimago_DevSprites_193
+  - first:
+      213: 1457990079584310924
+    second: Zimago_DevSprites_194
+  - first:
+      213: -1561179405017714451
+    second: Zimago_DevSprites_195
+  - first:
+      213: -7741751781460442112
+    second: Zimago_DevSprites_196
+  - first:
+      213: -3069480158603631792
+    second: Zimago_DevSprites_197
+  - first:
+      213: -4458958294005273869
+    second: Zimago_DevSprites_198
+  - first:
+      213: 6220404222783998115
+    second: Zimago_DevSprites_199
+  - first:
+      213: 5185075584367536172
+    second: Zimago_DevSprites_200
+  - first:
+      213: 7637989515051168072
+    second: Zimago_DevSprites_201
+  - first:
+      213: 3877719237434615634
+    second: Zimago_DevSprites_202
+  - first:
+      213: 5538958134261929906
+    second: Zimago_DevSprites_203
+  - first:
+      213: -2895972529596626444
+    second: Zimago_DevSprites_204
+  - first:
+      213: -2101388772795778157
+    second: Zimago_DevSprites_205
+  - first:
+      213: 1469933146085934678
+    second: Zimago_DevSprites_206
+  - first:
+      213: -357561254727200525
+    second: Zimago_DevSprites_207
+  - first:
+      213: -8104137071145281322
+    second: Zimago_DevSprites_208
+  - first:
+      213: -393342195266824268
+    second: Zimago_DevSprites_209
+  - first:
+      213: -2400333877937999705
+    second: Zimago_DevSprites_210
+  - first:
+      213: -3589108078596459548
+    second: Zimago_DevSprites_211
+  - first:
+      213: 5198457715807855553
+    second: Zimago_DevSprites_212
+  - first:
+      213: -8496244478482833013
+    second: Zimago_DevSprites_213
+  - first:
+      213: -3441710141433847245
+    second: Zimago_DevSprites_214
+  - first:
+      213: 4850065822507656088
+    second: Zimago_DevSprites_215
+  - first:
+      213: 8080537544191894915
+    second: Zimago_DevSprites_216
+  - first:
+      213: -8148873613453624641
+    second: Zimago_DevSprites_217
+  - first:
+      213: 9207659496678727317
+    second: Zimago_DevSprites_218
+  - first:
+      213: -6365504758335263599
+    second: Zimago_DevSprites_219
+  - first:
+      213: 4614271822976122177
+    second: Zimago_DevSprites_220
+  - first:
+      213: 6701617633006978817
+    second: Zimago_DevSprites_221
+  - first:
+      213: 5270520746483655359
+    second: Zimago_DevSprites_222
+  - first:
+      213: -5160759212714256768
+    second: Zimago_DevSprites_223
+  - first:
+      213: -6041290366135188957
+    second: Zimago_DevSprites_224
+  - first:
+      213: 3893189994669422278
+    second: Zimago_DevSprites_225
+  - first:
+      213: -3639563204016379787
+    second: Zimago_DevSprites_226
+  - first:
+      213: 5867772237079811745
+    second: Zimago_DevSprites_227
+  - first:
+      213: 7583716155937449703
+    second: Zimago_DevSprites_228
+  - first:
+      213: -4061233507726319477
+    second: Zimago_DevSprites_229
+  - first:
+      213: -6324175316738797256
+    second: Zimago_DevSprites_230
+  - first:
+      213: 786740535275012230
+    second: Zimago_DevSprites_231
+  - first:
+      213: 5477440074300738311
+    second: Zimago_DevSprites_232
+  - first:
+      213: -4670727655020033396
+    second: Zimago_DevSprites_233
+  - first:
+      213: 7317861918541950953
+    second: Zimago_DevSprites_234
+  - first:
+      213: -4125217253633982955
+    second: Zimago_DevSprites_235
+  - first:
+      213: -8802212386700409314
+    second: Zimago_DevSprites_236
+  - first:
+      213: 1243576084738570451
+    second: Zimago_DevSprites_237
+  - first:
+      213: 2983541987864440391
+    second: Zimago_DevSprites_238
+  - first:
+      213: -112171738799030503
+    second: Zimago_DevSprites_239
+  - first:
+      213: -3888425208310297544
+    second: Zimago_DevSprites_240
+  - first:
+      213: -1222209225996018511
+    second: Zimago_DevSprites_241
+  - first:
+      213: 2729653080485075625
+    second: Zimago_DevSprites_242
+  - first:
+      213: -6390394349850838693
+    second: Zimago_DevSprites_243
+  - first:
+      213: -5264863909036551912
+    second: Zimago_DevSprites_244
+  - first:
+      213: -5484234888907939855
+    second: Zimago_DevSprites_245
+  - first:
+      213: -8365905246372749433
+    second: Zimago_DevSprites_246
+  - first:
+      213: -3679094345305093874
+    second: Zimago_DevSprites_247
+  - first:
+      213: -1378600319548567215
+    second: Zimago_DevSprites_248
+  - first:
+      213: 3548019298780090003
+    second: Zimago_DevSprites_249
+  - first:
+      213: 8123957316638442122
+    second: Zimago_DevSprites_250
+  - first:
+      213: 5442126836286585020
+    second: Zimago_DevSprites_251
+  - first:
+      213: 8221700323395387003
+    second: Zimago_DevSprites_252
+  - first:
+      213: -376623738089177645
+    second: Zimago_DevSprites_253
+  - first:
+      213: -3901630606286727983
+    second: Zimago_DevSprites_254
+  - first:
+      213: -7252796578492289484
+    second: Zimago_DevSprites_255
+  - first:
+      213: 2102721355750296210
+    second: Zimago_DevSprites_256
+  - first:
+      213: -4156259743971203771
+    second: Zimago_DevSprites_257
+  - first:
+      213: -4929222145025050930
+    second: Zimago_DevSprites_258
+  - first:
+      213: 4067293345351037758
+    second: Zimago_DevSprites_259
+  - first:
+      213: -2282930244502621320
+    second: Zimago_DevSprites_260
+  - first:
+      213: -4007904176226925304
+    second: Zimago_DevSprites_261
+  - first:
+      213: -3242954377944499584
+    second: Zimago_DevSprites_262
+  - first:
+      213: -1735825488598849781
+    second: Zimago_DevSprites_263
+  - first:
+      213: -5167777499444238125
+    second: Zimago_DevSprites_264
+  - first:
+      213: 1814107241394529325
+    second: Zimago_DevSprites_265
+  - first:
+      213: 6232664567833230417
+    second: Zimago_DevSprites_266
+  - first:
+      213: 554655080551338894
+    second: Zimago_DevSprites_267
+  - first:
+      213: -6187899222514033238
+    second: Zimago_DevSprites_268
+  - first:
+      213: -3293571342079187410
+    second: Zimago_DevSprites_269
+  - first:
+      213: 5561357230788027050
+    second: Zimago_DevSprites_270
+  - first:
+      213: -1892240456147757615
+    second: Zimago_DevSprites_271
+  - first:
+      213: 6149255619622138718
+    second: Zimago_DevSprites_272
+  - first:
+      213: 2313398004157744127
+    second: Zimago_DevSprites_273
+  - first:
+      213: -6830014404087293191
+    second: Zimago_DevSprites_274
+  - first:
+      213: 8644810470642371917
+    second: Zimago_DevSprites_275
+  - first:
+      213: -8115645026687063592
+    second: Zimago_DevSprites_276
+  - first:
+      213: 2437313742040172951
+    second: Zimago_DevSprites_277
+  - first:
+      213: 3335978540914933100
+    second: Zimago_DevSprites_278
+  - first:
+      213: 5458901034597808213
+    second: Zimago_DevSprites_279
+  - first:
+      213: -2434981567865159552
+    second: Zimago_DevSprites_280
+  - first:
+      213: 7739563441809186104
+    second: Zimago_DevSprites_281
+  - first:
+      213: -1967587300758919969
+    second: Zimago_DevSprites_282
+  - first:
+      213: -4789998576940782716
+    second: Zimago_DevSprites_283
+  - first:
+      213: -1458183818125241601
+    second: Zimago_DevSprites_284
+  - first:
+      213: -7773590560265002563
+    second: Zimago_DevSprites_285
+  - first:
+      213: 349173510567719751
+    second: Zimago_DevSprites_286
+  - first:
+      213: 5065118646484661194
+    second: Zimago_DevSprites_287
+  - first:
+      213: -2896815327269591200
+    second: Zimago_DevSprites_288
+  - first:
+      213: 8900536584861491145
+    second: Zimago_DevSprites_289
+  - first:
+      213: -6883412226403387798
+    second: Zimago_DevSprites_290
+  - first:
+      213: -268337010387836622
+    second: Zimago_DevSprites_291
+  - first:
+      213: 2883713150107902363
+    second: Zimago_DevSprites_292
+  - first:
+      213: -7529906569697265577
+    second: Zimago_DevSprites_293
+  - first:
+      213: -814129634503230582
+    second: Zimago_DevSprites_294
+  - first:
+      213: 5848407702882134496
+    second: Zimago_DevSprites_295
+  - first:
+      213: -6417243458423744481
+    second: Zimago_DevSprites_296
+  - first:
+      213: 6784727522013520510
+    second: Zimago_DevSprites_297
+  - first:
+      213: 3133244711502307961
+    second: Zimago_DevSprites_298
+  - first:
+      213: -6158168892740409232
+    second: Zimago_DevSprites_299
+  - first:
+      213: 2560345691477069896
+    second: Zimago_DevSprites_300
+  - first:
+      213: -1463719048568369738
+    second: Zimago_DevSprites_301
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zimago_DevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1939
+        width: 62
+        height: 109
+      alignment: 9
+      pivot: {x: 0.48387095, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac625a0fbb8bdab0800000000000000
+      internalID: -4982234910127133524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1939
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4761905, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4ecd2336714b20800000000000000
+      internalID: 3116902379300998252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1939
+        width: 61
+        height: 109
+      alignment: 9
+      pivot: {x: 0.54098356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1500d18339beede30800000000000000
+      internalID: 4530317292715442257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1939
+        width: 76
+        height: 109
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4d98d5a2ec51120800000000000000
+      internalID: 2384038259115807932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1939
+        width: 61
+        height: 109
+      alignment: 9
+      pivot: {x: 0.54098356, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d691e6aa0ae6360800000000000000
+      internalID: 7164840711045082387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1939
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54cd5d08c739540800000000000000
+      internalID: 5013487702979134924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1941
+        width: 88
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eab7e2780ddcb60800000000000000
+      internalID: 7768094211302993469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1942
+        width: 73
+        height: 103
+      alignment: 9
+      pivot: {x: 0.39726028, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aee4bc22dbdd7f0800000000000000
+      internalID: -586104419350812148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1867
+        width: 164
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a406f2fa1e0ec0800000000000000
+      internalID: -3598909421410539178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1909
+        width: 69
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5362319, y: 0.45569623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23dc388d831f4b70800000000000000
+      internalID: 8885342088422282029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1919
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.56, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce2adca29bfd8660800000000000000
+      internalID: 7389839170968628935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1924
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52, y: 0.099999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56148c8a0696f260800000000000000
+      internalID: 7131052032039065183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1926
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f348b9509122b0800000000000000
+      internalID: -5611044945708977640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1922
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38099c61d0a0d20800000000000000
+      internalID: 3245420872995996668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_23
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1870
+        width: 164
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5731707, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dc0ed71112c27a0800000000000000
+      internalID: -6400704611390272234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_36
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1848
+        width: 53
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab88d410790ab18b0800000000000000
+      internalID: -5180370375937259334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1789
+        width: 114
+        height: 97
+      alignment: 9
+      pivot: {x: 0.48245615, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684a405030db2ba0800000000000000
+      internalID: -6112563163301263250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1789
+        width: 120
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5166667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a001a03e1976430800000000000000
+      internalID: 3776147216885877313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1789
+        width: 129
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46511626, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dbe4c1a3be48070800000000000000
+      internalID: 8107863863989288200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1789
+        width: 128
+        height: 102
+      alignment: 9
+      pivot: {x: 0.46875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c8dbfdf93e3be0800000000000000
+      internalID: -1495694263225628410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_47
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1800
+        width: 107
+        height: 91
+      alignment: 9
+      pivot: {x: 0.44036695, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21dae4d3865ee690800000000000000
+      internalID: -7571018799350361809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1811
+        width: 73
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b9cc15f2a520bc0800000000000000
+      internalID: -3818390374774432987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_49
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1837
+        width: 86
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3e1451c1d34110800000000000000
+      internalID: 1244068550354550566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_50
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1834
+        width: 93
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49462366, y: 0.06896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84f49ca2c9353c0800000000000000
+      internalID: -4371979105666643745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_51
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1807
+        width: 84
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: -0.054945055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8942ca63bde729280800000000000000
+      internalID: -9038022022198975336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1800
+        width: 88
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf353ab9cdb1a20800000000000000
+      internalID: 3034261334982392760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_58
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1863
+        width: 57
+        height: 77
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.33766234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655cf04771045f40800000000000000
+      internalID: 5716195438743016813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_60
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1804
+        width: 74
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ee1fb9cf436ad0800000000000000
+      internalID: -2710234822833411832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1636
+        width: 77
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffba2bac5e8c6b40800000000000000
+      internalID: 5434875378989187060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1638
+        width: 103
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46601942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39fafb8d15553f0800000000000000
+      internalID: -912733358101916759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1638
+        width: 100
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca6ba6556d406c60800000000000000
+      internalID: 7809326851501550276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1638
+        width: 105
+        height: 95
+      alignment: 9
+      pivot: {x: 0.40952381, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e156403f7349b9d00800000000000000
+      internalID: 980540311904478494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1638
+        width: 88
+        height: 94
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c550ee4b366ff0800000000000000
+      internalID: -43281936456237024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_69
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1639
+        width: 137
+        height: 94
+      alignment: 9
+      pivot: {x: 0.3649635, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f1eab1088fb20c0800000000000000
+      internalID: -4599309365324931171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_70
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1636
+        width: 128
+        height: 99
+      alignment: 9
+      pivot: {x: 0.3359375, y: 0.02020202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b260cad92a9a08f0800000000000000
+      internalID: -573476497981939016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_71
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1631
+        width: 72
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.04854369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e19eb23ad4060e0800000000000000
+      internalID: -2278736048237765088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_72
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1632
+        width: 76
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10743801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188ee7820e63e7770800000000000000
+      internalID: 8610379873958946945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_73
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1641
+        width: 110
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db90f907862f41c10800000000000000
+      internalID: 2023508662976186813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_74
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1639
+        width: 114
+        height: 115
+      alignment: 9
+      pivot: {x: 0.39473686, y: 0.052173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552829dc919489ba0800000000000000
+      internalID: -6082030921591913899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_75
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1677
+        width: 144
+        height: 168
+      alignment: 9
+      pivot: {x: 0.49305555, y: -0.26760563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e463562d6209510800000000000000
+      internalID: 1553784556525866598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_76
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1650
+        width: 193
+        height: 194
+      alignment: 9
+      pivot: {x: 0.49222797, y: -0.10824742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923719dad36ea9870800000000000000
+      internalID: 8690511583544177449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1465
+        width: 73
+        height: 120
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.008333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3286f42c6fd7e0800000000000000
+      internalID: -1738552025131369354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1465
+        width: 83
+        height: 128
+      alignment: 9
+      pivot: {x: 0.57831323, y: 0.0078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c370a3f987db2cd0800000000000000
+      internalID: -2581732973868977214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1465
+        width: 77
+        height: 128
+      alignment: 9
+      pivot: {x: 0.58441556, y: 0.0078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41fb8b3d9da3ba0800000000000000
+      internalID: -6108330441213799236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1462
+        width: 74
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5135135, y: 0.013157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c92620df6f7a600800000000000000
+      internalID: 479623451865422876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1465
+        width: 120
+        height: 124
+      alignment: 9
+      pivot: {x: 0.3, y: 0.008064516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46618096d20fc72f0800000000000000
+      internalID: -973639341592537500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_84
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1466
+        width: 135
+        height: 123
+      alignment: 9
+      pivot: {x: 0.37037036, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f068eadc4bf4b470800000000000000
+      internalID: 8409622711716307187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_86
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1466
+        width: 118
+        height: 93
+      alignment: 9
+      pivot: {x: 0.3898305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec650aa5a55f2970800000000000000
+      internalID: 8732292372505128173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_87
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1458
+        width: 72
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5138889, y: -0.009615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a348b18d1b2dcb0800000000000000
+      internalID: -4840611107737159120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_89
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1466
+        width: 124
+        height: 91
+      alignment: 9
+      pivot: {x: 0.40322578, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d65eb486a925760800000000000000
+      internalID: 7445182906737454361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_90
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1466
+        width: 121
+        height: 91
+      alignment: 9
+      pivot: {x: 0.41322312, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868f9f72d8a1f220800000000000000
+      internalID: 2517979288714577544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_91
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1464
+        width: 109
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4587156, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3175c53d98f7f00800000000000000
+      internalID: 1116762773491487701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_95
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1293
+        width: 69
+        height: 103
+      alignment: 9
+      pivot: {x: 0.42028987, y: 0.009708738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdfd5a9c3fa70bb0800000000000000
+      internalID: -4969810988957303303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1293
+        width: 89
+        height: 93
+      alignment: 9
+      pivot: {x: 0.3483146, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f40d25c32d7fd0800000000000000
+      internalID: -2342676901391961463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1294
+        width: 158
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4050633, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029e8a41ecb57410800000000000000
+      internalID: 1474292128838226434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_98
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1294
+        width: 181
+        height: 90
+      alignment: 9
+      pivot: {x: 0.35911605, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc203c71c10e54220800000000000000
+      internalID: 2469626381944947405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_99
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1294
+        width: 181
+        height: 90
+      alignment: 9
+      pivot: {x: 0.35911605, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2895d3a8e5141f880800000000000000
+      internalID: -8579003940862076542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_100
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1293
+        width: 99
+        height: 94
+      alignment: 9
+      pivot: {x: 0.46464646, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6e8dcb623238d0800000000000000
+      internalID: -2868174574090032180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_101
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1295
+        width: 140
+        height: 92
+      alignment: 9
+      pivot: {x: 0.45714286, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f03b150c24f1100800000000000000
+      internalID: 80856712087801680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_102
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1296
+        width: 187
+        height: 81
+      alignment: 9
+      pivot: {x: 0.37967914, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79588e46e6b2ecfc0800000000000000
+      internalID: -3472790509516716649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_103
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1293
+        width: 79
+        height: 83
+      alignment: 9
+      pivot: {x: 0.60759497, y: 0.14457831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148e7877c2b9ee00800000000000000
+      internalID: 1074586555894367249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_104
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1289
+        width: 77
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.13953489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0aad918499650a0800000000000000
+      internalID: -6893153644693511981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_105
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1291
+        width: 90
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bcfc1cd8d869380800000000000000
+      internalID: -8964822368252867782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_106
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1296
+        width: 111
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3693694, y: 0.084337346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d4be6038b96270800000000000000
+      internalID: 8244323111033688862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_107
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1296
+        width: 137
+        height: 81
+      alignment: 9
+      pivot: {x: 0.30656934, y: 0.086419754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f16845323f898d0800000000000000
+      internalID: -2839252231989616756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1129
+        width: 103
+        height: 102
+      alignment: 9
+      pivot: {x: 0.69902915, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f54f71f0efd47030800000000000000
+      internalID: 3491661768336295413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1129
+        width: 137
+        height: 102
+      alignment: 9
+      pivot: {x: 0.540146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fa1436236aed860800000000000000
+      internalID: 7556659960118095727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_110
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1132
+        width: 130
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0a06db79c23e280800000000000000
+      internalID: -9015312998836690757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_111
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1131
+        width: 182
+        height: 81
+      alignment: 9
+      pivot: {x: 0.41208792, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cbf82536c2f1ef0800000000000000
+      internalID: -135340658699289591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_112
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1131
+        width: 208
+        height: 81
+      alignment: 9
+      pivot: {x: 0.39903846, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0126558ddf4560800000000000000
+      internalID: 7300297085736259290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_113
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1134
+        width: 235
+        height: 81
+      alignment: 9
+      pivot: {x: 0.3744681, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d3248515be7850800000000000000
+      internalID: 6376733226419082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_115
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1133
+        width: 234
+        height: 92
+      alignment: 9
+      pivot: {x: 0.2735043, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1618cf6cb0da8550800000000000000
+      internalID: 6163968547757757980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_116
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1181
+        width: 129
+        height: 80
+      alignment: 9
+      pivot: {x: 0.35658914, y: 0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81442112d532bd0800000000000000
+      internalID: -2656176958596704072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_117
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1183
+        width: 65
+        height: 80
+      alignment: 9
+      pivot: {x: 0.64615387, y: 0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfb98f03f3aa0a0800000000000000
+      internalID: -6869608802038317887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_118
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1174
+        width: 93
+        height: 89
+      alignment: 9
+      pivot: {x: 0.49462366, y: 0.21348315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ccc902800c2f10800000000000000
+      internalID: 2246170872661198333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_119
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1174
+        width: 85
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.2526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ecca791136d9240800000000000000
+      internalID: 4800101705057095236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 953
+        width: 73
+        height: 120
+      alignment: 9
+      pivot: {x: 0.47945204, y: 0.008333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28551b78a5d915640800000000000000
+      internalID: 5067004067917682050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_121
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 953
+        width: 80
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.007874016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49913407a7b7bde10800000000000000
+      internalID: 2223506606837143956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_122
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 953
+        width: 72
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.007874016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e77a4a236715b00800000000000000
+      internalID: 815562967413653029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_123
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 950
+        width: 69
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.013605442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b376d4e066b5ee0800000000000000
+      internalID: -1271310258187846822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_124
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 953
+        width: 109
+        height: 122
+      alignment: 9
+      pivot: {x: 0.40366971, y: 0.016393442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21574e8c1fee7a130800000000000000
+      internalID: 3578091151194092818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_126
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 956
+        width: 172
+        height: 136
+      alignment: 9
+      pivot: {x: 0.26744187, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2f21b2e6e6d0c0800000000000000
+      internalID: -4551196512101650710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_127
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 989
+        width: 83
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9609b83b93cfc7590800000000000000
+      internalID: -7674982340190564247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_128
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 997
+        width: 67
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.07608696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f200a02d14d7b4c0800000000000000
+      internalID: -4271712499971128584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_129
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1010
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4da83f77fbca960800000000000000
+      internalID: 7614671591884641456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_130
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 994
+        width: 82
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca14b03997386840800000000000000
+      internalID: 5217481299395353287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_131
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 953
+        width: 96
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0.01980198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d27d59b68bea4f0800000000000000
+      internalID: -815511710292562570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_133
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 950
+        width: 70
+        height: 108
+      alignment: 9
+      pivot: {x: 0.55714285, y: 0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779aba0a8e973210800000000000000
+      internalID: 1312692132124465019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_134
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 947
+        width: 77
+        height: 108
+      alignment: 9
+      pivot: {x: 0.6883117, y: 0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675b9292fcd816000800000000000000
+      internalID: 27458993629279606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_135
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 953
+        width: 109
+        height: 105
+      alignment: 9
+      pivot: {x: 0.3302752, y: 0.01904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e2874e51279a30800000000000000
+      internalID: 4221879864493532160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_137
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 955
+        width: 146
+        height: 90
+      alignment: 9
+      pivot: {x: 0.46575344, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295361355979ed50800000000000000
+      internalID: 6767073321908656416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_139
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 981
+        width: 89
+        height: 67
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.08955224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338905e6234964f80800000000000000
+      internalID: -8122641933596059597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_140
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 981
+        width: 108
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.10144927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8d5a19def24e990800000000000000
+      internalID: -7357703193819227930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.57894737, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3001f2cda122190800000000000000
+      internalID: -7988793256017132610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_142
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 804
+        width: 76
+        height: 75
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0725df90d1a9020800000000000000
+      internalID: 2349222084369084599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_143
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 804
+        width: 75
+        height: 70
+      alignment: 9
+      pivot: {x: 0.49333334, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b04a7f78714410800000000000000
+      internalID: 1459580243151991056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_144
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 804
+        width: 81
+        height: 74
+      alignment: 9
+      pivot: {x: 0.45679012, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ca21e408849a00800000000000000
+      internalID: 762383791471378695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_145
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 804
+        width: 78
+        height: 60
+      alignment: 9
+      pivot: {x: 0.525641, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32fc2cc1cbeef3d0800000000000000
+      internalID: -3170837870035537346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_146
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 804
+        width: 76
+        height: 103
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87fcea6c7694b30800000000000000
+      internalID: 4272059824571644089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_147
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 804
+        width: 76
+        height: 96
+      alignment: 9
+      pivot: {x: 0.59210527, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5f7747d9e3f080800000000000000
+      internalID: -9154716506687316795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_148
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 804
+        width: 123
+        height: 96
+      alignment: 9
+      pivot: {x: 0.37398374, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c15d93195be0540800000000000000
+      internalID: 4976114273636129822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_149
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 803
+        width: 156
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4166667, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cfe9e478825e30800000000000000
+      internalID: 4490801814164195302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_150
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 803
+        width: 157
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4267516, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ff2bb256357550800000000000000
+      internalID: 6157887794454722432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_151
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 849
+        width: 108
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.10144927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1269f05cf4173ac60800000000000000
+      internalID: 7828225164722542113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_152
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 850
+        width: 108
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.086419754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b5d5a1337101d0800000000000000
+      internalID: -3386298787733064415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_153
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 851
+        width: 108
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.086419754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9e8c18a452d730800000000000000
+      internalID: 4022370498205620829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_154
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 850
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.084337346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108146cb2b651d8e0800000000000000
+      internalID: -1670458661112899583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_155
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 850
+        width: 108
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.085365854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f193acc8ed655c0800000000000000
+      internalID: -4226946503971102879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 609
+        width: 90
+        height: 136
+      alignment: 9
+      pivot: {x: 0.8333334, y: 0.014705882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01860955a94a8240800000000000000
+      internalID: 4794725727801344271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_157
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 609
+        width: 79
+        height: 144
+      alignment: 9
+      pivot: {x: 0.7848101, y: 0.013888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d0d2685a426a10800000000000000
+      internalID: 1901163736179200434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_158
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 609
+        width: 59
+        height: 142
+      alignment: 9
+      pivot: {x: 0.7457627, y: 0.014084507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11530bc0ec99eed60800000000000000
+      internalID: 7921437904846468369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_159
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 611
+        width: 75
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebacaf845c4c7d00800000000000000
+      internalID: 971735545676606435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 609
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.57894737, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a739aa0c91b445680800000000000000
+      internalID: -8767300000604843142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_161
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 609
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.57894737, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53c7d6b363f7810800000000000000
+      internalID: 1765189207820350917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_162
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 624
+        width: 47
+        height: 110
+      alignment: 9
+      pivot: {x: 0.65957445, y: 0.009090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394a1d3603b392f0800000000000000
+      internalID: -967232655578216133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_163
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 624
+        width: 47
+        height: 108
+      alignment: 9
+      pivot: {x: 0.65957445, y: 0.009259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3489def5866b9e00800000000000000
+      internalID: 1052547663613494335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_164
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 624
+        width: 61
+        height: 108
+      alignment: 9
+      pivot: {x: 0.49180326, y: 0.009259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5b4964f1715b960800000000000000
+      internalID: 7617019767862637993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_165
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 625
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.37974685, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30372bf95ef5c3b80800000000000000
+      internalID: -8413744564003507453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_166
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 625
+        width: 78
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46153846, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d084280ff6eda50800000000000000
+      internalID: 6547793987011874082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_167
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 625
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.48101267, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b3a01d2b873a40800000000000000
+      internalID: 5347896108194705558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_168
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 622
+        width: 66
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807c6cc521e411330800000000000000
+      internalID: 3679808211311314696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_169
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 620
+        width: 103
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4854369, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6f6e74f2272ed90800000000000000
+      internalID: -7069962917622909233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_170
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 625
+        width: 159
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871850ccc5788af0800000000000000
+      internalID: -393935445134141565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_171
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 625
+        width: 203
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4729064, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cde41d17560d60800000000000000
+      internalID: 7856062382411203600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_172
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 624
+        width: 238
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d134a83c757320800000000000000
+      internalID: 2555084946317366551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_173
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 484
+        width: 99
+        height: 101
+      alignment: 9
+      pivot: {x: 0.47474748, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f508e1a8fcd4b0800000000000000
+      internalID: -5414179277740052138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 484
+        width: 117
+        height: 101
+      alignment: 9
+      pivot: {x: 0.48717952, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e65bd1fbcb80cf0800000000000000
+      internalID: -285771047314821509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_175
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 484
+        width: 137
+        height: 101
+      alignment: 9
+      pivot: {x: 0.540146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47865a68c04255030800000000000000
+      internalID: 3482729523058141300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_176
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 484
+        width: 121
+        height: 125
+      alignment: 9
+      pivot: {x: 0.4628099, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1a7e5db2af6230800000000000000
+      internalID: 3634302358528858702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_177
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 484
+        width: 80
+        height: 120
+      alignment: 9
+      pivot: {x: 0.575, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffe9d2e18cf1210800000000000000
+      internalID: 1305982448900701963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_178
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 484
+        width: 130
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd1db3a786ad300800000000000000
+      internalID: 277649201235615023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_180
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 484
+        width: 122
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6416a554c2805ceb0800000000000000
+      internalID: -4700341649856110266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_181
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 484
+        width: 154
+        height: 121
+      alignment: 9
+      pivot: {x: 0.47402596, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fcbd065d35e41a0800000000000000
+      internalID: -6823424209501565065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 74
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5810811, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ad93c86dfc6a50800000000000000
+      internalID: 6515861387298579403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_183
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 482
+        width: 76
+        height: 93
+      alignment: 9
+      pivot: {x: 0.6052632, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f041ac1f9f73520800000000000000
+      internalID: 2681886919995166550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_188
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 421
+        width: 57
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548d114bb588b40a0800000000000000
+      internalID: -6896268476943312827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_200
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 352
+        width: 71
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5492958, y: -0.026548672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2827c3b5c615f740800000000000000
+      internalID: 5185075584367536172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_202
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 352
+        width: 51
+        height: 113
+      alignment: 9
+      pivot: {x: 0.64705884, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2572df5f91d60d530800000000000000
+      internalID: 3877719237434615634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_203
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 352
+        width: 44
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5681818, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7517293155edc40800000000000000
+      internalID: 5538958134261929906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_204
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 352
+        width: 76
+        height: 111
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.009009009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98a1ee3507fc7d0800000000000000
+      internalID: -2895972529596626444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_205
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 352
+        width: 69
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.009009009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b73867b0e56d2e0800000000000000
+      internalID: -2101388772795778157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_206
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 352
+        width: 76
+        height: 123
+      alignment: 9
+      pivot: {x: 0.6052632, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65646088860466410800000000000000
+      internalID: 1469933146085934678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_207
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 352
+        width: 69
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5797101, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0da8aeeefa90bf0800000000000000
+      internalID: -357561254727200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 69
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49275362, y: -0.01980198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ad9affb1a42840800000000000000
+      internalID: 5198457715807855553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_213
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 352
+        width: 72
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5416667, y: -0.019417476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81282f69a6471a80800000000000000
+      internalID: -8496244478482833013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_214
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 352
+        width: 77
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46753246, y: -0.01980198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e9ff7cd69c30d0800000000000000
+      internalID: -3441710141433847245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_215
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 352
+        width: 46
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e4d73b25ee4340800000000000000
+      internalID: 4850065822507656088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_216
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 352
+        width: 45
+        height: 103
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385e3cb7516d32070800000000000000
+      internalID: 8080537544191894915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_219
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 420
+        width: 73
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c2e5fe52f29a7a0800000000000000
+      internalID: -6365504758335263599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_220
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 352
+        width: 81
+        height: 82
+      alignment: 9
+      pivot: {x: 0.56790125, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14df59986cf290040800000000000000
+      internalID: 4614271822976122177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_221
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 256
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49180326, y: 0.007352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10700e30bbde00d50800000000000000
+      internalID: 6701617633006978817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_222
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 256
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49180326, y: 0.007352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb22c7bc1b6a42940800000000000000
+      internalID: 5270520746483655359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_223
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 256
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49180326, y: 0.007352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08697d2c6dc4168b0800000000000000
+      internalID: -5160759212714256768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_224
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 256
+        width: 61
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49180326, y: 0.007352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c58d8b66092ca0800000000000000
+      internalID: -6041290366135188957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_225
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 254
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c630635ca3670630800000000000000
+      internalID: 3893189994669422278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_226
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 254
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57865079c8cad7dc0800000000000000
+      internalID: -3639563204016379787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_227
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 254
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a69a06c2c38e6150800000000000000
+      internalID: 5867772237079811745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_228
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 254
+        width: 78
+        height: 107
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ea00e9a5ce3960800000000000000
+      internalID: 7583716155937449703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_229
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 122
+        height: 94
+      alignment: 9
+      pivot: {x: 0.36885244, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b802f0e54a993a7c0800000000000000
+      internalID: -4061233507726319477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_230
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 254
+        width: 125
+        height: 94
+      alignment: 9
+      pivot: {x: 0.35200003, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319d7c6e040c38a0800000000000000
+      internalID: -6324175316738797256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_232
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 126
+        height: 93
+      alignment: 9
+      pivot: {x: 0.34920636, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4f231ab6c30c40800000000000000
+      internalID: 5477440074300738311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_234
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 254
+        width: 126
+        height: 94
+      alignment: 9
+      pivot: {x: 0.34920636, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2d0aa4a44e8560800000000000000
+      internalID: 7317861918541950953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_236
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 254
+        width: 128
+        height: 94
+      alignment: 9
+      pivot: {x: 0.34375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16cd2d687248d580800000000000000
+      internalID: -8802212386700409314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_238
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 254
+        width: 130
+        height: 95
+      alignment: 9
+      pivot: {x: 0.32307693, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e6f1761aba76920800000000000000
+      internalID: 2983541987864440391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_240
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 254
+        width: 129
+        height: 94
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8df2ffd9890ac0800000000000000
+      internalID: -3888425208310297544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_242
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 255
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa1d5ea30da1e520800000000000000
+      internalID: 2729653080485075625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_243
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 255
+        width: 104
+        height: 96
+      alignment: 9
+      pivot: {x: 0.41346157, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593a725232c057a0800000000000000
+      internalID: -6390394349850838693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_244
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 309
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111a1f4b227fe6b0800000000000000
+      internalID: -5264863909036551912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_245
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 302
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.15555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff96dddc6514e3b0800000000000000
+      internalID: -5484234888907939855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_246
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 297
+        width: 20
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f106db08556eb80800000000000000
+      internalID: -8365905246372749433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_249
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5086956, y: 0.017699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e840801c81d3130800000000000000
+      internalID: 3548019298780090003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_250
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 220
+        height: 226
+      alignment: 9
+      pivot: {x: 0.53181815, y: 0.017699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828bac03281eb070800000000000000
+      internalID: 8123957316638442122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_287
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 222
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5315316, y: 0.017699115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3fce4a29aea4640800000000000000
+      internalID: 5065118646484661194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_288
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 214
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5233645, y: 0.017777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067603ecec17cc7d0800000000000000
+      internalID: -2896815327269591200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_291
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 0
+        width: 247
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5060729, y: 0.015810277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2312eb729eca64cf0800000000000000
+      internalID: -268337010387836622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_293
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 0
+        width: 196
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5510204, y: 0.016260162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7587059bed5608790800000000000000
+      internalID: -7529906569697265577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1909
+        width: 56
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427e9751e1b4fe90800000000000000
+      internalID: -6992768740003777976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 669
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab8f424cd77db60800000000000000
+      internalID: 7770817963438422598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zimago_DevSprites_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1466
+        width: 77
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5974026, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546400b794b570060800000000000000
+      internalID: 6919599723632412229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36e7325a0412c494e8de0b555a817445, type: 3}
+  m_Name: Player2Instances
+  m_EditorClassIdentifier: 
+  playerNumber: 2
+  player1: {fileID: 0}
+  player2: {fileID: 0}
+  enemy: {fileID: 0}
+  myAttackScript: {fileID: 0}
+  enemyAttackScript: {fileID: 0}
+  myMoveScript: {fileID: 0}
+  enemyMoveScript: {fileID: 0}
+  myDamageScript: {fileID: 0}
+  enemyDamageScript: {fileID: 0}
+  myAnimationScript: {fileID: 0}
+  enemyAnimationScript: {fileID: 0}
+  myMana: {fileID: 0}
+  enemyMana: {fileID: 0}
+  enemyFighter: {fileID: 11400000, guid: 5e867566020789043b2f356d47d8b4da, type: 2}

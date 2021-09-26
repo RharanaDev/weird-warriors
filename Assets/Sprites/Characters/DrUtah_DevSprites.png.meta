@@ -1,0 +1,7486 @@
+fileFormatVersion: 2
+guid: cd8eef98f79386f4e99117df27ed091e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2556318852543535415
+    second: Utah_DevSprites 1_0
+  - first:
+      213: 171126919855300526
+    second: Utah_DevSprites 1_1
+  - first:
+      213: -2045801801812526956
+    second: Utah_DevSprites 1_2
+  - first:
+      213: -7522212050839847223
+    second: Utah_DevSprites 1_3
+  - first:
+      213: -1323510345233300029
+    second: Utah_DevSprites 1_4
+  - first:
+      213: 7743857539984855197
+    second: Utah_DevSprites 1_5
+  - first:
+      213: 5778855088756275487
+    second: Utah_DevSprites 1_6
+  - first:
+      213: 7701685580071839342
+    second: Utah_DevSprites 1_7
+  - first:
+      213: 6839984915577483601
+    second: Utah_DevSprites 1_8
+  - first:
+      213: 164917192325486426
+    second: Utah_DevSprites 1_9
+  - first:
+      213: 7933450280494307627
+    second: Utah_DevSprites 1_10
+  - first:
+      213: -4327213868508327323
+    second: Utah_DevSprites 1_11
+  - first:
+      213: 2082279327133855669
+    second: Utah_DevSprites 1_12
+  - first:
+      213: 6613545083469194686
+    second: Utah_DevSprites 1_13
+  - first:
+      213: -8578050477573900665
+    second: Utah_DevSprites 1_14
+  - first:
+      213: 6124196433250758672
+    second: Utah_DevSprites 1_15
+  - first:
+      213: 3313981433154237693
+    second: Utah_DevSprites 1_16
+  - first:
+      213: 4854012693556786057
+    second: Utah_DevSprites 1_17
+  - first:
+      213: 463426918778567726
+    second: Utah_DevSprites 1_18
+  - first:
+      213: 435399192282209868
+    second: Utah_DevSprites 1_19
+  - first:
+      213: 6151913861411362075
+    second: Utah_DevSprites 1_20
+  - first:
+      213: -6717261289397254954
+    second: Utah_DevSprites 1_21
+  - first:
+      213: 5978013027656136304
+    second: Utah_DevSprites 1_22
+  - first:
+      213: -1558353551281593656
+    second: Utah_DevSprites 1_23
+  - first:
+      213: 2645577397539857200
+    second: Utah_DevSprites 1_24
+  - first:
+      213: -5925476711307772309
+    second: Utah_DevSprites 1_25
+  - first:
+      213: 6954397206235322702
+    second: Utah_DevSprites 1_26
+  - first:
+      213: -5509261103668082734
+    second: Utah_DevSprites 1_27
+  - first:
+      213: -1307648061848227386
+    second: Utah_DevSprites 1_28
+  - first:
+      213: 3694577676955273452
+    second: Utah_DevSprites 1_29
+  - first:
+      213: 1876888448823320828
+    second: Utah_DevSprites 1_30
+  - first:
+      213: 3380839135138638566
+    second: Utah_DevSprites 1_31
+  - first:
+      213: -200073544583060849
+    second: Utah_DevSprites 1_32
+  - first:
+      213: -107538052895990237
+    second: Utah_DevSprites 1_33
+  - first:
+      213: 777842039726885337
+    second: Utah_DevSprites 1_34
+  - first:
+      213: -102660834929943509
+    second: Utah_DevSprites 1_35
+  - first:
+      213: -3616616694252506989
+    second: Utah_DevSprites 1_36
+  - first:
+      213: 6039966333555299304
+    second: Utah_DevSprites 1_37
+  - first:
+      213: -7591320531512541555
+    second: Utah_DevSprites 1_38
+  - first:
+      213: -1150603966918548032
+    second: Utah_DevSprites 1_39
+  - first:
+      213: -5635984572746109548
+    second: Utah_DevSprites 1_40
+  - first:
+      213: 8563441112662336990
+    second: Utah_DevSprites 1_41
+  - first:
+      213: 5148440760784284694
+    second: Utah_DevSprites 1_42
+  - first:
+      213: 906847878542837793
+    second: Utah_DevSprites 1_43
+  - first:
+      213: 839859082936717540
+    second: Utah_DevSprites 1_44
+  - first:
+      213: 4801067729962566809
+    second: Utah_DevSprites 1_45
+  - first:
+      213: 2684290658618573431
+    second: Utah_DevSprites 1_46
+  - first:
+      213: 5101291121434560938
+    second: Utah_DevSprites 1_47
+  - first:
+      213: 4419986394900786155
+    second: Utah_DevSprites 1_48
+  - first:
+      213: -8117390619210252066
+    second: Utah_DevSprites 1_49
+  - first:
+      213: -3221852211727040102
+    second: Utah_DevSprites 1_50
+  - first:
+      213: -5582702385124005980
+    second: Utah_DevSprites 1_51
+  - first:
+      213: 5258374677185261371
+    second: Utah_DevSprites 1_52
+  - first:
+      213: -6535915282769934793
+    second: Utah_DevSprites 1_53
+  - first:
+      213: -8289793485474782048
+    second: Utah_DevSprites 1_54
+  - first:
+      213: -2280515675783073367
+    second: Utah_DevSprites 1_55
+  - first:
+      213: -8434199567137723811
+    second: Utah_DevSprites 1_56
+  - first:
+      213: -5883746485603036674
+    second: Utah_DevSprites 1_57
+  - first:
+      213: 5995743008128042194
+    second: Utah_DevSprites 1_58
+  - first:
+      213: 8310387633136065060
+    second: Utah_DevSprites 1_59
+  - first:
+      213: -1719186947209930225
+    second: Utah_DevSprites 1_60
+  - first:
+      213: -3994926051485820187
+    second: Utah_DevSprites 1_61
+  - first:
+      213: -3845795338889385572
+    second: Utah_DevSprites 1_62
+  - first:
+      213: -2324868717480567262
+    second: Utah_DevSprites 1_63
+  - first:
+      213: 4842551914850705482
+    second: Utah_DevSprites 1_64
+  - first:
+      213: -8280323284128372021
+    second: Utah_DevSprites 1_65
+  - first:
+      213: 6249632506179430996
+    second: Utah_DevSprites 1_66
+  - first:
+      213: -8245609081243021983
+    second: Utah_DevSprites 1_67
+  - first:
+      213: 5258343574139957823
+    second: Utah_DevSprites 1_68
+  - first:
+      213: -1060395706040858278
+    second: Utah_DevSprites 1_69
+  - first:
+      213: 2902796950076606976
+    second: Utah_DevSprites 1_70
+  - first:
+      213: 1902999357454208322
+    second: Utah_DevSprites 1_71
+  - first:
+      213: -4687729031986837713
+    second: Utah_DevSprites 1_72
+  - first:
+      213: 6659590764453566404
+    second: Utah_DevSprites 1_73
+  - first:
+      213: 3511445169172162468
+    second: Utah_DevSprites 1_74
+  - first:
+      213: 506159681840930760
+    second: Utah_DevSprites 1_75
+  - first:
+      213: -6389255720462161222
+    second: Utah_DevSprites 1_76
+  - first:
+      213: -7726157510563894612
+    second: Utah_DevSprites 1_77
+  - first:
+      213: -7287418688365698450
+    second: Utah_DevSprites 1_78
+  - first:
+      213: 7960015948897811686
+    second: Utah_DevSprites 1_79
+  - first:
+      213: 5540441179116583567
+    second: Utah_DevSprites 1_80
+  - first:
+      213: 8752925151719623048
+    second: Utah_DevSprites 1_81
+  - first:
+      213: 5880802301657117719
+    second: Utah_DevSprites 1_82
+  - first:
+      213: -429843606128879944
+    second: Utah_DevSprites 1_83
+  - first:
+      213: -4897252431542407873
+    second: Utah_DevSprites 1_84
+  - first:
+      213: -5928812387507008446
+    second: Utah_DevSprites 1_85
+  - first:
+      213: -6460828322904725798
+    second: Utah_DevSprites 1_86
+  - first:
+      213: 304071961222386893
+    second: Utah_DevSprites 1_87
+  - first:
+      213: 4781064674967263057
+    second: Utah_DevSprites 1_88
+  - first:
+      213: -3449840554522593781
+    second: Utah_DevSprites 1_89
+  - first:
+      213: -7415275876519492276
+    second: Utah_DevSprites 1_90
+  - first:
+      213: 1265181560206898251
+    second: Utah_DevSprites 1_91
+  - first:
+      213: 272671020735225841
+    second: Utah_DevSprites 1_92
+  - first:
+      213: 4903414252501228153
+    second: Utah_DevSprites 1_93
+  - first:
+      213: -5742978605215308504
+    second: Utah_DevSprites 1_94
+  - first:
+      213: -6874141953237084416
+    second: Utah_DevSprites 1_95
+  - first:
+      213: -950187366656917058
+    second: Utah_DevSprites 1_96
+  - first:
+      213: 4409851724518501061
+    second: Utah_DevSprites 1_97
+  - first:
+      213: -121981346431690083
+    second: Utah_DevSprites 1_98
+  - first:
+      213: -8441501590171262949
+    second: Utah_DevSprites 1_99
+  - first:
+      213: -1719058904848429192
+    second: Utah_DevSprites 1_100
+  - first:
+      213: 6557345835226309235
+    second: Utah_DevSprites 1_101
+  - first:
+      213: 545982919001340191
+    second: Utah_DevSprites 1_102
+  - first:
+      213: 7766164543838644733
+    second: Utah_DevSprites 1_103
+  - first:
+      213: -1641726532246279932
+    second: Utah_DevSprites 1_104
+  - first:
+      213: -3545399446026664755
+    second: Utah_DevSprites 1_105
+  - first:
+      213: 2808347352688115281
+    second: Utah_DevSprites 1_106
+  - first:
+      213: 5519310603233911480
+    second: Utah_DevSprites 1_107
+  - first:
+      213: -4119243720540772998
+    second: Utah_DevSprites 1_108
+  - first:
+      213: -6487287107432395244
+    second: Utah_DevSprites 1_109
+  - first:
+      213: -847125412820114294
+    second: Utah_DevSprites 1_110
+  - first:
+      213: -8395274108791751816
+    second: Utah_DevSprites 1_111
+  - first:
+      213: -7691888324693093803
+    second: Utah_DevSprites 1_112
+  - first:
+      213: 8300820588936637562
+    second: Utah_DevSprites 1_113
+  - first:
+      213: -3068296276990178181
+    second: Utah_DevSprites 1_114
+  - first:
+      213: 5120774631766006970
+    second: Utah_DevSprites 1_115
+  - first:
+      213: 5343188906830378108
+    second: Utah_DevSprites 1_116
+  - first:
+      213: -3934992677875275953
+    second: Utah_DevSprites 1_117
+  - first:
+      213: 2122273793696110846
+    second: Utah_DevSprites 1_118
+  - first:
+      213: -7361517601395281639
+    second: Utah_DevSprites 1_119
+  - first:
+      213: 1775925268280719125
+    second: Utah_DevSprites 1_120
+  - first:
+      213: 8342993779514321935
+    second: Utah_DevSprites 1_121
+  - first:
+      213: 6020155278336957584
+    second: Utah_DevSprites 1_122
+  - first:
+      213: 8920373315193737651
+    second: Utah_DevSprites 1_123
+  - first:
+      213: -4862391438451410051
+    second: Utah_DevSprites 1_124
+  - first:
+      213: -4563080088356770026
+    second: Utah_DevSprites 1_125
+  - first:
+      213: 2061183360403801263
+    second: Utah_DevSprites 1_126
+  - first:
+      213: -6251984568703485454
+    second: Utah_DevSprites 1_127
+  - first:
+      213: 6733467908500848970
+    second: Utah_DevSprites 1_128
+  - first:
+      213: 5142164754304491218
+    second: Utah_DevSprites 1_129
+  - first:
+      213: -7733502238892504069
+    second: Utah_DevSprites 1_130
+  - first:
+      213: 2717346550736597841
+    second: Utah_DevSprites 1_131
+  - first:
+      213: 8290281396395339373
+    second: Utah_DevSprites 1_132
+  - first:
+      213: 6216806662637799004
+    second: Utah_DevSprites 1_133
+  - first:
+      213: -2011807433801167223
+    second: Utah_DevSprites 1_134
+  - first:
+      213: 7552148364097768565
+    second: Utah_DevSprites 1_135
+  - first:
+      213: -2649963423899738357
+    second: Utah_DevSprites 1_136
+  - first:
+      213: -3576333842912321422
+    second: Utah_DevSprites 1_137
+  - first:
+      213: 5185557601023577127
+    second: Utah_DevSprites 1_138
+  - first:
+      213: 3756300795471103059
+    second: Utah_DevSprites 1_139
+  - first:
+      213: 6300949970223151314
+    second: Utah_DevSprites 1_140
+  - first:
+      213: -38096192424607648
+    second: Utah_DevSprites 1_141
+  - first:
+      213: -4809422529073595072
+    second: Utah_DevSprites 1_142
+  - first:
+      213: -6077095937988614668
+    second: Utah_DevSprites 1_143
+  - first:
+      213: -6915727744513617990
+    second: Utah_DevSprites 1_144
+  - first:
+      213: -5254393552124668298
+    second: Utah_DevSprites 1_145
+  - first:
+      213: 970529169736133283
+    second: Utah_DevSprites 1_146
+  - first:
+      213: -9135815985665183151
+    second: Utah_DevSprites 1_147
+  - first:
+      213: -7409484764682927592
+    second: Utah_DevSprites 1_148
+  - first:
+      213: -3449282439102404168
+    second: Utah_DevSprites 1_149
+  - first:
+      213: -8985294829305452484
+    second: Utah_DevSprites 1_150
+  - first:
+      213: 6548909382062157322
+    second: Utah_DevSprites 1_151
+  - first:
+      213: -1839738523109634783
+    second: Utah_DevSprites 1_152
+  - first:
+      213: 6317586983800275023
+    second: Utah_DevSprites 1_153
+  - first:
+      213: -5880389277841157019
+    second: Utah_DevSprites 1_154
+  - first:
+      213: -2534665028504110591
+    second: Utah_DevSprites 1_155
+  - first:
+      213: 8467241694752552044
+    second: Utah_DevSprites 1_156
+  - first:
+      213: -1936345070605930553
+    second: Utah_DevSprites 1_157
+  - first:
+      213: -9211727365451267168
+    second: Utah_DevSprites 1_158
+  - first:
+      213: -3954029495268157911
+    second: Utah_DevSprites 1_159
+  - first:
+      213: 4573029007459341801
+    second: Utah_DevSprites 1_160
+  - first:
+      213: -5885604203937743084
+    second: Utah_DevSprites 1_161
+  - first:
+      213: 707377697485746876
+    second: Utah_DevSprites 1_162
+  - first:
+      213: 5898793577743533614
+    second: Utah_DevSprites 1_163
+  - first:
+      213: -7544778074088692812
+    second: Utah_DevSprites 1_164
+  - first:
+      213: 1167609697854385328
+    second: Utah_DevSprites 1_165
+  - first:
+      213: -5260355729251895194
+    second: Utah_DevSprites 1_166
+  - first:
+      213: 4813472264629360085
+    second: Utah_DevSprites 1_167
+  - first:
+      213: -3768483658840023219
+    second: Utah_DevSprites 1_168
+  - first:
+      213: -3626412390745673605
+    second: Utah_DevSprites 1_169
+  - first:
+      213: -417786846755963460
+    second: Utah_DevSprites 1_170
+  - first:
+      213: -1909039750112196985
+    second: Utah_DevSprites 1_171
+  - first:
+      213: 4807581830906859648
+    second: Utah_DevSprites 1_172
+  - first:
+      213: 8379149834452671649
+    second: Utah_DevSprites 1_173
+  - first:
+      213: 7674946381928535182
+    second: Utah_DevSprites 1_174
+  - first:
+      213: 3060636696474757996
+    second: Utah_DevSprites 1_175
+  - first:
+      213: 8573482177500307886
+    second: Utah_DevSprites 1_176
+  - first:
+      213: 3435609058842474708
+    second: Utah_DevSprites 1_177
+  - first:
+      213: -5795234114308571189
+    second: Utah_DevSprites 1_178
+  - first:
+      213: 3296805156998474374
+    second: Utah_DevSprites 1_179
+  - first:
+      213: -2798588582187091828
+    second: Utah_DevSprites 1_180
+  - first:
+      213: 3007406265545051245
+    second: Utah_DevSprites 1_181
+  - first:
+      213: -6727051020159358941
+    second: Utah_DevSprites 1_182
+  - first:
+      213: 7197212304205168930
+    second: Utah_DevSprites 1_183
+  - first:
+      213: -2240714914380826110
+    second: Utah_DevSprites 1_184
+  - first:
+      213: 9144184999335017398
+    second: Utah_DevSprites 1_185
+  - first:
+      213: 8204618973793284466
+    second: Utah_DevSprites 1_186
+  - first:
+      213: -6831407694753482760
+    second: Utah_DevSprites 1_187
+  - first:
+      213: 5388204850264750975
+    second: Utah_DevSprites 1_188
+  - first:
+      213: -3903572574606149852
+    second: Utah_DevSprites 1_189
+  - first:
+      213: -4042964751394475535
+    second: Utah_DevSprites 1_190
+  - first:
+      213: -392450681915201031
+    second: Utah_DevSprites 1_191
+  - first:
+      213: -4712523029666282875
+    second: Utah_DevSprites 1_192
+  - first:
+      213: -4105248461234879533
+    second: Utah_DevSprites 1_193
+  - first:
+      213: 7682357656584097495
+    second: Utah_DevSprites 1_194
+  - first:
+      213: 5295349452290332821
+    second: Utah_DevSprites 1_195
+  - first:
+      213: -3233767706382940687
+    second: Utah_DevSprites 1_196
+  - first:
+      213: -6054285252252142689
+    second: Utah_DevSprites 1_197
+  - first:
+      213: -757784638861307360
+    second: Utah_DevSprites 1_198
+  - first:
+      213: -1026068424936141598
+    second: Utah_DevSprites 1_199
+  - first:
+      213: 1208667413857238798
+    second: Utah_DevSprites 1_200
+  - first:
+      213: 7379407756855250136
+    second: Utah_DevSprites 1_201
+  - first:
+      213: -7079136865481971291
+    second: Utah_DevSprites 1_202
+  - first:
+      213: -4464392224856153614
+    second: Utah_DevSprites 1_203
+  - first:
+      213: -5121513057019959284
+    second: Utah_DevSprites 1_204
+  - first:
+      213: -8454331856208884869
+    second: Utah_DevSprites 1_205
+  - first:
+      213: 2350391723568743126
+    second: Utah_DevSprites 1_206
+  - first:
+      213: 2912842221501856110
+    second: Utah_DevSprites 1_207
+  - first:
+      213: 2273359126243695739
+    second: Utah_DevSprites 1_208
+  - first:
+      213: 235959841900990879
+    second: Utah_DevSprites 1_209
+  - first:
+      213: -214501529193935886
+    second: Utah_DevSprites 1_210
+  - first:
+      213: -4058478998534511323
+    second: Utah_DevSprites 1_211
+  - first:
+      213: -5539329609277027203
+    second: Utah_DevSprites 1_212
+  - first:
+      213: -286923149711800929
+    second: Utah_DevSprites 1_213
+  - first:
+      213: -194158818023493774
+    second: Utah_DevSprites 1_214
+  - first:
+      213: 1940328475069877707
+    second: Utah_DevSprites 1_215
+  - first:
+      213: 8059282535926409021
+    second: Utah_DevSprites 1_216
+  - first:
+      213: 6382091478221579362
+    second: Utah_DevSprites 1_217
+  - first:
+      213: 9087843228265511110
+    second: Utah_DevSprites 1_218
+  - first:
+      213: -5839008173677780799
+    second: Utah_DevSprites 1_219
+  - first:
+      213: -3479230535509472990
+    second: Utah_DevSprites 1_220
+  - first:
+      213: -92259391283075410
+    second: Utah_DevSprites 1_221
+  - first:
+      213: 6446587074971809795
+    second: Utah_DevSprites 1_222
+  - first:
+      213: 5504480874579564594
+    second: Utah_DevSprites 1_223
+  - first:
+      213: 678325908966422591
+    second: Utah_DevSprites 1_224
+  - first:
+      213: -2131034732936705386
+    second: Utah_DevSprites 1_225
+  - first:
+      213: -4378014906186920148
+    second: Utah_DevSprites 1_226
+  - first:
+      213: -7546344636936939123
+    second: Utah_DevSprites 1_227
+  - first:
+      213: 4509715144053191371
+    second: Utah_DevSprites 1_228
+  - first:
+      213: -6433986421190136431
+    second: Utah_DevSprites 1_229
+  - first:
+      213: 3283090619735421753
+    second: Utah_DevSprites 1_230
+  - first:
+      213: 1182691712061030389
+    second: Utah_DevSprites 1_231
+  - first:
+      213: 5032750524577590688
+    second: Utah_DevSprites 1_232
+  - first:
+      213: 3521768007835608380
+    second: Utah_DevSprites 1_233
+  - first:
+      213: -2839914625308611359
+    second: Utah_DevSprites 1_234
+  - first:
+      213: 2465054024453833009
+    second: Utah_DevSprites 1_235
+  - first:
+      213: 8543894938601013600
+    second: Utah_DevSprites 1_236
+  - first:
+      213: -5896454816988928995
+    second: Utah_DevSprites 1_237
+  - first:
+      213: 5901301374672049735
+    second: Utah_DevSprites 1_238
+  - first:
+      213: -8878475707326843081
+    second: Utah_DevSprites 1_239
+  - first:
+      213: -4585974334480997026
+    second: Utah_DevSprites 1_240
+  - first:
+      213: 6852475382587011654
+    second: Utah_DevSprites 1_241
+  - first:
+      213: -6048677918481650431
+    second: Utah_DevSprites 1_242
+  - first:
+      213: -7575843889420170375
+    second: Utah_DevSprites 1_243
+  - first:
+      213: -131515970667258234
+    second: Utah_DevSprites 1_244
+  - first:
+      213: 4084183081945428544
+    second: Utah_DevSprites 1_245
+  - first:
+      213: -4279530808828322921
+    second: Utah_DevSprites 1_246
+  - first:
+      213: -4784715813148955753
+    second: Utah_DevSprites 1_247
+  - first:
+      213: 2565719821207055939
+    second: Utah_DevSprites 1_248
+  - first:
+      213: -8747280081103560893
+    second: Utah_DevSprites 1_249
+  - first:
+      213: 1893768673142964264
+    second: Utah_DevSprites 1_250
+  - first:
+      213: 1395494604845736409
+    second: Utah_DevSprites 1_251
+  - first:
+      213: 6303704377836579778
+    second: Utah_DevSprites 1_252
+  - first:
+      213: -554097901129305668
+    second: Utah_DevSprites 1_253
+  - first:
+      213: 2284923422799010065
+    second: Utah_DevSprites 1_254
+  - first:
+      213: -180799151852450695
+    second: Utah_DevSprites 1_255
+  - first:
+      213: -6211947245301796457
+    second: Utah_DevSprites 1_256
+  - first:
+      213: -6297820090542689226
+    second: Utah_DevSprites 1_257
+  - first:
+      213: -7550661796033496510
+    second: Utah_DevSprites 1_258
+  - first:
+      213: -4058310231867695671
+    second: Utah_DevSprites 1_259
+  - first:
+      213: -4997399114714530287
+    second: Utah_DevSprites 1_260
+  - first:
+      213: -256497711845741367
+    second: Utah_DevSprites 1_261
+  - first:
+      213: -7359119783516287894
+    second: Utah_DevSprites 1_262
+  - first:
+      213: -5406854783738252822
+    second: Utah_DevSprites 1_263
+  - first:
+      213: 297736237061886892
+    second: Utah_DevSprites 1_264
+  - first:
+      213: 1425591554005478237
+    second: Utah_DevSprites 1_265
+  - first:
+      213: -5216894850133079804
+    second: Utah_DevSprites 1_266
+  - first:
+      213: -8160832152800330378
+    second: Utah_DevSprites 1_267
+  - first:
+      213: 2549020329219058392
+    second: Utah_DevSprites 1_268
+  - first:
+      213: -4725962307441482610
+    second: Utah_DevSprites 1_269
+  - first:
+      213: 8199214057392633312
+    second: Utah_DevSprites 1_270
+  - first:
+      213: 3806757880639180463
+    second: Utah_DevSprites 1_271
+  - first:
+      213: -9100108860586733175
+    second: Utah_DevSprites 1_272
+  - first:
+      213: -3619314600772814270
+    second: Utah_DevSprites 1_273
+  - first:
+      213: -7780179018075313359
+    second: Utah_DevSprites 1_274
+  - first:
+      213: -964405069476765990
+    second: Utah_DevSprites 1_275
+  - first:
+      213: -8616155320438354342
+    second: Utah_DevSprites 1_276
+  - first:
+      213: 5999266624523021961
+    second: Utah_DevSprites 1_277
+  - first:
+      213: -7673739554475085959
+    second: Utah_DevSprites 1_278
+  - first:
+      213: -8297113118181713753
+    second: Utah_DevSprites 1_279
+  - first:
+      213: 1941052867250436991
+    second: Utah_DevSprites 1_280
+  - first:
+      213: 1478126510221675971
+    second: Utah_DevSprites 1_281
+  - first:
+      213: -4454446037813846156
+    second: Utah_DevSprites 1_282
+  - first:
+      213: -6578672662468786187
+    second: Utah_DevSprites 1_283
+  - first:
+      213: -6385205847644530646
+    second: Utah_DevSprites 1_284
+  - first:
+      213: -3693564841017927570
+    second: Utah_DevSprites 1_285
+  - first:
+      213: -1976055956905985939
+    second: Utah_DevSprites 1_286
+  - first:
+      213: 7262548754573246172
+    second: Utah_DevSprites 1_287
+  - first:
+      213: -7549365457694220505
+    second: Utah_DevSprites 1_288
+  - first:
+      213: -2384985902159067438
+    second: Utah_DevSprites 1_289
+  - first:
+      213: -4127481800599127313
+    second: Utah_DevSprites 1_290
+  - first:
+      213: -5625205360024500243
+    second: Utah_DevSprites 1_291
+  - first:
+      213: -396639822485089405
+    second: Utah_DevSprites 1_292
+  - first:
+      213: -5345780544097900708
+    second: Utah_DevSprites 1_293
+  - first:
+      213: -3724899156623455193
+    second: Utah_DevSprites 1_294
+  - first:
+      213: 8659433535273817360
+    second: Utah_DevSprites 1_295
+  - first:
+      213: 1248728548948875970
+    second: Utah_DevSprites 1_296
+  - first:
+      213: 6546149872354410027
+    second: Utah_DevSprites 1_297
+  - first:
+      213: 5532466478277591382
+    second: Utah_DevSprites 1_298
+  - first:
+      213: 1494575932235347280
+    second: Utah_DevSprites 1_299
+  - first:
+      213: 429328289136968704
+    second: Utah_DevSprites 1_300
+  - first:
+      213: -2063028185539805040
+    second: Utah_DevSprites 1_301
+  - first:
+      213: -7609259848239776149
+    second: Utah_DevSprites 1_302
+  - first:
+      213: 330726371850454078
+    second: Utah_DevSprites 1_303
+  - first:
+      213: 2132800106808780833
+    second: Utah_DevSprites 1_304
+  - first:
+      213: 3709613837109513535
+    second: Utah_DevSprites 1_305
+  - first:
+      213: -6494574859317093817
+    second: Utah_DevSprites 1_306
+  - first:
+      213: -1506215223968840574
+    second: Utah_DevSprites 1_307
+  - first:
+      213: 897581711134015660
+    second: Utah_DevSprites 1_308
+  - first:
+      213: -5188026386826941072
+    second: Utah_DevSprites 1_309
+  - first:
+      213: 5283793303345972285
+    second: Utah_DevSprites 1_310
+  - first:
+      213: -5229474914698402666
+    second: Utah_DevSprites 1_311
+  - first:
+      213: -4353416849664434513
+    second: Utah_DevSprites 1_312
+  - first:
+      213: -3303566473394782670
+    second: Utah_DevSprites 1_313
+  - first:
+      213: -5910377222351273597
+    second: Utah_DevSprites 1_314
+  - first:
+      213: 7663914358320371537
+    second: Utah_DevSprites 1_315
+  - first:
+      213: -8686004618919258442
+    second: Utah_DevSprites 1_316
+  - first:
+      213: 4947344062353327735
+    second: Utah_DevSprites 1_317
+  - first:
+      213: 5898089275144715666
+    second: Utah_DevSprites 1_318
+  - first:
+      213: -7674619751356950688
+    second: Utah_DevSprites 1_319
+  - first:
+      213: -7187551733113848365
+    second: Utah_DevSprites 1_320
+  - first:
+      213: 3270646269129218877
+    second: Utah_DevSprites 1_321
+  - first:
+      213: 105499054578848068
+    second: Utah_DevSprites 1_322
+  - first:
+      213: 3027328759117052844
+    second: Utah_DevSprites 1_323
+  - first:
+      213: 4106264715817708633
+    second: Utah_DevSprites 1_324
+  - first:
+      213: -7937123416420178387
+    second: Utah_DevSprites 1_325
+  - first:
+      213: -2609199951045946061
+    second: Utah_DevSprites 1_326
+  - first:
+      213: 2217733632061381624
+    second: Utah_DevSprites 1_327
+  - first:
+      213: -2461456254231114711
+    second: Utah_DevSprites 1_328
+  - first:
+      213: -8806125770624887804
+    second: Utah_DevSprites 1_329
+  - first:
+      213: 5792046618257472088
+    second: Utah_DevSprites 1_330
+  - first:
+      213: -2632256046098553386
+    second: Utah_DevSprites 1_331
+  - first:
+      213: -4608261771323491970
+    second: Utah_DevSprites 1_332
+  - first:
+      213: -4212765231770608097
+    second: Utah_DevSprites 1_333
+  - first:
+      213: 3881267355685434722
+    second: Utah_DevSprites 1_334
+  - first:
+      213: -8399465069648833874
+    second: Utah_DevSprites 1_335
+  - first:
+      213: 9222445681382829920
+    second: Utah_DevSprites 1_336
+  - first:
+      213: -3778483414002953067
+    second: Utah_DevSprites 1_337
+  - first:
+      213: 5273823609854606068
+    second: Utah_DevSprites 1_338
+  - first:
+      213: -5182331491009590820
+    second: Utah_DevSprites 1_339
+  - first:
+      213: -8709158723015293757
+    second: Utah_DevSprites 1_340
+  - first:
+      213: -4426129645816408693
+    second: Utah_DevSprites 1_341
+  - first:
+      213: -7811625933954759486
+    second: Utah_DevSprites 1_342
+  - first:
+      213: 3490678531009275053
+    second: Utah_DevSprites 1_343
+  - first:
+      213: 6526344930236537347
+    second: Utah_DevSprites 1_344
+  - first:
+      213: 306101411196639284
+    second: Utah_DevSprites 1_345
+  - first:
+      213: -2877123754392966887
+    second: Utah_DevSprites 1_346
+  - first:
+      213: 8404471298687771262
+    second: Utah_DevSprites 1_347
+  - first:
+      213: -414901688737684188
+    second: Utah_DevSprites 1_348
+  - first:
+      213: 4930511362976323676
+    second: Utah_DevSprites 1_349
+  - first:
+      213: 2261075600357085612
+    second: Utah_DevSprites 1_350
+  - first:
+      213: -4661649555799552111
+    second: Utah_DevSprites 1_351
+  - first:
+      213: 4692139878378595823
+    second: Utah_DevSprites 1_352
+  - first:
+      213: -371020195208967988
+    second: Utah_DevSprites 1_353
+  - first:
+      213: -6080982679424803357
+    second: Utah_DevSprites 1_354
+  - first:
+      213: -145996540902938518
+    second: Utah_DevSprites 1_355
+  - first:
+      213: 2367579134925823978
+    second: Utah_DevSprites 1_356
+  - first:
+      213: -3553007121390475905
+    second: Utah_DevSprites 1_357
+  - first:
+      213: 3842719763703811625
+    second: Utah_DevSprites 1_358
+  - first:
+      213: 1415802991321970346
+    second: Utah_DevSprites 1_359
+  - first:
+      213: -1802030337970149952
+    second: Utah_DevSprites 1_360
+  - first:
+      213: 1661290066035392490
+    second: Utah_DevSprites 1_361
+  - first:
+      213: 2308129858583224227
+    second: Utah_DevSprites 1_362
+  - first:
+      213: -8390081369096374695
+    second: Utah_DevSprites 1_363
+  - first:
+      213: -5446568783461865215
+    second: Utah_DevSprites 1_364
+  - first:
+      213: -8381166646539057027
+    second: Utah_DevSprites 1_365
+  - first:
+      213: 2791744205472091811
+    second: Utah_DevSprites 1_366
+  - first:
+      213: -7652268129096352365
+    second: Utah_DevSprites 1_367
+  - first:
+      213: 3745843081252142912
+    second: Utah_DevSprites 1_368
+  - first:
+      213: 8231405137202366233
+    second: Utah_DevSprites 1_369
+  - first:
+      213: 8709601523474075377
+    second: Utah_DevSprites 1_370
+  - first:
+      213: 7631253694691793049
+    second: Utah_DevSprites 1_371
+  - first:
+      213: 3070226620135489459
+    second: Utah_DevSprites 1_372
+  - first:
+      213: -3562144240757377407
+    second: Utah_DevSprites 1_373
+  - first:
+      213: 1129998318859871663
+    second: Utah_DevSprites 1_374
+  - first:
+      213: 9041373976912201149
+    second: Utah_DevSprites 1_375
+  - first:
+      213: -3616688364723181334
+    second: Utah_DevSprites 1_376
+  - first:
+      213: -3292967424107923813
+    second: Utah_DevSprites 1_377
+  - first:
+      213: -1866524708210235628
+    second: Utah_DevSprites 1_378
+  - first:
+      213: -5592457445787245554
+    second: Utah_DevSprites 1_379
+  - first:
+      213: -1534047949978683944
+    second: Utah_DevSprites 1_380
+  - first:
+      213: 7251742511854731894
+    second: Utah_DevSprites 1_381
+  - first:
+      213: -429291893155641828
+    second: Utah_DevSprites 1_382
+  - first:
+      213: -7772574740449155043
+    second: Utah_DevSprites 1_383
+  - first:
+      213: 3697150853977155284
+    second: Utah_DevSprites 1_384
+  - first:
+      213: -1658592970246075531
+    second: Utah_DevSprites 1_385
+  - first:
+      213: 4660174528407162971
+    second: Utah_DevSprites 1_386
+  - first:
+      213: 3313676540778424482
+    second: Utah_DevSprites 1_387
+  - first:
+      213: -2746007651243014918
+    second: Utah_DevSprites 1_388
+  - first:
+      213: 3486063657920664226
+    second: Utah_DevSprites 1_389
+  - first:
+      213: 8397631077175044332
+    second: Utah_DevSprites 1_390
+  - first:
+      213: 3380009465148200400
+    second: Utah_DevSprites 1_391
+  - first:
+      213: 1114414147540842137
+    second: Utah_DevSprites 1_392
+  - first:
+      213: -6321758611481649208
+    second: Utah_DevSprites 1_393
+  - first:
+      213: 4620772428443424192
+    second: Utah_DevSprites 1_394
+  - first:
+      213: -5099405483181329689
+    second: Utah_DevSprites 1_395
+  - first:
+      213: 4180543298964856523
+    second: Utah_DevSprites 1_396
+  - first:
+      213: 6311406245781441657
+    second: Utah_DevSprites 1_397
+  - first:
+      213: 8639632088268433875
+    second: Utah_DevSprites 1_398
+  - first:
+      213: -3233344610145290959
+    second: Utah_DevSprites 1_399
+  - first:
+      213: 6456348752226414033
+    second: Utah_DevSprites 1_400
+  - first:
+      213: -7281184575577416664
+    second: Utah_DevSprites 1_401
+  - first:
+      213: 4926875731410414328
+    second: Utah_DevSprites 1_402
+  - first:
+      213: -9210410289936036502
+    second: Utah_DevSprites 1_403
+  - first:
+      213: 1879879923917193569
+    second: Utah_DevSprites 1_404
+  - first:
+      213: -6433194150079571975
+    second: Utah_DevSprites 1_405
+  - first:
+      213: -2692853970330442595
+    second: Utah_DevSprites 1_406
+  - first:
+      213: -5968538806966959901
+    second: Utah_DevSprites 1_407
+  - first:
+      213: 108285808757660612
+    second: Utah_DevSprites 1_408
+  - first:
+      213: 3251349674427433865
+    second: Utah_DevSprites 1_409
+  - first:
+      213: -458660810443132944
+    second: Utah_DevSprites 1_410
+  - first:
+      213: 2489464865678795998
+    second: Utah_DevSprites 1_411
+  - first:
+      213: -7109077637251181512
+    second: Utah_DevSprites 1_412
+  - first:
+      213: -8708303126597643371
+    second: Utah_DevSprites 1_413
+  - first:
+      213: 1332726300360164396
+    second: Utah_DevSprites 1_414
+  - first:
+      213: -376344731408192791
+    second: Utah_DevSprites 1_415
+  - first:
+      213: 1092123829549121855
+    second: Utah_DevSprites 1_416
+  - first:
+      213: 5711348333136344000
+    second: Utah_DevSprites 1_417
+  - first:
+      213: 8209046417804412601
+    second: Utah_DevSprites 1_418
+  - first:
+      213: 5938575003336572568
+    second: Utah_DevSprites 1_419
+  - first:
+      213: -675609282138418755
+    second: Utah_DevSprites 1_420
+  - first:
+      213: 3316964273035556530
+    second: Utah_DevSprites 1_421
+  - first:
+      213: -4433686088866592101
+    second: Utah_DevSprites 1_422
+  - first:
+      213: 6800807910780690339
+    second: Utah_DevSprites 1_423
+  - first:
+      213: -8720883168225187283
+    second: Utah_DevSprites 1_424
+  - first:
+      213: 4490836653243643334
+    second: Utah_DevSprites 1_425
+  - first:
+      213: 1947830966166259410
+    second: Utah_DevSprites 1_426
+  - first:
+      213: 8295408502539279119
+    second: Utah_DevSprites 1_427
+  - first:
+      213: -2289049417574461118
+    second: Utah_DevSprites 1_428
+  - first:
+      213: 414290639717635769
+    second: Utah_DevSprites 1_429
+  - first:
+      213: 7040650444217709820
+    second: Utah_DevSprites 1_430
+  - first:
+      213: -1108333966219618578
+    second: Utah_DevSprites 1_431
+  - first:
+      213: 8404605289479974378
+    second: Utah_DevSprites 1_432
+  - first:
+      213: 8871490770566606880
+    second: Utah_DevSprites 1_433
+  - first:
+      213: 3135498933886279799
+    second: Utah_DevSprites 1_434
+  - first:
+      213: 5911289743249388959
+    second: Utah_DevSprites 1_435
+  - first:
+      213: -559035388258747320
+    second: Utah_DevSprites 1_436
+  - first:
+      213: 7501722864214512066
+    second: Utah_DevSprites 1_437
+  - first:
+      213: -3959262414203046416
+    second: Utah_DevSprites 1_438
+  - first:
+      213: -5963858485489418746
+    second: Utah_DevSprites 1_439
+  - first:
+      213: 2181483164222987547
+    second: Utah_DevSprites 1_440
+  - first:
+      213: -2643958483313613715
+    second: Utah_DevSprites 1_441
+  - first:
+      213: -7375708765258752729
+    second: Utah_DevSprites 1_442
+  - first:
+      213: 7905430596168930420
+    second: Utah_DevSprites 1_443
+  - first:
+      213: 4254032291313462151
+    second: Utah_DevSprites 1_444
+  - first:
+      213: -1802670928897361905
+    second: Utah_DevSprites 1_445
+  - first:
+      213: -4845671563038834729
+    second: Utah_DevSprites 1_446
+  - first:
+      213: 4728690668194860752
+    second: Utah_DevSprites 1_447
+  - first:
+      213: 4453449699829373224
+    second: Utah_DevSprites 1_448
+  - first:
+      213: -1535296677017069105
+    second: Utah_DevSprites 1_449
+  - first:
+      213: -7891259197816980559
+    second: Utah_DevSprites 1_450
+  - first:
+      213: -456293342120242143
+    second: Utah_DevSprites 1_451
+  - first:
+      213: -3187268470350988599
+    second: Utah_DevSprites 1_452
+  - first:
+      213: 8779500176291784970
+    second: Utah_DevSprites 1_453
+  - first:
+      213: 3022869960424635879
+    second: Utah_DevSprites 1_454
+  - first:
+      213: 3009988469937338339
+    second: Utah_DevSprites 1_455
+  - first:
+      213: 3679089392870774851
+    second: Utah_DevSprites 1_456
+  - first:
+      213: -7397938344914675380
+    second: Utah_DevSprites 1_457
+  - first:
+      213: 3242737046091130045
+    second: Utah_DevSprites 1_458
+  - first:
+      213: 687849614196696281
+    second: Utah_DevSprites 1_459
+  - first:
+      213: 4491153923880805730
+    second: Utah_DevSprites 1_460
+  - first:
+      213: 3042828335370200316
+    second: Utah_DevSprites 1_461
+  - first:
+      213: 3307719783849978378
+    second: Utah_DevSprites 1_462
+  - first:
+      213: 2455821526901193535
+    second: Utah_DevSprites 1_463
+  - first:
+      213: 4345330333574152460
+    second: Utah_DevSprites 1_464
+  - first:
+      213: 163719181452867963
+    second: Utah_DevSprites 1_465
+  - first:
+      213: -8580117761615070064
+    second: Utah_DevSprites 1_466
+  - first:
+      213: -399150644187697585
+    second: Utah_DevSprites 1_467
+  - first:
+      213: 575981497958638516
+    second: Utah_DevSprites 1_468
+  - first:
+      213: 2995552446493056257
+    second: Utah_DevSprites 1_469
+  - first:
+      213: -4045582504229277838
+    second: Utah_DevSprites 1_470
+  - first:
+      213: -699192284711114317
+    second: Utah_DevSprites 1_471
+  - first:
+      213: -6540185391830923314
+    second: Utah_DevSprites 1_472
+  - first:
+      213: -5460499544772283799
+    second: Utah_DevSprites 1_473
+  - first:
+      213: 7789956758471941907
+    second: Utah_DevSprites 1_474
+  - first:
+      213: -2574940338183719479
+    second: Utah_DevSprites 1_475
+  - first:
+      213: -2329698550321647218
+    second: Utah_DevSprites 1_476
+  - first:
+      213: -3803369443705388678
+    second: Utah_DevSprites 1_477
+  - first:
+      213: -2955961401679533642
+    second: Utah_DevSprites 1_478
+  - first:
+      213: -1270680263214035072
+    second: Utah_DevSprites 1_479
+  - first:
+      213: 7920768392085676877
+    second: Utah_DevSprites 1_480
+  - first:
+      213: -6449980733059099939
+    second: Utah_DevSprites 1_481
+  - first:
+      213: -8917344437062321102
+    second: Utah_DevSprites 1_482
+  - first:
+      213: -1790139013916335602
+    second: Utah_DevSprites 1_483
+  - first:
+      213: -7164618660384880
+    second: Utah_DevSprites 1_484
+  - first:
+      213: -4795882640437166261
+    second: Utah_DevSprites 1_485
+  - first:
+      213: -3325972881220247298
+    second: Utah_DevSprites 1_486
+  - first:
+      213: -9418245715507201
+    second: Utah_DevSprites 1_487
+  - first:
+      213: 5299983302591132647
+    second: Utah_DevSprites 1_488
+  - first:
+      213: 2519197781737422189
+    second: Utah_DevSprites 1_489
+  - first:
+      213: 2595642452753423412
+    second: Utah_DevSprites 1_490
+  - first:
+      213: -6384784049914804511
+    second: Utah_DevSprites 1_491
+  - first:
+      213: 5052207694284350631
+    second: Utah_DevSprites 1_492
+  - first:
+      213: 2623522817805228693
+    second: Utah_DevSprites 1_493
+  - first:
+      213: 8476818237582870945
+    second: Utah_DevSprites 1_494
+  - first:
+      213: 3212514717178966388
+    second: Utah_DevSprites 1_495
+  - first:
+      213: -2491547004779254921
+    second: Utah_DevSprites 1_496
+  - first:
+      213: 5720456509818995965
+    second: Utah_DevSprites 1_497
+  - first:
+      213: 2249812146554302984
+    second: Utah_DevSprites 1_498
+  - first:
+      213: 2783640331935105033
+    second: Utah_DevSprites 1_499
+  - first:
+      213: -2819789660968961070
+    second: Utah_DevSprites 1_500
+  - first:
+      213: -4031877053804102164
+    second: Utah_DevSprites 1_501
+  - first:
+      213: -3620117370204149472
+    second: Utah_DevSprites 1_502
+  - first:
+      213: 5894959645638847861
+    second: Utah_DevSprites 1_503
+  - first:
+      213: -2687028391873994354
+    second: Utah_DevSprites 1_504
+  - first:
+      213: -4232117125209135394
+    second: Utah_DevSprites 1_505
+  - first:
+      213: 5497807303554744146
+    second: Utah_DevSprites 1_506
+  - first:
+      213: -7504033142487307470
+    second: Utah_DevSprites 1_507
+  - first:
+      213: 4293690603344736499
+    second: Utah_DevSprites 1_508
+  - first:
+      213: 6642534555103939712
+    second: Utah_DevSprites 1_509
+  - first:
+      213: 2769681744343102623
+    second: Utah_DevSprites 1_510
+  - first:
+      213: -7147659010180674483
+    second: Utah_DevSprites 1_511
+  - first:
+      213: 8549881502140790633
+    second: Utah_DevSprites 1_512
+  - first:
+      213: -7479603262395649868
+    second: Utah_DevSprites 1_513
+  - first:
+      213: -8321820725764878029
+    second: Utah_DevSprites 1_514
+  - first:
+      213: 9077523926826502670
+    second: Utah_DevSprites 1_515
+  - first:
+      213: -4897322358327361593
+    second: Utah_DevSprites 1_516
+  - first:
+      213: -2319185058346582691
+    second: Utah_DevSprites 1_517
+  - first:
+      213: 8516830036670792804
+    second: Utah_DevSprites 1_518
+  - first:
+      213: -8788312215938261496
+    second: Utah_DevSprites 1_519
+  - first:
+      213: -8000428064587772625
+    second: Utah_DevSprites 1_520
+  - first:
+      213: 6760999739073124443
+    second: Utah_DevSprites 1_521
+  - first:
+      213: -7277788973372093096
+    second: Utah_DevSprites 1_522
+  - first:
+      213: -1207412832207191886
+    second: Utah_DevSprites 1_523
+  - first:
+      213: -8531112123946643436
+    second: Utah_DevSprites 1_524
+  - first:
+      213: 8198825737953071957
+    second: Utah_DevSprites 1_525
+  - first:
+      213: 6209500366279842122
+    second: Utah_DevSprites 1_526
+  - first:
+      213: -5730142895883117682
+    second: Utah_DevSprites 1_527
+  - first:
+      213: -5613608073867297596
+    second: Utah_DevSprites 1_528
+  - first:
+      213: -7788266351376655420
+    second: Utah_DevSprites 1_529
+  - first:
+      213: 2419736663686385093
+    second: Utah_DevSprites 1_530
+  - first:
+      213: 627986261276947114
+    second: Utah_DevSprites 1_531
+  - first:
+      213: -349114160977757604
+    second: Utah_DevSprites 1_532
+  - first:
+      213: -2103425869434475412
+    second: Utah_DevSprites 1_533
+  - first:
+      213: -2019769461106134989
+    second: Utah_DevSprites 1_534
+  - first:
+      213: 3533475441141574653
+    second: Utah_DevSprites 1_535
+  - first:
+      213: 6164009733060321015
+    second: Utah_DevSprites 1_536
+  - first:
+      213: -803047194989052814
+    second: Utah_DevSprites 1_537
+  - first:
+      213: -7971169705644068113
+    second: Utah_DevSprites 1_538
+  - first:
+      213: 3016622186715433334
+    second: Utah_DevSprites 1_539
+  - first:
+      213: 1135934092124091322
+    second: Utah_DevSprites 1_540
+  - first:
+      213: -4578046691926693623
+    second: Utah_DevSprites 1_541
+  - first:
+      213: -8616011078733269010
+    second: Utah_DevSprites 1_542
+  - first:
+      213: -5568510116745417805
+    second: Utah_DevSprites 1_543
+  - first:
+      213: 4377021837825329839
+    second: Utah_DevSprites 1_544
+  - first:
+      213: 8643591957010610503
+    second: Utah_DevSprites 1_545
+  - first:
+      213: -2915379595673349977
+    second: Utah_DevSprites 1_546
+  - first:
+      213: -5926072345250901752
+    second: Utah_DevSprites 1_547
+  - first:
+      213: 7370839906726024530
+    second: Utah_DevSprites 1_548
+  - first:
+      213: 133769109854761714
+    second: Utah_DevSprites 1_549
+  - first:
+      213: -8636066527592718803
+    second: Utah_DevSprites 1_550
+  - first:
+      213: -4336269538671465600
+    second: Utah_DevSprites 1_551
+  - first:
+      213: -4871834978037440284
+    second: Utah_DevSprites 1_552
+  - first:
+      213: -5729353898082820957
+    second: Utah_DevSprites 1_553
+  - first:
+      213: -1984143589388116197
+    second: Utah_DevSprites 1_554
+  - first:
+      213: -8381124938962171722
+    second: Utah_DevSprites 1_555
+  - first:
+      213: -3548217236894922955
+    second: Utah_DevSprites 1_556
+  - first:
+      213: -5650538131196010549
+    second: Utah_DevSprites 1_557
+  - first:
+      213: -1926037611823837758
+    second: Utah_DevSprites 1_558
+  - first:
+      213: 1050099727143443063
+    second: Utah_DevSprites 1_559
+  - first:
+      213: 2013663922076242370
+    second: Utah_DevSprites 1_560
+  - first:
+      213: 6364700470840381248
+    second: Utah_DevSprites 1_561
+  - first:
+      213: -9051855927293061836
+    second: Utah_DevSprites 1_562
+  - first:
+      213: -7272102817112378810
+    second: Utah_DevSprites 1_563
+  - first:
+      213: 3241113270807921437
+    second: Utah_DevSprites 1_564
+  - first:
+      213: -5889009755394552380
+    second: Utah_DevSprites 1_565
+  - first:
+      213: -8280387605386786531
+    second: Utah_DevSprites 1_566
+  - first:
+      213: 8407417550107115235
+    second: Utah_DevSprites 1_567
+  - first:
+      213: -4425178025612556928
+    second: Utah_DevSprites 1_568
+  - first:
+      213: 3469526130842123610
+    second: Utah_DevSprites 1_569
+  - first:
+      213: 7321607641732394710
+    second: Utah_DevSprites 1_570
+  - first:
+      213: 6963572224030880820
+    second: Utah_DevSprites 1_571
+  - first:
+      213: 2295879216673950143
+    second: Utah_DevSprites 1_572
+  - first:
+      213: 8988145282258272835
+    second: Utah_DevSprites 1_573
+  - first:
+      213: -6605180620549153711
+    second: Utah_DevSprites 1_574
+  - first:
+      213: -2345549261681588391
+    second: Utah_DevSprites 1_575
+  - first:
+      213: 603808029684130527
+    second: Utah_DevSprites 1_576
+  - first:
+      213: -1492812073446477893
+    second: Utah_DevSprites 1_577
+  - first:
+      213: 5394540753510225327
+    second: Utah_DevSprites 1_578
+  - first:
+      213: 6430148543028020749
+    second: Utah_DevSprites 1_579
+  - first:
+      213: 4984236452987635559
+    second: Utah_DevSprites 1_580
+  - first:
+      213: -8235864778106657954
+    second: Utah_DevSprites 1_581
+  - first:
+      213: 9047519384415607271
+    second: Utah_DevSprites 1_582
+  - first:
+      213: -1985296956951122673
+    second: Utah_DevSprites 1_583
+  - first:
+      213: 7836541284452289545
+    second: Utah_DevSprites 1_584
+  - first:
+      213: -7980239486704647216
+    second: Utah_DevSprites 1_585
+  - first:
+      213: -5692817086944053278
+    second: Utah_DevSprites 1_586
+  - first:
+      213: -5957690410848066139
+    second: Utah_DevSprites 1_587
+  - first:
+      213: -183326546901132754
+    second: Utah_DevSprites 1_588
+  - first:
+      213: -5309807254153068685
+    second: Utah_DevSprites 1_589
+  - first:
+      213: 2436339919287501987
+    second: Utah_DevSprites 1_590
+  - first:
+      213: -2128949133913596331
+    second: Utah_DevSprites 1_591
+  - first:
+      213: 855766624069140791
+    second: Utah_DevSprites 1_592
+  - first:
+      213: 6357911293572655203
+    second: Utah_DevSprites 1_593
+  - first:
+      213: 301263159367036504
+    second: Utah_DevSprites 1_594
+  - first:
+      213: -2444541581610718879
+    second: Utah_DevSprites 1_595
+  - first:
+      213: -5139231257806544497
+    second: Utah_DevSprites 1_596
+  - first:
+      213: 5305298240807850127
+    second: Utah_DevSprites 1_597
+  - first:
+      213: -2009719234863201106
+    second: Utah_DevSprites 1_598
+  - first:
+      213: 2274156479700596759
+    second: Utah_DevSprites 1_599
+  - first:
+      213: -8098841824550412681
+    second: Utah_DevSprites 1_600
+  - first:
+      213: -6107827552660976692
+    second: Utah_DevSprites 1_601
+  - first:
+      213: -5704374120050957117
+    second: Utah_DevSprites 1_602
+  - first:
+      213: -7539382115064870760
+    second: Utah_DevSprites 1_603
+  - first:
+      213: 8978911521924943843
+    second: Utah_DevSprites 1_604
+  - first:
+      213: -6238110348815482667
+    second: Utah_DevSprites 1_605
+  - first:
+      213: 8584897213800303930
+    second: Utah_DevSprites 1_606
+  - first:
+      213: -7648226346248772788
+    second: Utah_DevSprites 1_607
+  - first:
+      213: 5399282548862064555
+    second: Utah_DevSprites 1_608
+  - first:
+      213: -9000184003709072211
+    second: Utah_DevSprites 1_609
+  - first:
+      213: -1116674229134422682
+    second: Utah_DevSprites 1_610
+  - first:
+      213: -3984685738650547971
+    second: Utah_DevSprites 1_611
+  - first:
+      213: 796851621297331145
+    second: Utah_DevSprites 1_612
+  - first:
+      213: -1554567077256455445
+    second: Utah_DevSprites 1_613
+  - first:
+      213: -7088774722758561882
+    second: Utah_DevSprites 1_614
+  - first:
+      213: 280025186273010942
+    second: Utah_DevSprites 1_615
+  - first:
+      213: -2498631443109612565
+    second: Utah_DevSprites 1_616
+  - first:
+      213: -6368918732629133510
+    second: Utah_DevSprites 1_617
+  - first:
+      213: -3010477817661928405
+    second: Utah_DevSprites 1_618
+  - first:
+      213: 4304446346602225998
+    second: Utah_DevSprites 1_619
+  - first:
+      213: 8633855769894451021
+    second: Utah_DevSprites 1_620
+  - first:
+      213: 1523442387607918703
+    second: Utah_DevSprites 1_621
+  - first:
+      213: -7558842710095977932
+    second: Utah_DevSprites 1_622
+  - first:
+      213: -8924574775805767542
+    second: Utah_DevSprites 1_623
+  - first:
+      213: -1589669472053992035
+    second: Utah_DevSprites 1_624
+  - first:
+      213: 5834415874982302484
+    second: Utah_DevSprites 1_625
+  - first:
+      213: -6484268652110697463
+    second: Utah_DevSprites 1_626
+  - first:
+      213: 8644124510786997711
+    second: Utah_DevSprites 1_627
+  - first:
+      213: 7571243926150891690
+    second: Utah_DevSprites 1_628
+  - first:
+      213: -6334281115106450709
+    second: Utah_DevSprites 1_629
+  - first:
+      213: -6601309663337333092
+    second: Utah_DevSprites 1_630
+  - first:
+      213: 2638575041615885003
+    second: Utah_DevSprites 1_631
+  - first:
+      213: -2717530564486680216
+    second: Utah_DevSprites 1_632
+  - first:
+      213: 4333537143400853149
+    second: Utah_DevSprites 1_633
+  - first:
+      213: 7684158823601268011
+    second: Utah_DevSprites 1_634
+  - first:
+      213: 3553320211901302531
+    second: Utah_DevSprites 1_635
+  - first:
+      213: 7120294899192149549
+    second: Utah_DevSprites 1_636
+  - first:
+      213: -5795209089321417218
+    second: Utah_DevSprites 1_637
+  - first:
+      213: 7252457708294040160
+    second: Utah_DevSprites 1_638
+  - first:
+      213: 6685825725647114747
+    second: Utah_DevSprites 1_639
+  - first:
+      213: -3038065037928194286
+    second: Utah_DevSprites 1_640
+  - first:
+      213: -8240984660902875257
+    second: Utah_DevSprites 1_641
+  - first:
+      213: 4304004024231857530
+    second: Utah_DevSprites 1_642
+  - first:
+      213: -3029371242620224781
+    second: Utah_DevSprites 1_643
+  - first:
+      213: -5380364382438330920
+    second: Utah_DevSprites 1_644
+  - first:
+      213: -6206227846885333267
+    second: Utah_DevSprites 1_645
+  - first:
+      213: -602607617158865712
+    second: Utah_DevSprites 1_646
+  - first:
+      213: 8674182120951170520
+    second: Utah_DevSprites 1_647
+  - first:
+      213: 4708825406644429185
+    second: Utah_DevSprites 1_648
+  - first:
+      213: 2373017554618709024
+    second: Utah_DevSprites 1_649
+  - first:
+      213: 8131558961874283093
+    second: Utah_DevSprites 1_650
+  - first:
+      213: 7849809411959666475
+    second: Utah_DevSprites 1_651
+  - first:
+      213: -8304711782594250714
+    second: Utah_DevSprites 1_652
+  - first:
+      213: -5746685070025931991
+    second: Utah_DevSprites 1_653
+  - first:
+      213: -2727348319336488483
+    second: Utah_DevSprites 1_654
+  - first:
+      213: 5594355225653982681
+    second: Utah_DevSprites 1_655
+  - first:
+      213: -7420873546326474128
+    second: Utah_DevSprites 1_656
+  - first:
+      213: 7485451988230500821
+    second: Utah_DevSprites 1_657
+  - first:
+      213: -8368564936905194465
+    second: Utah_DevSprites 1_658
+  - first:
+      213: -4437340683958654854
+    second: Utah_DevSprites 1_659
+  - first:
+      213: -3847323959356383408
+    second: Utah_DevSprites 1_660
+  - first:
+      213: 5803566252870440884
+    second: Utah_DevSprites 1_661
+  - first:
+      213: 5715185239653225076
+    second: Utah_DevSprites 1_662
+  - first:
+      213: 9210805809546269555
+    second: Utah_DevSprites 1_663
+  - first:
+      213: 1598690882487430521
+    second: Utah_DevSprites 1_664
+  - first:
+      213: 6727067995398715959
+    second: Utah_DevSprites 1_665
+  - first:
+      213: -2656341032619978977
+    second: Utah_DevSprites 1_666
+  - first:
+      213: -8064947304811825705
+    second: Utah_DevSprites 1_667
+  - first:
+      213: 3052428620130791447
+    second: Utah_DevSprites 1_668
+  - first:
+      213: -1571041866020740982
+    second: Utah_DevSprites 1_669
+  - first:
+      213: 5098047290652387694
+    second: Utah_DevSprites 1_670
+  - first:
+      213: 752176907668803042
+    second: Utah_DevSprites 1_671
+  - first:
+      213: 8825703330233246811
+    second: Utah_DevSprites 1_672
+  - first:
+      213: 2366428409909402348
+    second: Utah_DevSprites 1_673
+  - first:
+      213: 125995357818226147
+    second: Utah_DevSprites 1_674
+  - first:
+      213: -6031552909786547351
+    second: Utah_DevSprites 1_675
+  - first:
+      213: 6354133808070693853
+    second: Utah_DevSprites 1_676
+  - first:
+      213: 8556210279109636865
+    second: Utah_DevSprites 1_677
+  - first:
+      213: -1984907127270150708
+    second: Utah_DevSprites 1_678
+  - first:
+      213: -2081813124701901094
+    second: Utah_DevSprites 1_679
+  - first:
+      213: -1767473861095489093
+    second: Utah_DevSprites 1_680
+  - first:
+      213: -5997522139370263577
+    second: Utah_DevSprites 1_681
+  - first:
+      213: 8545696833872034843
+    second: Utah_DevSprites 1_682
+  - first:
+      213: -7865426958368986126
+    second: Utah_DevSprites 1_683
+  - first:
+      213: -7212676226205413411
+    second: Utah_DevSprites 1_684
+  - first:
+      213: -6674331143146526611
+    second: Utah_DevSprites 1_685
+  - first:
+      213: 716456995064989076
+    second: Utah_DevSprites 1_686
+  - first:
+      213: 7090051533763842675
+    second: Utah_DevSprites 1_687
+  - first:
+      213: 3401518452541719567
+    second: Utah_DevSprites 1_688
+  - first:
+      213: 2400399306170384977
+    second: Utah_DevSprites 1_689
+  - first:
+      213: -7653805006616095107
+    second: Utah_DevSprites 1_690
+  - first:
+      213: -6848484730604432609
+    second: Utah_DevSprites 1_691
+  - first:
+      213: -7120065076637440607
+    second: Utah_DevSprites 1_692
+  - first:
+      213: 1926003419140853931
+    second: Utah_DevSprites 1_693
+  - first:
+      213: -6858749062493346525
+    second: Utah_DevSprites 1_694
+  - first:
+      213: -682629788792920566
+    second: Utah_DevSprites 1_695
+  - first:
+      213: 7391226960751448934
+    second: Utah_DevSprites 1_696
+  - first:
+      213: -3929887935502686111
+    second: Utah_DevSprites 1_697
+  - first:
+      213: -2060532521607726291
+    second: Utah_DevSprites 1_698
+  - first:
+      213: -6088685717585015538
+    second: Utah_DevSprites 1_699
+  - first:
+      213: 8976030213435460128
+    second: Utah_DevSprites 1_700
+  - first:
+      213: 380152315468287393
+    second: Utah_DevSprites 1_701
+  - first:
+      213: -8752099950829335963
+    second: Utah_DevSprites 1_702
+  - first:
+      213: -5335687260476192488
+    second: Utah_DevSprites 1_703
+  - first:
+      213: -7429866416755043386
+    second: Utah_DevSprites 1_704
+  - first:
+      213: -1153179324846742232
+    second: Utah_DevSprites 1_447
+  - first:
+      213: 5427401502879086218
+    second: Utah_DevSprites 1_274
+  - first:
+      213: 5606423613039658452
+    second: Utah_DevSprites 1_275
+  - first:
+      213: -6857081398950883966
+    second: Utah_DevSprites 1_276
+  - first:
+      213: 8891321591013027136
+    second: Utah_DevSprites 1_277
+  - first:
+      213: 7279956843335526703
+    second: Utah_DevSprites 1_294
+  - first:
+      213: -715547621653563589
+    second: Utah_DevSprites 1_295
+  - first:
+      213: -6445850580068213585
+    second: Utah_DevSprites 1_239
+  - first:
+      213: -8681339264474551079
+    second: Utah_DevSprites 1_175
+  - first:
+      213: 6007756730028057386
+    second: Utah_DevSprites 1_87
+  - first:
+      213: -4225877931292803314
+    second: DrUtah_DevSprites_0
+  - first:
+      213: -7908148477940149923
+    second: DrUtah_DevSprites_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3864
+        width: 35
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6228d2c81268cd0800000000000000
+      internalID: -2556318852543535415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3864
+        width: 34
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5b75e607ff5200800000000000000
+      internalID: 171126919855300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3864
+        width: 33
+        height: 105
+      alignment: 9
+      pivot: {x: 0.42424244, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983c12b91adb93e0800000000000000
+      internalID: -2045801801812526956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3864
+        width: 34
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce37808efbbb9790800000000000000
+      internalID: -7522212050839847223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3864
+        width: 33
+        height: 105
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c580df6a52f1ade0800000000000000
+      internalID: -1323510345233300029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3864
+        width: 34
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4117647, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9017066765b77b60800000000000000
+      internalID: 7743857539984855197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3864
+        width: 34
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19b6c5e51e923050800000000000000
+      internalID: 5778855088756275487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3864
+        width: 46
+        height: 105
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e662ee3da32e1ea60800000000000000
+      internalID: 7701685580071839342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3864
+        width: 47
+        height: 105
+      alignment: 9
+      pivot: {x: 0.29787233, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b60a7a028cee50800000000000000
+      internalID: 6839984915577483601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 3864
+        width: 47
+        height: 105
+      alignment: 9
+      pivot: {x: 0.29787233, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a575ae90057e94200800000000000000
+      internalID: 164917192325486426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_10
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 3864
+        width: 40
+        height: 101
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2916143ff6491e60800000000000000
+      internalID: 7933450280494307627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3864
+        width: 35
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562da64c9e5a2f3c0800000000000000
+      internalID: -4327213868508327323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_12
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3864
+        width: 35
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe3f0040eb5ec10800000000000000
+      internalID: 2082279327133855669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3864
+        width: 35
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5663e963808cb50800000000000000
+      internalID: 6613545083469194686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3864
+        width: 35
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78676d20a84a4f880800000000000000
+      internalID: -8578050477573900665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3864
+        width: 50
+        height: 100
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01030aa65348df450800000000000000
+      internalID: 6124196433250758672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3864
+        width: 41
+        height: 90
+      alignment: 9
+      pivot: {x: 0.48780486, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f5632e80adfd20800000000000000
+      internalID: 3313981433154237693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_17
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 3865
+        width: 46
+        height: 93
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98370beb3daec5340800000000000000
+      internalID: 4854012693556786057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_18
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 3864
+        width: 56
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c7629c35c6e6600800000000000000
+      internalID: 463426918778567726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3864
+        width: 58
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4827586, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e197f2249da0600800000000000000
+      internalID: 435399192282209868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_20
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3861
+        width: 64
+        height: 120
+      alignment: 9
+      pivot: {x: 0.46875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15d93e001dff5550800000000000000
+      internalID: 6151913861411362075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_21
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 3863
+        width: 56
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.00862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48ef5627e77c2a0800000000000000
+      internalID: -6717261289397254954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_22
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3864
+        width: 77
+        height: 121
+      alignment: 9
+      pivot: {x: 0.46753246, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076f9100d2b26f250800000000000000
+      internalID: 5978013027656136304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_23
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3869
+        width: 83
+        height: 122
+      alignment: 9
+      pivot: {x: 0.45783132, y: -0.049180325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2646d93bd9f5ae0800000000000000
+      internalID: -1558353551281593656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_24
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 3864
+        width: 62
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4677419, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0336a2e40aaf6b420800000000000000
+      internalID: 2645577397539857200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_25
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3869
+        width: 66
+        height: 120
+      alignment: 9
+      pivot: {x: 0.469697, y: -0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e76a9535a74cda0800000000000000
+      internalID: -5925476711307772309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_26
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3579
+        width: 69
+        height: 125
+      alignment: 9
+      pivot: {x: 0.49275362, y: -0.024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4910a0c96bf28060800000000000000
+      internalID: 6954397206235322702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3579
+        width: 69
+        height: 127
+      alignment: 9
+      pivot: {x: 0.49275362, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ccfc273c2b83b0800000000000000
+      internalID: -5509261103668082734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3579
+        width: 69
+        height: 127
+      alignment: 9
+      pivot: {x: 0.49275362, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1fe46140d4adde0800000000000000
+      internalID: -1307648061848227386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3579
+        width: 71
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e52b991c0c0a10800000000000000
+      internalID: 1876888448823320828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3579
+        width: 67
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea6dace7472bee20800000000000000
+      internalID: 3380839135138638566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_32
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3617
+        width: 47
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826c26db22393df0800000000000000
+      internalID: -200073544583060849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_33
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 3618
+        width: 45
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1c4de5b2f18ef0800000000000000
+      internalID: -107538052895990237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_34
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 3618
+        width: 40
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94945c6337bca00800000000000000
+      internalID: 777842039726885337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_35
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 3617
+        width: 47
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cd7a9b386439ef0800000000000000
+      internalID: -102660834929943509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_36
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 3618
+        width: 45
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f45a37423fcdc0800000000000000
+      internalID: -3616616694252506989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_37
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 3618
+        width: 40
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3d1e6116542d350800000000000000
+      internalID: 6039966333555299304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_38
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 3631
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb017723636a690800000000000000
+      internalID: -7591320531512541555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_39
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 3621
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52aaac9cb3800f0800000000000000
+      internalID: -1150603966918548032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_40
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 3633
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de2ed44e5f8c1b0800000000000000
+      internalID: -5635984572746109548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_41
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 3623
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e637225477d670800000000000000
+      internalID: 8563441112662336990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_42
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 3647
+        width: 79
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c60b5289fe27740800000000000000
+      internalID: 5148440760784284694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_43
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 3642
+        width: 79
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ccd14755c59c00800000000000000
+      internalID: 906847878542837793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3430
+        width: 102
+        height: 118
+      alignment: 9
+      pivot: {x: 0.61764705, y: -0.025423728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a910439cb7ea943d0800000000000000
+      internalID: -3221852211727040102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3430
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: 0.56666666, y: -0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a725f752c14682b0800000000000000
+      internalID: -5582702385124005980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3433
+        width: 77
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5064935, y: -0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6989a8ef79f840800000000000000
+      internalID: 5258374677185261371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3433
+        width: 85
+        height: 115
+      alignment: 9
+      pivot: {x: 0.45882353, y: -0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7368378dda3cb45a0800000000000000
+      internalID: -6535915282769934793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_55
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 3415
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a17d38531bf950e0800000000000000
+      internalID: -2280515675783073367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_56
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 3415
+        width: 63
+        height: 129
+      alignment: 9
+      pivot: {x: 0.49206352, y: -0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa0041e24b3fa80800000000000000
+      internalID: -8434199567137723811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_57
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 3415
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef19d29aebbb85ea0800000000000000
+      internalID: -5883746485603036674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_58
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3415
+        width: 48
+        height: 129
+      alignment: 9
+      pivot: {x: 0.625, y: -0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d40104cf78253350800000000000000
+      internalID: 5995743008128042194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_59
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 3412
+        width: 70
+        height: 107
+      alignment: 9
+      pivot: {x: 0.27142859, y: -0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42adfd2a58d645370800000000000000
+      internalID: 8310387633136065060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_60
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 3412
+        width: 70
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27142859, y: -0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a501584983428e0800000000000000
+      internalID: -1719186947209930225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_61
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 3412
+        width: 68
+        height: 106
+      alignment: 9
+      pivot: {x: 0.2647059, y: -0.028301887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eadb351ceb2f88c0800000000000000
+      internalID: -3994926051485820187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_62
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 3412
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4042553, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9925a2e38df0aac0800000000000000
+      internalID: -3845795338889385572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_75
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3269
+        width: 52
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfd0c38c8d360700800000000000000
+      internalID: 506159681840930760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_78
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3268
+        width: 75
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5733333, y: -0.025423728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626b663053edda90800000000000000
+      internalID: -7287418688365698450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3268
+        width: 77
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5714286, y: -0.025423728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88984ddec03a87970800000000000000
+      internalID: 8752925151719623048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3268
+        width: 109
+        height: 117
+      alignment: 9
+      pivot: {x: 0.3027523, y: -0.025641028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147298198ecc9150800000000000000
+      internalID: 5880802301657117719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3268
+        width: 96
+        height: 112
+      alignment: 9
+      pivot: {x: 0.16666667, y: -0.026785716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b617b38483e80af0800000000000000
+      internalID: -429843606128879944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_85
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3268
+        width: 86
+        height: 115
+      alignment: 9
+      pivot: {x: 0.12790698, y: -0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c85b6bb80a8bda0800000000000000
+      internalID: -5928812387507008446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_86
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3271
+        width: 52
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62b7a0fd68656a0800000000000000
+      internalID: -6460828322904725798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_88
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3278
+        width: 85
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49411765, y: -0.073529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157979f9df0c95240800000000000000
+      internalID: 4781064674967263057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_89
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 3280
+        width: 83
+        height: 134
+      alignment: 9
+      pivot: {x: 0.20481926, y: -0.08208955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b1ff2b44bf10d0800000000000000
+      internalID: -3449840554522593781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_91
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 3271
+        width: 135
+        height: 129
+      alignment: 9
+      pivot: {x: 0.28148147, y: -0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b1800de3de8110800000000000000
+      internalID: 1265181560206898251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_93
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3280
+        width: 91
+        height: 124
+      alignment: 9
+      pivot: {x: 0.16483517, y: -0.088709675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a5ce2884d6c0440800000000000000
+      internalID: 4903414252501228153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_95
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 3261
+        width: 65
+        height: 118
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00791b570542a90a0800000000000000
+      internalID: -6874141953237084416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_97
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 3261
+        width: 77
+        height: 118
+      alignment: 9
+      pivot: {x: 0.38961038, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa11077c0f23d30800000000000000
+      internalID: 4409851724518501061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_98
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 3267
+        width: 68
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5882353, y: -0.053097345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a17b89c92ae4ef0800000000000000
+      internalID: -121981346431690083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_99
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 3258
+        width: 71
+        height: 121
+      alignment: 9
+      pivot: {x: 0.45070422, y: -0.024793386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1062fa5703c9da80800000000000000
+      internalID: -8441501590171262949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_100
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 3261
+        width: 61
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: -0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8984b80da428e0800000000000000
+      internalID: -1719058904848429192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_101
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 3254
+        width: 47
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722d0a7b4f500b50800000000000000
+      internalID: 6557345835226309235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_102
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 3254
+        width: 50
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1971847298b39700800000000000000
+      internalID: 545982919001340191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_103
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3254
+        width: 53
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df96cb67185f6cb60800000000000000
+      internalID: 7766164543838644733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_104
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 3261
+        width: 61
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: -0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409602bca6a6739e0800000000000000
+      internalID: -1641726532246279932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_105
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 3255
+        width: 94
+        height: 147
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c6b8fcf53ccec0800000000000000
+      internalID: -3545399446026664755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_106
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 3258
+        width: 83
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e32eab90149f620800000000000000
+      internalID: 2808347352688115281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_113
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 3261
+        width: 72
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c21d39850723370800000000000000
+      internalID: 8300820588936637562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_114
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 3258
+        width: 55
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: -0.032608695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc858eac83b65d0800000000000000
+      internalID: -3068296276990178181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3086
+        width: 79
+        height: 143
+      alignment: 9
+      pivot: {x: 0.36708862, y: -0.02097902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9117c099eb2a6d990800000000000000
+      internalID: -7361517601395281639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_120
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3085
+        width: 118
+        height: 158
+      alignment: 9
+      pivot: {x: 0.20338982, y: -0.01898734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517338b4f9a55a810800000000000000
+      internalID: 1775925268280719125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3086
+        width: 60
+        height: 137
+      alignment: 9
+      pivot: {x: 0.48333335, y: -0.02189781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c97f95453eb8350800000000000000
+      internalID: 6020155278336957584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3085
+        width: 90
+        height: 134
+      alignment: 9
+      pivot: {x: 0.2777778, y: -0.02238806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11ffb94488bcb70800000000000000
+      internalID: 8920373315193737651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_124
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 3085
+        width: 90
+        height: 134
+      alignment: 9
+      pivot: {x: 0.2777778, y: -0.02238806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf330bfb0558cb0800000000000000
+      internalID: -4862391438451410051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_125
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3085
+        width: 150
+        height: 175
+      alignment: 9
+      pivot: {x: 0.22666667, y: -0.017142856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f26dbf5deaca0c0800000000000000
+      internalID: -4563080088356770026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_128
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3085
+        width: 71
+        height: 128
+      alignment: 9
+      pivot: {x: 0.35211268, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418fa82365127d50800000000000000
+      internalID: 6733467908500848970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_137
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2929
+        width: 65
+        height: 121
+      alignment: 9
+      pivot: {x: 0.6, y: -0.024793386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e00f615f4e5ec0800000000000000
+      internalID: -3576333842912321422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_140
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2929
+        width: 117
+        height: 111
+      alignment: 9
+      pivot: {x: 0.17948718, y: -0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b8a23d98717750800000000000000
+      internalID: 6300949970223151314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_141
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2929
+        width: 94
+        height: 110
+      alignment: 9
+      pivot: {x: 0.17021276, y: -0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608c3ff6b7a87ff0800000000000000
+      internalID: -38096192424607648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_143
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2929
+        width: 96
+        height: 111
+      alignment: 9
+      pivot: {x: 0.1875, y: -0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f528363171d9aba0800000000000000
+      internalID: -6077095937988614668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_145
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2930
+        width: 52
+        height: 120
+      alignment: 9
+      pivot: {x: 0.53846157, y: -0.025000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676918f37e4a417b0800000000000000
+      internalID: -5254393552124668298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_146
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2931
+        width: 62
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: -0.024793388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae6464323087d00800000000000000
+      internalID: 970529169736133283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_147
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2931
+        width: 70
+        height: 116
+      alignment: 9
+      pivot: {x: 0.67142856, y: -0.02586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527711c3cf073180800000000000000
+      internalID: -9135815985665183151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_148
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2931
+        width: 75
+        height: 121
+      alignment: 9
+      pivot: {x: 0.62666667, y: -0.024793388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812c7681dd83c2990800000000000000
+      internalID: -7409484764682927592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_149
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2931
+        width: 86
+        height: 116
+      alignment: 9
+      pivot: {x: 0.26744187, y: -0.02586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ee4f85efa120d0800000000000000
+      internalID: -3449282439102404168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_150
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2931
+        width: 86
+        height: 122
+      alignment: 9
+      pivot: {x: 0.23255813, y: -0.024590164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38281975f1dd4380800000000000000
+      internalID: -8985294829305452484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_151
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2931
+        width: 86
+        height: 116
+      alignment: 9
+      pivot: {x: 0.24418604, y: -0.02586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ea908a26662ea50800000000000000
+      internalID: 6548909382062157322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_152
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2929
+        width: 80
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: -0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc2728f8fe776e0800000000000000
+      internalID: -1839738523109634783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_153
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2923
+        width: 71
+        height: 130
+      alignment: 9
+      pivot: {x: 0.33802816, y: -0.023076924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400c07c3e39ca750800000000000000
+      internalID: 6317586983800275023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_155
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 2929
+        width: 128
+        height: 104
+      alignment: 9
+      pivot: {x: 0.65625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a3867f59f03dcd0800000000000000
+      internalID: -2534665028504110591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_156
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 2940
+        width: 63
+        height: 93
+      alignment: 9
+      pivot: {x: 0.38095242, y: -0.13978495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643a13c57fa18570800000000000000
+      internalID: 8467241694752552044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_157
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 2935
+        width: 48
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf64ffda68b025e0800000000000000
+      internalID: -1936345070605930553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_158
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 2935
+        width: 61
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49180326, y: -0.072072074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3488654ce592080800000000000000
+      internalID: -9211727365451267168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_161
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2929
+        width: 103
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6893204, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbeb7e822225ea0800000000000000
+      internalID: -5885604203937743084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_162
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2929
+        width: 103
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6893204, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fbac944c11d900800000000000000
+      internalID: 707377697485746876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_163
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 2928
+        width: 104
+        height: 47
+      alignment: 9
+      pivot: {x: 0.68269235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2642cc7189bcd150800000000000000
+      internalID: 5898793577743533614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_164
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2929
+        width: 103
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6893204, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3a9c8c0509b4790800000000000000
+      internalID: -7544778074088692812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_172
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2758
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08053db1436f7b240800000000000000
+      internalID: 4807581830906859648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_173
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2758
+        width: 118
+        height: 147
+      alignment: 9
+      pivot: {x: 0.2542373, y: -0.020408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac135a3168b84470800000000000000
+      internalID: 8379149834452671649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_174
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2758
+        width: 90
+        height: 126
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84150d1213e28a60800000000000000
+      internalID: 7674946381928535182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_176
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2758
+        width: 90
+        height: 128
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea16c0ebd902bf670800000000000000
+      internalID: 8573482177500307886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_178
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2759
+        width: 86
+        height: 126
+      alignment: 9
+      pivot: {x: 0.3488372, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf796a0741339fa0800000000000000
+      internalID: -5795234114308571189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_180
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2759
+        width: 63
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4761905, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883646138a6929d0800000000000000
+      internalID: -2798588582187091828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_181
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2853
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cc81980147cb920800000000000000
+      internalID: 3007406265545051245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_195
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2592
+        width: 52
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5981359554cdc7940800000000000000
+      internalID: 5295349452290332821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_196
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2593
+        width: 48
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5833334, y: -0.025423728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54aee77695f13d0800000000000000
+      internalID: -3233767706382940687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_197
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2592
+        width: 72
+        height: 118
+      alignment: 9
+      pivot: {x: 0.7222222, y: -0.025423728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93ff9ad3abdafba0800000000000000
+      internalID: -6054285252252142689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_198
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2592
+        width: 116
+        height: 117
+      alignment: 9
+      pivot: {x: 0.8275862, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229c68c2eecb75f0800000000000000
+      internalID: -757784638861307360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_200
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2602
+        width: 91
+        height: 110
+      alignment: 9
+      pivot: {x: 0.08791209, y: -0.11818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ffc8eeb9c06c010800000000000000
+      internalID: 1208667413857238798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_201
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2602
+        width: 142
+        height: 109
+      alignment: 9
+      pivot: {x: 0.049295776, y: -0.119266056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8e10d14ce86660800000000000000
+      internalID: 7379407756855250136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_205
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2702
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b866148fd2caa80800000000000000
+      internalID: -8454331856208884869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_206
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2602
+        width: 204
+        height: 109
+      alignment: 9
+      pivot: {x: 0.04411765, y: -0.119266056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d24556d1d44e9020800000000000000
+      internalID: 2350391723568743126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_209
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2602
+        width: 51
+        height: 111
+      alignment: 9
+      pivot: {x: 0.19607843, y: -0.117117114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9114cdd93c464300800000000000000
+      internalID: 235959841900990879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_210
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2592
+        width: 89
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025210084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0e94eeffe50df0800000000000000
+      internalID: -214501529193935886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_211
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2592
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a7f38ad26da7c0800000000000000
+      internalID: -4058478998534511323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_212
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2592
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4d39a1195023b0800000000000000
+      internalID: -5539329609277027203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_213
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2592
+        width: 79
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95879f5ae4a40cf0800000000000000
+      internalID: -286923149711800929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_214
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2592
+        width: 78
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: -0.02586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f23bd65953e4df0800000000000000
+      internalID: -194158818023493774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_215
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2592
+        width: 79
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: -0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8d10c77e6dea10800000000000000
+      internalID: 1940328475069877707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_220
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2592
+        width: 79
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: -0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229044ff24a47bfc0800000000000000
+      internalID: -3479230535509472990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_221
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2592
+        width: 83
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4819277, y: -0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e06b829a38bef0800000000000000
+      internalID: -92259391283075410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_222
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2592
+        width: 80
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4698795, y: -0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b1590ac0e67950800000000000000
+      internalID: 6446587074971809795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_223
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2599
+        width: 76
+        height: 103
+      alignment: 9
+      pivot: {x: 0.43421054, y: -0.097087376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381f320138d36c40800000000000000
+      internalID: 5504480874579564594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_237
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2371
+        width: 65
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5846154, y: -0.028846156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14eb3fa5959b2ea0800000000000000
+      internalID: -5896454816988928995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_238
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2371
+        width: 63
+        height: 100
+      alignment: 9
+      pivot: {x: 0.61904764, y: -0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7461ad57552a5e150800000000000000
+      internalID: 5901301374672049735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_241
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2370
+        width: 46
+        height: 94
+      alignment: 9
+      pivot: {x: 0.45652175, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423533fd02e81f50800000000000000
+      internalID: 6852475382587011654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_242
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2372
+        width: 46
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47826087, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de62cfa77ce0ca0800000000000000
+      internalID: -6048677918481650431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_243
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2371
+        width: 49
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: -0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b0c410f123dd690800000000000000
+      internalID: -7575843889420170375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_245
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2371
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0427405cfdeeda830800000000000000
+      internalID: 4084183081945428544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_246
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2371
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b927e376d0c94c0800000000000000
+      internalID: -4279530808828322921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_247
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2371
+        width: 51
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bef068156499db0800000000000000
+      internalID: -4784715813148955753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_248
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2371
+        width: 53
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4528302, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea93865944b9320800000000000000
+      internalID: 2565719821207055939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_249
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2371
+        width: 67
+        height: 94
+      alignment: 9
+      pivot: {x: 0.34328356, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd8fe7c1b6b9680800000000000000
+      internalID: -8747280081103560893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_250
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2371
+        width: 60
+        height: 94
+      alignment: 9
+      pivot: {x: 0.38333336, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82003791394084a10800000000000000
+      internalID: 1893768673142964264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_251
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2371
+        width: 71
+        height: 94
+      alignment: 9
+      pivot: {x: 0.28169012, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1edcf03facd5310800000000000000
+      internalID: 1395494604845736409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_252
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2371
+        width: 56
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4107143, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb2602bbb14b7750800000000000000
+      internalID: 6303704377836579778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_253
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2371
+        width: 52
+        height: 94
+      alignment: 9
+      pivot: {x: 0.42307693, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f56805e27f48f0800000000000000
+      internalID: -554097901129305668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_254
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2371
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 0.45999998, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11997ea3fbda5bf10800000000000000
+      internalID: 2284923422799010065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_255
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 2371
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.48936167, y: -0.031914894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c842a112cad7df0800000000000000
+      internalID: -180799151852450695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_256
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2371
+        width: 46
+        height: 95
+      alignment: 9
+      pivot: {x: 0.47826087, y: -0.03157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791f15884eabac9a0800000000000000
+      internalID: -6211947245301796457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_259
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2370
+        width: 46
+        height: 93
+      alignment: 9
+      pivot: {x: 0.45652175, y: -0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5131985cfda7c0800000000000000
+      internalID: -4058310231867695671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_262
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2430
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c46f31c872fd990800000000000000
+      internalID: -7359119783516287894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_266
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2397
+        width: 56
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c04b26cdd997b0800000000000000
+      internalID: -5216894850133079804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_292
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2276
+        width: 59
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839005de2ade7af0800000000000000
+      internalID: -396639822485089405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_293
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2275
+        width: 83
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57a9d51be8ffc5b0800000000000000
+      internalID: -5345780544097900708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_297
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2278
+        width: 76
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e372c30a898da50800000000000000
+      internalID: 6546149872354410027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_299
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2240
+        width: 47
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557cba44eccdb410800000000000000
+      internalID: 1494575932235347280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_301
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2240
+        width: 61
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090084fabc6ae53e0800000000000000
+      internalID: -2063028185539805040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_302
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2177
+        width: 68
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: -0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e760ecb7a766690800000000000000
+      internalID: -7609259848239776149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_303
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2177
+        width: 85
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: -0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34000802e9f69400800000000000000
+      internalID: 330726371850454078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_304
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2103
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a047a56a399d10800000000000000
+      internalID: 2132800106808780833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_305
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2102
+        width: 72
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d49c661223b7330800000000000000
+      internalID: 3709613837109513535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_306
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2077
+        width: 72
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad83f3392aed5a0800000000000000
+      internalID: -6494574859317093817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_309
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2068
+        width: 77
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da3df0d7d6008b0800000000000000
+      internalID: -5188026386826941072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_310
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2079
+        width: 72
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344680c30ec35940800000000000000
+      internalID: 5283793303345972285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_311
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2078
+        width: 74
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e593a54c2d67b0800000000000000
+      internalID: -5229474914698402666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_312
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2067
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: -0.030927835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae1d8cc07e8593c0800000000000000
+      internalID: -4353416849664434513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_313
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2065
+        width: 47
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef965abcf5722d0800000000000000
+      internalID: -3303566473394782670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_316
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2082
+        width: 58
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b65aebc1dc157780800000000000000
+      internalID: -8686004618919258442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_324
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1944
+        width: 50
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: -0.16883117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ce80cc0026cf830800000000000000
+      internalID: 4106264715817708633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_327
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1927
+        width: 93
+        height: 134
+      alignment: 9
+      pivot: {x: 0.32258064, y: 0.04477612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb94710df8f6ce10800000000000000
+      internalID: 2217733632061381624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_328
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1937
+        width: 69
+        height: 79
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0.050632913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c0460049627ddd0800000000000000
+      internalID: -2461456254231114711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_329
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1944
+        width: 50
+        height: 77
+      alignment: 9
+      pivot: {x: 0.53999996, y: -0.16883117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049d7ab44b5ac580800000000000000
+      internalID: -8806125770624887804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_330
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1944
+        width: 51
+        height: 77
+      alignment: 9
+      pivot: {x: 0.60784316, y: -0.16883117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3db336bb716050800000000000000
+      internalID: 5792046618257472088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_331
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1944
+        width: 89
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4269663, y: -0.16049382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5eb668219587bd0800000000000000
+      internalID: -2632256046098553386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_333
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1923
+        width: 77
+        height: 114
+      alignment: 9
+      pivot: {x: 0.3116883, y: 0.07017544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e523687504985c0800000000000000
+      internalID: -4212765231770608097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_335
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1944
+        width: 51
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2974c750b1f6b80800000000000000
+      internalID: -8399465069648833874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_336
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1940
+        width: 81
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fa82f0c75bcff70800000000000000
+      internalID: 9222445681382829920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_337
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1940
+        width: 84
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59416aeaa51209bc0800000000000000
+      internalID: -3778483414002953067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_340
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1757
+        width: 47
+        height: 128
+      alignment: 9
+      pivot: {x: 0.46808508, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4cd26d84ad22780800000000000000
+      internalID: -8709158723015293757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_341
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1757
+        width: 45
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85994ba98a3392c0800000000000000
+      internalID: -4426129645816408693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_342
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1757
+        width: 40
+        height: 129
+      alignment: 9
+      pivot: {x: 0.45000002, y: -0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4c560d997879390800000000000000
+      internalID: -7811625933954759486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_344
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1757
+        width: 47
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023076924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9b60d22c329a50800000000000000
+      internalID: 6526344930236537347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_346
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1757
+        width: 47
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4042553, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a19460376218d0800000000000000
+      internalID: -2877123754392966887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_347
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1757
+        width: 40
+        height: 128
+      alignment: 9
+      pivot: {x: 0.475, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72204b0e1ea2a470800000000000000
+      internalID: 8404471298687771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_348
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1756
+        width: 45
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425a412cc19fd3af0800000000000000
+      internalID: -414901688737684188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_351
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1671
+        width: 96
+        height: 113
+      alignment: 9
+      pivot: {x: 0.6770834, y: 0.0088495575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc53f6d6e7e4fb0800000000000000
+      internalID: -4661649555799552111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_352
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1669
+        width: 115
+        height: 143
+      alignment: 9
+      pivot: {x: 0.6695652, y: 0.027972028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5633ffb54dd1140800000000000000
+      internalID: 4692139878378595823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_353
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1567
+        width: 65
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47692308, y: -0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c214291fd9daf0800000000000000
+      internalID: -371020195208967988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_354
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1567
+        width: 63
+        height: 135
+      alignment: 9
+      pivot: {x: 0.50793654, y: -0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd493b8720c9ba0800000000000000
+      internalID: -6080982679424803357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_355
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1567
+        width: 65
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47692308, y: -0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686b096be059fdf0800000000000000
+      internalID: -145996540902938518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_356
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1567
+        width: 63
+        height: 135
+      alignment: 9
+      pivot: {x: 0.50793654, y: -0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef51e2eda45bd020800000000000000
+      internalID: 2367579134925823978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_357
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1566
+        width: 70
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5285714, y: -0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75661509de21bec0800000000000000
+      internalID: -3553007121390475905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_358
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1566
+        width: 71
+        height: 135
+      alignment: 9
+      pivot: {x: 0.52112675, y: -0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e40f6f345145530800000000000000
+      internalID: 3842719763703811625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_359
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1566
+        width: 65
+        height: 139
+      alignment: 9
+      pivot: {x: 0.47692308, y: -0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67ea1c151f5a310800000000000000
+      internalID: 1415802991321970346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_360
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1566
+        width: 63
+        height: 135
+      alignment: 9
+      pivot: {x: 0.50793654, y: -0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5efc684f6edf6e0800000000000000
+      internalID: -1802030337970149952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_361
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1567
+        width: 86
+        height: 138
+      alignment: 9
+      pivot: {x: 0.37209302, y: -0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefbcee53861e0710800000000000000
+      internalID: 1661290066035392490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_363
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1566
+        width: 81
+        height: 139
+      alignment: 9
+      pivot: {x: 0.38271606, y: -0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95633668271709b80800000000000000
+      internalID: -8390081369096374695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_367
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1567
+        width: 50
+        height: 103
+      alignment: 9
+      pivot: {x: 0.14, y: -0.029126214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3b271eaeadc590800000000000000
+      internalID: -7652268129096352365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_368
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1567
+        width: 52
+        height: 105
+      alignment: 9
+      pivot: {x: 0.17307693, y: -0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7362af68ebf330800000000000000
+      internalID: 3745843081252142912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_369
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1544
+        width: 176
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c5454c53db3270800000000000000
+      internalID: 8231405137202366233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_370
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1540
+        width: 112
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5089286, y: 0.057851236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8fdda078bed870800000000000000
+      internalID: 8709601523474075377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_375
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1552
+        width: 94
+        height: 93
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.05376344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5005f8ab9697d70800000000000000
+      internalID: 9041373976912201149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_376
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1550
+        width: 154
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8e2652811fecdc0800000000000000
+      internalID: -3616688364723181334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_383
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1540
+        width: 113
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49557522, y: 0.094736844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18aa555474422490800000000000000
+      internalID: -7772574740449155043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_409
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1366
+        width: 47
+        height: 128
+      alignment: 9
+      pivot: {x: 0.65957445, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98344d07d4d1f1d20800000000000000
+      internalID: 3251349674427433865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_410
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1366
+        width: 62
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4677419, y: -0.023076924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe4294c6282a9f0800000000000000
+      internalID: -458660810443132944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_411
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1366
+        width: 77
+        height: 125
+      alignment: 9
+      pivot: {x: 0.46753246, y: -0.024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a9970b1b5c8220800000000000000
+      internalID: 2489464865678795998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_412
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1365
+        width: 56
+        height: 117
+      alignment: 9
+      pivot: {x: 0.46428573, y: -0.025641028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83458feed8b775d90800000000000000
+      internalID: -7109077637251181512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_413
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1365
+        width: 75
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5866667, y: -0.025423728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59359b6e174e52780800000000000000
+      internalID: -8708303126597643371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_414
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1365
+        width: 85
+        height: 117
+      alignment: 9
+      pivot: {x: 0.47058824, y: -0.025641028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c9c3528bce7210800000000000000
+      internalID: 1332726300360164396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_418
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1121
+        width: 47
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6cced39346ce170800000000000000
+      internalID: 8209046417804412601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_419
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1120
+        width: 45
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef3e9608e0a6250800000000000000
+      internalID: 5938575003336572568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_420
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1120
+        width: 40
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1de2bffe0cf96f0800000000000000
+      internalID: -675609282138418755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_421
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1130
+        width: 47
+        height: 118
+      alignment: 9
+      pivot: {x: 0.48936167, y: -0.10169491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b632faae69380e20800000000000000
+      internalID: 3316964273035556530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_422
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1131
+        width: 45
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: -0.112068966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a048b2ef16872c0800000000000000
+      internalID: -4433686088866592101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_423
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1131
+        width: 40
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: -0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afdfbb33c2516e50800000000000000
+      internalID: 6800807910780690339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_424
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1130
+        width: 47
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: -0.118644066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2146b6f239f680800000000000000
+      internalID: -8720883168225187283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_425
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1131
+        width: 45
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: -0.12068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c534e48428a25e30800000000000000
+      internalID: 4490836653243643334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_426
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1131
+        width: 40
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: -0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d688d491f5180b10800000000000000
+      internalID: 1947830966166259410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_427
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1128
+        width: 41
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: -0.12295082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bdb9405163f1370800000000000000
+      internalID: 8295408502539279119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_428
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1128
+        width: 45
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1300813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d820cea9ab30e0800000000000000
+      internalID: -2289049417574461118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_430
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1128
+        width: 88
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: -0.13114753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4fa4ba64a65b160800000000000000
+      internalID: 7040650444217709820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_431
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1128
+        width: 45
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1300813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6daf241286e90f0800000000000000
+      internalID: -1108333966219618578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_433
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1128
+        width: 41
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: -0.13114753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02077c74adddd1b70800000000000000
+      internalID: 8871490770566606880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_434
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1128
+        width: 45
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1300813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77068e3faa7838b20800000000000000
+      internalID: 3135498933886279799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_436
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1129
+        width: 88
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: -0.13934426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cf6f9b648ed38f0800000000000000
+      internalID: -559035388258747320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_437
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1129
+        width: 45
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: -0.13821138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c19eecf2397b1860800000000000000
+      internalID: 7501722864214512066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_439
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1118
+        width: 156
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: -0.044025157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e34b92e4e1c3da0800000000000000
+      internalID: -5963858485489418746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_440
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1118
+        width: 79
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: -0.05925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d910f316f264e10800000000000000
+      internalID: 2181483164222987547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_441
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1118
+        width: 156
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: -0.050632913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64263984c5ce4bd0800000000000000
+      internalID: -2643958483313613715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_445
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 704
+        width: 304
+        height: 354
+      alignment: 9
+      pivot: {x: 0.49671054, y: 0.23728813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0836245750abf6e0800000000000000
+      internalID: -1802670928897361905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_446
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 689
+        width: 348
+        height: 397
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24685137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbbda0367b0ccb0800000000000000
+      internalID: -4845671563038834729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_529
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 796
+        width: 156
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: -0.056962024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb111674058ae390800000000000000
+      internalID: -7788266351376655420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_530
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 796
+        width: 156
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: -0.056962024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0401eca1a49120800000000000000
+      internalID: 2419736663686385093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_531
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 809
+        width: 79
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5063291, y: -0.16393442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2fc3b6d2e07b800800000000000000
+      internalID: 627986261276947114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_545
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 650
+        width: 423
+        height: 453
+      alignment: 9
+      pivot: {x: 0.54846334, y: 0.33774835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497a05d61534f770800000000000000
+      internalID: 8643591957010610503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_447
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 649
+        width: 443
+        height: 441
+      alignment: 9
+      pivot: {x: 0.496614, y: 0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8256f2c83851fffe0800000000000000
+      internalID: -1153179324846742232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_274
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2082
+        width: 83
+        height: 71
+      alignment: 9
+      pivot: {x: 0.49397588, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86778849e0025b40800000000000000
+      internalID: 5427401502879086218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_275
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 2082
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4901961, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5479b62940ecd40800000000000000
+      internalID: 5606423613039658452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_276
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2081
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d089b4cc0c6d0a0800000000000000
+      internalID: -6857081398950883966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_277
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2082
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04da718f0e1546b70800000000000000
+      internalID: 8891321591013027136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_294
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2082
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29203b9d2a970560800000000000000
+      internalID: 7279956843335526703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_295
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2084
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b67faa3dd116f0800000000000000
+      internalID: -715547621653563589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_175
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2822
+        width: 54
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41558442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce7564fefa58780800000000000000
+      internalID: -8681339264474551079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_87
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3271
+        width: 48
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5833334, y: -0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e84e5ae6df5350800000000000000
+      internalID: 6007756730028057386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_44
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1542
+        width: 109
+        height: 134
+      alignment: 9
+      pivot: {x: 0.51376146, y: 0.067164175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e014dbd267c7ab00800000000000000
+      internalID: 839859082936717540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah_DevSprites 1_45
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 1541
+        width: 99
+        height: 131
+      alignment: 9
+      pivot: {x: 0.57575756, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994820bc9a1d0a240800000000000000
+      internalID: 4801067729962566809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrUtah_DevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3579
+        width: 69
+        height: 127
+      alignment: 9
+      pivot: {x: 0.49275362, y: -0.023622047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f3121496aaa55c0800000000000000
+      internalID: -4225877931292803314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

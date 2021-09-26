@@ -1,0 +1,7186 @@
+fileFormatVersion: 2
+guid: ae206ff752e3a2e44a7085d8b92e4d0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1128923819933510012
+    second: GenTai_DevSprites_0
+  - first:
+      213: 3280556439940545140
+    second: GenTai_DevSprites_1
+  - first:
+      213: -8701322002060903073
+    second: GenTai_DevSprites_2
+  - first:
+      213: -4928295155977206691
+    second: GenTai_DevSprites_3
+  - first:
+      213: -8968937705134087066
+    second: GenTai_DevSprites_4
+  - first:
+      213: -4692489583742678456
+    second: GenTai_DevSprites_5
+  - first:
+      213: 9112540143741869765
+    second: GenTai_DevSprites_6
+  - first:
+      213: -5379544845253225656
+    second: GenTai_DevSprites_7
+  - first:
+      213: -8201341713700790666
+    second: GenTai_DevSprites_8
+  - first:
+      213: -750854989188186784
+    second: GenTai_DevSprites_9
+  - first:
+      213: -4523376859180686279
+    second: GenTai_DevSprites_10
+  - first:
+      213: 8389767394037868375
+    second: GenTai_DevSprites_11
+  - first:
+      213: 8717156719360620038
+    second: GenTai_DevSprites_12
+  - first:
+      213: 2797355768675336202
+    second: GenTai_DevSprites_13
+  - first:
+      213: -1900817380709749998
+    second: GenTai_DevSprites_14
+  - first:
+      213: -3622007616548483209
+    second: GenTai_DevSprites_15
+  - first:
+      213: -3641620834635184480
+    second: GenTai_DevSprites_16
+  - first:
+      213: 4820421124451787261
+    second: GenTai_DevSprites_17
+  - first:
+      213: -4073569936092334251
+    second: GenTai_DevSprites_18
+  - first:
+      213: 1822739600989986891
+    second: GenTai_DevSprites_19
+  - first:
+      213: -1801153625027533979
+    second: GenTai_DevSprites_20
+  - first:
+      213: -3181875522509854836
+    second: GenTai_DevSprites_21
+  - first:
+      213: 5563786064415699802
+    second: GenTai_DevSprites_22
+  - first:
+      213: -35298030562529305
+    second: GenTai_DevSprites_23
+  - first:
+      213: 3007371567581988295
+    second: GenTai_DevSprites_24
+  - first:
+      213: 6584940625946169508
+    second: GenTai_DevSprites_25
+  - first:
+      213: 5176373596407919405
+    second: GenTai_DevSprites_26
+  - first:
+      213: -7581371162842094258
+    second: GenTai_DevSprites_27
+  - first:
+      213: -4958855102445745353
+    second: GenTai_DevSprites_28
+  - first:
+      213: 6750685505212135968
+    second: GenTai_DevSprites_29
+  - first:
+      213: 1845191660472991204
+    second: GenTai_DevSprites_30
+  - first:
+      213: -6026488447079998317
+    second: GenTai_DevSprites_31
+  - first:
+      213: -8176616867424198463
+    second: GenTai_DevSprites_32
+  - first:
+      213: 5464098079131319101
+    second: GenTai_DevSprites_33
+  - first:
+      213: 2484971070564632134
+    second: GenTai_DevSprites_34
+  - first:
+      213: -6402037074510267394
+    second: GenTai_DevSprites_35
+  - first:
+      213: -1049260460463470489
+    second: GenTai_DevSprites_36
+  - first:
+      213: 6456012474843024108
+    second: GenTai_DevSprites_37
+  - first:
+      213: 5780053625338070315
+    second: GenTai_DevSprites_38
+  - first:
+      213: 2104989726292876624
+    second: GenTai_DevSprites_39
+  - first:
+      213: -2874458844734217589
+    second: GenTai_DevSprites_40
+  - first:
+      213: 6947041043444064606
+    second: GenTai_DevSprites_41
+  - first:
+      213: -947308709050915504
+    second: GenTai_DevSprites_42
+  - first:
+      213: 2030714858486788774
+    second: GenTai_DevSprites_43
+  - first:
+      213: -725597231632589541
+    second: GenTai_DevSprites_44
+  - first:
+      213: 891530240788582243
+    second: GenTai_DevSprites_45
+  - first:
+      213: 4953743430564365675
+    second: GenTai_DevSprites_46
+  - first:
+      213: -4531022381644108076
+    second: GenTai_DevSprites_47
+  - first:
+      213: -514349566071873160
+    second: GenTai_DevSprites_48
+  - first:
+      213: -3744803832776671421
+    second: GenTai_DevSprites_49
+  - first:
+      213: -7571181763326729498
+    second: GenTai_DevSprites_50
+  - first:
+      213: -1374503651001630779
+    second: GenTai_DevSprites_51
+  - first:
+      213: -7572899471135727440
+    second: GenTai_DevSprites_52
+  - first:
+      213: 3356554448293985309
+    second: GenTai_DevSprites_53
+  - first:
+      213: 7401933894521400651
+    second: GenTai_DevSprites_54
+  - first:
+      213: -5655969142286035265
+    second: GenTai_DevSprites_55
+  - first:
+      213: -1051340590816670692
+    second: GenTai_DevSprites_56
+  - first:
+      213: -5179898512998547257
+    second: GenTai_DevSprites_57
+  - first:
+      213: 9056628779779938966
+    second: GenTai_DevSprites_58
+  - first:
+      213: 7104777104099368307
+    second: GenTai_DevSprites_59
+  - first:
+      213: 269730595428069113
+    second: GenTai_DevSprites_60
+  - first:
+      213: -2092559711457757665
+    second: GenTai_DevSprites_61
+  - first:
+      213: 7485036515947317549
+    second: GenTai_DevSprites_62
+  - first:
+      213: 1148071683144637044
+    second: GenTai_DevSprites_63
+  - first:
+      213: 2030774358261894611
+    second: GenTai_DevSprites_64
+  - first:
+      213: 4848369626499134344
+    second: GenTai_DevSprites_65
+  - first:
+      213: -2924769065725259053
+    second: GenTai_DevSprites_66
+  - first:
+      213: -1192914216744706189
+    second: GenTai_DevSprites_67
+  - first:
+      213: 3272960426054590600
+    second: GenTai_DevSprites_68
+  - first:
+      213: -8411254825526614995
+    second: GenTai_DevSprites_69
+  - first:
+      213: -6087542534162252781
+    second: GenTai_DevSprites_70
+  - first:
+      213: -4198885517487893847
+    second: GenTai_DevSprites_71
+  - first:
+      213: -2984141121640079704
+    second: GenTai_DevSprites_72
+  - first:
+      213: 4164513152858691616
+    second: GenTai_DevSprites_73
+  - first:
+      213: 1398849379426628337
+    second: GenTai_DevSprites_74
+  - first:
+      213: -8086679529382591427
+    second: GenTai_DevSprites_75
+  - first:
+      213: 325605933989388058
+    second: GenTai_DevSprites_76
+  - first:
+      213: -8167747958092192118
+    second: GenTai_DevSprites_77
+  - first:
+      213: -5556793132722015575
+    second: GenTai_DevSprites_78
+  - first:
+      213: -1543016818775887013
+    second: GenTai_DevSprites_79
+  - first:
+      213: 5687353974114031637
+    second: GenTai_DevSprites_80
+  - first:
+      213: -4637966638033530790
+    second: GenTai_DevSprites_81
+  - first:
+      213: -2530465156152285221
+    second: GenTai_DevSprites_82
+  - first:
+      213: -6824503845305302449
+    second: GenTai_DevSprites_83
+  - first:
+      213: 1501113881434748341
+    second: GenTai_DevSprites_84
+  - first:
+      213: -5363015258398175437
+    second: GenTai_DevSprites_85
+  - first:
+      213: -2501329677298809828
+    second: GenTai_DevSprites_86
+  - first:
+      213: 7952485884363311910
+    second: GenTai_DevSprites_87
+  - first:
+      213: 6310106217862029158
+    second: GenTai_DevSprites_88
+  - first:
+      213: 1174862700569430615
+    second: GenTai_DevSprites_89
+  - first:
+      213: -750643841277190328
+    second: GenTai_DevSprites_90
+  - first:
+      213: -7433865961551397064
+    second: GenTai_DevSprites_91
+  - first:
+      213: -5495765693039014957
+    second: GenTai_DevSprites_92
+  - first:
+      213: -5869193077708522801
+    second: GenTai_DevSprites_93
+  - first:
+      213: 6381630593034398192
+    second: GenTai_DevSprites_94
+  - first:
+      213: -1107152613491206741
+    second: GenTai_DevSprites_95
+  - first:
+      213: 2179642599422951841
+    second: GenTai_DevSprites_96
+  - first:
+      213: -1481542365420780124
+    second: GenTai_DevSprites_97
+  - first:
+      213: 719309879198136948
+    second: GenTai_DevSprites_98
+  - first:
+      213: -6854680676000233799
+    second: GenTai_DevSprites_99
+  - first:
+      213: 1394244821134754783
+    second: GenTai_DevSprites_100
+  - first:
+      213: 2825937739512491070
+    second: GenTai_DevSprites_101
+  - first:
+      213: 5383305867076808651
+    second: GenTai_DevSprites_102
+  - first:
+      213: -3638090979590281575
+    second: GenTai_DevSprites_103
+  - first:
+      213: 8711095796326956911
+    second: GenTai_DevSprites_104
+  - first:
+      213: 2255671053404454092
+    second: GenTai_DevSprites_105
+  - first:
+      213: 854509893593297278
+    second: GenTai_DevSprites_106
+  - first:
+      213: -6967133675358421442
+    second: GenTai_DevSprites_107
+  - first:
+      213: 7208126320793913912
+    second: GenTai_DevSprites_108
+  - first:
+      213: -8817962501037546780
+    second: GenTai_DevSprites_109
+  - first:
+      213: -3162472328619155114
+    second: GenTai_DevSprites_110
+  - first:
+      213: 4884718188165693516
+    second: GenTai_DevSprites_111
+  - first:
+      213: -8114469498308951051
+    second: GenTai_DevSprites_112
+  - first:
+      213: 7494391495910457615
+    second: GenTai_DevSprites_113
+  - first:
+      213: -1522677455732522329
+    second: GenTai_DevSprites_114
+  - first:
+      213: 5782311342630114834
+    second: GenTai_DevSprites_115
+  - first:
+      213: -8514685356125015890
+    second: GenTai_DevSprites_116
+  - first:
+      213: 5296205724093622952
+    second: GenTai_DevSprites_117
+  - first:
+      213: -2122767390735973454
+    second: GenTai_DevSprites_118
+  - first:
+      213: -817970464755309815
+    second: GenTai_DevSprites_119
+  - first:
+      213: 8851821900226627992
+    second: GenTai_DevSprites_120
+  - first:
+      213: 9195262929775475365
+    second: GenTai_DevSprites_121
+  - first:
+      213: 8541349752318612386
+    second: GenTai_DevSprites_122
+  - first:
+      213: -3199610578207386513
+    second: GenTai_DevSprites_123
+  - first:
+      213: 2913205201931790237
+    second: GenTai_DevSprites_124
+  - first:
+      213: -4765974895370876133
+    second: GenTai_DevSprites_125
+  - first:
+      213: 3601933845877233827
+    second: GenTai_DevSprites_126
+  - first:
+      213: -3796511300546257714
+    second: GenTai_DevSprites_127
+  - first:
+      213: 5417433361622927284
+    second: GenTai_DevSprites_128
+  - first:
+      213: -7043705013256019659
+    second: GenTai_DevSprites_129
+  - first:
+      213: -1820342935048798938
+    second: GenTai_DevSprites_130
+  - first:
+      213: -661999191256208226
+    second: GenTai_DevSprites_131
+  - first:
+      213: 3147016903673313048
+    second: GenTai_DevSprites_132
+  - first:
+      213: 9141669242734180956
+    second: GenTai_DevSprites_133
+  - first:
+      213: -7449088069290616930
+    second: GenTai_DevSprites_134
+  - first:
+      213: -8384792168767754286
+    second: GenTai_DevSprites_135
+  - first:
+      213: -2215610068495390120
+    second: GenTai_DevSprites_136
+  - first:
+      213: 1084921824931847405
+    second: GenTai_DevSprites_137
+  - first:
+      213: 4858654473106107928
+    second: GenTai_DevSprites_138
+  - first:
+      213: 5021229703811592503
+    second: GenTai_DevSprites_139
+  - first:
+      213: -5946912865787170266
+    second: GenTai_DevSprites_140
+  - first:
+      213: -9030538198602814894
+    second: GenTai_DevSprites_141
+  - first:
+      213: -3620856846821563861
+    second: GenTai_DevSprites_142
+  - first:
+      213: 6579312447169706369
+    second: GenTai_DevSprites_143
+  - first:
+      213: 4244002751573119074
+    second: GenTai_DevSprites_144
+  - first:
+      213: -918518325134604196
+    second: GenTai_DevSprites_145
+  - first:
+      213: -1162511967686118270
+    second: GenTai_DevSprites_146
+  - first:
+      213: 6940179366920774739
+    second: GenTai_DevSprites_147
+  - first:
+      213: -45970153257365805
+    second: GenTai_DevSprites_148
+  - first:
+      213: 436154470960911557
+    second: GenTai_DevSprites_149
+  - first:
+      213: -6768372706594878229
+    second: GenTai_DevSprites_150
+  - first:
+      213: -4498215866640923583
+    second: GenTai_DevSprites_151
+  - first:
+      213: -83391715586565344
+    second: GenTai_DevSprites_152
+  - first:
+      213: -1470618829401395055
+    second: GenTai_DevSprites_153
+  - first:
+      213: -7839440995816686328
+    second: GenTai_DevSprites_154
+  - first:
+      213: 1040309419428488393
+    second: GenTai_DevSprites_155
+  - first:
+      213: -5447809764793541787
+    second: GenTai_DevSprites_156
+  - first:
+      213: -8675634831523495948
+    second: GenTai_DevSprites_157
+  - first:
+      213: 1436382133249126009
+    second: GenTai_DevSprites_158
+  - first:
+      213: -321276372074169311
+    second: GenTai_DevSprites_159
+  - first:
+      213: -7285774801399223168
+    second: GenTai_DevSprites_160
+  - first:
+      213: 1248218554894081053
+    second: GenTai_DevSprites_161
+  - first:
+      213: -8855074081422129818
+    second: GenTai_DevSprites_162
+  - first:
+      213: -4491066037349091708
+    second: GenTai_DevSprites_163
+  - first:
+      213: 8919714981262473349
+    second: GenTai_DevSprites_164
+  - first:
+      213: -4022990786480257761
+    second: GenTai_DevSprites_165
+  - first:
+      213: -8640272566913483537
+    second: GenTai_DevSprites_166
+  - first:
+      213: -3809448459217822237
+    second: GenTai_DevSprites_167
+  - first:
+      213: 7461908542467135873
+    second: GenTai_DevSprites_168
+  - first:
+      213: -7806290243646662855
+    second: GenTai_DevSprites_169
+  - first:
+      213: -3894357752043224181
+    second: GenTai_DevSprites_170
+  - first:
+      213: -5693599193219959630
+    second: GenTai_DevSprites_171
+  - first:
+      213: -8682320217727629045
+    second: GenTai_DevSprites_172
+  - first:
+      213: 3391605500994638067
+    second: GenTai_DevSprites_173
+  - first:
+      213: 1119163244135796686
+    second: GenTai_DevSprites_174
+  - first:
+      213: -5989054396015165455
+    second: GenTai_DevSprites_175
+  - first:
+      213: 8283586654709762661
+    second: GenTai_DevSprites_176
+  - first:
+      213: 3687815218967330028
+    second: GenTai_DevSprites_177
+  - first:
+      213: -7349008897120922592
+    second: GenTai_DevSprites_178
+  - first:
+      213: 2924058908032414792
+    second: GenTai_DevSprites_179
+  - first:
+      213: -5258896331750728080
+    second: GenTai_DevSprites_180
+  - first:
+      213: -7161035479107991247
+    second: GenTai_DevSprites_181
+  - first:
+      213: 6027917256726835260
+    second: GenTai_DevSprites_182
+  - first:
+      213: 2617305562745115269
+    second: GenTai_DevSprites_183
+  - first:
+      213: -8477622778060376500
+    second: GenTai_DevSprites_184
+  - first:
+      213: -4977705255673599766
+    second: GenTai_DevSprites_185
+  - first:
+      213: 2390237339956275123
+    second: GenTai_DevSprites_186
+  - first:
+      213: -5549624877503426632
+    second: GenTai_DevSprites_187
+  - first:
+      213: 9014580134675161547
+    second: GenTai_DevSprites_188
+  - first:
+      213: -2972890513795605948
+    second: GenTai_DevSprites_189
+  - first:
+      213: 8574351419685233204
+    second: GenTai_DevSprites_190
+  - first:
+      213: 4180701176238395768
+    second: GenTai_DevSprites_191
+  - first:
+      213: 5572348418781785053
+    second: GenTai_DevSprites_192
+  - first:
+      213: -7106153604013421165
+    second: GenTai_DevSprites_193
+  - first:
+      213: -1685577566273543248
+    second: GenTai_DevSprites_194
+  - first:
+      213: 7712285586763287144
+    second: GenTai_DevSprites_195
+  - first:
+      213: 6210978627755984210
+    second: GenTai_DevSprites_196
+  - first:
+      213: 2256088959325797182
+    second: GenTai_DevSprites_197
+  - first:
+      213: -2965651406034505608
+    second: GenTai_DevSprites_198
+  - first:
+      213: 8658086305544007022
+    second: GenTai_DevSprites_199
+  - first:
+      213: -5980089513892804950
+    second: GenTai_DevSprites_200
+  - first:
+      213: 3024020394403805637
+    second: GenTai_DevSprites_201
+  - first:
+      213: 3406985681186411002
+    second: GenTai_DevSprites_202
+  - first:
+      213: 5230405963435992842
+    second: GenTai_DevSprites_203
+  - first:
+      213: -1081545940499569713
+    second: GenTai_DevSprites_204
+  - first:
+      213: 8676672528723737731
+    second: GenTai_DevSprites_205
+  - first:
+      213: 744882649769111904
+    second: GenTai_DevSprites_206
+  - first:
+      213: -8804941732658463975
+    second: GenTai_DevSprites_207
+  - first:
+      213: 7719805649549900075
+    second: GenTai_DevSprites_208
+  - first:
+      213: 6564705244782001864
+    second: GenTai_DevSprites_209
+  - first:
+      213: -4386082314009459279
+    second: GenTai_DevSprites_210
+  - first:
+      213: -1804431326005058221
+    second: GenTai_DevSprites_211
+  - first:
+      213: 4963108462596699411
+    second: GenTai_DevSprites_212
+  - first:
+      213: 4281176137975411530
+    second: GenTai_DevSprites_213
+  - first:
+      213: 6340295825420721373
+    second: GenTai_DevSprites_214
+  - first:
+      213: 6804029668997181972
+    second: GenTai_DevSprites_215
+  - first:
+      213: -1815162880296217193
+    second: GenTai_DevSprites_216
+  - first:
+      213: 8833570180420627111
+    second: GenTai_DevSprites_217
+  - first:
+      213: 5457806301637498782
+    second: GenTai_DevSprites_218
+  - first:
+      213: -4664456352128999772
+    second: GenTai_DevSprites_219
+  - first:
+      213: -8744383976691073157
+    second: GenTai_DevSprites_220
+  - first:
+      213: -3260259340475432014
+    second: GenTai_DevSprites_221
+  - first:
+      213: 9204454874015338266
+    second: GenTai_DevSprites_222
+  - first:
+      213: 4434147489559986284
+    second: GenTai_DevSprites_223
+  - first:
+      213: 6881495817499022217
+    second: GenTai_DevSprites_224
+  - first:
+      213: -3070991839939129333
+    second: GenTai_DevSprites_225
+  - first:
+      213: 8731683956851299455
+    second: GenTai_DevSprites_226
+  - first:
+      213: -3699292464237092852
+    second: GenTai_DevSprites_227
+  - first:
+      213: -9143753060645572449
+    second: GenTai_DevSprites_228
+  - first:
+      213: -5890560541675074319
+    second: GenTai_DevSprites_229
+  - first:
+      213: 532635280310766064
+    second: GenTai_DevSprites_230
+  - first:
+      213: 4684218265966163156
+    second: GenTai_DevSprites_231
+  - first:
+      213: 8788687560493604077
+    second: GenTai_DevSprites_232
+  - first:
+      213: -1601797975156092621
+    second: GenTai_DevSprites_233
+  - first:
+      213: -116656271296357023
+    second: GenTai_DevSprites_234
+  - first:
+      213: -6497065769984203416
+    second: GenTai_DevSprites_235
+  - first:
+      213: 425561814379703596
+    second: GenTai_DevSprites_236
+  - first:
+      213: -2418996806299442812
+    second: GenTai_DevSprites_237
+  - first:
+      213: -3414129512171082170
+    second: GenTai_DevSprites_238
+  - first:
+      213: -5212142807675685688
+    second: GenTai_DevSprites_239
+  - first:
+      213: 6185128955610464348
+    second: GenTai_DevSprites_240
+  - first:
+      213: 4703798144272689815
+    second: GenTai_DevSprites_241
+  - first:
+      213: -9105576755297146729
+    second: GenTai_DevSprites_242
+  - first:
+      213: 7267217759324257172
+    second: GenTai_DevSprites_243
+  - first:
+      213: 8094798827438227843
+    second: GenTai_DevSprites_244
+  - first:
+      213: 6489692357405360360
+    second: GenTai_DevSprites_245
+  - first:
+      213: -833110585931051422
+    second: GenTai_DevSprites_246
+  - first:
+      213: 7896257513041135641
+    second: GenTai_DevSprites_247
+  - first:
+      213: -7505203202919394789
+    second: GenTai_DevSprites_248
+  - first:
+      213: -127749077021771555
+    second: GenTai_DevSprites_249
+  - first:
+      213: 7744197039258973037
+    second: GenTai_DevSprites_250
+  - first:
+      213: 5142521835048843572
+    second: GenTai_DevSprites_251
+  - first:
+      213: -386633963385720349
+    second: GenTai_DevSprites_252
+  - first:
+      213: -5688365766342352652
+    second: GenTai_DevSprites_253
+  - first:
+      213: -6453281793060725714
+    second: GenTai_DevSprites_254
+  - first:
+      213: -2933606934864099371
+    second: GenTai_DevSprites_255
+  - first:
+      213: 8777561269643993310
+    second: GenTai_DevSprites_256
+  - first:
+      213: 2959794867569844324
+    second: GenTai_DevSprites_257
+  - first:
+      213: -6620224545498228124
+    second: GenTai_DevSprites_258
+  - first:
+      213: 8517480944568330370
+    second: GenTai_DevSprites_259
+  - first:
+      213: 1313096115672791703
+    second: GenTai_DevSprites_260
+  - first:
+      213: 1483280068035660227
+    second: GenTai_DevSprites_261
+  - first:
+      213: 7532145654071200799
+    second: GenTai_DevSprites_262
+  - first:
+      213: 4190590911642685707
+    second: GenTai_DevSprites_263
+  - first:
+      213: -7472200545752319664
+    second: GenTai_DevSprites_264
+  - first:
+      213: -4781253570466389048
+    second: GenTai_DevSprites_265
+  - first:
+      213: -3201181536208240562
+    second: GenTai_DevSprites_266
+  - first:
+      213: 5496760890234327608
+    second: GenTai_DevSprites_267
+  - first:
+      213: 44705039135330040
+    second: GenTai_DevSprites_268
+  - first:
+      213: -891576665433491393
+    second: GenTai_DevSprites_269
+  - first:
+      213: 6027268532553703841
+    second: GenTai_DevSprites_270
+  - first:
+      213: 2093872226474586794
+    second: GenTai_DevSprites_271
+  - first:
+      213: -4306467452830388486
+    second: GenTai_DevSprites_272
+  - first:
+      213: 3152933287516586214
+    second: GenTai_DevSprites_273
+  - first:
+      213: -8203613823225607363
+    second: GenTai_DevSprites_274
+  - first:
+      213: -3668143182766863261
+    second: GenTai_DevSprites_275
+  - first:
+      213: 5604397199042277714
+    second: GenTai_DevSprites_276
+  - first:
+      213: -1003480992328726335
+    second: GenTai_DevSprites_277
+  - first:
+      213: -6358853238218862614
+    second: GenTai_DevSprites_278
+  - first:
+      213: -7841071299796601545
+    second: GenTai_DevSprites_279
+  - first:
+      213: 8912121100474911834
+    second: GenTai_DevSprites_280
+  - first:
+      213: -659501296275876017
+    second: GenTai_DevSprites_281
+  - first:
+      213: -2017709733485193775
+    second: GenTai_DevSprites_282
+  - first:
+      213: 440726232652936462
+    second: GenTai_DevSprites_283
+  - first:
+      213: 7727320955753263013
+    second: GenTai_DevSprites_284
+  - first:
+      213: 8578884553486216227
+    second: GenTai_DevSprites_285
+  - first:
+      213: -7567419231714706887
+    second: GenTai_DevSprites_286
+  - first:
+      213: 8727988850638281565
+    second: GenTai_DevSprites_287
+  - first:
+      213: -1005345769061404351
+    second: GenTai_DevSprites_288
+  - first:
+      213: 3235098689009200956
+    second: GenTai_DevSprites_289
+  - first:
+      213: -1356087638848867122
+    second: GenTai_DevSprites_290
+  - first:
+      213: 7741228302979316048
+    second: GenTai_DevSprites_291
+  - first:
+      213: -1246315633123533816
+    second: GenTai_DevSprites_292
+  - first:
+      213: 4928965101821745585
+    second: GenTai_DevSprites_293
+  - first:
+      213: -3910966883875776125
+    second: GenTai_DevSprites_294
+  - first:
+      213: 7669315932788513561
+    second: GenTai_DevSprites_295
+  - first:
+      213: -7006305451840450843
+    second: GenTai_DevSprites_296
+  - first:
+      213: 8618271741423461829
+    second: GenTai_DevSprites_297
+  - first:
+      213: -8530450395981908524
+    second: GenTai_DevSprites_298
+  - first:
+      213: 4726518239832865488
+    second: GenTai_DevSprites_299
+  - first:
+      213: -352246851634370151
+    second: GenTai_DevSprites_300
+  - first:
+      213: -1472351979438045854
+    second: GenTai_DevSprites_301
+  - first:
+      213: -3560447624074007144
+    second: GenTai_DevSprites_302
+  - first:
+      213: -3813391508907178948
+    second: GenTai_DevSprites_303
+  - first:
+      213: -6356960398211766620
+    second: GenTai_DevSprites_304
+  - first:
+      213: -7915803598934887029
+    second: GenTai_DevSprites_305
+  - first:
+      213: -5815244579487184331
+    second: GenTai_DevSprites_306
+  - first:
+      213: -7716898948248256703
+    second: GenTai_DevSprites_307
+  - first:
+      213: 387870035994272200
+    second: GenTai_DevSprites_308
+  - first:
+      213: 6547578977291049647
+    second: GenTai_DevSprites_309
+  - first:
+      213: -1085392605010909893
+    second: GenTai_DevSprites_310
+  - first:
+      213: -115691793939302231
+    second: GenTai_DevSprites_311
+  - first:
+      213: -3017189610151868314
+    second: GenTai_DevSprites_312
+  - first:
+      213: -2233040464692737779
+    second: GenTai_DevSprites_313
+  - first:
+      213: 7923518118852384211
+    second: GenTai_DevSprites_314
+  - first:
+      213: 3577462184189719278
+    second: GenTai_DevSprites_315
+  - first:
+      213: -5227208835729175290
+    second: GenTai_DevSprites_316
+  - first:
+      213: 6759043203584015736
+    second: GenTai_DevSprites_317
+  - first:
+      213: 3575103053666515580
+    second: GenTai_DevSprites_318
+  - first:
+      213: -5576069850135164518
+    second: GenTai_DevSprites_319
+  - first:
+      213: -1677447561918722578
+    second: GenTai_DevSprites_320
+  - first:
+      213: 1904042591565512963
+    second: GenTai_DevSprites_321
+  - first:
+      213: -3750202346879657
+    second: GenTai_DevSprites_322
+  - first:
+      213: 5088094418082218639
+    second: GenTai_DevSprites_323
+  - first:
+      213: -9095596658488751923
+    second: GenTai_DevSprites_324
+  - first:
+      213: 8113814153821980455
+    second: GenTai_DevSprites_325
+  - first:
+      213: -3384064753856668578
+    second: GenTai_DevSprites_326
+  - first:
+      213: 6062700943645590078
+    second: GenTai_DevSprites_327
+  - first:
+      213: 3027674324146081354
+    second: GenTai_DevSprites_328
+  - first:
+      213: -691779697937587785
+    second: GenTai_DevSprites_329
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GenTai_DevSprites_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3918
+        width: 38
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d26e54c14550f0800000000000000
+      internalID: -1128923819933510012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3917
+        width: 38
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.010869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab64473b0e68d20800000000000000
+      internalID: 3280556439940545140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3916
+        width: 38
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7ede9db1be3780800000000000000
+      internalID: -8701322002060903073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3763
+        width: 47
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5443b7baad2b9bb0800000000000000
+      internalID: -4928295155977206691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3763
+        width: 58
+        height: 81
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66420e83daee78380800000000000000
+      internalID: -8968937705134087066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3763
+        width: 36
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7222222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0cc0e59de0eeb0800000000000000
+      internalID: -4692489583742678456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3763
+        width: 37
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7297298, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce983dfafe367e70800000000000000
+      internalID: 9112540143741869765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3763
+        width: 47
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d56d17740855b0800000000000000
+      internalID: -5379544845253225656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3613
+        width: 39
+        height: 88
+      alignment: 9
+      pivot: {x: 0.71794873, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e5549f92bfe2e80800000000000000
+      internalID: -8201341713700790666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3613
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: 0.29885057, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dbb939d5d6495f0800000000000000
+      internalID: -750854989188186784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3611
+        width: 140
+        height: 95
+      alignment: 9
+      pivot: {x: 0.17142858, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934205366bcb931c0800000000000000
+      internalID: -4523376859180686279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3611
+        width: 153
+        height: 81
+      alignment: 9
+      pivot: {x: 0.16993465, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75728c57ef07e6470800000000000000
+      internalID: 8389767394037868375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3611
+        width: 175
+        height: 79
+      alignment: 9
+      pivot: {x: 0.15428571, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60636ecc9df89f870800000000000000
+      internalID: 8717156719360620038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3611
+        width: 36
+        height: 88
+      alignment: 9
+      pivot: {x: 0.6944445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008846204432d620800000000000000
+      internalID: 2797355768675336202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_14
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3611
+        width: 42
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5952381, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b28e7c9a0fe95e0800000000000000
+      internalID: -1900817380709749998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_15
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3611
+        width: 43
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4ed1534b0cbdc0800000000000000
+      internalID: -3622007616548483209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_16
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3611
+        width: 74
+        height: 89
+      alignment: 9
+      pivot: {x: 0.32432434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a688e0252d567dc0800000000000000
+      internalID: -3641620834635184480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_17
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3611
+        width: 115
+        height: 92
+      alignment: 9
+      pivot: {x: 0.14782608, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1ecb6197395e240800000000000000
+      internalID: 4820421124451787261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3611
+        width: 129
+        height: 92
+      alignment: 9
+      pivot: {x: 0.13178295, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557718fc9b5c777c0800000000000000
+      internalID: -4073569936092334251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_19
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 3611
+        width: 201
+        height: 92
+      alignment: 9
+      pivot: {x: 0.06965174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ab03820cab4910800000000000000
+      internalID: 1822739600989986891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3611
+        width: 178
+        height: 91
+      alignment: 9
+      pivot: {x: 0.07865169, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a35a22540107e0800000000000000
+      internalID: -1801153625027533979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3611
+        width: 177
+        height: 91
+      alignment: 9
+      pivot: {x: 0.084745765, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c872a411215b7d3d0800000000000000
+      internalID: -3181875522509854836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3611
+        width: 186
+        height: 92
+      alignment: 9
+      pivot: {x: 0.08064516, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5334c782f9863d40800000000000000
+      internalID: 5563786064415699802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3429
+        width: 100
+        height: 158
+      alignment: 9
+      pivot: {x: 0.76, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efac03d0a8928ff0800000000000000
+      internalID: -35298030562529305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3429
+        width: 111
+        height: 147
+      alignment: 9
+      pivot: {x: 0.25225225, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58559c1845cb920800000000000000
+      internalID: 3007371567581988295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3429
+        width: 39
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3c8843b04fad50800000000000000
+      internalID: 6750685505212135968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3429
+        width: 52
+        height: 92
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed7109f9007b9910800000000000000
+      internalID: 1845191660472991204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3429
+        width: 60
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5833334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1dc4efac9d5ca0800000000000000
+      internalID: -6026488447079998317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3429
+        width: 64
+        height: 98
+      alignment: 9
+      pivot: {x: 0.59375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a6b8d742d68e80800000000000000
+      internalID: -8176616867424198463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_35
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3429
+        width: 107
+        height: 136
+      alignment: 9
+      pivot: {x: 0.16822429, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb3fee33356727a0800000000000000
+      internalID: -6402037074510267394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_36
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 3429
+        width: 103
+        height: 92
+      alignment: 9
+      pivot: {x: 0.17475729, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7684631ab274071f0800000000000000
+      internalID: -1049260460463470489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3429
+        width: 99
+        height: 92
+      alignment: 9
+      pivot: {x: 0.18181819, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea4284f32d589950800000000000000
+      internalID: 6456012474843024108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_38
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3429
+        width: 71
+        height: 92
+      alignment: 9
+      pivot: {x: 0.2535211, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250cf0f520e63050800000000000000
+      internalID: 5780053625338070315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_39
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3429
+        width: 51
+        height: 92
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d988bd00d663d10800000000000000
+      internalID: 2104989726292876624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3269
+        width: 37
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82232609eedb18d0800000000000000
+      internalID: -2874458844734217589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3269
+        width: 40
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ea82a509d86060800000000000000
+      internalID: 6947041043444064606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3269
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e2688fbb7ad2f0800000000000000
+      internalID: -947308709050915504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_43
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3269
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27634976c8e2c10800000000000000
+      internalID: 2030714858486788774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3269
+        width: 37
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4864865, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d588689292ee5f0800000000000000
+      internalID: -725597231632589541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3269
+        width: 35
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc8bcc70a5f5c00800000000000000
+      internalID: 891530240788582243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3269
+        width: 52
+        height: 90
+      alignment: 9
+      pivot: {x: 0.36538464, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65c63f676b3fb440800000000000000
+      internalID: 4953743430564365675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3269
+        width: 54
+        height: 90
+      alignment: 9
+      pivot: {x: 0.35185185, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de22c876239e11c0800000000000000
+      internalID: -4531022381644108076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3269
+        width: 94
+        height: 90
+      alignment: 9
+      pivot: {x: 0.20212765, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e8e77bc9acd8f0800000000000000
+      internalID: -514349566071873160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_49
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3269
+        width: 97
+        height: 90
+      alignment: 9
+      pivot: {x: 0.19587629, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f33d141c8c70cc0800000000000000
+      internalID: -3744803832776671421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_50
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3269
+        width: 106
+        height: 103
+      alignment: 9
+      pivot: {x: 0.1792453, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2aef2dc42cde690800000000000000
+      internalID: -7571181763326729498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_51
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3269
+        width: 110
+        height: 99
+      alignment: 9
+      pivot: {x: 0.17272727, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cff19b3638ccece0800000000000000
+      internalID: -1374503651001630779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_52
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3269
+        width: 99
+        height: 91
+      alignment: 9
+      pivot: {x: 0.1919192, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0263fcd08a7e690800000000000000
+      internalID: -7572899471135727440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_53
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3269
+        width: 112
+        height: 90
+      alignment: 9
+      pivot: {x: 0.16964287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf1d7ac70e49e20800000000000000
+      internalID: 3356554448293985309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_54
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3269
+        width: 88
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2fd1f8a3f8b660800000000000000
+      internalID: 7401933894521400651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_55
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3269
+        width: 72
+        height: 86
+      alignment: 9
+      pivot: {x: 0.31944445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6587d1806f181b0800000000000000
+      internalID: -5655969142286035265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_56
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 3269
+        width: 79
+        height: 124
+      alignment: 9
+      pivot: {x: 0.29113925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4c6a8d43e861f0800000000000000
+      internalID: -1051340590816670692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_57
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3269
+        width: 118
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3559322, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c5282fbd4d18b0800000000000000
+      internalID: -5179898512998547257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_59
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 3269
+        width: 92
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6086957, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ddb2a222d399260800000000000000
+      internalID: 7104777104099368307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_60
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 3269
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6b852c864eb300800000000000000
+      internalID: 269730595428069113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_63
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3105
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a5582fc15ceef00800000000000000
+      internalID: 1148071683144637044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_64
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3105
+        width: 80
+        height: 103
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0c23f482ce2c10800000000000000
+      internalID: 2030774358261894611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_67
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3105
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43373492, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1b6717dae17fe0800000000000000
+      internalID: -1192914216744706189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3106
+        width: 38
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88025e6aa24eb6d20800000000000000
+      internalID: 3272960426054590600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_69
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3104
+        width: 44
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5227273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2422390d48354b80800000000000000
+      internalID: -8411254825526614995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3105
+        width: 67
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5522388, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7d208154b48ba0800000000000000
+      internalID: -6087542534162252781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3105
+        width: 66
+        height: 77
+      alignment: 9
+      pivot: {x: 0.56060606, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21a955edf8ab5c0800000000000000
+      internalID: -4198885517487893847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_73
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 3105
+        width: 74
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289592e5a25bc930800000000000000
+      internalID: 4164513152858691616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_76
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3105
+        width: 71
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5070422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f52303fd8c48400800000000000000
+      internalID: 325605933989388058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_77
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3105
+        width: 47
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4468085, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862ef6b18456ae80800000000000000
+      internalID: -8167747958092192118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_83
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 3078
+        width: 36
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f424a4419ed7a41a0800000000000000
+      internalID: -6824503845305302449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_84
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 3078
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b573563f1705d410800000000000000
+      internalID: 1501113881434748341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_85
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 3078
+        width: 31
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4d26790eb295b0800000000000000
+      internalID: -5363015258398175437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_86
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 3078
+        width: 31
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14467e39ed794dd0800000000000000
+      internalID: -2501329677298809828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_87
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3078
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b88ca17c7ec5e60800000000000000
+      internalID: 7952485884363311910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_88
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3078
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f56aa3c20029750800000000000000
+      internalID: 6310106217862029158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_89
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 3077
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a0c47c663fd4010800000000000000
+      internalID: 1174862700569430615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_90
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 3078
+        width: 31
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f96d7476d2595f0800000000000000
+      internalID: -750643841277190328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_96
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2921
+        width: 83
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10aeb5565af3e10800000000000000
+      internalID: 2179642599422951841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_97
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2921
+        width: 81
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a507657111807be0800000000000000
+      internalID: -1481542365420780124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_98
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2921
+        width: 80
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab80926808bf900800000000000000
+      internalID: 719309879198136948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_101
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2921
+        width: 83
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c2301d66fb73720800000000000000
+      internalID: 2825937739512491070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2922
+        width: 51
+        height: 89
+      alignment: 9
+      pivot: {x: 0.60784316, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa3640a2855ba40800000000000000
+      internalID: 5383305867076808651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_103
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2921
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.59615386, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e7fc8787e28dc0800000000000000
+      internalID: -3638090979590281575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_104
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2921
+        width: 53
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6037736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7770397704e870800000000000000
+      internalID: 8711095796326956911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_105
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2921
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.59615386, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbd4c3fd0cd4f10800000000000000
+      internalID: 2255671053404454092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2921
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.59615386, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717fa88834dbdb00800000000000000
+      internalID: 854509893593297278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_107
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2921
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7991f5d4cf4f90800000000000000
+      internalID: -6967133675358421442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2921
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6538462, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a801fc2b8680460800000000000000
+      internalID: 7208126320793913912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_109
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2921
+        width: 64
+        height: 85
+      alignment: 9
+      pivot: {x: 0.53125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e221fa23dd40a580800000000000000
+      internalID: -8817962501037546780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2921
+        width: 61
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65127a03c24ac14d0800000000000000
+      internalID: -3162472328619155114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_111
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2921
+        width: 62
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408181df410ac340800000000000000
+      internalID: 4884718188165693516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_118
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2921
+        width: 62
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b346661e4a6a82e0800000000000000
+      internalID: -2122767390735973454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_119
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2921
+        width: 62
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4677419, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903af73323cf5a4f0800000000000000
+      internalID: -817970464755309815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_120
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2921
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899080a8e1df7da70800000000000000
+      internalID: 8851821900226627992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_121
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2921
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aab5918ae22c9f70800000000000000
+      internalID: 9195262929775475365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_122
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2922
+        width: 38
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a352518858f88670800000000000000
+      internalID: 8541349752318612386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_123
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2920
+        width: 44
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64dd52a123b893d0800000000000000
+      internalID: -3199610578207386513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_124
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2921
+        width: 67
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e6f242b8cd6820800000000000000
+      internalID: 2913205201931790237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_125
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2921
+        width: 66
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4df8751bdbddb0800000000000000
+      internalID: -4765974895370876133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_126
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2921
+        width: 71
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a818fbbfb3acf130800000000000000
+      internalID: 3601933845877233827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_127
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2775
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc1f214615105bc0800000000000000
+      internalID: -3796511300546257714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_128
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2775
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b782e980f69e2b40800000000000000
+      internalID: 5417433361622927284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_129
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2774
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ac3e0c9bbf3e90800000000000000
+      internalID: -7043705013256019659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_130
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2774
+        width: 44
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5909091, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3603ceb7dcb6e0800000000000000
+      internalID: -1820342935048798938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_131
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2775
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: 0.40625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce3933e3b10d6f0800000000000000
+      internalID: -661999191256208226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_132
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2773
+        width: 100
+        height: 62
+      alignment: 9
+      pivot: {x: 0.26, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817f89543337cab20800000000000000
+      internalID: 3147016903673313048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_133
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2773
+        width: 99
+        height: 62
+      alignment: 9
+      pivot: {x: 0.26262626, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5af84bddbbbdde70800000000000000
+      internalID: 9141669242734180956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_134
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2774
+        width: 45
+        height: 66
+      alignment: 9
+      pivot: {x: 0.64444447, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9715513ed58f9890800000000000000
+      internalID: -7449088069290616930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_135
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2775
+        width: 70
+        height: 65
+      alignment: 9
+      pivot: {x: 0.7714286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfee1172fb33ab80800000000000000
+      internalID: -8384792168767754286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_136
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2775
+        width: 66
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3030303, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aad8aa1629041e0800000000000000
+      internalID: -2215610068495390120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_137
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2775
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: 0.28767124, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9120d6aa6e0f00800000000000000
+      internalID: 1084921824931847405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_138
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2774
+        width: 118
+        height: 85
+      alignment: 9
+      pivot: {x: 0.37288135, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2ad340886d6340800000000000000
+      internalID: 4858654473106107928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_141
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2775
+        width: 74
+        height: 65
+      alignment: 9
+      pivot: {x: 0.7837838, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aeeadaa551da280800000000000000
+      internalID: -9030538198602814894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_142
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2775
+        width: 58
+        height: 65
+      alignment: 9
+      pivot: {x: 0.7241379, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e8a6c1e120cdc0800000000000000
+      internalID: -3620856846821563861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_144
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2557
+        width: 56
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260db41540ab5ea30800000000000000
+      internalID: 4244002751573119074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_145
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2588
+        width: 63
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c584aa62374c043f0800000000000000
+      internalID: -918518325134604196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_146
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2619
+        width: 56
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284bdee468deddfe0800000000000000
+      internalID: -1162511967686118270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_147
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2619
+        width: 63
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354eec21d58705060800000000000000
+      internalID: 6940179366920774739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_148
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2557
+        width: 56
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de03d0a36eac5ff0800000000000000
+      internalID: -45970153257365805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_149
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2557
+        width: 56
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d2d43e288d0600800000000000000
+      internalID: 436154470960911557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_150
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2556
+        width: 38
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec86fb32e8e112a0800000000000000
+      internalID: -6768372706594878229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_151
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2579
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14487d970802391c0800000000000000
+      internalID: -4498215866640923583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_152
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2585
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b904f2dabb7def0800000000000000
+      internalID: -83391715586565344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_153
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2593
+        width: 57
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190778167ff479be0800000000000000
+      internalID: -1470618829401395055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_154
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2578
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d36be03f5b43390800000000000000
+      internalID: -7839440995816686328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_155
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2590
+        width: 57
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c42789b7ebef6e00800000000000000
+      internalID: 1040309419428488393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_156
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2555
+        width: 37
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5135135, y: -0.036585364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b9395f1ed7564b0800000000000000
+      internalID: -5447809764793541787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_157
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2555
+        width: 37
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5405406, y: -0.060975607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff39021614f99780800000000000000
+      internalID: -8675634831523495948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_158
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2552
+        width: 42
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e280e90fd0fe310800000000000000
+      internalID: 1436382133249126009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_159
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2553
+        width: 42
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cfacf77d89a8bf0800000000000000
+      internalID: -321276372074169311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_160
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2556
+        width: 38
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6b197b6ab3ea90800000000000000
+      internalID: -7285774801399223168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_161
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2501
+        width: 56
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c538e8920925110800000000000000
+      internalID: 1248218554894081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_162
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2498
+        width: 63
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665c0150a057c1580800000000000000
+      internalID: -8855074081422129818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_163
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2519
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867cf4db378ca1c0800000000000000
+      internalID: -4491066037349091708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_164
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2524
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58831eb448139cb70800000000000000
+      internalID: 8919714981262473349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_165
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2527
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cc25c1377b28c0800000000000000
+      internalID: -4022990786480257761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_166
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2534
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb196e0e5971880800000000000000
+      internalID: -8640272566913483537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_167
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2483
+        width: 36
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed99264fce122bc0800000000000000
+      internalID: -3809448459217822237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_168
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2514
+        width: 38
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189d434d8460e8760800000000000000
+      internalID: 7461908542467135873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_169
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2518
+        width: 37
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d7d5026c7aa390800000000000000
+      internalID: -7806290243646662855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_170
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 2524
+        width: 38
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83cc29f14674f9c0800000000000000
+      internalID: -3894357752043224181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_171
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2524
+        width: 38
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b47ca223b54cf0b0800000000000000
+      internalID: -5693599193219959630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_172
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2523
+        width: 38
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09072c43c3328780800000000000000
+      internalID: -8682320217727629045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_173
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2421
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: 0.65909094, y: 0.050847456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0db01db37611f20800000000000000
+      internalID: 3391605500994638067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_174
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2415
+        width: 74
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3918919, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf436c7a01188f00800000000000000
+      internalID: 1119163244135796686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_175
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2397
+        width: 107
+        height: 83
+      alignment: 9
+      pivot: {x: 0.27102804, y: 0.3253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff360912ca92eca0800000000000000
+      internalID: -5989054396015165455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_176
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2389
+        width: 103
+        height: 91
+      alignment: 9
+      pivot: {x: 0.2815534, y: 0.37362638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a44249c2635f270800000000000000
+      internalID: 8283586654709762661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_177
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2415
+        width: 74
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3918919, y: 0.13846155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecb3db1760cd2330800000000000000
+      internalID: 3687815218967330028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_178
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2421
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: 0.65909094, y: 0.033898305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241ce34853130a90800000000000000
+      internalID: -7349008897120922592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_179
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2421
+        width: 64
+        height: 59
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.06779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844b693a518549820800000000000000
+      internalID: 2924058908032414792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_180
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2421
+        width: 101
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e946b26a5a407b0800000000000000
+      internalID: -5258896331750728080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_181
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2421
+        width: 99
+        height: 59
+      alignment: 9
+      pivot: {x: 0.3939394, y: 0.084745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398ccb2c24ee9c90800000000000000
+      internalID: -7161035479107991247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_182
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2409
+        width: 38
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3076a6cec677a350800000000000000
+      internalID: 6027917256726835260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_183
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2410
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5829310da89825420800000000000000
+      internalID: 2617305562745115269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_184
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2411
+        width: 56
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4673fdeffe695a80800000000000000
+      internalID: -8477622778060376500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_185
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2425
+        width: 63
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8eaf66173abeab0800000000000000
+      internalID: -4977705255673599766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_186
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2217
+        width: 35
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6571429, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e7f85234db2120800000000000000
+      internalID: 2390237339956275123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_187
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2217
+        width: 49
+        height: 92
+      alignment: 9
+      pivot: {x: 0.67346936, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfccbbb395cbf2b0800000000000000
+      internalID: -5549624877503426632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_188
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2217
+        width: 49
+        height: 86
+      alignment: 9
+      pivot: {x: 0.57142854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc12b960fd83a1d70800000000000000
+      internalID: 9014580134675161547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_189
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2217
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: 0.6037736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a951924db2eb6d0800000000000000
+      internalID: -2972890513795605948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_190
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2277
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43264b5ff273ef670800000000000000
+      internalID: 8574351419685233204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_191
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2217
+        width: 49
+        height: 98
+      alignment: 9
+      pivot: {x: 0.57142854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715fb9c195d40a30800000000000000
+      internalID: 4180701176238395768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_192
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2217
+        width: 54
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba2320d55f45d40800000000000000
+      internalID: 5572348418781785053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_193
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2217
+        width: 56
+        height: 126
+      alignment: 9
+      pivot: {x: 0.67857146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d0b6972fed16d90800000000000000
+      internalID: -7106153604013421165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_194
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2217
+        width: 73
+        height: 141
+      alignment: 9
+      pivot: {x: 0.65753424, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3e5e05220ab98e0800000000000000
+      internalID: -1685577566273543248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_195
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2217
+        width: 69
+        height: 145
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a046531ea870b60800000000000000
+      internalID: 7712285586763287144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_196
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2217
+        width: 59
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6440678, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25540fe9724d13650800000000000000
+      internalID: 6210978627755984210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_197
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2217
+        width: 55
+        height: 145
+      alignment: 9
+      pivot: {x: 0.6181818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b7b4a84fc3f4f10800000000000000
+      internalID: 2256088959325797182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_198
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2217
+        width: 59
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6440678, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870fca742c3e7d6d0800000000000000
+      internalID: -2965651406034505608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_199
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2217
+        width: 69
+        height: 145
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6def945f93b72870800000000000000
+      internalID: 8658086305544007022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_200
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2217
+        width: 73
+        height: 141
+      alignment: 9
+      pivot: {x: 0.65753424, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6816f5544720da0800000000000000
+      internalID: -5980089513892804950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_201
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2217
+        width: 56
+        height: 126
+      alignment: 9
+      pivot: {x: 0.625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9b9f9d68a77f920800000000000000
+      internalID: 3024020394403805637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_202
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 2217
+        width: 54
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af155f11d6b084f20800000000000000
+      internalID: 3406985681186411002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_203
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2217
+        width: 49
+        height: 98
+      alignment: 9
+      pivot: {x: 0.57142854, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07efa90382269840800000000000000
+      internalID: 5230405963435992842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_204
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2217
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: 0.6037736, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e14882b39df0f0800000000000000
+      internalID: -1081545940499569713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_205
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2277
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf7f2a1bbb96870800000000000000
+      internalID: 8676672528723737731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_206
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2044
+        width: 45
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f6dac2da565a00800000000000000
+      internalID: 744882649769111904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_207
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2044
+        width: 39
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b31ec05209ec580800000000000000
+      internalID: -8804941732658463975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_208
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2044
+        width: 35
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b9744652422b60800000000000000
+      internalID: 7719805649549900075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_209
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2044
+        width: 35
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceff5a83a48a1b50800000000000000
+      internalID: 6564705244782001864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_210
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2044
+        width: 47
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c7d5bf518123c0800000000000000
+      internalID: -4386082314009459279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_211
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2044
+        width: 51
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a1efe44f55f6e0800000000000000
+      internalID: -1804431326005058221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_212
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2044
+        width: 40
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315bfced9d080e440800000000000000
+      internalID: 4963108462596699411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_213
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2044
+        width: 38
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4337ecc30bc96b30800000000000000
+      internalID: 4281176137975411530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_214
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2100
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc181df5714df750800000000000000
+      internalID: 6340295825420721373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_215
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2100
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bbc54fe4cc6e50800000000000000
+      internalID: 6804029668997181972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_216
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2101
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795187e3afe3fc6e0800000000000000
+      internalID: -1815162880296217193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_217
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2100
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa647ed645279a70800000000000000
+      internalID: 8833570180420627111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_218
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2100
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97ddf52ae50ebb40800000000000000
+      internalID: 5457806301637498782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_219
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2100
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae590d39a5844fb0800000000000000
+      internalID: -4664456352128999772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_220
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2098
+        width: 19
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff5b95a15b5a680800000000000000
+      internalID: -8744383976691073157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_221
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2097
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30057476b31c2d0800000000000000
+      internalID: -3260259340475432014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_222
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2095
+        width: 27
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0cccc0faccbf70800000000000000
+      internalID: 9204454874015338266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_223
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2088
+        width: 31
+        height: 39
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60c9ec06a1498d30800000000000000
+      internalID: 4434147489559986284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_225
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2086
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.3255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b001e404135a165d0800000000000000
+      internalID: -3070991839939129333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_227
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1857
+        width: 54
+        height: 171
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.13450292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006edc7a1979acc0800000000000000
+      internalID: -3699292464237092852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_228
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1857
+        width: 60
+        height: 167
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.13772455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90745a790dda1180800000000000000
+      internalID: -9143753060645572449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_230
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1856
+        width: 47
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.043209877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f983c527fc446700800000000000000
+      internalID: 532635280310766064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_233
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1835
+        width: 56
+        height: 147
+      alignment: 9
+      pivot: {x: 0.42857146, y: 0.047619045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33191e07a3545c9e0800000000000000
+      internalID: -1601797975156092621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_234
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1850
+        width: 58
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d1f844dbd816ef0800000000000000
+      internalID: -116656271296357023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_236
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1833
+        width: 38
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2da2182736e7e500800000000000000
+      internalID: 425561814379703596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_237
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1833
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a7b7983ffd6ed0800000000000000
+      internalID: -2418996806299442812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_238
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1833
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6dd92c439e90d0800000000000000
+      internalID: -3414129512171082170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_239
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1834
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c432e54bbfbaa7b0800000000000000
+      internalID: -5212142807675685688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_240
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1833
+        width: 38
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c500521d30ef5d550800000000000000
+      internalID: 6185128955610464348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_241
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1647
+        width: 38
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae38c8d7f374140800000000000000
+      internalID: 4703798144272689815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_242
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1644
+        width: 37
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798a5793f2e72a180800000000000000
+      internalID: -9105576755297146729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_243
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1644
+        width: 40
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bbee97c085ad460800000000000000
+      internalID: 7267217759324257172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_244
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1644
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38144bd35a0865070800000000000000
+      internalID: 8094798827438227843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1644
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c6b0b0d4001a50800000000000000
+      internalID: 6489692357405360360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_246
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1644
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e46fa06523074f0800000000000000
+      internalID: -833110585931051422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1643
+        width: 35
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91883d73f54259d60800000000000000
+      internalID: 7896257513041135641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_248
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1643
+        width: 54
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b129dd2837928d790800000000000000
+      internalID: -7505203202919394789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_249
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1643
+        width: 56
+        height: 91
+      alignment: 9
+      pivot: {x: 0.37500003, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bbbb24e42a3ef0800000000000000
+      internalID: -127749077021771555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_250
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1643
+        width: 109
+        height: 91
+      alignment: 9
+      pivot: {x: 0.19266054, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b9ab3d2ae87b60800000000000000
+      internalID: 7744197039258973037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_251
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1643
+        width: 134
+        height: 91
+      alignment: 9
+      pivot: {x: 0.15671642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b6cbdc58ed5740800000000000000
+      internalID: 5142521835048843572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_252
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1644
+        width: 179
+        height: 103
+      alignment: 9
+      pivot: {x: 0.19553073, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1fa42757662aaf0800000000000000
+      internalID: -386633963385720349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_253
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1643
+        width: 234
+        height: 104
+      alignment: 9
+      pivot: {x: 0.15384616, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0eba8497dde01b0800000000000000
+      internalID: -5688365766342352652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_254
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1644
+        width: 179
+        height: 103
+      alignment: 9
+      pivot: {x: 0.19553073, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9e1176665176a0800000000000000
+      internalID: -6453281793060725714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_255
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1643
+        width: 109
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d78dc0290cb947d0800000000000000
+      internalID: -2933606934864099371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_256
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1643
+        width: 56
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed06b5f187920d970800000000000000
+      internalID: 8777561269643993310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_257
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1643
+        width: 54
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460668910cd431920800000000000000
+      internalID: 2959794867569844324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_258
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1643
+        width: 35
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a9140f9dc3024a0800000000000000
+      internalID: -6620224545498228124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_259
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1644
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886722aacb243670800000000000000
+      internalID: 8517480944568330370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_260
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1644
+        width: 40
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a3f9ac5fd093210800000000000000
+      internalID: 1313096115672791703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_261
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1644
+        width: 37
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9cea5fc5ba59410800000000000000
+      internalID: 1483280068035660227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_262
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1477
+        width: 322
+        height: 138
+      alignment: 9
+      pivot: {x: 0.111801244, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8a6bb09e878860800000000000000
+      internalID: 7532145654071200799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_263
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1477
+        width: 301
+        height: 140
+      alignment: 9
+      pivot: {x: 0.119601324, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01517f3b38f72a30800000000000000
+      internalID: 4190590911642685707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_265
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1477
+        width: 315
+        height: 135
+      alignment: 9
+      pivot: {x: 0.11111111, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36847b53395adb0800000000000000
+      internalID: -4781253570466389048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_266
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1477
+        width: 314
+        height: 140
+      alignment: 9
+      pivot: {x: 0.11464968, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c4c87a5e1393d0800000000000000
+      internalID: -3201181536208240562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_267
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1477
+        width: 310
+        height: 133
+      alignment: 9
+      pivot: {x: 0.11612903, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325da518ea684c40800000000000000
+      internalID: 5496760890234327608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_268
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1307
+        width: 43
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec4590ff2de9000800000000000000
+      internalID: 44705039135330040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_269
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1306
+        width: 46
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.010869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383fce1fbb70a3f0800000000000000
+      internalID: -891576665433491393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_270
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1305
+        width: 46
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.021052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e0c8ebc825a350800000000000000
+      internalID: 6027268532553703841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_271
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1307
+        width: 45
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2f21832bdee0d10800000000000000
+      internalID: 2093872226474586794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_272
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1306
+        width: 45
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.00990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe63451baa5c34c0800000000000000
+      internalID: -4306467452830388486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_273
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1305
+        width: 45
+        height: 101
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.01980198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e04eeabe1871cb20800000000000000
+      internalID: 3152933287516586214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_274
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1304
+        width: 45
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b472041b8e62e80800000000000000
+      internalID: -8203613823225607363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_275
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1305
+        width: 45
+        height: 92
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.010869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c09edb533281dc0800000000000000
+      internalID: -3668143182766863261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_276
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1307
+        width: 45
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251fb152f81d6cd40800000000000000
+      internalID: 5604397199042277714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_277
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1305
+        width: 46
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c369aa5be212f0800000000000000
+      internalID: -1003480992328726335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_278
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1306
+        width: 44
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4f15aba0d0c7a0800000000000000
+      internalID: -6358853238218862614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_279
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1307
+        width: 39
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735fc15523bee2390800000000000000
+      internalID: -7841071299796601545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_280
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1307
+        width: 45
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c02152ce63eab70800000000000000
+      internalID: 8912121100474911834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_282
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1307
+        width: 44
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d554cb00b7aff3e0800000000000000
+      internalID: -2017709733485193775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_283
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1307
+        width: 45
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05797c6c26cd1600800000000000000
+      internalID: 440726232652936462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_284
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1307
+        width: 45
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afea19d775fc3b60800000000000000
+      internalID: 7727320955753263013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_285
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1307
+        width: 45
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca1ab6c025e0770800000000000000
+      internalID: 8578884553486216227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_286
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1137
+        width: 57
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7f2b7d402bf690800000000000000
+      internalID: -7567419231714706887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_287
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1137
+        width: 51
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b5dd5ed9b002970800000000000000
+      internalID: 8727988850638281565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_288
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1136
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14137ae795b4c02f0800000000000000
+      internalID: -1005345769061404351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_289
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa9bb0e1165ec20800000000000000
+      internalID: 3235098689009200956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_290
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec47d123a753e2de0800000000000000
+      internalID: -1356087638848867122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_291
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0593844702e5e6b60800000000000000
+      internalID: 7741228302979316048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_292
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd7a1f88234bee0800000000000000
+      internalID: -1246315633123533816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_293
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9d16435a3376440800000000000000
+      internalID: 4928965101821745585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_294
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389944e175479b9c0800000000000000
+      internalID: -3910966883875776125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_295
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5a140532ee6a60800000000000000
+      internalID: 7669315932788513561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_296
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1136
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeca23005a94ce90800000000000000
+      internalID: -7006305451840450843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_297
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1140
+        width: 57
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5255dbc704a9770800000000000000
+      internalID: 8618271741423461829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_299
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1139
+        width: 74
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da74a50c47f79140800000000000000
+      internalID: 4726518239832865488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_300
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1139
+        width: 56
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999651fca519c1bf0800000000000000
+      internalID: -352246851634370151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_301
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1140
+        width: 57
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658041fca7219be0800000000000000
+      internalID: -1472351979438045854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_302
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1140
+        width: 57
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d6fadffbfb69ec0800000000000000
+      internalID: -3560447624074007144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_303
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1140
+        width: 59
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c81a70ac141bc0800000000000000
+      internalID: -3813391508907178948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_304
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1136
+        width: 47
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ac5dc23a87c7a0800000000000000
+      internalID: -6356960398211766620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_305
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1137
+        width: 63
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b853ab5019a652290800000000000000
+      internalID: -7915803598934887029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_306
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1137
+        width: 62
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a86ad8dd91c4fa0800000000000000
+      internalID: -5815244579487184331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_307
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1139
+        width: 54
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb31eda4118e490800000000000000
+      internalID: -7716898948248256703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_308
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1139
+        width: 47
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1e4722ebdf16500800000000000000
+      internalID: 387870035994272200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_309
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 969
+        width: 42
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9f38a36cadda50800000000000000
+      internalID: 6547578977291049647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_310
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 969
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352d782d29efe0f0800000000000000
+      internalID: -1085392605010909893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_311
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 966
+        width: 75
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f1d62deaf46ef0800000000000000
+      internalID: -115691793939302231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_312
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 965
+        width: 83
+        height: 35
+      alignment: 9
+      pivot: {x: 0.51807225, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66806ea090ac026d0800000000000000
+      internalID: -3017189610151868314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_313
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 980
+        width: 87
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098aec4785a201e0800000000000000
+      internalID: -2233040464692737779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_314
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 996
+        width: 87
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5519d9fbdf5fd60800000000000000
+      internalID: 7923518118852384211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_315
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 960
+        width: 84
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2750ef6e2b5a130800000000000000
+      internalID: 3577462184189719278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_316
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 847
+        width: 87
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.11363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d449342493577b0800000000000000
+      internalID: -5227208835729175290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_317
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 819
+        width: 87
+        height: 42
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.0952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db4239bf1fccd50800000000000000
+      internalID: 6759043203584015736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_318
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 789
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af43d19415d9130800000000000000
+      internalID: 3575103053666515580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_319
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 789
+        width: 42
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998debb302dd92b0800000000000000
+      internalID: -5576069850135164518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_320
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 790
+        width: 83
+        height: 35
+      alignment: 9
+      pivot: {x: 0.50602406, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4d76745288b8e0800000000000000
+      internalID: -1677447561918722578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_321
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 785
+        width: 84
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3010a7326a48c6a10800000000000000
+      internalID: 1904042591565512963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_322
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 790
+        width: 75
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7554749f53da2fff0800000000000000
+      internalID: -3750202346879657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_323
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 789
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8240755aea8c9640800000000000000
+      internalID: 5088094418082218639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_324
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 789
+        width: 36
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc84c869703f5c180800000000000000
+      internalID: -9095596658488751923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_325
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 39
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727881cebfe0a9070800000000000000
+      internalID: 8113814153821980455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_326
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 644
+        width: 38
+        height: 91
+      alignment: 9
+      pivot: {x: 0.47368422, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c147139036901d0800000000000000
+      internalID: -3384064753856668578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_327
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 644
+        width: 39
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4871795, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32cb6df26a032450800000000000000
+      internalID: 6062700943645590078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_328
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 644
+        width: 38
+        height: 91
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e4c4aa1c5740a20800000000000000
+      internalID: 3027674324146081354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_329
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 644
+        width: 39
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b16a99a70e4666f0800000000000000
+      internalID: -691779697937587785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_25
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2073
+        width: 58
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.3880597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05f8c5c98626b50800000000000000
+      internalID: 6584940625946169508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_26
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3045
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fa9e3c5c26d740800000000000000
+      internalID: 5176373596407919405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_27
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3045
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452860681f89c690800000000000000
+      internalID: -7581371162842094258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenTai_DevSprites_28
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3042
+        width: 47
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4468085, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8616be8b9e2bb0800000000000000
+      internalID: -4958855102445745353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

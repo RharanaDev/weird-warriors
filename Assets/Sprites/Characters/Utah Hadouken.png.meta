@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 814c2a14acc73914d86b2175f2fd1ca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 553440484005617290
+    second: Utah Hadouken_0
+  - first:
+      213: -4692569319640493537
+    second: Utah Hadouken_1
+  - first:
+      213: -7202368376994624169
+    second: Utah Hadouken_2
+  - first:
+      213: 5856167892508111568
+    second: Utah Hadouken_3
+  - first:
+      213: 163171252683479612
+    second: Utah Hadouken_4
+  - first:
+      213: 8827850649605645507
+    second: Utah Hadouken_5
+  - first:
+      213: -2594170049216530368
+    second: Utah Hadouken_6
+  - first:
+      213: -1988043079923945348
+    second: Utah Hadouken_7
+  - first:
+      213: 7356384014367070669
+    second: Utah Hadouken_8
+  - first:
+      213: 6989907767444416904
+    second: Utah Hadouken_9
+  - first:
+      213: -1972386607599208753
+    second: Utah Hadouken_10
+  - first:
+      213: -5274819723340833400
+    second: Utah Hadouken_11
+  - first:
+      213: -7556780077454697445
+    second: Utah Hadouken_12
+  - first:
+      213: -7898668579321774915
+    second: Utah Hadouken_13
+  - first:
+      213: -1307635203199118154
+    second: Utah Hadouken_14
+  - first:
+      213: 4786961295398530797
+    second: Utah Hadouken_15
+  - first:
+      213: -2456632004725437666
+    second: Utah Hadouken_16
+  - first:
+      213: -797859233941131220
+    second: Utah Hadouken_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Utah Hadouken_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 25
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129eeae015a0eeb0800000000000000
+      internalID: -4692569319640493537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d8ab3fe1c0c0c90800000000000000
+      internalID: -7202368376994624169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 20
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d27ef1cba9454150800000000000000
+      internalID: 5856167892508111568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 20
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a11c9c363b34200800000000000000
+      internalID: 163171252683479612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 17
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53999996, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c422f3d463d28a70800000000000000
+      internalID: 8827850649605645507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5471698, y: 0.5272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048bd71b518affbd0800000000000000
+      internalID: -2594170049216530368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 13
+        width: 57
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc916b70940271660800000000000000
+      internalID: 7356384014367070669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 12
+        width: 59
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5254237, y: 0.5166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6bf4e94dca0a4e0800000000000000
+      internalID: -1972386607599208753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 20
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41509435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9b08a8631cc6b0800000000000000
+      internalID: -5274819723340833400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 29
+        width: 25
+        height: 25
+      alignment: 9
+      pivot: {x: 0.56, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc7cfaa6ca426290800000000000000
+      internalID: -7898668579321774915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 27
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b45589f5b85adde0800000000000000
+      internalID: -1307635203199118154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Utah Hadouken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 0.52500004, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e997d10373ea700800000000000000
+      internalID: 553440484005617290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
