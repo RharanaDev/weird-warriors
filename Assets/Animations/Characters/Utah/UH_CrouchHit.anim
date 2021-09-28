@@ -91,7 +91,7 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: -3068296276990178181, guid: cd8eef98f79386f4e99117df27ed091e, type: 3}
-    - time: 0.083333336
+    - time: 0.33333334
       value: {fileID: -3068296276990178181, guid: cd8eef98f79386f4e99117df27ed091e, type: 3}
     attribute: m_Sprite
     path: 
@@ -147,7 +147,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.1
+    m_StopTime: 0.35000002
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -321,6 +321,34 @@ AnimationClip:
   m_Events:
   - time: 0
     functionName: Limitations
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: Confusion
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: ReturnBlock
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: Matrix
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0.22
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.033333335
+    functionName: FixAll
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

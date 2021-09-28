@@ -327,9 +327,30 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 0
+    functionName: Confusion
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
     functionName: Matrix
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 0.12
+    floatParameter: 0.22
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: ReturnBlock
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.033333335
+    functionName: FixAll
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
     intParameter: 0
     messageOptions: 0
