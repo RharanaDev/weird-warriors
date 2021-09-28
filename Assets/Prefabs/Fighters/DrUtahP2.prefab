@@ -10133,14 +10133,13 @@ MonoBehaviour:
   shoot: {fileID: 6929203413250648865}
   obj: {fileID: 6929203413943367449}
   cinetics: {fileID: 0}
-  playerIndex: 1
   lastWalked: 0
   lastEffectType: 0
   lastX: 0
   lastY: 0
   lastDamage: 0
   Ray: {fileID: 804324724}
-  Missile: {fileID: 6172792192941156960, guid: 1ff6b8e034ed5ec408b9ae34a0e48c5f, type: 3}
+  Missile: {fileID: 6172792192941156960, guid: d5c6724ce98664a4483b54eb9ce13586, type: 3}
   tilt: {fileID: 0}
   collisionIgnored: 0
   hasAdvanced: 0
