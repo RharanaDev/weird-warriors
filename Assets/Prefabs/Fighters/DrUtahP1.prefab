@@ -10133,7 +10133,6 @@ MonoBehaviour:
   shoot: {fileID: 6929203413250648865}
   obj: {fileID: 6929203413943367449}
   cinetics: {fileID: 0}
-  playerIndex: 0
   lastWalked: 0
   lastEffectType: 0
   lastX: 0
@@ -10797,7 +10796,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1440623813
   m_SortingLayer: 3
-  m_SortingOrder: 5
+  m_SortingOrder: 1
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

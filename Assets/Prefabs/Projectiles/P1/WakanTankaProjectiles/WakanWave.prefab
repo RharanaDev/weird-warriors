@@ -117,6 +117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9df37dad166dc0641bc8e0ca956a6ee5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  database: {fileID: 0}
   rb: {fileID: 8789051708681440442}
   velocity: 10
   longing: 0
@@ -126,6 +127,30 @@ MonoBehaviour:
   deathtime: 0.15
   doesntExplode: 0
   isDestroyable: 0
+  collisionCount: 0
+  circle: {fileID: 0}
+  isntInstant: 0
+  magicIsdone: 0
+  fuckem: 0
+  explodeWhenNear:
+  - Untagged
+  - ComboPartP2
+  - SpecialComboPartP2
+  explodeOrNah: 0
+  specialMissile: 0
+  time1: 0
+  timeIncrement: 0
+  timeLeft: 0
+  time2: 0
+  boomerangBack: 0
+  specialProjectile: 0
+  hitType: 0
+  lastDamage: 0
+  lastEffectType: 0
+  attackHardness: 0
+  lastX: 0
+  lastY: 0
+  tilter: {fileID: 0}
 --- !u!50 &8789051708681440442
 Rigidbody2D:
   serializedVersion: 4

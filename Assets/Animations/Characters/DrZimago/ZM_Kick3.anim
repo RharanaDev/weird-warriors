@@ -986,7 +986,7 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 4
+    intParameter: 6
     messageOptions: 0
   - time: 0.13333334
     functionName: TypeOfHit
@@ -1000,7 +1000,7 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 3
+    intParameter: 2
     messageOptions: 0
   - time: 0.38333333
     functionName: ConcreteEffectX

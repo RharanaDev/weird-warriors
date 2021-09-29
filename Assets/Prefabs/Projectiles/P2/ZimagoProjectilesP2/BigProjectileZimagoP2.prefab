@@ -148,7 +148,8 @@ MonoBehaviour:
   isntInstant: 0
   magicIsdone: 0
   fuckem: 0
-  explodeWhenNear: []
+  explodeWhenNear:
+  - SpecialComboPartP1
   explodeOrNah: 0
   specialMissile: 0
   time1: 0
@@ -158,11 +159,12 @@ MonoBehaviour:
   boomerangBack: 0
   specialProjectile: 1
   hitType: 15
-  lastDamage: 5
+  lastDamage: 4
   lastEffectType: 1
   attackHardness: 1
   lastX: 0
   lastY: 3.6
+  tilter: {fileID: 0}
 --- !u!50 &8789051708681440442
 Rigidbody2D:
   serializedVersion: 4

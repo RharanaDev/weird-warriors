@@ -119,7 +119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   database: {fileID: 0}
   rb: {fileID: 8789051708681440442}
-  velocity: 45
+  velocity: 22
   longing: 4
   projectiletipe: 3
   anim: {fileID: 2137330659425006241}
@@ -132,7 +132,10 @@ MonoBehaviour:
   isntInstant: 0
   magicIsdone: 0
   fuckem: 0
-  explodeWhenNear: []
+  explodeWhenNear:
+  - Untagged
+  - ComboPartP1
+  - SpecialComboPartP1
   explodeOrNah: 0
   specialMissile: 0
   time1: 0
@@ -147,6 +150,7 @@ MonoBehaviour:
   attackHardness: 0
   lastX: 0
   lastY: 0
+  tilter: {fileID: 0}
 --- !u!50 &8789051708681440442
 Rigidbody2D:
   serializedVersion: 4
