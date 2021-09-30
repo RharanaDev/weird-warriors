@@ -5142,8 +5142,8 @@ MonoBehaviour:
   effectIfBlocked: {fileID: 0}
   blockBar: {fileID: 0}
   effectDur: 0
-  HitterPos: {fileID: 0}
-  effectClash: {fileID: 0}
+  HitterPos: {fileID: 7472074153504073606}
+  effectClash: {fileID: 8228185893797653160, guid: b528119658ee7b841a075a47eb42055f, type: 3}
   numberOfHits: 0
 --- !u!50 &5081961073209448246
 Rigidbody2D:
@@ -5654,7 +5654,6 @@ MonoBehaviour:
   shoot: {fileID: 7472074153265495719}
   obj: {fileID: 7472074154805038134}
   cinetics: {fileID: 0}
-  playerIndex: 1
   lastWalked: 0
   lastEffectType: 0
   lastX: 0
@@ -5716,6 +5715,7 @@ MonoBehaviour:
   attackRecov: 0
   screenPlayColor: 0
   cantChangeInstantVars: 0
+  vibrationActive: 0
 --- !u!114 &7472074155079107187
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -629,7 +629,7 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 3
+    intParameter: 2
     messageOptions: 0
   - time: 0.06666667
     functionName: TypeOfHit
@@ -650,7 +650,7 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 6
+    intParameter: 10
     messageOptions: 0
   - time: 0.48333332
     functionName: TypeOfHit

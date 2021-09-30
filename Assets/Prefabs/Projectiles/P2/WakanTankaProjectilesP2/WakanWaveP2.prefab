@@ -145,7 +145,7 @@ MonoBehaviour:
   boomerangBack: 0
   specialProjectile: 0
   hitType: 0
-  lastDamage: 0
+  lastDamage: 17
   lastEffectType: 0
   attackHardness: 0
   lastX: 0

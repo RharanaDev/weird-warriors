@@ -85,7 +85,7 @@ public class Projectile : MonoBehaviour
         {
             collisionCount++;
             rb.velocity = Vector2.zero;
-            if (projectiletipe == 2)
+            if (projectiletipe == 2 && isntInstant)
             {
                 if (boomerangBack)
                 {
@@ -99,6 +99,11 @@ public class Projectile : MonoBehaviour
                     StopCoroutine("Boomerang");
                     anim.SetTrigger("PRRRT");
                 }
+            }
+            else if(projectiletipe == 2 && !isntInstant)
+            {
+                StopCoroutine("Boomerang");
+                anim.SetTrigger("PRRRT");
             }
             else if(projectiletipe == 1)
             {
@@ -169,7 +174,6 @@ public class Projectile : MonoBehaviour
     {
         if (phase2)
         {
-
             rb.velocity = transform.right * 1.5f * -velocity;
             yield return new WaitForSeconds(timeIncrement / 1.5f);
             database.myAnim.SetTrigger("CatchHead");

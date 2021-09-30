@@ -90,21 +90,14 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 5
+    intParameter: 6
     messageOptions: 0
   - time: 0
-    functionName: ConcreteEffectY
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 4.3
-    intParameter: 0
-    messageOptions: 0
-  - time: 0
-    functionName: ConcreteEffectX
+    functionName: Hardness
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 0
+    intParameter: 1
     messageOptions: 0
   - time: 0
     functionName: CustomEffectNeeded
@@ -114,9 +107,16 @@ AnimationClip:
     intParameter: 1
     messageOptions: 0
   - time: 0
-    functionName: Hardness
+    functionName: ConcreteEffectX
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 1
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: ConcreteEffectY
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 4.3
+    intParameter: 0
     messageOptions: 0

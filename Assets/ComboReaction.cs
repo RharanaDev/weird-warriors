@@ -151,10 +151,10 @@ public class ComboReaction : MonoBehaviour
             case 1: //WakanTanka
                 requiredString = dataBase.inputScript.currentString.Substring(3);
                 securityString = dataBase.inputScript.currentString.Substring(2);
-                if (requiredString == "656" && dataBase.myFighter.lookDirection == 1 && dataBase.inputScript.comboCanBeActive && !cooldowning|| requiredString == "454" 
+                if (requiredString == "454" && dataBase.myFighter.lookDirection == 1 && dataBase.inputScript.comboCanBeActive && !cooldowning|| requiredString == "656" 
                     && dataBase.myFighter.lookDirection == -1 && dataBase.inputScript.comboCanBeActive && !cooldowning
-                    || securityString == "6565" && dataBase.myFighter.lookDirection == 1 && dataBase.inputScript.comboCanBeActive && !cooldowning
-                    || securityString == "4545" && dataBase.myFighter.lookDirection == -1 && dataBase.inputScript.comboCanBeActive && !cooldowning)
+                    || securityString == "4545" && dataBase.myFighter.lookDirection == 1 && dataBase.inputScript.comboCanBeActive && !cooldowning
+                    || securityString == "6565" && dataBase.myFighter.lookDirection == -1 && dataBase.inputScript.comboCanBeActive && !cooldowning)
                 {
                     result = true;
                     dataBase.myAnimationScript.StunCombo();

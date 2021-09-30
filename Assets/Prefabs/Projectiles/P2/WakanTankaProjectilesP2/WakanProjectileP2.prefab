@@ -157,12 +157,13 @@ MonoBehaviour:
   time2: 0
   boomerangBack: 0
   specialProjectile: 1
-  hitType: 0
-  lastDamage: 0
-  lastEffectType: 0
-  attackHardness: 0
+  hitType: 15
+  lastDamage: 6
+  lastEffectType: 1
+  attackHardness: 1
   lastX: 0
-  lastY: 0
+  lastY: 4.3
+  tilter: {fileID: 0}
 --- !u!50 &8789051708681440442
 Rigidbody2D:
   serializedVersion: 4

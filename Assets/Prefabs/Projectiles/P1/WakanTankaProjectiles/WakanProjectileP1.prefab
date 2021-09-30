@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 2137330659425006254}
   - component: {fileID: 2137330659425006241}
   - component: {fileID: 2137330659425006252}
-  - component: {fileID: 117841935067778492}
   - component: {fileID: 8789051708681440442}
+  - component: {fileID: 3558072841097400427}
   m_Layer: 2
   m_Name: WakanProjectileP1
   m_TagString: SpecialComboPartP1
@@ -121,7 +121,28 @@ CircleCollider2D:
   m_Offset: {x: 0.039759398, y: 1.3768377}
   serializedVersion: 2
   m_Radius: 1.2375703
---- !u!114 &117841935067778492
+--- !u!50 &8789051708681440442
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137330659425006240}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &3558072841097400427
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -157,30 +178,10 @@ MonoBehaviour:
   time2: 0
   boomerangBack: 0
   specialProjectile: 1
-  hitType: 0
-  lastDamage: 0
-  lastEffectType: 0
-  attackHardness: 0
+  hitType: 15
+  lastDamage: 6
+  lastEffectType: 1
+  attackHardness: 1
   lastX: 0
-  lastY: 0
---- !u!50 &8789051708681440442
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2137330659425006240}
-  m_BodyType: 1
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
+  lastY: 4.3
+  tilter: {fileID: 0}

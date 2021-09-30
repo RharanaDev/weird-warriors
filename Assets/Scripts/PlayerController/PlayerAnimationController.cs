@@ -77,6 +77,7 @@ public class PlayerAnimationController : MonoBehaviour
     public int attackTime, attackDur, attackRecov;
     public int screenPlayColor;
     public bool cantChangeInstantVars;
+    public bool vibrationActive;
     #endregion
     void Awake()
     {
@@ -368,6 +369,7 @@ public class PlayerAnimationController : MonoBehaviour
     public void CanAttack()
     {
         fighter.canAttack = true;
+        vibrationActive = false;
     }
     public void StunCombo()
     {
@@ -578,11 +580,31 @@ public class PlayerAnimationController : MonoBehaviour
     {
         if (dataBase.myDamageScript.hitPerformed == 16 || dataBase.myDamageScript.hitPerformed == 3)
         {
-            StartCoroutine(DramaticPause.Pause(0.17f));
+            if (!dataBase.enemyAnimationScript.vibrationActive)
+            {
+                StartCoroutine(DramaticPause.Pause(0.17f));
+            }
+            else if (dataBase.enemyAnimationScript.vibrationActive)
+			{
+                vibrationActive = false;
+                ShakeEffect.isShaking = true;
+                StartCoroutine(DramaticPause.Pause(0.2f));
+                dataBase.myDamageScript.shaker.StartCoroutine("Shake", 0.15f);
+            }
         }
         else if(dataBase.myDamageScript.hitPerformed == 1 || dataBase.myDamageScript.hitPerformed == 4 || dataBase.myDamageScript.hitPerformed == 13 || dataBase.myDamageScript.hitPerformed == 14)
         {
-            StartCoroutine(DramaticPause.Pause(0.10f));
+            if (!dataBase.enemyAnimationScript.vibrationActive)
+            {
+                StartCoroutine(DramaticPause.Pause(0.10f));
+            }
+            else if (dataBase.enemyAnimationScript.vibrationActive)
+            {
+                vibrationActive = false;
+                ShakeEffect.isShaking = true;
+                StartCoroutine(DramaticPause.Pause(0.2f));
+                dataBase.myDamageScript.shaker.StartCoroutine("Shake", 0.15f);
+            }
         }
         else if (dataBase.myDamageScript.hitPerformed == 15 || dataBase.myDamageScript.hitPerformed == 5)
         {
@@ -844,6 +866,10 @@ public class PlayerAnimationController : MonoBehaviour
     public void TiltUp(int HowMuchBars)
     {
         tilter.StartCoroutine("Hey", HowMuchBars);
+    }
+    public void ActivateVibration()
+	{
+        vibrationActive = true;
     }
 
 	#region AutoCheckedVariables

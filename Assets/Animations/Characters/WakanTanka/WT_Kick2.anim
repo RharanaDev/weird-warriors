@@ -667,11 +667,39 @@ AnimationClip:
     intParameter: 2
     messageOptions: 0
   - time: 0
+    functionName: ClashRecov
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 6
+    messageOptions: 0
+  - time: 0
     functionName: SoundManager
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 4
+    messageOptions: 0
+  - time: 0
+    functionName: ClashTime
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 16
+    messageOptions: 0
+  - time: 0
+    functionName: ClashDur
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 3
+    messageOptions: 0
+  - time: 0.016666668
+    functionName: MakeACall
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
     messageOptions: 0
   - time: 0.06666667
     functionName: ConcreteEffectY
@@ -706,7 +734,7 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 8
+    intParameter: 6
     messageOptions: 0
   - time: 0.2
     functionName: CustomEffectNeeded

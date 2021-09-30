@@ -628,20 +628,6 @@ AnimationClip:
     intParameter: 0
     messageOptions: 0
   - time: 0
-    functionName: StopAura
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 0
-    functionName: CantAttack
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 0
     functionName: SoundManager
     data: 
     objectReferenceParameter: {fileID: 0}
@@ -656,7 +642,14 @@ AnimationClip:
     intParameter: 2
     messageOptions: 0
   - time: 0
-    functionName: ScreenPlay
+    functionName: CantAttack
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0
+    functionName: StopAura
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
@@ -669,43 +662,78 @@ AnimationClip:
     floatParameter: 50
     intParameter: 4
     messageOptions: 0
-  - time: 0.28333333
-    functionName: CustomEffectNeeded
+  - time: 0.25
+    functionName: ActivateVibration
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 2
+    intParameter: 0
     messageOptions: 0
-  - time: 0.28333333
-    functionName: TypeOfHit
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 1
-    messageOptions: 0
-  - time: 0.28333333
+  - time: 0.25
     functionName: LastDamage
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 10
     messageOptions: 0
-  - time: 0.28333333
+  - time: 0.25
+    functionName: TypeOfHit
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 3
+    messageOptions: 0
+  - time: 0.25
     functionName: Hardness
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 3
     messageOptions: 0
+  - time: 0.25
+    functionName: CustomEffectNeeded
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 2
+    messageOptions: 0
+  - time: 0.4
+    functionName: ScreenPlay
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.55
+    functionName: ActivateVibration
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.56666666
+    functionName: LastDamage
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 20
+    messageOptions: 0
+  - time: 0.56666666
+    functionName: TypeOfHit
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
   - time: 0.7
-    functionName: UnInvincibility
+    functionName: BlockFix
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
   - time: 0.7
-    functionName: BlockFix
+    functionName: UnInvincibility
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
