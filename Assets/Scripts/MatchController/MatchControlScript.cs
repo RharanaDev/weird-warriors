@@ -12,6 +12,8 @@ public class MatchControlScript : MonoBehaviour
     public int lastPlayerWon;
     public TextScript text;
     public static bool matchWillOver;
+    public Vector3 camPos;
+    public bool alreadyChosenCamPos;
     public void Start()
     {
         ControlDisable(false);
@@ -72,6 +74,7 @@ public class MatchControlScript : MonoBehaviour
         }
         else if (enable == true)
         {
+            camPos = transform.position;
             dataBasePlayer1.inputScript.enabled = dataBasePlayer1.myAttackScript.enabled = dataBasePlayer1.myDamageScript.enabled = dataBasePlayer1.myMoveScript.enabled = dataBasePlayer1.myMana.enabled = true;
             dataBasePlayer2.inputScript.enabled = dataBasePlayer2.myAttackScript.enabled = dataBasePlayer2.myDamageScript.enabled = dataBasePlayer2.myMoveScript.enabled = dataBasePlayer2.myMana.enabled = true;
             CountDown.countDown = 99;
@@ -88,6 +91,11 @@ public class MatchControlScript : MonoBehaviour
         else if(lastPlayerWon == 2)
         {
             dataBasePlayer1.myAnimationScript.Revive();
+        }
+		if (!alreadyChosenCamPos)
+        {
+            transform.position = camPos;
+            alreadyChosenCamPos = true;
         }
         dataBasePlayer1.player1.transform.position = dataBasePlayer1.myMoveScript.originalPos;
         dataBasePlayer2.player2.transform.position = dataBasePlayer2.myMoveScript.originalPos;

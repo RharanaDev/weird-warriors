@@ -666,7 +666,7 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 5
+    intParameter: 8
     messageOptions: 0
   - time: 0.7
     functionName: Hardness
@@ -765,6 +765,13 @@ AnimationClip:
     objectReferenceParameter: {fileID: 0}
     floatParameter: 4
     intParameter: 0
+    messageOptions: 0
+  - time: 1.5166667
+    functionName: LastDamage
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 9
     messageOptions: 0
   - time: 1.7
     functionName: ConcreteEffectX

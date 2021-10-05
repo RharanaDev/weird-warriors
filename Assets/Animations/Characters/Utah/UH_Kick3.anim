@@ -366,28 +366,28 @@ AnimationClip:
     intParameter: 5
     messageOptions: 0
   - time: 0
+    functionName: Limitations
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 2
+    messageOptions: 0
+  - time: 0
     functionName: ClashRecov
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 9
     messageOptions: 0
-  - time: 0.016666668
-    functionName: MakeACall
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
-  - time: 0.033333335
+  - time: 0
     functionName: CantAttack
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.033333335
-    functionName: Limitations
+  - time: 0.016666668
+    functionName: MakeACall
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
