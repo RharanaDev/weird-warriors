@@ -14,49 +14,93 @@ public class MatchControlScript : MonoBehaviour
     public static bool matchWillOver;
     public Vector3 camPos;
     public bool alreadyChosenCamPos;
+    public TiltScript tilt;
     public void Start()
     {
         ControlDisable(false);
     }
-    public void OnWin(int loser)
+    public void OnWin(int loser, bool fromTime)
     {
-        switch (loser)
-        {
-            case 2:
-                player1wins++;
-                victor.StartCoroutine("AddVictory", 1);
-                lastPlayerWon = 1;
-                if (player1wins < 2)
-                {
-                    StartCoroutine(text.AppearKO());
-                }
-                else if (player1wins == 2)
-                {
-                    StartCoroutine(WaitVictory(1));
-                    text.MatchWillOver = true;
-                    StartCoroutine(text.AppearKO());
-                    matchWillOver = true;
-                    StartCoroutine("GoHome");
-                }
-                break;
-            case 1:
-                player2wins++;
-                victor.StartCoroutine("AddVictory", 2);
-                lastPlayerWon = 2;
-                if (player2wins < 2)
-                {
-                    StartCoroutine(text.AppearKO());
-                }
-                else if (player2wins == 2)
-                {
-                    StartCoroutine(WaitVictory(2));
-                    text.MatchWillOver = true;
-                    matchWillOver = true;
-                    StartCoroutine(text.AppearKO());
-                    StartCoroutine("GoHome");
-                }
-                break;
+		if (!fromTime)
+		{
+            switch (loser)
+            {
+                case 2:
+                    player1wins++;
+                    victor.StartCoroutine("AddVictory", 1);
+                    lastPlayerWon = 1;
+                    if (player1wins < 2)
+                    {
+                        StartCoroutine(text.AppearKO());
+                    }
+                    else if (player1wins == 2)
+                    {
+                        StartCoroutine(WaitVictory(1));
+                        text.MatchWillOver = true;
+                        StartCoroutine(text.AppearKO());
+                        matchWillOver = true;
+                        StartCoroutine("GoHome");
+                    }
+                    break;
+                case 1:
+                    player2wins++;
+                    victor.StartCoroutine("AddVictory", 2);
+                    lastPlayerWon = 2;
+                    if (player2wins < 2)
+                    {
+                        StartCoroutine(text.AppearKO());
+                    }
+                    else if (player2wins == 2)
+                    {
+                        StartCoroutine(WaitVictory(2));
+                        text.MatchWillOver = true;
+                        matchWillOver = true;
+                        StartCoroutine(text.AppearKO());
+                        StartCoroutine("GoHome");
+                    }
+                    break;
+            }
         }
+		else
+		{
+            switch (loser)
+            {
+                case 2:
+                    player1wins++;
+                    victor.StartCoroutine("AddVictory", 1);
+                    lastPlayerWon = 1;
+                    if (player1wins < 2)
+                    {
+                        tilt.Fade(matchWillOver);
+                    }
+                    else if (player1wins == 2)
+                    {
+                        StartCoroutine(WaitVictory(1));
+                        text.MatchWillOver = true;
+                        matchWillOver = true;
+                        tilt.Fade(matchWillOver);
+                        StartCoroutine("GoHome");
+                    }
+                    break;
+                case 1:
+                    player2wins++;
+                    victor.StartCoroutine("AddVictory", 2);
+                    lastPlayerWon = 2;
+                    if (player2wins < 2)
+                    {
+                        tilt.Fade(matchWillOver);
+                    }
+                    else if (player2wins == 2)
+                    {
+                        StartCoroutine(WaitVictory(2));
+                        matchWillOver = true;
+                        tilt.Fade(matchWillOver);
+                        StartCoroutine("GoHome");
+                    }
+                    break;
+            }
+		}
+        
         ControlDisable(false);
     }
     public void ControlDisable(bool enable)
@@ -77,7 +121,7 @@ public class MatchControlScript : MonoBehaviour
             camPos = transform.position;
             dataBasePlayer1.inputScript.enabled = dataBasePlayer1.myAttackScript.enabled = dataBasePlayer1.myDamageScript.enabled = dataBasePlayer1.myMoveScript.enabled = dataBasePlayer1.myMana.enabled = true;
             dataBasePlayer2.inputScript.enabled = dataBasePlayer2.myAttackScript.enabled = dataBasePlayer2.myDamageScript.enabled = dataBasePlayer2.myMoveScript.enabled = dataBasePlayer2.myMana.enabled = true;
-            CountDown.countDown = 99;
+            CountDown.countDown = 11;
             CountDown.active = true;
             PauseScript.pauseCanBeMade = true;
         }

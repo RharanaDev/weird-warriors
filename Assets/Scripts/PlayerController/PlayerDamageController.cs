@@ -458,7 +458,7 @@ public class PlayerDamageController : MonoBehaviour
                 dataBase.myAnim.SetTrigger("AirDeath");
             }
             fighter.currentLife = 0;
-            controlScript.OnWin(dataBase.playerNumber);
+            controlScript.OnWin(dataBase.playerNumber, false);
             matchIsOn = false;
         }
     }

@@ -95,6 +95,12 @@ TextureImporter:
   - first:
       213: 3025962916250709566
     second: UIEffectsDevSprites_30
+  - first:
+      213: -8870235165444134263
+    second: UIEffectsDevSprites_31
+  - first:
+      213: 2146081301467436335
+    second: UIEffectsDevSprites_32
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -439,10 +445,10 @@ TextureImporter:
         serializedVersion: 2
         x: 11
         y: 70
-        width: 106
+        width: 61
         height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4754098, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -460,10 +466,10 @@ TextureImporter:
         serializedVersion: 2
         x: 122
         y: 72
-        width: 106
+        width: 61
         height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4754098, y: 0.48979592}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -481,10 +487,10 @@ TextureImporter:
         serializedVersion: 2
         x: 234
         y: 75
-        width: 106
+        width: 61
         height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.4754098, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -807,6 +813,69 @@ TextureImporter:
       bones: []
       spriteID: 5a201da4d74433950800000000000000
       internalID: 6427556398104642213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIEffectsDevSprites_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 75
+        width: 41
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ee0a67d316ef920800000000000000
+      internalID: 3025962916250709566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIEffectsDevSprites_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 72
+        width: 41
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.48979592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a26811d1896e480800000000000000
+      internalID: -8870235165444134263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UIEffectsDevSprites_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 70
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4390244, y: 0.49090907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251311c29968cd10800000000000000
+      internalID: 2146081301467436335
       vertices: []
       indices: 
       edges: []

@@ -5,7 +5,7 @@ using TMPro;
 
 public class CountDown : MonoBehaviour
 {
-    public static float countDown = 99;
+    public static float countDown = 11;
     int firstDigit, secondDigit;
     int countdowner;
     public SpriteRenderer spriteDigit, spriteDigit2;
@@ -14,6 +14,9 @@ public class CountDown : MonoBehaviour
     public Vector2[] transformRequired;
     bool gameEnded;
     public static bool active;
+    public MatchControlScript match;
+    public InstanceSaver dataBase1, dataBase2;
+    public GameObject timesUp;
 
     private void Update()
     {
@@ -154,10 +157,24 @@ public class CountDown : MonoBehaviour
         if (!gameEnded)
         {
             gameEnded = true;
-            Debug.Log("TimeIsOver"); //
+            timesUp.SetActive(true);
+            match.OnWin(CheckForLife(), true);
             active = false;
-            //enabled = false;
         }
-
+    }
+    public int CheckForLife()
+    {
+        if (dataBase1.myFighter.currentLife > dataBase2.myFighter.currentLife)
+		{
+            return 2;
+        }
+        else if (dataBase2.myFighter.currentLife > dataBase1.myFighter.currentLife)
+        {
+            return 1;
+        }
+        else
+        {
+            return 0;
+        }
     }
 }

@@ -415,9 +415,11 @@ public class PlayerAnimationController : MonoBehaviour
         switch (confusion)
         {
             case 0:
+                anim.SetBool("ConfusedBool", false);
                 fighter.isStunned = false;
                 break;
             case 1:
+                anim.SetBool("ConfusedBool", true);
                 fighter.isStunned = true;
                 break;
         }
