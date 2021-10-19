@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//using XInputDotNetPure;
 
 public class PlayerAnimationController : MonoBehaviour
 {
@@ -21,14 +20,15 @@ public class PlayerAnimationController : MonoBehaviour
     public int lastDamage;
     public GameObject Ray;
     public GameObject Missile;
-    public TiltScript tilt;
+    public UI_RoundTransition roundTrans;
+    public UI_AnimatedDoodles animatedUI;
     public bool collisionIgnored;
     public bool hasAdvanced;
     public int debuggerJustOneHit;
     public bool debuggerBoolHit;
     public int catSituationLeo;
     public static int actives;
-    public static bool timeToFade, timeToWin;
+    public static bool timeToFade, timeToWin, timeToFadeAbs;
 
     #region StringID
     [HideInInspector] public int movingID = Animator.StringToHash("Moving");
@@ -82,7 +82,8 @@ public class PlayerAnimationController : MonoBehaviour
     void Awake()
     {
         cinetics = GameObject.Find("Cinetics").GetComponent<Cinetics>();
-        tilt = GameObject.Find("Filter").GetComponent<TiltScript>();
+        roundTrans = GameObject.Find("Filter").GetComponent<UI_RoundTransition>();
+        animatedUI = GameObject.Find("AnimatedUI").GetComponent<UI_AnimatedDoodles>();
         anim = GetComponentInParent<Animator>();
         sfx = Camera.main.GetComponent<SpecialEffects>();
         clashy = Camera.main.GetComponent<ClashScript>();
@@ -360,7 +361,7 @@ public class PlayerAnimationController : MonoBehaviour
     }
     public void SlowDownTime()
     {
-        Time.timeScale = 0.7f;
+        //Time.timeScale = 0.7f;
     }
     public void UnSlowDownTime()
     {
@@ -446,10 +447,10 @@ public class PlayerAnimationController : MonoBehaviour
         switch (fighter.playerNumber)
         {
             case 1:
-                CameraMove.specialCameraMove1 = false;
+                Cam_Movement.specialCameraMove1 = false;
                 break;
             case 2:
-                CameraMove.specialCameraMove2 = false;
+                Cam_Movement.specialCameraMove2 = false;
                 break;
         }
     }
@@ -649,10 +650,6 @@ public class PlayerAnimationController : MonoBehaviour
     {
         fighter.isDoingCombo2 = false;
     }
-    public void Tilt(float time)
-    {
-        StartCoroutine(tilt.isTilting(time));
-    }
     public void Transformium(int transforming)
     {
         if(transforming == 0)
@@ -717,10 +714,6 @@ public class PlayerAnimationController : MonoBehaviour
     public void TimeNormal()
     {
         Time.timeScale = 1f;
-    }
-    public void IsReady()
-    {
-        tilt.LetsFight(0);
     }
     public void Victory()
     {
@@ -788,10 +781,7 @@ public class PlayerAnimationController : MonoBehaviour
         anim.ResetTrigger(destroyerComboID);
         anim.ResetTrigger(comboSpecialID);
         anim.ResetTrigger(stunComboID);
-        if (fighter.ID == 0)
-        {
-            anim.ResetTrigger("SuperCombo");
-        }
+        anim.ResetTrigger("SuperCombo");
     }
     public void NewSumMana()
     {
@@ -840,10 +830,10 @@ public class PlayerAnimationController : MonoBehaviour
         switch (fighter.playerNumber)
         {
             case 1:
-                CameraMove.specialCameraMove1 = true;
+                Cam_Movement.specialCameraMove1 = true;
                 break;
             case 2:
-                CameraMove.specialCameraMove2 = true;
+                Cam_Movement.specialCameraMove2 = true;
                 break;
         }
     }
@@ -851,19 +841,19 @@ public class PlayerAnimationController : MonoBehaviour
     {
         Time.timeScale = 0.25f;
     }
-    public IEnumerator StartFading()
+    public void StartFading(int abs)
     {
-        timeToWin = true;
-        yield return new WaitForSeconds(1.5f);
-        if (!MatchControlScript.matchWillOver)
-        {
+        if(abs == 0)
+		{
             timeToFade = true;
         }
-        else if (MatchControlScript.matchWillOver)
+		else
         {
-            timeToFade = true;
+            timeToFadeAbs = true;
         }
+
     }
+
 
     public void TiltUp(int HowMuchBars)
     {
@@ -873,10 +863,14 @@ public class PlayerAnimationController : MonoBehaviour
 	{
         vibrationActive = true;
     }
+    public void IsReady()
+    {
+        animatedUI.LetsFightDoodleManager(false);
+    }
 
-	#region AutoCheckedVariables
+    #region AutoCheckedVariables
 
-	public void TypeOfHit(int type)
+    public void TypeOfHit(int type)
     {
         if (!cantChangeInstantVars)
         {

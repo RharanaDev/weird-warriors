@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraMove : MonoBehaviour
+public class Cam_Movement : MonoBehaviour
 {
     public InstanceSaver database1, database2;
     public Vector3 offset;
@@ -19,10 +19,10 @@ public class CameraMove : MonoBehaviour
     private PlayerGeneralMoveController playerInfo2;
     Vector3 rot;
     public float rotProd;
-    float cameraMidPoint;
+    public float cameraMidPoint;
     public float player1width, player2width;
     private BoxCollider2D boxco1, boxco2;
-    bool enableCamMove;
+    public bool enableCamMove;
     public float targety;
     public static int dummyCount, bigDummyCount;
     public static bool slowly;
@@ -43,25 +43,23 @@ public class CameraMove : MonoBehaviour
     public static bool cameraBeingAltered;
     public float actualsize;
     float higher;
-    // Start is called before the first frame update
-    void Start()
+
+	void OnEnable()
     {
-        actualsize = 1.777778f / ((float) Screen.currentResolution.width / (float) Screen.currentResolution.height);
-        cameraUp = offset.y;
+        actualsize = 1.777778f / ((float)Screen.currentResolution.width / (float)Screen.currentResolution.height);
         player1 = GameObject.FindGameObjectWithTag("Player");
         player2 = GameObject.FindGameObjectWithTag("PlayerTwo");
         playerInfo1 = player1.GetComponentInChildren<PlayerGeneralMoveController>();
         playerInfo2 = player2.GetComponentInChildren<PlayerGeneralMoveController>();
         boxco1 = player1.GetComponent<BoxCollider2D>();
         boxco2 = player2.GetComponent<BoxCollider2D>();
-        player1width = boxco1.size.x/ 2;
-        player2width = boxco2.size.x /2;
-        StartCoroutine("LateStart");
+        cameraUp = offset.y;
+        player1width = boxco1.size.x / 2;
+        player2width = boxco2.size.x / 2;
     } //4.89 a //6.626357 //0.41f
 
-    IEnumerator LateStart()
+    void Start()
     {
-        yield return new WaitForSecondsRealtime(0.1f);
         debugDistance1 = Mathf.Abs(player1.transform.position.y - transform.position.y);
         debugDistance2 = Mathf.Abs(player2.transform.position.y - transform.position.y);
         averageDifference = Mathf.Abs(player1.transform.position.y - player2.transform.position.y);

@@ -15,6 +15,15 @@ public class Preview : MonoBehaviour
     public int finalCharID;
     public AudioSource source;
     public MatchData matchy;
+
+    public void PreviewOutSight()
+	{
+        anim.SetTrigger("Outer");
+    }
+    public void IsOut(int outie)
+	{
+        isOut = outie == 1 ? true : false;
+    }
     public void ChangeSprite(int sprite)
     {
         anim.SetTrigger("Enter");

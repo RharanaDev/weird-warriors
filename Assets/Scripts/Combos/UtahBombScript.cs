@@ -28,7 +28,7 @@ public class UtahBombScript : MonoBehaviour
             if(myFather.position != target && !changeRoute)
             {
                 myFather.position = Vector3.MoveTowards(myFather.position, target, parameter * Time.deltaTime);
-                cam.orthographicSize = Mathf.MoveTowards(cam.orthographicSize, 6.6f * cam.GetComponent<CameraMove>().actualsize, expandVel * Time.deltaTime);
+                cam.orthographicSize = Mathf.MoveTowards(cam.orthographicSize, 6.6f * cam.GetComponent<Cam_Movement>().actualsize, expandVel * Time.deltaTime);
             }
             else if (myFather.position == target && !changeRoute)
             {
@@ -40,12 +40,12 @@ public class UtahBombScript : MonoBehaviour
             }
             else if(changeRoute && myFather.position != originalPos)
             {
-                cam.orthographicSize = Mathf.MoveTowards(cam.orthographicSize, cam.GetComponent<CameraMove>().cameraSizing * cam.GetComponent<CameraMove>().actualsize, expandVel * Time.deltaTime);
+                cam.orthographicSize = Mathf.MoveTowards(cam.orthographicSize, cam.GetComponent<Cam_Movement>().cameraSizing * cam.GetComponent<Cam_Movement>().actualsize, expandVel * Time.deltaTime);
                 myFather.position = Vector3.MoveTowards(myFather.position, originalPos, expandVel * Time.deltaTime);
             }
             else if (changeRoute && myFather.position == originalPos)
             {
-                CameraMove.cameraBeingAltered = false;
+                Cam_Movement.cameraBeingAltered = false;
                 fighter.isDoingCombo2 = false;
                 doneAlready = false;
                 changeRoute = false;
@@ -59,7 +59,7 @@ public class UtahBombScript : MonoBehaviour
         if (!doneAlready)
         {
             dataBase.myRb.isKinematic = true;
-            CameraMove.cameraBeingAltered = true;
+            Cam_Movement.cameraBeingAltered = true;
             doneAlready = true;
             target = myFather.position + (Vector3.up * 3.3f);
             originalPos = myFather.position;

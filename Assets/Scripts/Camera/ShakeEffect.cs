@@ -6,7 +6,7 @@ public class ShakeEffect : MonoBehaviour
 {
     public bool shake;
     public float strength;
-    public CameraMove camScript;
+    public Cam_Movement camScript;
     public float shakeDur;
     public static bool isShaking;
     float valueCrazy, valueCrazy2;

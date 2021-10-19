@@ -43,8 +43,8 @@ public class MarkerScript : MonoBehaviour
                 break;
         }
     }
-    void Start()
-    {
+	private void OnEnable()
+	{
         switch (markerNumber)
         {
             case 1:
@@ -81,6 +81,9 @@ public class MarkerScript : MonoBehaviour
                 }
                 break;
         }
+    }
+	void Start()
+    {
         virginity = true;
         takenPositions = new List<int>();
         playersReady = 0;

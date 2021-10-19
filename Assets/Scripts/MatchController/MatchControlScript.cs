@@ -10,18 +10,24 @@ public class MatchControlScript : MonoBehaviour
     public int player1wins, player2wins;
     public VictoriesHandler victor;
     public int lastPlayerWon;
-    public TextScript text;
-    public static bool matchWillOver;
+    public UI_KO KO;
     public Vector3 camPos;
     public bool alreadyChosenCamPos;
-    public TiltScript tilt;
+    public UI_RoundTransition roundTrans;
+    public UI_AnimatedDoodles animatedUI;
+    public Cam_Movement camMov;
+    [HideInInspector] public static bool matchWillOver;
+    [HideInInspector] public static float timeBetweenRounds = 0.25f;
+    [HideInInspector] public static int currentRound = 1;
     public void Start()
     {
         ControlDisable(false);
     }
     public void OnWin(int loser, bool fromTime)
     {
-		if (!fromTime)
+        currentRound++;
+        StartCoroutine(roundTrans.WaitForEventToFade());
+        if (!fromTime)
 		{
             switch (loser)
             {
@@ -31,13 +37,13 @@ public class MatchControlScript : MonoBehaviour
                     lastPlayerWon = 1;
                     if (player1wins < 2)
                     {
-                        StartCoroutine(text.AppearKO());
+                        StartCoroutine(KO.AppearKO());
                     }
                     else if (player1wins == 2)
                     {
                         StartCoroutine(WaitVictory(1));
-                        text.MatchWillOver = true;
-                        StartCoroutine(text.AppearKO());
+                        KO.MatchWillOver = true;
+                        StartCoroutine(KO.AppearKO());
                         matchWillOver = true;
                         StartCoroutine("GoHome");
                     }
@@ -48,14 +54,14 @@ public class MatchControlScript : MonoBehaviour
                     lastPlayerWon = 2;
                     if (player2wins < 2)
                     {
-                        StartCoroutine(text.AppearKO());
+                        StartCoroutine(KO.AppearKO());
                     }
                     else if (player2wins == 2)
                     {
                         StartCoroutine(WaitVictory(2));
-                        text.MatchWillOver = true;
+                        KO.MatchWillOver = true;
                         matchWillOver = true;
-                        StartCoroutine(text.AppearKO());
+                        StartCoroutine(KO.AppearKO());
                         StartCoroutine("GoHome");
                     }
                     break;
@@ -71,14 +77,14 @@ public class MatchControlScript : MonoBehaviour
                     lastPlayerWon = 1;
                     if (player1wins < 2)
                     {
-                        tilt.Fade(matchWillOver);
+                        roundTrans.FadeEffect(matchWillOver);
                     }
                     else if (player1wins == 2)
                     {
                         StartCoroutine(WaitVictory(1));
-                        text.MatchWillOver = true;
+                        KO.MatchWillOver = true;
                         matchWillOver = true;
-                        tilt.Fade(matchWillOver);
+                        roundTrans.FadeEffect(matchWillOver);
                         StartCoroutine("GoHome");
                     }
                     break;
@@ -88,13 +94,13 @@ public class MatchControlScript : MonoBehaviour
                     lastPlayerWon = 2;
                     if (player2wins < 2)
                     {
-                        tilt.Fade(matchWillOver);
+                        roundTrans.FadeEffect(matchWillOver);
                     }
                     else if (player2wins == 2)
                     {
                         StartCoroutine(WaitVictory(2));
                         matchWillOver = true;
-                        tilt.Fade(matchWillOver);
+                        roundTrans.FadeEffect(matchWillOver);
                         StartCoroutine("GoHome");
                     }
                     break;
@@ -105,7 +111,20 @@ public class MatchControlScript : MonoBehaviour
     }
     public void ControlDisable(bool enable)
     {
-        if (enable == false)
+        if (enable)
+        {
+            if (!alreadyChosenCamPos)
+            {
+                camPos = transform.position;
+                alreadyChosenCamPos = true;
+            }
+            camMov.enableCamMove = true;
+            dataBasePlayer1.inputScript.enabled = dataBasePlayer1.myAttackScript.enabled = dataBasePlayer1.myDamageScript.enabled = dataBasePlayer1.myMoveScript.enabled = dataBasePlayer1.myMana.enabled = true;
+            dataBasePlayer2.inputScript.enabled = dataBasePlayer2.myAttackScript.enabled = dataBasePlayer2.myDamageScript.enabled = dataBasePlayer2.myMoveScript.enabled = dataBasePlayer2.myMana.enabled = true;
+            CountDown.active = true;
+            PauseScript.pauseCanBeMade = true;
+        }
+        else
         {
             dataBasePlayer1.myMoveScript.MoveExit();
             dataBasePlayer1.inputScript.UnBlock();
@@ -115,15 +134,6 @@ public class MatchControlScript : MonoBehaviour
             dataBasePlayer2.inputScript.enabled = dataBasePlayer2.myAttackScript.enabled = dataBasePlayer2.myDamageScript.enabled = dataBasePlayer2.myMoveScript.enabled = dataBasePlayer2.myMana.enabled = false;
             CountDown.active = false;
             PauseScript.pauseCanBeMade = false;
-        }
-        else if (enable == true)
-        {
-            camPos = transform.position;
-            dataBasePlayer1.inputScript.enabled = dataBasePlayer1.myAttackScript.enabled = dataBasePlayer1.myDamageScript.enabled = dataBasePlayer1.myMoveScript.enabled = dataBasePlayer1.myMana.enabled = true;
-            dataBasePlayer2.inputScript.enabled = dataBasePlayer2.myAttackScript.enabled = dataBasePlayer2.myDamageScript.enabled = dataBasePlayer2.myMoveScript.enabled = dataBasePlayer2.myMana.enabled = true;
-            CountDown.countDown = 11;
-            CountDown.active = true;
-            PauseScript.pauseCanBeMade = true;
         }
     }
     public void ResetMatch()
@@ -136,11 +146,9 @@ public class MatchControlScript : MonoBehaviour
         {
             dataBasePlayer1.myAnimationScript.Revive();
         }
-		if (!alreadyChosenCamPos)
-        {
-            transform.position = camPos;
-            alreadyChosenCamPos = true;
-        }
+        camMov.enableCamMove = false;
+        transform.position = camPos;
+        CountDown.countDown = 99;
         dataBasePlayer1.player1.transform.position = dataBasePlayer1.myMoveScript.originalPos;
         dataBasePlayer2.player2.transform.position = dataBasePlayer2.myMoveScript.originalPos;
         dataBasePlayer1.enemyFighter.Redo();
@@ -149,6 +157,7 @@ public class MatchControlScript : MonoBehaviour
         dataBasePlayer2.myDamageScript.RestartBars();
         PlayerDamageController.matchIsOn = true;
     }
+
     public IEnumerator WaitVictory(int player)
     {
         yield return new WaitForSeconds(1f);
@@ -161,10 +170,5 @@ public class MatchControlScript : MonoBehaviour
                 dataBasePlayer2.myAnimationScript.Victory();
                 break;
         }
-    }
-    IEnumerator GoHome()
-    {
-        yield return new WaitForSecondsRealtime(8);
-        SceneManager.LoadScene("MenuSelection");
     }
 }

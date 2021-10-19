@@ -209,7 +209,7 @@ public class PlayerGeneralMoveController : MonoBehaviour
     {
         PlayerGeneralMoveController.onAirNumber++;
         fighter.customRotate = false;
-        CameraMove.bigDummyCount++;
+        Cam_Movement.bigDummyCount++;
         database.myRb.AddForce(new Vector2(0, fighter.jumpForce));
         StartCoroutine(CameraFixJump());
     }
@@ -245,7 +245,7 @@ public class PlayerGeneralMoveController : MonoBehaviour
     {
         PlayerGeneralMoveController.onAirNumber++;
         fighter.customRotate = false;
-        CameraMove.dummyCount++;
+        Cam_Movement.dummyCount++;
         Vector2 force;
         force = new Vector2(debugSet * jumpVarDebugged, 3100);
         jumpVarDebugged = 0;
@@ -257,7 +257,7 @@ public class PlayerGeneralMoveController : MonoBehaviour
     {
         yield return new WaitForSeconds(0.3f);
         yield return new WaitUntil(() => isUpwards);
-        CameraMove.bigDummyCount--;
+        Cam_Movement.bigDummyCount--;
     }
     public IEnumerator Ignore()
     {
@@ -265,7 +265,7 @@ public class PlayerGeneralMoveController : MonoBehaviour
         Physics2D.IgnoreCollision(database.myBoxCo, database.enemyBoxCo, true);
         yield return new WaitForSeconds(0.3f);
         yield return new WaitUntil(() => isUpwards);
-        CameraMove.dummyCount--;
+        Cam_Movement.dummyCount--;
         fighter.canBeRepeled = true;
         if (!fighter.isAirAttacking)
         {
