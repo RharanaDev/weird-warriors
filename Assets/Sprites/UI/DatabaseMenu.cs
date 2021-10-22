@@ -12,10 +12,20 @@ public class DatabaseMenu : MonoBehaviour
     SpriteRenderer currentRenderer;
     public List<int> UnlockedChars;
     public AudioClip[] clip;
-
+    public Color errorColor, ogcolor;
     public void Confirm(int position)
     {
         currentRenderer = rosterIcons[position];
         currentRenderer.sprite = greyIcons[position];
+    }
+    public IEnumerator Fail(int position)
+    {
+        currentRenderer = rosterIcons[position];
+        for (int i = 0; i < 3; i++)
+        {
+            currentRenderer.color = errorColor;
+            yield return new WaitForSecondsRealtime(0.04f);
+            currentRenderer.color = ogcolor;
+        }
     }
 }

@@ -13,8 +13,10 @@ public class UI_PressStartInput : MonoBehaviour
 	public Color activeColor, deactiveColor;
 	public MarkerScript marker;
 	public Preview prev;
-	public Animator anim;
+	public Animator anim, anim2;
 	public int number;
+	bool alreadyActive;
+	public string[] triggers;
 	// Start is called before the first frame update
 	bool activatedController;
 	bool ableTomove;
@@ -22,7 +24,10 @@ public class UI_PressStartInput : MonoBehaviour
 
 	void Update()
     {
-		CheckNewActive();
+		if (!alreadyActive)
+		{
+			CheckNewActive();
+		}
 		if (ableTomove)
 		{
 			MoveAxisY();
@@ -47,6 +52,7 @@ public class UI_PressStartInput : MonoBehaviour
 		if (active)
 		{
 			prev.PreviewOutSight();
+			marker.enabled = false;
 			anim.SetTrigger("Appear");
 		}
 		else
@@ -56,7 +62,6 @@ public class UI_PressStartInput : MonoBehaviour
 			prev.ChangeSprite(marker.position - 1);
 			marker.CheckIfMorao();
 		}
-		marker.enabled = !active;
 	}
 	void MoveAxisY()
 	{
@@ -94,8 +99,10 @@ public class UI_PressStartInput : MonoBehaviour
 					GameOptions.display2 = posValue;
 					GameOptions.player2Controller = true;
 				}
-
+				marker.enabled = true;
+				anim2.SetTrigger(triggers[posValue]);
 				AllowMovement(0);
+				alreadyActive = true;
 				AddNewController(false);
 			}
 		}
@@ -104,5 +111,12 @@ public class UI_PressStartInput : MonoBehaviour
 	public void AllowMovement(int value)
 	{
 		ableTomove = value == 1 ? true : false;
+	}
+	public void isThisDefinitive()
+	{
+		if (alreadyActive)
+		{
+			gameObject.SetActive(false);
+		}
 	}
 }

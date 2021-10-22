@@ -20,6 +20,7 @@ public class MarkerScript : MonoBehaviour
     public Renderer rend;
     public MarkerScript otherMarker;
     public Animator anim;
+    public DatabaseMenu data;
     public static int playersReady;
     bool ready;
     public AudioSource sound;
@@ -27,7 +28,6 @@ public class MarkerScript : MonoBehaviour
 
     public int predict;
     public static List<int> takenPositions = new List<int>();
-
     // Update is called once per frame
     private void Awake()
     {
@@ -48,6 +48,7 @@ public class MarkerScript : MonoBehaviour
         switch (markerNumber)
         {
             case 1:
+                isMyControllerOn = GameOptions.player1Controller;
                 if (isMyControllerOn)
                 {
                     horizontal = "HorizontalController1";
@@ -65,6 +66,7 @@ public class MarkerScript : MonoBehaviour
                 break;
 
             case 2:
+                isMyControllerOn = GameOptions.player2Controller;
                 if (isMyControllerOn)
                 {
                     horizontal = "HorizontalController2";
@@ -90,11 +92,10 @@ public class MarkerScript : MonoBehaviour
     }
     void Update()
     {
-
         previousPosX = vectX;
         previousPosY = vectY;
-        vectX = Mathf.RoundToInt(Input.GetAxisRaw(horizontal));
-        vectY = Mathf.RoundToInt(Input.GetAxisRaw(vertical));
+        vectX = Mathf.FloorToInt(Input.GetAxis(horizontal));
+        vectY = Mathf.FloorToInt(Input.GetAxis(vertical));
 
         if (isActivated)
         {
@@ -138,7 +139,11 @@ public class MarkerScript : MonoBehaviour
     {
         if (Input.GetButtonDown(punch))
         {
-            if (!ready)
+            if (GameOptions.chosenChars.Contains(position))
+            {
+                data.StartCoroutine(data.Fail(position-1));
+            }
+            else if (!ready)
             {
                 ready = true;
                 playersReady++;
@@ -149,23 +154,6 @@ public class MarkerScript : MonoBehaviour
                     StartCoroutine("BeginGame");
                 }
             }
-        }
-        switch (markerNumber)
-        {
-            case 1:
-                if (Input.GetKey(KeyCode.E))
-                {
-                    GameOptions.player1Controller = true;
-                    Debug.Log("");
-                }
-                break;
-            case 2:
-                if (Input.GetKey(KeyCode.O))
-                {
-                    GameOptions.player2Controller = true;
-                    Debug.Log("");
-                }
-                break;
         }
     }
     IEnumerator BeginGame()
