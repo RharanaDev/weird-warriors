@@ -17,7 +17,6 @@ public class CabinDataReader : MonoBehaviour
     public SpriteRenderer[] Buttons; //Use Cheaply
     public TextMeshPro nameText;
     public SpriteRenderer manaNeeded;
-
     public void Start()
     {
         switch (dataBase.myFighter.ID) //MUST BETTEN LATER
@@ -53,19 +52,26 @@ public class CabinDataReader : MonoBehaviour
                 namely = sprites.LH_Names[number];
                 break;
         }
-
+    }
+	private void OnEnable()
+	{
         actualButtonList = GetButtonSprites();
         Constructor();
         GetSetName();
     }
-    public Sprite[] GetButtonSprites()
+	public Sprite[] GetButtonSprites()
     {
         enumeration = 0;
         Sprite[] buttonSprites = new Sprite[combo.Length/2];
         comboByParts = Utilities.CutString(combo, 2);
         foreach(string str in comboByParts)
         {
-            buttonSprites[enumeration] = sprites.graph_xbox[int.Parse(str)];
+            int number = int.Parse(str);
+			if (sprites.reversibleButtons.Contains(number) && dataBase.myFighter.lookDirection == -1)
+			{
+                number = sprites.reversibleOf[number];
+            }
+            buttonSprites[enumeration] = sprites.graph_xbox[number];
             enumeration++;
         }
         return buttonSprites;

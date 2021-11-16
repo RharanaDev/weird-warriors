@@ -8,7 +8,7 @@ public class MarkerScript : MonoBehaviour
     public int markerNumber;
     public bool isMyControllerOn;
     public string horizontal, vertical, punch, kick;
-    int vectX, vectY;
+    public int vectX, vectY;
     public Transform[] transforms;
     public int position, newPos;
     public int predictPos;
@@ -25,7 +25,6 @@ public class MarkerScript : MonoBehaviour
     bool ready;
     public AudioSource sound;
     public string[] sceneNames;
-
     public int predict;
     public static List<int> takenPositions = new List<int>();
     // Update is called once per frame
@@ -90,12 +89,34 @@ public class MarkerScript : MonoBehaviour
         takenPositions = new List<int>();
         playersReady = 0;
     }
+    public int CustomInputKeyboard(float num)
+	{
+        int result = 0;
+        if(num > 0)
+		{
+            result = 1;
+        }
+        else if (num < 0)
+        {
+            result = - 1;
+        }
+        return result;
+    }
+
     void Update()
     {
         previousPosX = vectX;
         previousPosY = vectY;
-        vectX = Mathf.FloorToInt(Input.GetAxis(horizontal));
-        vectY = Mathf.FloorToInt(Input.GetAxis(vertical));
+		if (isMyControllerOn)
+		{
+            vectX = Mathf.RoundToInt(Input.GetAxis(horizontal));
+            vectY = Mathf.RoundToInt(Input.GetAxis(vertical));
+        }
+		else
+		{
+            vectX = CustomInputKeyboard(Input.GetAxis(horizontal));
+            vectY = CustomInputKeyboard(Input.GetAxis(vertical));
+        }
 
         if (isActivated)
         {

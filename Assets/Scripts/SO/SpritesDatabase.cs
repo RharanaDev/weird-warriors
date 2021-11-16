@@ -10,4 +10,6 @@ public class SpritesDatabase : ScriptableObject
 	public string[] ZM_Names, UH_Names, WT_Names, GT_Names, LH_Names, HG_Names;
 	public int[] ZM_Mana, UH_Mana, WT_Mana, GT_Mana, LH_Mana, HG_Mana;
 	public Sprite[] manaNeeds;
+	public List<int> reversibleButtons;
+	public int[] reversibleOf;
 }
