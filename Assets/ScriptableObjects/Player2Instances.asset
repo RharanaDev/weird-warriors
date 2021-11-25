@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: Player2Instances
   m_EditorClassIdentifier: 
   playerNumber: 2
+  playerMode: 2
   player1: {fileID: 0}
   player2: {fileID: 0}
   enemy: {fileID: 0}
+  playerMe: {fileID: 0}
   myAttackScript: {fileID: 0}
   enemyAttackScript: {fileID: 0}
   myMoveScript: {fileID: 0}
@@ -24,6 +26,20 @@ MonoBehaviour:
   enemyDamageScript: {fileID: 0}
   myAnimationScript: {fileID: 0}
   enemyAnimationScript: {fileID: 0}
+  myDetection: {fileID: 0}
+  enemyDetection: {fileID: 0}
   myMana: {fileID: 0}
   enemyMana: {fileID: 0}
-  enemyFighter: {fileID: 11400000, guid: 5e867566020789043b2f356d47d8b4da, type: 2}
+  myPush: {fileID: 0}
+  enemyPush: {fileID: 0}
+  myFighter: {fileID: 11400000, guid: e07a44e8d4cb4394497f99cb7220094c, type: 2}
+  enemyFighter: {fileID: 11400000, guid: 115c3cbe5dddba54893a6f10673e6274, type: 2}
+  myBoxCo: {fileID: 0}
+  enemyBoxCo: {fileID: 0}
+  myRb: {fileID: 0}
+  enemyRb: {fileID: 0}
+  myAnim: {fileID: 0}
+  enemyAnim: {fileID: 0}
+  mySort: {fileID: 0}
+  enemySort: {fileID: 0}
+  inputScript: {fileID: 0}

@@ -6,6 +6,7 @@ using UnityEngine;
 public class InstanceSaver : ScriptableObject
 {
     public int playerNumber;
+    public int playerMode;
     [HideInInspector] public GameObject player1, player2;
     [HideInInspector] public GameObject enemy, playerMe;
     [HideInInspector] public PlayerAttack myAttackScript, enemyAttackScript;

@@ -26,6 +26,7 @@ public class MarkerScript : MonoBehaviour
     public AudioSource sound;
     public string[] sceneNames;
     public int predict;
+    public bool firstInitialization;
     public static List<int> takenPositions = new List<int>();
     // Update is called once per frame
     private void Awake()
@@ -33,17 +34,27 @@ public class MarkerScript : MonoBehaviour
         switch (markerNumber)
         {
             case 1:
-                isMyControllerOn = GameOptions.player1Controller;
                 position = 10;
                 break;
             case 2:
-                isMyControllerOn = GameOptions.player2Controller;
                 position = 11;
                 break;
         }
     }
 	private void OnEnable()
 	{
+        if (firstInitialization)
+        {
+            firstInitialization = true;
+            if (markerNumber == 1)
+            {
+                GameOptions.player1Controller = false;
+            }
+            else
+            {
+                GameOptions.player2Controller = false;
+            }
+        }
         switch (markerNumber)
         {
             case 1:
@@ -179,10 +190,18 @@ public class MarkerScript : MonoBehaviour
     }
     IEnumerator BeginGame()
     {
+        if (markerNumber == 1)
+        {
+            GameOptions.display1 = GameOptions.player1Controller ? GameOptions.display1 : 0;
+        }
+        else if(markerNumber == 2)
+        {
+            GameOptions.display2 = GameOptions.player2Controller ? GameOptions.display1 : 0;
+        }
         int n;
         n = Random.Range(0,3);
 
-        yield return new WaitForSecondsRealtime(6);
+        yield return new WaitForSecondsRealtime(3);
         SceneManager.LoadScene(sceneNames[n]);
     }
     void MoveOnX(int mode)

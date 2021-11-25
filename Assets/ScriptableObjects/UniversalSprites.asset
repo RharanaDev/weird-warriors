@@ -12,9 +12,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: adcaa44eead4d8243aea5ff5b4894262, type: 3}
   m_Name: UniversalSprites
   m_EditorClassIdentifier: 
-  graph_keys: []
-  graph_keys2: []
-  graph_playStation: []
+  graph_keys:
+  - {fileID: 7472639107755089746, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 8354505094147074004, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: -5969229600128855454, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -4409465379027442178, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: -1560256137536091055, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: -4536519628263614352, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: 9071948282383890079, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -8178456684980571011, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 7692094576681732550, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -7640947331441717770, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 4665734487646364244, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 5345110166994565311, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  graph_keys2:
+  - {fileID: 3632903378989743234, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 4165512384205702701, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: 5842325232086992118, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 1091384750992251110, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: 7977760707396364852, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: -3494496533538792296, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: -5618263855672667616, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 5828973867832727455, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 1580833300638207064, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 8923587098519870713, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -4942823877610360980, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -150839661732940598, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  graph_playStation:
+  - {fileID: 2279970904570966210, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 739533707218885059, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: -4027257229276565546, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 7577400244475922417, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: 5987468864931579179, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: 8669914580814618572, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: -2265588828052888872, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -2445078179290493429, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 4214656174563664323, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -8481768963222649914, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -1193454332451526239, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 6239870069051828596, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
   graph_xbox:
   - {fileID: 2177708825702471877, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
   - {fileID: 3534995687329625950, guid: bf6cfb044a66db44cb8874376b96a2c8, type: 3}
@@ -30,7 +72,21 @@ MonoBehaviour:
   - {fileID: -1675974432811843624, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
   - {fileID: 7341873505346939362, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
   - {fileID: -6884389342761586072, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
-  graph_nintendo: []
+  graph_nintendo:
+  - {fileID: 451510567640601528, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 511436450366337414, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: 2366828993025836731, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 9204162480330899474, guid: 793ecc83adaf2474cac522c48981985a, type: 3}
+  - {fileID: -5203600262037417106, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: -2032209044901936970, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 0}
+  - {fileID: 2603735549231735977, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -2405991558915175598, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -1178084981667365903, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: 823835147961316586, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -8720780509368613420, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
+  - {fileID: -5850201146707991132, guid: bec6972303b9f534cb4157a0d345ee9c, type: 3}
   ZM_Attacks:
   - 02030408
   - 000411

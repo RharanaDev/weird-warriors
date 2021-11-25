@@ -17,8 +17,12 @@ public class CabinDataReader : MonoBehaviour
     public SpriteRenderer[] Buttons; //Use Cheaply
     public TextMeshPro nameText;
     public SpriteRenderer manaNeeded;
-    public void Start()
+    bool yetDone;
+    int display;
+    public Sprite[] typeOfButons;
+    public void OnlyOnce()
     {
+        display = dataBase.myFighter.playerNumber == 1 ? GameOptions.display1: GameOptions.display2;
         switch (dataBase.myFighter.ID) //MUST BETTEN LATER
         {
             case 0:
@@ -52,9 +56,30 @@ public class CabinDataReader : MonoBehaviour
                 namely = sprites.LH_Names[number];
                 break;
         }
+        switch (display)
+        {
+            case 0:
+                typeOfButons = dataBase.playerNumber == 1 ? sprites.graph_keys : sprites.graph_keys2;
+                break;
+            case 1: //XBOX
+                typeOfButons = sprites.graph_xbox;
+                break;
+            case 2: //PS4
+                typeOfButons = sprites.graph_playStation;
+                break;
+            case 3: //Nintendo
+                typeOfButons = sprites.graph_nintendo;
+                break;
+        }
     }
 	private void OnEnable()
 	{
+        if (!yetDone)
+        {
+            OnlyOnce();
+            yetDone = true;
+        }
+
         actualButtonList = GetButtonSprites();
         Constructor();
         GetSetName();
@@ -71,7 +96,7 @@ public class CabinDataReader : MonoBehaviour
 			{
                 number = sprites.reversibleOf[number];
             }
-            buttonSprites[enumeration] = sprites.graph_xbox[number];
+            buttonSprites[enumeration] = typeOfButons[number];
             enumeration++;
         }
         return buttonSprites;
