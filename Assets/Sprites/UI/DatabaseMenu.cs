@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class DatabaseMenu : MonoBehaviour
 {
-
     public Sprite[] images, greyImages;
     public Sprite[] greyIcons;
     public string[] names;
@@ -13,7 +12,8 @@ public class DatabaseMenu : MonoBehaviour
     public List<int> UnlockedChars;
     public AudioClip[] clip;
     public Color errorColor, ogcolor;
-    public void Confirm(int position)
+
+	public void Confirm(int position)
     {
         currentRenderer = rosterIcons[position];
         currentRenderer.sprite = greyIcons[position];

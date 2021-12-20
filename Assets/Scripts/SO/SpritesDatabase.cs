@@ -12,4 +12,5 @@ public class SpritesDatabase : ScriptableObject
 	public Sprite[] manaNeeds;
 	public List<int> reversibleButtons;
 	public int[] reversibleOf;
+	public Sprite[] fighterPreview;
 }

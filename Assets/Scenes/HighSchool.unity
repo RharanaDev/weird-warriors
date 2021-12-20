@@ -805,7 +805,12 @@ MonoBehaviour:
   player2wins: 0
   victor: {fileID: 50020637}
   lastPlayerWon: 0
-  text: {fileID: 836702737}
+  KO: {fileID: 0}
+  camPos: {x: 0, y: 0, z: 0}
+  alreadyChosenCamPos: 0
+  roundTrans: {fileID: 0}
+  animatedUI: {fileID: 0}
+  camMov: {fileID: 0}
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0

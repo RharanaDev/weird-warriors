@@ -178,3 +178,19 @@ MonoBehaviour:
   - {fileID: -8319225557065735004, guid: 71b1ef642964b9a4faa196b49fff71e4, type: 3}
   reversibleButtons: 00000000040000000100000003000000
   reversibleOf: 0400000003000000000000000100000000000000
+  fighterPreview:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: -7402586145740847033, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: 8381222847968058594, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: 2975699034809103281, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: 0}
+  - {fileID: 3611299783812071295, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: -6556057854761793169, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: -7574610515429171709, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: -9083705121546910825, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: 6787886440725865987, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: -3339137538173728036, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
+  - {fileID: -3093278789908385512, guid: a14682a6bd886a8408c7eefe0fcfa9e0, type: 3}
