@@ -524,11 +524,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   filter: {fileID: 428742304}
   number: 2
-  rend: {fileID: 2021581239}
+  rend: {fileID: 375833800}
   data: {fileID: 11400000, guid: ea981f3555d74584c802230be6f58cd9, type: 2}
   dataMatch: {fileID: 11400000, guid: e0625f9e4873cc142b7d37e41f1da7fa, type: 2}
-  names: {fileID: 1773099724}
-  shade: {fileID: 1603399083}
+  names: {fileID: 285515510}
+  shade: {fileID: 537253116}
   fighterNames: []
   vs: {fileID: 512503184}
 --- !u!1 &428742304
@@ -542,6 +542,7 @@ GameObject:
   - component: {fileID: 428742307}
   - component: {fileID: 428742306}
   - component: {fileID: 428742305}
+  - component: {fileID: 428742308}
   m_Layer: 0
   m_Name: Filter
   m_TagString: Untagged
@@ -633,6 +634,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &428742308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428742304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9c612d03757ac42b5307f75023d476, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filter: {fileID: 0}
 --- !u!1 &512503183
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,6 +658,7 @@ GameObject:
   - component: {fileID: 512503185}
   - component: {fileID: 512503184}
   - component: {fileID: 512503186}
+  - component: {fileID: 512503187}
   m_Layer: 0
   m_Name: VS
   m_TagString: Untagged
@@ -729,12 +744,25 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 9.4375, y: 13.375}
+  m_Size: {x: 8.9375, y: 11.5625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &512503187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 512503183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9c612d03757ac42b5307f75023d476, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filter: {fileID: 428742304}
 --- !u!1 &537253113
 GameObject:
   m_ObjectHideFlags: 0
@@ -1539,10 +1567,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   filter: {fileID: 428742304}
   number: 1
-  rend: {fileID: 375833800}
+  rend: {fileID: 2021581239}
   data: {fileID: 11400000, guid: ea981f3555d74584c802230be6f58cd9, type: 2}
   dataMatch: {fileID: 11400000, guid: a1cf05ff7e6d5dd43a36f330b9ebefdc, type: 2}
-  names: {fileID: 537253116}
-  shade: {fileID: 285515510}
+  names: {fileID: 1603399083}
+  shade: {fileID: 1773099724}
   fighterNames: []
   vs: {fileID: 512503184}

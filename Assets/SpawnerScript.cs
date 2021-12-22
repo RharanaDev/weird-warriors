@@ -6,6 +6,7 @@ public class SpawnerScript : MonoBehaviour
 {
     public GameObject[] prefabs;
     public MatchData match;
+    public static bool bothSpawned;
     // Start is called before the first frame update
     void Awake()
     {

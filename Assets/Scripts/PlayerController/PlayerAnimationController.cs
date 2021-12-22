@@ -867,6 +867,10 @@ public class PlayerAnimationController : MonoBehaviour
     {
         animatedUI.LetsFightDoodleManager(false);
     }
+    public void ReadyFinish()
+    {
+        UI_RoundTransition.animationsDone++;
+    }
 
     #region AutoCheckedVariables
 

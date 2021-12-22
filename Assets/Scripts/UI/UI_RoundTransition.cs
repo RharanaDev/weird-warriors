@@ -8,6 +8,7 @@ public class UI_RoundTransition : MonoBehaviour
 	public Animator anim;
 	public MatchControlScript match;
 	public UI_AnimatedDoodles animatedUI;
+	public static int animationsDone;
 	[HideInInspector] public static int playersReady;
 
 	//Produce endgame fade or betweengame fade
@@ -29,6 +30,7 @@ public class UI_RoundTransition : MonoBehaviour
 	}
 	public void ResetMatch()
 	{
+		animationsDone = 0;
 		match.ResetMatch();
 	}
 	//This function is called from animator to call 2nd and 3rd round doodles
@@ -36,8 +38,9 @@ public class UI_RoundTransition : MonoBehaviour
 	{
 		animatedUI.LetsFightDoodleManager(true);
 	}
-	public void BackToMenu()
+	public IEnumerator BackToMenu()
 	{
+		yield return new WaitUntil(() => animationsDone >= 1);
 		SceneManager.LoadScene("MenuSelection");
 	}
 }

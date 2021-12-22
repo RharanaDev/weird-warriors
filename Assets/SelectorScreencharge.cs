@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 public class SelectorScreencharge : MonoBehaviour
 {
     public GameObject filter;
@@ -17,16 +17,13 @@ public class SelectorScreencharge : MonoBehaviour
     void Start()
     {
         fighterNames = new string[] { "", "", "", "", "JEAN PIERRE VISAGE", "ASTRAL ZHIMAGO", "ASTRAL LEO", "", "HEMOGOBLIN", "LEO AND HEX", "ZHIMAGO", "DR UTAH", "GEN TAI", "WAKAN TANKA", "PROF. PRIPYAT" };
-        rend.sprite = data.fighterPreview[dataMatch.playerCharacter];
-        names.text = fighterNames[dataMatch.playerCharacter];
-        shade.text = fighterNames[dataMatch.playerCharacter];
+        rend.sprite = data.fighterPreview[dataMatch.playerCharacter -1];
+        names.text = fighterNames[dataMatch.playerCharacter -1];
+        shade.text = fighterNames[dataMatch.playerCharacter -1];
     }
     public IEnumerator AppearVs()
 	{
         yield return new WaitForSecondsRealtime(0.5f);
         vs.SetTrigger("VS");
-        yield return new WaitForSecondsRealtime(0.7f);
-        filter.SetActive(true);
-        SceneMana
     }
 }

@@ -44,27 +44,24 @@ public class Cam_Movement : MonoBehaviour
     public float actualsize;
     float higher;
 
-	void OnEnable()
+	void Start()
     {
         actualsize = 1.777778f / ((float)Screen.currentResolution.width / (float)Screen.currentResolution.height);
         player1 = GameObject.FindGameObjectWithTag("Player");
         player2 = GameObject.FindGameObjectWithTag("PlayerTwo");
-        playerInfo1 = player1.GetComponentInChildren<PlayerGeneralMoveController>();
-        playerInfo2 = player2.GetComponentInChildren<PlayerGeneralMoveController>();
+        playerInfo1 = player1.GetComponent<PlayerGeneralMoveController>();
+        playerInfo2 = player2.GetComponent<PlayerGeneralMoveController>();
         boxco1 = player1.GetComponent<BoxCollider2D>();
         boxco2 = player2.GetComponent<BoxCollider2D>();
         cameraUp = offset.y;
         player1width = boxco1.size.x / 2;
         player2width = boxco2.size.x / 2;
-    } //4.89 a //6.626357 //0.41f
 
-    void Start()
-    {
         debugDistance1 = Mathf.Abs(player1.transform.position.y - transform.position.y);
         debugDistance2 = Mathf.Abs(player2.transform.position.y - transform.position.y);
         averageDifference = Mathf.Abs(player1.transform.position.y - player2.transform.position.y);
         isPlayerSettled = true;
-    }
+    } //4.89 a //6.626357 //0.41f
 
     void FixedUpdate()
     {

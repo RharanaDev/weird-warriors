@@ -72,6 +72,7 @@ public class PlayerDamageController : MonoBehaviour
     }
     void Start()
     {
+        matchIsOn = true;
         Physics2D.IgnoreCollision(hitBox, damager, true); 
         lifeBar = GameObject.Find("UIPref/LifeBar" + fighter.playerNumber + "/Life").GetComponent<LifeBarScript>();
         blockBar = GameObject.Find("UIPref/BlockBar" + fighter.playerNumber).GetComponent<BlockBarScript>();

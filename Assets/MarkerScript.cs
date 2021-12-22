@@ -198,11 +198,11 @@ public class MarkerScript : MonoBehaviour
         {
             GameOptions.display2 = GameOptions.player2Controller ? GameOptions.display1 : 0;
         }
-        int n;
-        n = Random.Range(0,3);
+        //int n;
+        //n = Random.Range(0,3);
 
-        yield return new WaitForSecondsRealtime(3);
-        SceneManager.LoadScene(sceneNames[n]);
+        yield return new WaitForSecondsRealtime(1);
+        SceneManager.LoadScene(1);
     }
     void MoveOnX(int mode)
     {

@@ -19,12 +19,17 @@ public class MatchControlScript : MonoBehaviour
     [HideInInspector] public static bool matchWillOver;
     [HideInInspector] public static float timeBetweenRounds = 0.25f;
     [HideInInspector] public static int currentRound = 1;
+
     public void Start()
     {
         ControlDisable(false);
+        matchWillOver = false;
+        timeBetweenRounds = 0.25f;
+        currentRound = 1;
     }
     public void OnWin(int loser, bool fromTime)
     {
+        Debug.Log("");
         currentRound++;
         StartCoroutine(roundTrans.WaitForEventToFade());
         if (!fromTime)
@@ -45,7 +50,7 @@ public class MatchControlScript : MonoBehaviour
                         KO.MatchWillOver = true;
                         StartCoroutine(KO.AppearKO());
                         matchWillOver = true;
-                        StartCoroutine("GoHome");
+                        roundTrans.StartCoroutine("BackToMenu");
                     }
                     break;
                 case 1:
@@ -62,7 +67,7 @@ public class MatchControlScript : MonoBehaviour
                         KO.MatchWillOver = true;
                         matchWillOver = true;
                         StartCoroutine(KO.AppearKO());
-                        StartCoroutine("GoHome");
+                        roundTrans.StartCoroutine("BackToMenu");
                     }
                     break;
             }
@@ -85,7 +90,7 @@ public class MatchControlScript : MonoBehaviour
                         KO.MatchWillOver = true;
                         matchWillOver = true;
                         roundTrans.FadeEffect(matchWillOver);
-                        StartCoroutine("GoHome");
+                        roundTrans.StartCoroutine("BackToMenu");
                     }
                     break;
                 case 1:
@@ -101,7 +106,7 @@ public class MatchControlScript : MonoBehaviour
                         StartCoroutine(WaitVictory(2));
                         matchWillOver = true;
                         roundTrans.FadeEffect(matchWillOver);
-                        StartCoroutine("GoHome");
+                        roundTrans.StartCoroutine("BackToMenu");
                     }
                     break;
             }
